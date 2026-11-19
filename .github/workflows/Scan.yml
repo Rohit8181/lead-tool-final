@@ -37,8 +37,8 @@ jobs:
         # 20 computers ek saath (GitHub free plan ki limit). Kam karna ho to list chhoti kar do.
         shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
@@ -52,7 +52,7 @@ jobs:
           RETRY_DELAY: "2"
           NAV_TIMEOUT_MS: "25000"
         run: python -u main.py "${{ inputs.csv_file }}" --heuristic-only --shard ${{ matrix.shard }}/${{ strategy.job-total }} --skip-from final_all_results.csv --out shard --max-minutes 320 ${{ inputs.retry_errors && '--retry-errors' || '' }}
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: shard-${{ matrix.shard }}
@@ -66,12 +66,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
       - run: pip install openpyxl gspread google-auth
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v8
         with:
           path: shards
       - name: Results jodo, hot leads banao
