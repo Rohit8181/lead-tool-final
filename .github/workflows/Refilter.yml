@@ -1,0 +1,38 @@
+name: Refilter (bina rescan, naye rules se purani list saaf karo)
+on:
+  workflow_dispatch:
+    inputs:
+      hot_min:
+        description: "Minimum score"
+        default: "50"
+      max_width:
+        description: "Box ki max chaudai px (default 1200)"
+        default: "1200"
+permissions:
+  contents: write
+jobs:
+  refilter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Purane scan result ko naye rules se dobara chhaano
+        run: python outdated_checker.py export --db results.db --hot-min ${{ inputs.hot_min }} --max-width ${{ inputs.max_width }}
+      - name: Google Sheet saaf karo (galat sites 'Removed' tab me)
+        continue-on-error: true
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SHEET_URL: ${{ secrets.SHEET_URL }}
+        run: python push_to_sheet.py hot_leads.csv not_hot_all_time.csv
+      - name: Results repo me save karo
+        run: |
+          git config user.name "scanner-bot"
+          git config user.email "bot@users.noreply.github.com"
+          for f in all_results.csv hot_leads.csv hot_leads_all_time.csv not_hot_all_time.csv errors.csv rejected.csv; do [ -f "$f" ] && git add "$f"; done
+          git commit -m "refilter" || echo "nothing new"
+          git pull --rebase || true
+          git push || true
