@@ -1,0 +1,33 @@
+name: Validate accuracy
+on:
+  workflow_dispatch:
+    inputs:
+      labels_file:
+        description: "Labels CSV (columns: url,label  -> label = outdated ya modern)"
+        default: "labels_final.csv"
+      only_not_mobile:
+        description: "Mobile-friendly sites ko lead se hatao?"
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Labelled sites chalao aur accuracy napo (Summary tab me dikhegi)
+        env:
+          SKIP_SCREENSHOTS: "1"
+          RETRY_COUNT: "1"
+          RETRY_DELAY: "2"
+        run: |
+          BASE=$(basename "${{ inputs.labels_file }}" .csv)
+          python main.py "${{ inputs.labels_file }}" --heuristic-only --fresh > /dev/null
+          { echo '```'; python check_final_rule.py ${BASE}_results.csv "${{ inputs.labels_file }}" 65 ${{ inputs.only_not_mobile && '--not-mobile-only' || '' }}; echo; python validate_accuracy.py ${BASE}_results.csv "${{ inputs.labels_file }}"; echo '```'; } | tee -a "$GITHUB_STEP_SUMMARY"
