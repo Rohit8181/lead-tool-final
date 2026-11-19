@@ -1,10 +1,1862 @@
 url,status,reason
 http://2youngshomeservices.com,FAILED,HTTP 404
-http://www.3rsconstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.3rsconstruction.com/
-Call log:
-  - navigating to ""http://www.3rsconstruction.com/"", waiting until ""domcontentloaded""
-"
 https://services.tryhomeshield.com/nashvillehomeimprovement,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://services.tryhomeshield.com/nashvillehomeimprovement
 Call log:
   - navigating to ""https://services.tryhomeshield.com/nashvillehomeimprovement"", waiting until ""domcontentloaded""
+"
+http://faisalfaruqui.biz,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://faisalfaruqui.biz/
+Call log:
+  - navigating to ""http://faisalfaruqui.biz/"", waiting until ""domcontentloaded""
+"
+http://martinimediagroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://martinimediagroup.com/
+Call log:
+  - navigating to ""http://martinimediagroup.com/"", waiting until ""domcontentloaded""
+"
+http://pacsun.com,BLOCKED,HTTP 403
+http://85broads.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://85broads.com/
+Call log:
+  - navigating to ""http://85broads.com/"", waiting until ""domcontentloaded""
+"
+http://srz.com,FAILED,HTTP 404
+http://recontext.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://recontext.com/"", waiting until ""domcontentloaded""
+"
+http://peerlyst.com,FAILED,HTTP 503
+http://elementsllp.ca,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://elementsllp.ca/
+Call log:
+  - navigating to ""http://elementsllp.ca/"", waiting until ""domcontentloaded""
+"
+http://grizzaffidarby.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://grizzaffidarby.com/
+Call log:
+  - navigating to ""http://grizzaffidarby.com/"", waiting until ""domcontentloaded""
+"
+http://cbdallas.com,BLOCKED,HTTP 403
+http://lendhope.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://lendhope.org/
+Call log:
+  - navigating to ""http://lendhope.org/"", waiting until ""domcontentloaded""
+"
+http://roofingkingllcct.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://roofingkingllcct.net/
+Call log:
+  - navigating to ""http://roofingkingllcct.net/"", waiting until ""domcontentloaded""
+"
+http://viacomcareers.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://viacomcareers.com/"", waiting until ""domcontentloaded""
+"
+http://gmmasonryllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://gmmasonryllc.com/
+Call log:
+  - navigating to ""http://gmmasonryllc.com/"", waiting until ""domcontentloaded""
+"
+http://foxcable.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://foxcable.com/"", waiting until ""domcontentloaded""
+"
+https://www.mc3az.com,BLOCKED,HTTP 403
+https://metrolandscapingconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://metrolandscapingconstruction.com/
+Call log:
+  - navigating to ""https://metrolandscapingconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://warnermediagroup.com,BLOCKED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://warnermediagroup.com/"", waiting until ""domcontentloaded""
+"
+https://www.grindcitycoatings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.grindcitycoatings.com/
+Call log:
+  - navigating to ""https://www.grindcitycoatings.com/"", waiting until ""domcontentloaded""
+"
+http://j-j-custom-painting-restoration.com,FAILED,HTTP 503
+http://www.freshcoatclarksville.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.freshcoatclarksville.com/
+Call log:
+  - navigating to ""http://www.freshcoatclarksville.com/"", waiting until ""domcontentloaded""
+"
+https://abmsrvcs.business.site,FAILED,HTTP 404
+http://seologicagency.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://seologicagency.com/
+Call log:
+  - navigating to ""http://seologicagency.com/"", waiting until ""domcontentloaded""
+"
+http://www.twinselectric.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.twinselectric.com/
+Call log:
+  - navigating to ""https://www.twinselectric.com/"", waiting until ""domcontentloaded""
+"
+http://jorettenterprises.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jorettenterprises.com/
+Call log:
+  - navigating to ""http://jorettenterprises.com/"", waiting until ""domcontentloaded""
+"
+http://mdesign-ca.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://mdesign-ca.com/
+Call log:
+  - navigating to ""http://mdesign-ca.com/"", waiting until ""domcontentloaded""
+"
+http://www.heatshrinktubing.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.heatshrinktubing.net/
+Call log:
+  - navigating to ""http://www.heatshrinktubing.net/"", waiting until ""domcontentloaded""
+"
+http://bentelectric.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://bentelectric.com/
+Call log:
+  - navigating to ""http://bentelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.peacoelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.peacoelectric.com/
+Call log:
+  - navigating to ""http://www.peacoelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.ezcashjobs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ezcashjobs.com/
+Call log:
+  - navigating to ""http://www.ezcashjobs.com/"", waiting until ""domcontentloaded""
+"
+https://lr-research-data-science-llc.business.site,FAILED,HTTP 404
+https://loopmileage.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://loopmileage.com/
+Call log:
+  - navigating to ""https://loopmileage.com/"", waiting until ""domcontentloaded""
+"
+https://mytechplex.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mytechplex.com/
+Call log:
+  - navigating to ""https://mytechplex.com/"", waiting until ""domcontentloaded""
+"
+http://www.harte-hanks.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.harte-hanks.com/"", waiting until ""domcontentloaded""
+"
+http://www.mmosavor.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.mmosavor.com/"", waiting until ""domcontentloaded""
+"
+http://zumba.com,BLOCKED,HTTP 403
+http://hyatt.com,BLOCKED,HTTP 403
+http://highbrow.co.in,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://highbrow.co.in/
+Call log:
+  - navigating to ""http://highbrow.co.in/"", waiting until ""domcontentloaded""
+"
+http://stmediagroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://stmediagroup.com/
+Call log:
+  - navigating to ""http://stmediagroup.com/"", waiting until ""domcontentloaded""
+"
+http://adobe.com,BLOCKED,HTTP 403
+http://bloomberg.com,BLOCKED,HTTP 403
+http://sfheat.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://sfheat.com/
+Call log:
+  - navigating to ""http://sfheat.com/"", waiting until ""domcontentloaded""
+"
+http://quotient.com,BLOCKED,HTTP 403
+http://plus1group.com,BLOCKED,HTTP 403
+http://nestexperiential.com,FAILED,HTTP 404
+http://roccostacos.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://roccostacos.com/"", waiting until ""domcontentloaded""
+"
+http://www.luxgc.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.luxgc.net/
+Call log:
+  - navigating to ""http://www.luxgc.net/"", waiting until ""domcontentloaded""
+"
+http://callherodoors.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://callherodoors.com/
+Call log:
+  - navigating to ""https://callherodoors.com/"", waiting until ""domcontentloaded""
+"
+https://guzmansdoitbetter.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://guzmansdoitbetter.com/
+Call log:
+  - navigating to ""https://guzmansdoitbetter.com/"", waiting until ""domcontentloaded""
+"
+https://www.bbpaintingandpressurewashing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bbpaintingandpressurewashing.com/
+Call log:
+  - navigating to ""https://www.bbpaintingandpressurewashing.com/"", waiting until ""domcontentloaded""
+"
+https://wisecoatings.com/frisco,FAILED,HTTP 404
+http://hudsonconcretesolutions.com/home.html,FAILED,HTTP 404
+https://www.lamasonryllc.com,FAILED,HTTP 404
+http://www.cpcpaintinginc.com,BLOCKED,HTTP 403
+http://www.rosmancomputing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rosmancomputing.com/
+Call log:
+  - navigating to ""http://www.rosmancomputing.com/"", waiting until ""domcontentloaded""
+"
+https://authorizelocal.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://authorizelocal.com/
+Call log:
+  - navigating to ""https://authorizelocal.com/"", waiting until ""domcontentloaded""
+"
+http://www.yourteamnews.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.yourteamnews.com/
+Call log:
+  - navigating to ""http://www.yourteamnews.com/"", waiting until ""domcontentloaded""
+"
+http://www.texasmedialink.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.texasmedialink.com/
+Call log:
+  - navigating to ""https://www.texasmedialink.com/"", waiting until ""domcontentloaded""
+"
+https://myvirtualresources.com,BLOCKED,HTTP 403
+http://www.excelelectricsa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.excelelectricsa.com/
+Call log:
+  - navigating to ""http://www.excelelectricsa.com/"", waiting until ""domcontentloaded""
+"
+http://www.solarquestpower.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.solarquestpower.com/
+Call log:
+  - navigating to ""http://www.solarquestpower.com/"", waiting until ""domcontentloaded""
+"
+https://alixnolinconst.com,FAILED,HTTP 404
+http://deltaelectricohio.com/default.asp?opt=5,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://deltaelectricohio.com/default.asp?opt=5
+Call log:
+  - navigating to ""http://deltaelectricohio.com/default.asp?opt=5"", waiting until ""domcontentloaded""
+"
+http://jacquotselectrical.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jacquotselectrical.com/
+Call log:
+  - navigating to ""http://jacquotselectrical.com/"", waiting until ""domcontentloaded""
+"
+http://www.dtigerelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dtigerelectric.com/
+Call log:
+  - navigating to ""http://www.dtigerelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.elpasoelectricians.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.elpasoelectricians.com/
+Call log:
+  - navigating to ""http://www.elpasoelectricians.com/"", waiting until ""domcontentloaded""
+"
+http://www.suncityelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.suncityelectric.com/
+Call log:
+  - navigating to ""http://www.suncityelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.maximaapparel.com,FAILED,HTTP 409
+http://www.spencercoutureart.com,FAILED,HTTP 409
+https://www.landshed.com,FAILED,HTTP 500
+http://www.livingsocial.com,BLOCKED,HTTP 403
+http://cheersevents.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://cheersevents.com/
+Call log:
+  - navigating to ""https://cheersevents.com/"", waiting until ""domcontentloaded""
+"
+http://osu.edu,BLOCKED,HTTP 403
+http://informa.com,BLOCKED,HTTP 403
+http://bmkint.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://bmkint.com/
+Call log:
+  - navigating to ""http://bmkint.com/"", waiting until ""domcontentloaded""
+"
+http://jlocc.org,BLOCKED,HTTP 403
+http://autodesk.com,BLOCKED,HTTP 403
+http://axs.com,BLOCKED,HTTP 403
+http://wholesalesuppliesplus.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://wholesalesuppliesplus.com/"", waiting until ""domcontentloaded""
+"
+http://xprt.net,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://xprt.net/"", waiting until ""domcontentloaded""
+"
+http://pinch-hitmarketing.com,BLOCKED,HTTP 403
+http://www.falcionipainting.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.falcionipainting.net/
+Call log:
+  - navigating to ""http://www.falcionipainting.net/"", waiting until ""domcontentloaded""
+"
+http://artisancreteandfence.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://artisancreteandfence.com/
+Call log:
+  - navigating to ""https://artisancreteandfence.com/"", waiting until ""domcontentloaded""
+"
+http://speaksconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://speaksconstruction.com/
+Call log:
+  - navigating to ""http://speaksconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.colortiledayton.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.colortiledayton.com/
+Call log:
+  - navigating to ""http://www.colortiledayton.com/"", waiting until ""domcontentloaded""
+"
+https://www.garageexperts.com/location/chagrin-valley,FAILED,HTTP 404
+https://pccne.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pccne.com/
+Call log:
+  - navigating to ""https://pccne.com/"", waiting until ""domcontentloaded""
+"
+http://www.epoxycolorado.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.epoxycolorado.com/
+Call log:
+  - navigating to ""http://www.epoxycolorado.com/"", waiting until ""domcontentloaded""
+"
+http://www.b2bdataservices.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.b2bdataservices.com/
+Call log:
+  - navigating to ""http://www.b2bdataservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.thesocialmediamasters.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.thesocialmediamasters.com/
+Call log:
+  - navigating to ""http://www.thesocialmediamasters.com/"", waiting until ""domcontentloaded""
+"
+https://www.orozcoprecisionpainting.com,FAILED,HTTP 404
+http://www.24hremergencyelectriciannewyorkcity.info,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.24hremergencyelectriciannewyorkcity.info/
+Call log:
+  - navigating to ""http://www.24hremergencyelectriciannewyorkcity.info/"", waiting until ""domcontentloaded""
+"
+https://www.kc-electricsecurity.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kc-electricsecurity.com/
+Call log:
+  - navigating to ""https://www.kc-electricsecurity.com/"", waiting until ""domcontentloaded""
+"
+http://www.helloitslk.com,BLOCKED,HTTP 403
+http://www.rwkelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rwkelectric.com/
+Call log:
+  - navigating to ""http://www.rwkelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.electricalservicessanfrancisco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.electricalservicessanfrancisco.com/
+Call log:
+  - navigating to ""http://www.electricalservicessanfrancisco.com/"", waiting until ""domcontentloaded""
+"
+http://www.pointlomaelectric.com,BLOCKED,HTTP 403
+https://voltagemasterllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://voltagemasterllc.com/
+Call log:
+  - navigating to ""https://voltagemasterllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.landr7.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.landr7.com/
+Call log:
+  - navigating to ""http://www.landr7.com/"", waiting until ""domcontentloaded""
+"
+https://www.chrislaffertyelectrician.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chrislaffertyelectrician.com/
+Call log:
+  - navigating to ""https://www.chrislaffertyelectrician.com/"", waiting until ""domcontentloaded""
+"
+http://www.rapidelectricalservice.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rapidelectricalservice.net/
+Call log:
+  - navigating to ""http://www.rapidelectricalservice.net/"", waiting until ""domcontentloaded""
+"
+https://www.wilsonhomeservices.com,FAILED,HTTP 503
+http://sis-nv.com,BLOCKED,HTTP 401
+http://www.lecoinc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.lecoinc.com/
+Call log:
+  - navigating to ""http://www.lecoinc.com/"", waiting until ""domcontentloaded""
+"
+http://dhomegoods.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://dhomegoods.com/
+Call log:
+  - navigating to ""http://dhomegoods.com/"", waiting until ""domcontentloaded""
+"
+https://pleasantlyplumpfashions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pleasantlyplumpfashions.com/
+Call log:
+  - navigating to ""https://pleasantlyplumpfashions.com/"", waiting until ""domcontentloaded""
+"
+https://www.sixthcitymarketing.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.sixthcitymarketing.com/
+Call log:
+  - navigating to ""https://www.sixthcitymarketing.com/"", waiting until ""domcontentloaded""
+"
+http://www.mywigsandweaves.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mywigsandweaves.com/
+Call log:
+  - navigating to ""http://www.mywigsandweaves.com/"", waiting until ""domcontentloaded""
+"
+http://www.jvapes.com,FAILED,HTTP 423
+https://adglobalct.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://adglobalct.com/
+Call log:
+  - navigating to ""https://adglobalct.com/"", waiting until ""domcontentloaded""
+"
+http://republicenergy.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://republicenergy.com/"", waiting until ""domcontentloaded""
+"
+http://obinelectricco.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://obinelectricco.com/"", waiting until ""domcontentloaded""
+"
+http://www.potterelectriclv.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.potterelectriclv.com/"", waiting until ""domcontentloaded""
+"
+http://slmgbrand.com,FAILED,HTTP 404
+http://revlocal.com,FAILED,HTTP 500
+http://golfsaratog.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://golfsaratog.com/
+Call log:
+  - navigating to ""http://golfsaratog.com/"", waiting until ""domcontentloaded""
+"
+http://standardandpoors.com,BLOCKED,HTTP 403
+http://neimanmarcus.com,BLOCKED,HTTP 403
+http://stregisnewyork.com,BLOCKED,HTTP 403
+http://fireflyteamevents.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://fireflyteamevents.com/
+Call log:
+  - navigating to ""http://fireflyteamevents.com/"", waiting until ""domcontentloaded""
+"
+http://girlgoneinternational.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://girlgoneinternational.com/
+Call log:
+  - navigating to ""http://girlgoneinternational.com/"", waiting until ""domcontentloaded""
+"
+http://redfin.com,FAILED,HTTP 405
+http://cmbatx.com,FAILED,HTTP 500
+https://www.usaresurfacing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.usaresurfacing.com/
+Call log:
+  - navigating to ""https://www.usaresurfacing.com/"", waiting until ""domcontentloaded""
+"
+http://diamondresorts.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://diamondresorts.com/"", waiting until ""domcontentloaded""
+"
+https://eastcoastbuildersgroup.com,FAILED,HTTP 500
+http://www.bigtexpowdercoating.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bigtexpowdercoating.com/
+Call log:
+  - navigating to ""http://www.bigtexpowdercoating.com/"", waiting until ""domcontentloaded""
+"
+https://www.jeffshomeservices.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jeffshomeservices.net/
+Call log:
+  - navigating to ""https://www.jeffshomeservices.net/"", waiting until ""domcontentloaded""
+"
+http://www.handhpainting1.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.handhpainting1.com/
+Call log:
+  - navigating to ""http://www.handhpainting1.com/"", waiting until ""domcontentloaded""
+"
+http://lonesomedovebistro.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://lonesomedovebistro.com/
+Call log:
+  - navigating to ""http://lonesomedovebistro.com/"", waiting until ""domcontentloaded""
+"
+http://www.specialordersolution.com,FAILED,HTTP 404
+http://aplusgaragecoatings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://aplusgaragecoatings.com/
+Call log:
+  - navigating to ""http://aplusgaragecoatings.com/"", waiting until ""domcontentloaded""
+"
+https://milehighgaragepros.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://milehighgaragepros.com/
+Call log:
+  - navigating to ""https://milehighgaragepros.com/"", waiting until ""domcontentloaded""
+"
+https://allegiantdigital.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://allegiantdigital.com/
+Call log:
+  - navigating to ""https://allegiantdigital.com/"", waiting until ""domcontentloaded""
+"
+http://www.alphaelectricalservices.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alphaelectricalservices.us/
+Call log:
+  - navigating to ""http://www.alphaelectricalservices.us/"", waiting until ""domcontentloaded""
+"
+https://www.laureltonelectric.com,FAILED,HTTP 520
+http://www.everythingenergytx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.everythingenergytx.com/
+Call log:
+  - navigating to ""http://www.everythingenergytx.com/"", waiting until ""domcontentloaded""
+"
+http://www.powersourceelectric.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.powersourceelectric.com/
+Call log:
+  - navigating to ""http://www.powersourceelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.zarcoelectronic.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.zarcoelectronic.com/
+Call log:
+  - navigating to ""http://www.zarcoelectronic.com/"", waiting until ""domcontentloaded""
+"
+https://www.seanjenningselectrician.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.seanjenningselectrician.com/
+Call log:
+  - navigating to ""https://www.seanjenningselectrician.com/"", waiting until ""domcontentloaded""
+"
+http://tacticalseo.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://tacticalseo.com/"", waiting until ""domcontentloaded""
+"
+http://www.newenglanddynamics.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.newenglanddynamics.com/
+Call log:
+  - navigating to ""http://www.newenglanddynamics.com/"", waiting until ""domcontentloaded""
+"
+https://www.crescentelectricservice.com,FAILED,"Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.crescentelectricservice.com/
+Call log:
+  - navigating to ""https://www.crescentelectricservice.com/"", waiting until ""domcontentloaded""
+"
+https://www.temposolarvegas.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.temposolarvegas.com/
+Call log:
+  - navigating to ""https://www.temposolarvegas.com/"", waiting until ""domcontentloaded""
+"
+http://www.pnecorp.com,BLOCKED,HTTP 403
+http://teslouisville.com,FAILED,HTTP 404
+http://www.energyrichcoach.com/home,FAILED,HTTP 444
+http://vinaya.net,FAILED,HTTP 402
+https://designedlifedelivered.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://designedlifedelivered.com/
+Call log:
+  - navigating to ""https://designedlifedelivered.com/"", waiting until ""domcontentloaded""
+"
+http://www.kitchenislandco.com,FAILED,HTTP 500
+https://www.sotw-mckinney.com,FAILED,HTTP 404
+http://www.shinepr.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.shinepr.com/
+Call log:
+  - navigating to ""http://www.shinepr.com/"", waiting until ""domcontentloaded""
+"
+https://www.grove.co/home,FAILED,HTTP 404
+http://wowfactorusa.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://wowfactorusa.com/
+Call log:
+  - navigating to ""https://wowfactorusa.com/"", waiting until ""domcontentloaded""
+"
+http://cosmopolitanlasvegas.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://cosmopolitanlasvegas.com/
+Call log:
+  - navigating to ""http://cosmopolitanlasvegas.com/"", waiting until ""domcontentloaded""
+"
+http://ocean-insights.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ocean-insights.com/
+Call log:
+  - navigating to ""http://ocean-insights.com/"", waiting until ""domcontentloaded""
+"
+http://teamenterprises.com,BLOCKED,HTTP 403
+http://alearningplace.org,BLOCKED,HTTP 403
+http://fmcainc.org,FAILED,HTTP 404
+http://rougeeventspro.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://rougeeventspro.com/
+Call log:
+  - navigating to ""http://rougeeventspro.com/"", waiting until ""domcontentloaded""
+"
+http://apella.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://apella.com/
+Call log:
+  - navigating to ""http://apella.com/"", waiting until ""domcontentloaded""
+"
+http://glg.it,BLOCKED,HTTP 403
+http://newbalance.com,BLOCKED,HTTP 403
+http://bulldogsolutions.com,FAILED,HTTP 500
+http://austin.org.au,BLOCKED,HTTP 403
+http://lifetimecustompainting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://lifetimecustompainting.com/
+Call log:
+  - navigating to ""http://lifetimecustompainting.com/"", waiting until ""domcontentloaded""
+"
+https://www.misthillco.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.misthillco.com/
+Call log:
+  - navigating to ""https://www.misthillco.com/"", waiting until ""domcontentloaded""
+"
+http://osborne-painting-and-drywall-repair-llc.business.site,FAILED,HTTP 404
+http://entertainmentunlimitedevents.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://entertainmentunlimitedevents.com/"", waiting until ""domcontentloaded""
+"
+https://floorgripmedic.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://floorgripmedic.com/
+Call log:
+  - navigating to ""https://floorgripmedic.com/"", waiting until ""domcontentloaded""
+"
+https://dymaxdigital.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dymaxdigital.com/
+Call log:
+  - navigating to ""https://dymaxdigital.com/"", waiting until ""domcontentloaded""
+"
+http://www.andyoncall.com/nashville-tn,FAILED,HTTP 404
+https://elpasowebagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://elpasowebagency.com/
+Call log:
+  - navigating to ""https://elpasowebagency.com/"", waiting until ""domcontentloaded""
+"
+http://halco.net,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://halco.net/
+Call log:
+  - navigating to ""https://halco.net/"", waiting until ""domcontentloaded""
+"
+https://burksrandr.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://burksrandr.com/
+Call log:
+  - navigating to ""https://burksrandr.com/"", waiting until ""domcontentloaded""
+"
+https://www.rgenerationsolutions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rgenerationsolutions.com/
+Call log:
+  - navigating to ""https://www.rgenerationsolutions.com/"", waiting until ""domcontentloaded""
+"
+http://www.allaboutbeckelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.allaboutbeckelectric.com/
+Call log:
+  - navigating to ""http://www.allaboutbeckelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.drterrazzo.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.drterrazzo.com/"", waiting until ""domcontentloaded""
+"
+http://cortesec.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://cortesec.com/
+Call log:
+  - navigating to ""http://cortesec.com/"", waiting until ""domcontentloaded""
+"
+https://www.alpineelectricelpaso.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.alpineelectricelpaso.com/
+Call log:
+  - navigating to ""https://www.alpineelectricelpaso.com/"", waiting until ""domcontentloaded""
+"
+http://www.downtown-boston-electrical.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.downtown-boston-electrical.us/
+Call log:
+  - navigating to ""http://www.downtown-boston-electrical.us/"", waiting until ""domcontentloaded""
+"
+http://johnpenney.com,FAILED,HTTP 530
+http://www.intechlv.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.intechlv.com/
+Call log:
+  - navigating to ""http://www.intechlv.com/"", waiting until ""domcontentloaded""
+"
+http://gerrianaskandles.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at http://gerrianaskandles.com/
+Call log:
+  - navigating to ""http://gerrianaskandles.com/"", waiting until ""domcontentloaded""
+"
+http://kentuckianapower.com,BLOCKED,HTTP 403
+https://www.hologearco.com,FAILED,HTTP 402
+http://www.teamelectriccorp.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.teamelectriccorp.com/"", waiting until ""domcontentloaded""
+"
+http://wiseelectric.trustab.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://wiseelectric.trustab.org/"", waiting until ""domcontentloaded""
+"
+http://www.everymanwear.com,FAILED,HTTP 409
+https://stockx.com,BLOCKED,HTTP 403
+http://alice.app,FAILED,HTTP 404
+http://wa.com,BLOCKED,HTTP 999
+http://www.tfitllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tfitllc.com/
+Call log:
+  - navigating to ""http://www.tfitllc.com/"", waiting until ""domcontentloaded""
+"
+https://kapokvapor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kapokvapor.com/
+Call log:
+  - navigating to ""https://kapokvapor.com/"", waiting until ""domcontentloaded""
+"
+http://www.reinhartmarketing.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.reinhartmarketing.com/
+Call log:
+  - navigating to ""http://www.reinhartmarketing.com/"", waiting until ""domcontentloaded""
+"
+http://www.aronsonsecurity.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.aronsonsecurity.com/"", waiting until ""domcontentloaded""
+"
+http://alisalliance.org,BLOCKED,HTTP 403
+http://thirtyonegifts.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://thirtyonegifts.com/
+Call log:
+  - navigating to ""https://thirtyonegifts.com/"", waiting until ""domcontentloaded""
+"
+http://gardnerrealtors.com,FAILED,HTTP 404
+http://oracle.com,BLOCKED,HTTP 403
+http://jwmarriottmarquismiami.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jwmarriottmarquismiami.com/
+Call log:
+  - navigating to ""http://jwmarriottmarquismiami.com/"", waiting until ""domcontentloaded""
+"
+http://activationpro.com,BLOCKED,HTTP 403
+http://t11a.com,BLOCKED,HTTP 403
+http://eventmarketingmanager.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://eventmarketingmanager.com/
+Call log:
+  - navigating to ""https://eventmarketingmanager.com/"", waiting until ""domcontentloaded""
+"
+http://mckinsey.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://mckinsey.com/"", waiting until ""domcontentloaded""
+"
+http://merchrevolution.com,FAILED,HTTP 404
+http://foodie.ae,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://foodie.ae/
+Call log:
+  - navigating to ""http://foodie.ae/"", waiting until ""domcontentloaded""
+"
+https://kgtheroofguys.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kgtheroofguys.com/
+Call log:
+  - navigating to ""https://kgtheroofguys.com/"", waiting until ""domcontentloaded""
+"
+https://www.surfacerestorationcompany.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.surfacerestorationcompany.com/
+Call log:
+  - navigating to ""https://www.surfacerestorationcompany.com/"", waiting until ""domcontentloaded""
+"
+https://silvergatesconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://silvergatesconstruction.com/
+Call log:
+  - navigating to ""https://silvergatesconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.savyandsons.com,BLOCKED,HTTP 403
+http://go2eventlink.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://go2eventlink.com/"", waiting until ""domcontentloaded""
+"
+http://getrollininc.com/index.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://getrollininc.com/index.html
+Call log:
+  - navigating to ""http://getrollininc.com/index.html"", waiting until ""domcontentloaded""
+"
+http://epoxyfloorhero.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://epoxyfloorhero.com/
+Call log:
+  - navigating to ""http://epoxyfloorhero.com/"", waiting until ""domcontentloaded""
+"
+http://www.theebestbuiltinc.net,FAILED,HTTP 404
+http://www.sharpedgepainting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sharpedgepainting.com/
+Call log:
+  - navigating to ""http://www.sharpedgepainting.com/"", waiting until ""domcontentloaded""
+"
+https://limepaintingofboulder.com,FAILED,HTTP 404
+https://fsg.com,BLOCKED,HTTP 403
+http://gunzerelectric.com/index.htm,FAILED,HTTP 404
+http://www.feienterprises.com,FAILED,HTTP 520
+http://www.bergenelectric.com,BLOCKED,HTTP 403
+http://vincentigaragedoors.webs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://vincentigaragedoors.webs.com/
+Call log:
+  - navigating to ""http://vincentigaragedoors.webs.com/"", waiting until ""domcontentloaded""
+"
+http://www.sunharvestsolar.com,BLOCKED,HTTP 403
+https://www.yelp.com/biz/acero-electric-san-jose,BLOCKED,HTTP 403
+https://www.baytechelectric.com/about,FAILED,HTTP 404
+https://www.acostainc.com,BLOCKED,HTTP 403
+http://www.tovarelectricelpaso.com,BLOCKED,HTTP 403
+http://iandmec.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://iandmec.com/
+Call log:
+  - navigating to ""http://iandmec.com/"", waiting until ""domcontentloaded""
+"
+http://dascdc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://dascdc.com/
+Call log:
+  - navigating to ""http://dascdc.com/"", waiting until ""domcontentloaded""
+"
+http://www.tigercommunications.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tigercommunications.us/
+Call log:
+  - navigating to ""http://www.tigercommunications.us/"", waiting until ""domcontentloaded""
+"
+https://www.tailoredliving.com/southcharlotte,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.tailoredliving.com/southcharlotte"", waiting until ""domcontentloaded""
+"
+http://onekindcollective.com,FAILED,HTTP 409
+http://dgmflowers.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://dgmflowers.com/
+Call log:
+  - navigating to ""http://dgmflowers.com/"", waiting until ""domcontentloaded""
+"
+http://evolveagency.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://evolveagency.com/
+Call log:
+  - navigating to ""http://evolveagency.com/"", waiting until ""domcontentloaded""
+"
+http://amle.org,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://amle.org/
+Call log:
+  - navigating to ""http://amle.org/"", waiting until ""domcontentloaded""
+"
+http://thesocialclublovesyou.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://thesocialclublovesyou.com/
+Call log:
+  - navigating to ""http://thesocialclublovesyou.com/"", waiting until ""domcontentloaded""
+"
+http://kirklands.com,BLOCKED,HTTP 403
+http://halfpastlavish.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://halfpastlavish.com/
+Call log:
+  - navigating to ""http://halfpastlavish.com/"", waiting until ""domcontentloaded""
+"
+http://epicgames.com,BLOCKED,HTTP 403
+http://orangetheoryfitness.de,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://orangetheoryfitness.de/
+Call log:
+  - navigating to ""http://orangetheoryfitness.de/"", waiting until ""domcontentloaded""
+"
+http://hbgrr.org,BLOCKED,HTTP 403
+http://g3pcgroup.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://g3pcgroup.com/"", waiting until ""domcontentloaded""
+"
+http://kbsp.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://kbsp.com/"", waiting until ""domcontentloaded""
+"
+http://tonehousenyc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://tonehousenyc.com/"", waiting until ""domcontentloaded""
+"
+http://www.titoalcarazpainting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.titoalcarazpainting.com/
+Call log:
+  - navigating to ""http://www.titoalcarazpainting.com/"", waiting until ""domcontentloaded""
+"
+http://hardwood-flooring-chicago.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://hardwood-flooring-chicago.com/
+Call log:
+  - navigating to ""http://hardwood-flooring-chicago.com/"", waiting until ""domcontentloaded""
+"
+http://www.on-pointpainting.com,BLOCKED,HTTP 403
+http://www.denaliconstructionservices.net,FAILED,HTTP 520
+https://jims-epoxy-and-painting-services.business.site,FAILED,HTTP 404
+https://www.tds360clean.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tds360clean.com/
+Call log:
+  - navigating to ""https://www.tds360clean.com/"", waiting until ""domcontentloaded""
+"
+http://www.bratcherpainting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bratcherpainting.com/
+Call log:
+  - navigating to ""http://www.bratcherpainting.com/"", waiting until ""domcontentloaded""
+"
+https://epoxy-tx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://epoxy-tx.com/
+Call log:
+  - navigating to ""https://epoxy-tx.com/"", waiting until ""domcontentloaded""
+"
+http://www.superiorpaintingandremodeling.com,FAILED,HTTP 409
+https://www.bestcoatingsllc.com/index.html,BLOCKED,HTTP 403
+http://www.blazer-structures.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.blazer-structures.com/
+Call log:
+  - navigating to ""http://www.blazer-structures.com/"", waiting until ""domcontentloaded""
+"
+https://armorproepoxy.com,BLOCKED,HTTP 403
+http://www.idealhome.nyc,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.idealhome.nyc/
+Call log:
+  - navigating to ""http://www.idealhome.nyc/"", waiting until ""domcontentloaded""
+"
+http://www.sffireprotection.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sffireprotection.com/
+Call log:
+  - navigating to ""http://www.sffireprotection.com/"", waiting until ""domcontentloaded""
+"
+http://www.solariumenergy.com,FAILED,HTTP 500
+http://www.detroitvoltage.com,BLOCKED,HTTP 403
+https://expeditedelectricalllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://expeditedelectricalllc.com/
+Call log:
+  - navigating to ""https://expeditedelectricalllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.cydelectricalservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cydelectricalservices.com/
+Call log:
+  - navigating to ""https://www.cydelectricalservices.com/"", waiting until ""domcontentloaded""
+"
+https://pavidisgroup.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at https://pavidisgroup.com/
+Call log:
+  - navigating to ""https://pavidisgroup.com/"", waiting until ""domcontentloaded""
+"
+http://currentelectric.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://currentelectric.net/
+Call log:
+  - navigating to ""http://currentelectric.net/"", waiting until ""domcontentloaded""
+"
+http://www.luisjameselectricllc.com,FAILED,HTTP 404
+http://www.advancedconstructionservicesllc.com,FAILED,HTTP 520
+http://pgfconsultingpartners.com,FAILED,HTTP 409
+http://www.packageportal.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at http://www.packageportal.com/
+Call log:
+  - navigating to ""http://www.packageportal.com/"", waiting until ""domcontentloaded""
+"
+https://reverb.com,BLOCKED,HTTP 403
+https://mybonus2u.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mybonus2u.com/
+Call log:
+  - navigating to ""https://mybonus2u.com/"", waiting until ""domcontentloaded""
+"
+https://www.wademarketing.co,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.wademarketing.co/
+Call log:
+  - navigating to ""https://www.wademarketing.co/"", waiting until ""domcontentloaded""
+"
+http://www.ikeyless.com,BLOCKED,HTTP 429
+http://heat.com,BLOCKED,HTTP 403
+http://stayhgi.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://stayhgi.com/
+Call log:
+  - navigating to ""https://stayhgi.com/"", waiting until ""domcontentloaded""
+"
+http://eventplanner.es,BLOCKED,HTTP 403
+http://destinationconcepts.com,BLOCKED,HTTP 403
+http://amd.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://amd.com/
+Call log:
+  - navigating to ""http://amd.com/"", waiting until ""domcontentloaded""
+"
+http://eatrealfest.com,BLOCKED,HTTP 403
+http://notablyyours.co.za,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://notablyyours.co.za/
+Call log:
+  - navigating to ""http://notablyyours.co.za/"", waiting until ""domcontentloaded""
+"
+https://www.hellogarageofeasterniowa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hellogarageofeasterniowa.com/
+Call log:
+  - navigating to ""https://www.hellogarageofeasterniowa.com/"", waiting until ""domcontentloaded""
+"
+http://ascenaretail.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://ascenaretail.com/"", waiting until ""domcontentloaded""
+"
+https://www.sanantoniotxpainter.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sanantoniotxpainter.com/
+Call log:
+  - navigating to ""https://www.sanantoniotxpainter.com/"", waiting until ""domcontentloaded""
+"
+https://www.apanddeck.com,FAILED,HTTP 404
+http://southlake.certapro.com,BLOCKED,HTTP 403
+http://clarkscleaners.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://clarkscleaners.net/
+Call log:
+  - navigating to ""http://clarkscleaners.net/"", waiting until ""domcontentloaded""
+"
+http://affordablequalityinstallation.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://affordablequalityinstallation.com/
+Call log:
+  - navigating to ""http://affordablequalityinstallation.com/"", waiting until ""domcontentloaded""
+"
+https://www.flatlineconcreteofne.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.flatlineconcreteofne.com/
+Call log:
+  - navigating to ""https://www.flatlineconcreteofne.com/"", waiting until ""domcontentloaded""
+"
+https://thomasdecorativecoatings.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://thomasdecorativecoatings.com/
+Call log:
+  - navigating to ""https://thomasdecorativecoatings.com/"", waiting until ""domcontentloaded""
+"
+http://www.hardigindustrial.com,BLOCKED,HTTP 403
+http://swisherproductions.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://swisherproductions.com/"", waiting until ""domcontentloaded""
+"
+https://ilmginc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ilmginc.com/
+Call log:
+  - navigating to ""https://ilmginc.com/"", waiting until ""domcontentloaded""
+"
+http://www.,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www./
+Call log:
+  - navigating to ""http://www./"", waiting until ""domcontentloaded""
+"
+http://atomelectricllc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://atomelectricllc.com/
+Call log:
+  - navigating to ""https://atomelectricllc.com/"", waiting until ""domcontentloaded""
+"
+http://grafico.com,FAILED,HTTP 409
+http://thecentercincinnati.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://thecentercincinnati.com/
+Call log:
+  - navigating to ""http://thecentercincinnati.com/"", waiting until ""domcontentloaded""
+"
+http://socialcircletalent.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://socialcircletalent.com/
+Call log:
+  - navigating to ""http://socialcircletalent.com/"", waiting until ""domcontentloaded""
+"
+http://blacktiecatering.com.au,FAILED,HTTP 404
+http://c2spark.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://c2spark.com/
+Call log:
+  - navigating to ""http://c2spark.com/"", waiting until ""domcontentloaded""
+"
+http://topps.com,BLOCKED,HTTP 403
+http://ihsmarkit.com,BLOCKED,HTTP 403
+http://bandh.com,BLOCKED,HTTP 403
+http://jsaweb.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jsaweb.com/
+Call log:
+  - navigating to ""http://jsaweb.com/"", waiting until ""domcontentloaded""
+"
+http://jaymiescotto.com,FAILED,HTTP 522
+http://knockoutla.com,BLOCKED,HTTP 403
+http://spurs.com,BLOCKED,HTTP 403
+http://global-spectrum.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://global-spectrum.com/"", waiting until ""domcontentloaded""
+"
+http://hchrx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hchrx.com/
+Call log:
+  - navigating to ""http://hchrx.com/"", waiting until ""domcontentloaded""
+"
+http://hyattregencydallas.com,BLOCKED,HTTP 403
+http://asisonline.org,BLOCKED,HTTP 403
+https://www.nmpconcrete.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nmpconcrete.com/
+Call log:
+  - navigating to ""https://www.nmpconcrete.com/"", waiting until ""domcontentloaded""
+"
+https://www.a2zcanfixit.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.a2zcanfixit.com/
+Call log:
+  - navigating to ""https://www.a2zcanfixit.com/"", waiting until ""domcontentloaded""
+"
+https://www.americanpolyfloor.com,BLOCKED,HTTP 403
+http://starkconcretesolutions.com,FAILED,HTTP 404
+https://www.qualitypaintsolutionsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.qualitypaintsolutionsllc.com/
+Call log:
+  - navigating to ""https://www.qualitypaintsolutionsllc.com/"", waiting until ""domcontentloaded""
+"
+http://pandarg.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://pandarg.com/"", waiting until ""domcontentloaded""
+"
+https://caseycustomllc.com,FAILED,HTTP 404
+http://servicemasterofdarien-newcanaan.com,FAILED,HTTP 502
+http://www.ecqualitycleaning.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.ecqualitycleaning.com/
+Call log:
+  - navigating to ""https://www.ecqualitycleaning.com/"", waiting until ""domcontentloaded""
+"
+http://www.aandbflooring.com,FAILED,HTTP 404
+http://www.overtopnc.com,FAILED,HTTP 520
+http://www.epoxyfloorsystems.com,BLOCKED,HTTP 403
+https://premierconcretesurfaces.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://premierconcretesurfaces.com/
+Call log:
+  - navigating to ""https://premierconcretesurfaces.com/"", waiting until ""domcontentloaded""
+"
+https://paintsummit.com,BLOCKED,HTTP 403
+https://www.csbrushworks.com,FAILED,HTTP 404
+http://www.rkjagency.com,FAILED,HTTP 404
+http://www.love-electric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.love-electric.com/
+Call log:
+  - navigating to ""http://www.love-electric.com/"", waiting until ""domcontentloaded""
+"
+http://www.gilmoreservices.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gilmoreservices.net/
+Call log:
+  - navigating to ""http://www.gilmoreservices.net/"", waiting until ""domcontentloaded""
+"
+http://www.nicastroconsultants.com,FAILED,HTTP 404
+http://miamibeachconvention.com,BLOCKED,HTTP 403
+http://flyblade.com,BLOCKED,HTTP 403
+http://hpe.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://hpe.com/
+Call log:
+  - navigating to ""http://hpe.com/"", waiting until ""domcontentloaded""
+"
+http://sheratondallashotel.com,BLOCKED,HTTP 403
+https://firststateepoxyllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://firststateepoxyllc.com/
+Call log:
+  - navigating to ""https://firststateepoxyllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.tremblay-construction.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tremblay-construction.net/
+Call log:
+  - navigating to ""http://www.tremblay-construction.net/"", waiting until ""domcontentloaded""
+"
+http://coltepoxyfloors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://coltepoxyfloors.com/
+Call log:
+  - navigating to ""http://coltepoxyfloors.com/"", waiting until ""domcontentloaded""
+"
+http://www.ambmaintenance.com,FAILED,HTTP 526
+http://www.12gcc.com,BLOCKED,HTTP 403
+http://www.craftcrete.net,BLOCKED,HTTP 403
+http://www.ortegaflooringsolutionsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ortegaflooringsolutionsllc.com/
+Call log:
+  - navigating to ""http://www.ortegaflooringsolutionsllc.com/"", waiting until ""domcontentloaded""
+"
+https://ironwoodcoatings.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://ironwoodcoatings.com/
+Call log:
+  - navigating to ""https://ironwoodcoatings.com/"", waiting until ""domcontentloaded""
+"
+https://www.garageexperts.com/location/central-valley,BLOCKED,HTTP 403
+http://www.rayzremodeling.com,FAILED,HTTP 404
+https://protekpainters.com,FAILED,HTTP 520
+https://www.tailoredclosetknoxville.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.tailoredclosetknoxville.com/
+Call log:
+  - navigating to ""https://www.tailoredclosetknoxville.com/"", waiting until ""domcontentloaded""
+"
+http://celebritybrandingagency.com,BLOCKED,HTTP 403
+http://gamarketing.com,FAILED,"Page.goto: net::ERR_ADDRESS_UNREACHABLE at http://gamarketing.com/
+Call log:
+  - navigating to ""http://gamarketing.com/"", waiting until ""domcontentloaded""
+"
+http://heartofla.org,BLOCKED,HTTP 403
+http://fontainebleau.com,BLOCKED,HTTP 403
+http://versa.works,BLOCKED,HTTP 403
+http://google.com,BLOCKED,HTTP 429
+http://newschool.edu,BLOCKED,HTTP 429
+http://rockets.com,BLOCKED,HTTP 403
+http://quickactionconcrete.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://quickactionconcrete.com/
+Call log:
+  - navigating to ""http://quickactionconcrete.com/"", waiting until ""domcontentloaded""
+"
+https://www.vimconstructionservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vimconstructionservices.com/
+Call log:
+  - navigating to ""https://www.vimconstructionservices.com/"", waiting until ""domcontentloaded""
+"
+https://asciontipainting-llc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://asciontipainting-llc.com/
+Call log:
+  - navigating to ""https://asciontipainting-llc.com/"", waiting until ""domcontentloaded""
+"
+http://teahousecreatives.com,FAILED,HTTP 404
+http://kohls.com,BLOCKED,HTTP 403
+http://www.finaltouchpaint.com,BLOCKED,HTTP 403
+http://www.ultimateflooringconcepts.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ultimateflooringconcepts.com/
+Call log:
+  - navigating to ""http://www.ultimateflooringconcepts.com/"", waiting until ""domcontentloaded""
+"
+http://www.hightechperformancecoatings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hightechperformancecoatings.com/
+Call log:
+  - navigating to ""http://www.hightechperformancecoatings.com/"", waiting until ""domcontentloaded""
+"
+http://fame-imc.com,FAILED,HTTP 404
+https://corberry.com,BLOCKED,HTTP 403
+http://allanselectric.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://allanselectric.us/
+Call log:
+  - navigating to ""http://allanselectric.us/"", waiting until ""domcontentloaded""
+"
+http://www.jacksonelectricinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jacksonelectricinc.com/
+Call log:
+  - navigating to ""http://www.jacksonelectricinc.com/"", waiting until ""domcontentloaded""
+"
+https://sergioelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sergioelectric.com/
+Call log:
+  - navigating to ""https://sergioelectric.com/"", waiting until ""domcontentloaded""
+"
+http://daxko.com,BLOCKED,HTTP 429
+http://wfgopportunity.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://wfgopportunity.com/
+Call log:
+  - navigating to ""http://wfgopportunity.com/"", waiting until ""domcontentloaded""
+"
+http://washingtonprime.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://washingtonprime.com/"", waiting until ""domcontentloaded""
+"
+http://the-wing.com,FAILED,HTTP 500
+http://parkwoodintl.com,FAILED,HTTP 404
+https://www.remodelbymullen.com,FAILED,HTTP 404
+http://summitcitybuilders.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://summitcitybuilders.net/
+Call log:
+  - navigating to ""http://summitcitybuilders.net/"", waiting until ""domcontentloaded""
+"
+http://www.donedealcustompainting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.donedealcustompainting.com/
+Call log:
+  - navigating to ""http://www.donedealcustompainting.com/"", waiting until ""domcontentloaded""
+"
+https://orlandogaragefloors.com,BLOCKED,HTTP 403
+http://www.b2bemailexperts.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.b2bemailexperts.com/
+Call log:
+  - navigating to ""http://www.b2bemailexperts.com/"", waiting until ""domcontentloaded""
+"
+http://inclinedigital.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://inclinedigital.com/
+Call log:
+  - navigating to ""http://inclinedigital.com/"", waiting until ""domcontentloaded""
+"
+http://www.luxelectricinc.com,FAILED,HTTP 404
+http://www.simplysolaraz.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.simplysolaraz.com/
+Call log:
+  - navigating to ""http://www.simplysolaraz.com/"", waiting until ""domcontentloaded""
+"
+http://pgp.us.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://pgp.us.com/"", waiting until ""domcontentloaded""
+"
+http://cedsanantonio-dt.shopced.com/contactus.aspx,FAILED,HTTP 404
+http://anchorelectricsj.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://anchorelectricsj.com/
+Call log:
+  - navigating to ""http://anchorelectricsj.com/"", waiting until ""domcontentloaded""
+"
+http://www.lorikatzgroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lorikatzgroup.com/
+Call log:
+  - navigating to ""http://www.lorikatzgroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.dbmechanicalhvac.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dbmechanicalhvac.com/
+Call log:
+  - navigating to ""http://www.dbmechanicalhvac.com/"", waiting until ""domcontentloaded""
+"
+https://www.wdselectric.com,BLOCKED,HTTP 403
+https://kmahomeservices.com,FAILED,HTTP 404
+http://www.funkandcompany-elp.com/home.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.funkandcompany-elp.com/home.html
+Call log:
+  - navigating to ""http://www.funkandcompany-elp.com/home.html"", waiting until ""domcontentloaded""
+"
+https://www.bostonelectrician.org,BLOCKED,HTTP 403
+http://www.denverelectrical.com,BLOCKED,HTTP 403
+http://garagemagic.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://garagemagic.com/"", waiting until ""domcontentloaded""
+"
+http://www.soundsecurityalarms.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.soundsecurityalarms.com/
+Call log:
+  - navigating to ""http://www.soundsecurityalarms.com/"", waiting until ""domcontentloaded""
+"
+https://www.alternative-electric.com,FAILED,HTTP 404
+https://www.ecommet.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ecommet.net/
+Call log:
+  - navigating to ""https://www.ecommet.net/"", waiting until ""domcontentloaded""
+"
+http://electricunlimited.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://electricunlimited.com/"", waiting until ""domcontentloaded""
+"
+https://saintaubinretail.com,FAILED,HTTP 402
+http://walpertelectric.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://walpertelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.globalvaporsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.globalvaporsllc.com/
+Call log:
+  - navigating to ""http://www.globalvaporsllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.njelectricalservice.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.njelectricalservice.com/"", waiting until ""domcontentloaded""
+"
+https://smoothglideskin.com/peau,FAILED,HTTP 522
+http://woodieswash.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://woodieswash.com/
+Call log:
+  - navigating to ""http://woodieswash.com/"", waiting until ""domcontentloaded""
+"
+http://sparksonline.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://sparksonline.com/
+Call log:
+  - navigating to ""https://sparksonline.com/"", waiting until ""domcontentloaded""
+"
+http://ffva.com,BLOCKED,HTTP 403
+http://goldensun-tech.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://goldensun-tech.com/
+Call log:
+  - navigating to ""http://goldensun-tech.com/"", waiting until ""domcontentloaded""
+"
+http://clarkemartin.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://clarkemartin.com/
+Call log:
+  - navigating to ""http://clarkemartin.com/"", waiting until ""domcontentloaded""
+"
+http://elcompanies.jobs,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://elcompanies.jobs/
+Call log:
+  - navigating to ""http://elcompanies.jobs/"", waiting until ""domcontentloaded""
+"
+http://chegg.com,BLOCKED,HTTP 403
+http://teambuildingroi.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://teambuildingroi.com/
+Call log:
+  - navigating to ""http://teambuildingroi.com/"", waiting until ""domcontentloaded""
+"
+http://columbia.edu,BLOCKED,HTTP 403
+http://henryschein.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://henryschein.com/
+Call log:
+  - navigating to ""http://henryschein.com/"", waiting until ""domcontentloaded""
+"
+http://eventagious.co.uk,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://eventagious.co.uk/
+Call log:
+  - navigating to ""http://eventagious.co.uk/"", waiting until ""domcontentloaded""
+"
+http://netsuite.com,BLOCKED,HTTP 403
+http://decadencemusicgroup.com,FAILED,HTTP 404
+http://corestrengths.com,FAILED,HTTP 409
+http://teradata.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://teradata.com/"", waiting until ""domcontentloaded""
+"
+http://unlimitedinkclub.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://unlimitedinkclub.com/
+Call log:
+  - navigating to ""http://unlimitedinkclub.com/"", waiting until ""domcontentloaded""
+"
+http://omnihotels.com,BLOCKED,HTTP 403
+http://thespringsevents.com,BLOCKED,HTTP 403
+http://austinmusicvideofestival.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://austinmusicvideofestival.com/
+Call log:
+  - navigating to ""http://austinmusicvideofestival.com/"", waiting until ""domcontentloaded""
+"
+http://ideacellular.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://ideacellular.com/"", waiting until ""domcontentloaded""
+"
+https://vgpaintremodel.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vgpaintremodel.com/
+Call log:
+  - navigating to ""https://vgpaintremodel.com/"", waiting until ""domcontentloaded""
+"
+https://duartehomeimprovementllc.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://duartehomeimprovementllc.com/
+Call log:
+  - navigating to ""https://duartehomeimprovementllc.com/"", waiting until ""domcontentloaded""
+"
+https://next-level-building-services.business.site,FAILED,HTTP 404
+http://patchtechwi.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://patchtechwi.com/
+Call log:
+  - navigating to ""http://patchtechwi.com/"", waiting until ""domcontentloaded""
+"
+http://www.newlookkooldeckandmore.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.newlookkooldeckandmore.com/
+Call log:
+  - navigating to ""http://www.newlookkooldeckandmore.com/"", waiting until ""domcontentloaded""
+"
+https://www.generation-painting.com,BLOCKED,HTTP 403
+http://dadsflooringremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://dadsflooringremodeling.com/
+Call log:
+  - navigating to ""http://dadsflooringremodeling.com/"", waiting until ""domcontentloaded""
+"
+http://www.texascretetyler.com,FAILED,HTTP 404
+https://limepaintingofcolumbus.com,FAILED,HTTP 410
+http://www.sumind.com,BLOCKED,HTTP 403
+https://www.concreteimpressionists.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.concreteimpressionists.com/
+Call log:
+  - navigating to ""https://www.concreteimpressionists.com/"", waiting until ""domcontentloaded""
+"
+http://www.giddyupfloors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.giddyupfloors.com/
+Call log:
+  - navigating to ""http://www.giddyupfloors.com/"", waiting until ""domcontentloaded""
+"
+https://coastlinecoating.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://coastlinecoating.com/
+Call log:
+  - navigating to ""https://coastlinecoating.com/"", waiting until ""domcontentloaded""
+"
+http://flexmg.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://flexmg.com/
+Call log:
+  - navigating to ""http://flexmg.com/"", waiting until ""domcontentloaded""
+"
+https://www.adsthatdisrupt.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.adsthatdisrupt.com/
+Call log:
+  - navigating to ""https://www.adsthatdisrupt.com/"", waiting until ""domcontentloaded""
+"
+https://www.salesforce.com,BLOCKED,HTTP 403
+http://www.rusindoruelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rusindoruelectric.com/
+Call log:
+  - navigating to ""http://www.rusindoruelectric.com/"", waiting until ""domcontentloaded""
+"
+https://tkp-electricians.business.site,FAILED,HTTP 404
+http://clubcorp.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://clubcorp.com/"", waiting until ""domcontentloaded""
+"
+https://www.cleansolar.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.cleansolar.com/
+Call log:
+  - navigating to ""https://www.cleansolar.com/"", waiting until ""domcontentloaded""
+"
+http://www.ethicalct.com/riverscl21,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.ethicalct.com/riverscl21"", waiting until ""domcontentloaded""
+"
+http://www.bvelectricinc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bvelectricinc.com/
+Call log:
+  - navigating to ""https://www.bvelectricinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.natjohnsonelectrical.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.natjohnsonelectrical.com/
+Call log:
+  - navigating to ""http://www.natjohnsonelectrical.com/"", waiting until ""domcontentloaded""
+"
+http://www.cornelycompany.com,BLOCKED,HTTP 403
+http://horizonelectrics.com,BLOCKED,HTTP 403
+https://electricservicedenver.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://electricservicedenver.net/
+Call log:
+  - navigating to ""https://electricservicedenver.net/"", waiting until ""domcontentloaded""
+"
+http://diversifiedelectricandcontrols.com,BLOCKED,HTTP 403
+https://beldyelectric.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://beldyelectric.com/
+Call log:
+  - navigating to ""https://beldyelectric.com/"", waiting until ""domcontentloaded""
+"
+http://nashvilleelectricians.com,FAILED,HTTP 404
+https://usa.tommy.com,BLOCKED,HTTP 403
+http://marriott.com,BLOCKED,HTTP 403
+http://salesforce.com,BLOCKED,HTTP 403
+http://goodfoodcard.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://goodfoodcard.com/
+Call log:
+  - navigating to ""https://goodfoodcard.com/"", waiting until ""domcontentloaded""
+"
+http://antiochcollege.org,FAILED,HTTP 404
+http://bankofamerica.com,BLOCKED,HTTP 403
+http://www.nytimes.com,BLOCKED,HTTP 403
+http://bnpparibas.com,BLOCKED,HTTP 403
+http://icla.org,FAILED,HTTP 520
+http://whiteops.com,BLOCKED,HTTP 403
+http://samanthasackler.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://samanthasackler.com/
+Call log:
+  - navigating to ""https://samanthasackler.com/"", waiting until ""domcontentloaded""
+"
+http://tixr.com,BLOCKED,HTTP 403
+http://monsterenergy.com,BLOCKED,HTTP 403
+http://comcastspotlight.com,FAILED,HTTP 409
+http://projekt202.com,BLOCKED,HTTP 401
+http://mavs.com,BLOCKED,HTTP 403
+http://www.vulcanbasementwaterproofingnj.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.vulcanbasementwaterproofingnj.com/
+Call log:
+  - navigating to ""http://www.vulcanbasementwaterproofingnj.com/"", waiting until ""domcontentloaded""
+"
+https://putnam-electric-llc.business.site,FAILED,HTTP 404
+http://www.driespainting.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.driespainting.com/
+Call log:
+  - navigating to ""https://www.driespainting.com/"", waiting until ""domcontentloaded""
+"
+http://escofcentralohio.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://escofcentralohio.org/"", waiting until ""domcontentloaded""
+"
+https://www.magnapainting-stoneoak.com/about,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.magnapainting-stoneoak.com/about
+Call log:
+  - navigating to ""https://www.magnapainting-stoneoak.com/about"", waiting until ""domcontentloaded""
+"
+https://covenantpaintingllc.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://covenantpaintingllc.com/
+Call log:
+  - navigating to ""https://covenantpaintingllc.com/"", waiting until ""domcontentloaded""
+"
+http://luxurypaintrenovationcorp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://luxurypaintrenovationcorp.com/
+Call log:
+  - navigating to ""http://luxurypaintrenovationcorp.com/"", waiting until ""domcontentloaded""
+"
+https://www.metropolitancoatings.com,BLOCKED,HTTP 403
+https://www.fivestarpainting.com/southeast-michigan,FAILED,HTTP 404
+https://www.inspiredand.com,BLOCKED,HTTP 403
+http://www.blmpr.com,FAILED,HTTP 404
+http://www.zappelectric.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.zappelectric.com/
+Call log:
+  - navigating to ""https://www.zappelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.escamillaelectricca.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.escamillaelectricca.com/
+Call log:
+  - navigating to ""http://www.escamillaelectricca.com/"", waiting until ""domcontentloaded""
+"
+http://www.petersendean.com,FAILED,HTTP 526
+https://integratedelectricalcontractors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://integratedelectricalcontractors.com/
+Call log:
+  - navigating to ""https://integratedelectricalcontractors.com/"", waiting until ""domcontentloaded""
+"
+http://www.highlinerlights.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.highlinerlights.com/
+Call log:
+  - navigating to ""http://www.highlinerlights.com/"", waiting until ""domcontentloaded""
+"
+https://re-jan-electrical-co-inc.business.site,FAILED,HTTP 404
+http://www.ecommerceadvertisingteam.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ecommerceadvertisingteam.com/
+Call log:
+  - navigating to ""http://www.ecommerceadvertisingteam.com/"", waiting until ""domcontentloaded""
+"
+http://www.365glacierpayments.com,FAILED,"Page.goto: net::ERR_INVALID_REDIRECT at http://www.365glacierpayments.com/
+Call log:
+  - navigating to ""http://www.365glacierpayments.com/"", waiting until ""domcontentloaded""
+"
+https://theguiltygrape.com,FAILED,HTTP 423
+http://www.flashshoes.com,BLOCKED,HTTP 403
+http://www.geeksinfotech.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.geeksinfotech.com/
+Call log:
+  - navigating to ""https://www.geeksinfotech.com/"", waiting until ""domcontentloaded""
+"
+http://www.mister-e-liquid.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.mister-e-liquid.com/
+Call log:
+  - navigating to ""http://www.mister-e-liquid.com/"", waiting until ""domcontentloaded""
+"
+http://www.ideaps.com,BLOCKED,HTTP 403
+https://zuitte.com,FAILED,HTTP 522
+http://franktheatres.com,BLOCKED,HTTP 403
+http://chewy.com,BLOCKED,HTTP 403
+http://transcat.com,BLOCKED,HTTP 403
+http://twitter.com,BLOCKED,HTTP 403
+http://forbes.com,BLOCKED,HTTP 403
+http://visualintrusion.com,FAILED,HTTP 503
+http://ingrammicro.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://ingrammicro.com/
+Call log:
+  - navigating to ""http://ingrammicro.com/"", waiting until ""domcontentloaded""
+"
+http://jcpenney.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://jcpenney.com/
+Call log:
+  - navigating to ""http://jcpenney.com/"", waiting until ""domcontentloaded""
+"
+https://rpconstructiongroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rpconstructiongroup.com/
+Call log:
+  - navigating to ""https://rpconstructiongroup.com/"", waiting until ""domcontentloaded""
+"
+https://wagonersepoxy.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://wagonersepoxy.com/
+Call log:
+  - navigating to ""https://wagonersepoxy.com/"", waiting until ""domcontentloaded""
+"
+http://www.rivera-custom-painting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rivera-custom-painting.com/
+Call log:
+  - navigating to ""http://www.rivera-custom-painting.com/"", waiting until ""domcontentloaded""
+"
+http://www.greenwaypaintingllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.greenwaypaintingllc.com/
+Call log:
+  - navigating to ""http://www.greenwaypaintingllc.com/"", waiting until ""domcontentloaded""
+"
+https://firstchoiceconcretesurfaces.com,FAILED,HTTP 404
+http://www.trupaintingllc.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.trupaintingllc.org/
+Call log:
+  - navigating to ""http://www.trupaintingllc.org/"", waiting until ""domcontentloaded""
+"
+http://verticalmail.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://verticalmail.net/
+Call log:
+  - navigating to ""http://verticalmail.net/"", waiting until ""domcontentloaded""
+"
+http://www.concretefloorstainingjacksontn.com,FAILED,HTTP 503
+https://y-t-b-electricians-williamsburg.business.site,FAILED,HTTP 404
+http://www.neatheryelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.neatheryelectric.com/
+Call log:
+  - navigating to ""http://www.neatheryelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.electricgreenusa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.electricgreenusa.com/
+Call log:
+  - navigating to ""http://www.electricgreenusa.com/"", waiting until ""domcontentloaded""
+"
+https://www.rayscheidtselectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rayscheidtselectric.com/
+Call log:
+  - navigating to ""https://www.rayscheidtselectric.com/"", waiting until ""domcontentloaded""
+"
+https://www.lykoselectricandac.com,FAILED,HTTP 404
+http://memphiselectric.net/index.html,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://memphiselectric.net/index.html
+Call log:
+  - navigating to ""https://memphiselectric.net/index.html"", waiting until ""domcontentloaded""
+"
+http://www.wireworxelectricinc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.wireworxelectricinc.com/
+Call log:
+  - navigating to ""http://www.wireworxelectricinc.com/"", waiting until ""domcontentloaded""
+"
+http://rodanandfields.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://rodanandfields.com/"", waiting until ""domcontentloaded""
+"
+http://modcable.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://modcable.com/
+Call log:
+  - navigating to ""http://modcable.com/"", waiting until ""domcontentloaded""
+"
+http://www.sgelectriccolv.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sgelectriccolv.com/
+Call log:
+  - navigating to ""http://www.sgelectriccolv.com/"", waiting until ""domcontentloaded""
+"
+http://www.royelectric.co,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.royelectric.co/
+Call log:
+  - navigating to ""http://www.royelectric.co/"", waiting until ""domcontentloaded""
+"
+https://linderapparel.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://linderapparel.com/
+Call log:
+  - navigating to ""https://linderapparel.com/"", waiting until ""domcontentloaded""
+"
+http://www.tocn.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.tocn.com/
+Call log:
+  - navigating to ""https://www.tocn.com/"", waiting until ""domcontentloaded""
+"
+http://www.create1997.com,FAILED,HTTP 404
+http://www.justanswer.com,BLOCKED,HTTP 403
+https://www.uproar.car,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.uproar.car/
+Call log:
+  - navigating to ""https://www.uproar.car/"", waiting until ""domcontentloaded""
+"
+http://www.evilfemmefatales.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.evilfemmefatales.com/"", waiting until ""domcontentloaded""
+"
+http://www.dinuccicompanies.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.dinuccicompanies.com/"", waiting until ""domcontentloaded""
+"
+http://justmarry.com,BLOCKED,HTTP 403
+http://traderjoes.com,BLOCKED,HTTP 403
+http://thecovingtonmadison.com,FAILED,HTTP 404
+http://paigegroupny.com,FAILED,HTTP 404
+http://lasordaspeaks.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://lasordaspeaks.com/
+Call log:
+  - navigating to ""http://lasordaspeaks.com/"", waiting until ""domcontentloaded""
+"
+http://shutterstock.com,BLOCKED,HTTP 403
+http://genesissalesevents.com,BLOCKED,HTTP 403
+http://elisd.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://elisd.org/
+Call log:
+  - navigating to ""http://elisd.org/"", waiting until ""domcontentloaded""
+"
+https://psservicesct.com,BLOCKED,HTTP 403
+http://roberttile.com,BLOCKED,HTTP 403
+https://ceconcretecoatings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ceconcretecoatings.com/
+Call log:
+  - navigating to ""https://ceconcretecoatings.com/"", waiting until ""domcontentloaded""
+"
+https://www.karmaindustriesinc.com,FAILED,HTTP 404
+https://garagefloors-plus.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://garagefloors-plus.com/
+Call log:
+  - navigating to ""https://garagefloors-plus.com/"", waiting until ""domcontentloaded""
+"
+https://www.randlconcrete.net/contact-us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.randlconcrete.net/contact-us
+Call log:
+  - navigating to ""https://www.randlconcrete.net/contact-us"", waiting until ""domcontentloaded""
+"
+https://www.agpsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.agpsllc.com/
+Call log:
+  - navigating to ""https://www.agpsllc.com/"", waiting until ""domcontentloaded""
+"
+http://limepaintingoflakenorman.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://limepaintingoflakenorman.com/
+Call log:
+  - navigating to ""http://limepaintingoflakenorman.com/"", waiting until ""domcontentloaded""
+"
+https://www.flooringprosus.com,FAILED,HTTP 404
+http://www.iwizmedia.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.iwizmedia.com/
+Call log:
+  - navigating to ""http://www.iwizmedia.com/"", waiting until ""domcontentloaded""
+"
+http://worldmarketpower.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://worldmarketpower.com/
+Call log:
+  - navigating to ""http://worldmarketpower.com/"", waiting until ""domcontentloaded""
+"
+http://www.barthelectric.com/index.html,FAILED,HTTP 404
+https://www.scjoneselectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.scjoneselectric.com/
+Call log:
+  - navigating to ""https://www.scjoneselectric.com/"", waiting until ""domcontentloaded""
+"
+https://www.electrichris.boston,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.electrichris.boston/
+Call log:
+  - navigating to ""https://www.electrichris.boston/"", waiting until ""domcontentloaded""
+"
+http://mec-tn.com/htdocs/welcome.html,FAILED,HTTP 404
+http://www.vipelectriclv.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.vipelectriclv.com/
+Call log:
+  - navigating to ""http://www.vipelectriclv.com/"", waiting until ""domcontentloaded""
+"
+https://www.aneskihome.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aneskihome.com/
+Call log:
+  - navigating to ""https://www.aneskihome.com/"", waiting until ""domcontentloaded""
+"
+https://deliverysafe.com,FAILED,HTTP 404
+http://strategicwebmarketing.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://strategicwebmarketing.net/
+Call log:
+  - navigating to ""http://strategicwebmarketing.net/"", waiting until ""domcontentloaded""
+"
+http://takoselectric.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://takoselectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.freddieamerica.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.freddieamerica.com/"", waiting until ""domcontentloaded""
+"
+http://www.marketexpansions.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.marketexpansions.com/"", waiting until ""domcontentloaded""
+"
+http://jumpingjbeans.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jumpingjbeans.com/
+Call log:
+  - navigating to ""http://jumpingjbeans.com/"", waiting until ""domcontentloaded""
+"
+http://flemingssteakhouse.com,BLOCKED,HTTP 403
+http://disneymeetings.com,BLOCKED,HTTP 403
+http://taste-food.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://taste-food.com/
+Call log:
+  - navigating to ""http://taste-food.com/"", waiting until ""domcontentloaded""
+"
+http://apexoc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://apexoc.com/
+Call log:
+  - navigating to ""http://apexoc.com/"", waiting until ""domcontentloaded""
+"
+http://eventmarketingpartners.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://eventmarketingpartners.com/
+Call log:
+  - navigating to ""http://eventmarketingpartners.com/"", waiting until ""domcontentloaded""
+"
+http://americancruiselines.com,BLOCKED,HTTP 403
+http://masergy.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://masergy.com/
+Call log:
+  - navigating to ""http://masergy.com/"", waiting until ""domcontentloaded""
+"
+http://www.sundewpaintingde.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sundewpaintingde.com/
+Call log:
+  - navigating to ""http://www.sundewpaintingde.com/"", waiting until ""domcontentloaded""
+"
+http://www.tolbertandsons.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tolbertandsons.com/
+Call log:
+  - navigating to ""http://www.tolbertandsons.com/"", waiting until ""domcontentloaded""
+"
+https://www.housecareandimprovements.com/?fbclid=iwar3jhjljzjdprd1jwrsvvsorpkcppigmfjcvz90ld1pludr9tgqdjszvwd8,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.housecareandimprovements.com/?fbclid=iwar3jhjljzjdprd1jwrsvvsorpkcppigmfjcvz90ld1pludr9tgqdjszvwd8
+Call log:
+  - navigating to ""https://www.housecareandimprovements.com/?fbclid=iwar3jhjljzjdprd1jwrsvvsorpkcppigmfjcvz90ld1pludr9tgqdjszvwd8"", waiting until ""domcontentloaded""
+"
+https://phoenixcoatingsolutions.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://phoenixcoatingsolutions.net/
+Call log:
+  - navigating to ""https://phoenixcoatingsolutions.net/"", waiting until ""domcontentloaded""
+"
+https://rivertableepoxy.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://rivertableepoxy.com/
+Call log:
+  - navigating to ""https://rivertableepoxy.com/"", waiting until ""domcontentloaded""
+"
+http://calumetpainting.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://calumetpainting.com/
+Call log:
+  - navigating to ""http://calumetpainting.com/"", waiting until ""domcontentloaded""
+"
+http://www.freshcoatroundrock.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.freshcoatroundrock.com/
+Call log:
+  - navigating to ""http://www.freshcoatroundrock.com/"", waiting until ""domcontentloaded""
+"
+https://ajbfloorrestore.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://ajbfloorrestore.com/
+Call log:
+  - navigating to ""https://ajbfloorrestore.com/"", waiting until ""domcontentloaded""
+"
+http://goodpronline.com,FAILED,HTTP 404
+https://lsconcretecoatings.com,BLOCKED,HTTP 403
+https://cmd-llc.com,BLOCKED,HTTP 403
+https://mahoningvalleyepox.wixsite.com/mahoningvalleyepoxys,FAILED,HTTP 404
+http://anhrenovations.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://anhrenovations.com/
+Call log:
+  - navigating to ""http://anhrenovations.com/"", waiting until ""domcontentloaded""
+"
+http://www.getitdonefl.com,FAILED,HTTP 404
+https://www.cascadiaconcretecoatings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cascadiaconcretecoatings.com/
+Call log:
+  - navigating to ""https://www.cascadiaconcretecoatings.com/"", waiting until ""domcontentloaded""
+"
+http://www.paintingplusofboulder.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.paintingplusofboulder.com/
+Call log:
+  - navigating to ""http://www.paintingplusofboulder.com/"", waiting until ""domcontentloaded""
+"
+http://www.abi-son.com,BLOCKED,HTTP 403
+http://www.littlejackmarketing.com,FAILED,HTTP 520
+http://standardelectriccorp.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://standardelectriccorp.com/
+Call log:
+  - navigating to ""http://standardelectriccorp.com/"", waiting until ""domcontentloaded""
+"
+http://www.lewinelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lewinelectric.com/
+Call log:
+  - navigating to ""http://www.lewinelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.bm-electric.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bm-electric.net/
+Call log:
+  - navigating to ""http://www.bm-electric.net/"", waiting until ""domcontentloaded""
+"
+http://armedforcesconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://armedforcesconstruction.com/
+Call log:
+  - navigating to ""http://armedforcesconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.arundelcooling.com,BLOCKED,HTTP 403
+https://www.5hillselectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.5hillselectric.com/
+Call log:
+  - navigating to ""https://www.5hillselectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.gopherconstructioninc.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.gopherconstructioninc.com/
+Call log:
+  - navigating to ""https://www.gopherconstructioninc.com/"", waiting until ""domcontentloaded""
+"
+http://www.24-7electricalservices.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.24-7electricalservices.com/
+Call log:
+  - navigating to ""https://www.24-7electricalservices.com/"", waiting until ""domcontentloaded""
+"
+https://craftyboxstore.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://craftyboxstore.com/
+Call log:
+  - navigating to ""https://craftyboxstore.com/"", waiting until ""domcontentloaded""
+"
+http://www.hpionline.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at http://www.hpionline.com/
+Call log:
+  - navigating to ""http://www.hpionline.com/"", waiting until ""domcontentloaded""
+"
+https://matchbox-smoke-shop.business.site,FAILED,HTTP 404
+https://getemails.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://getemails.com/"", waiting until ""domcontentloaded""
+"
+http://www.happyvikinggames.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.happyvikinggames.com/"", waiting until ""domcontentloaded""
+"
+http://jeunesseglobal.com,BLOCKED,HTTP 403
+http://chicosfas.com,FAILED,HTTP 409
+http://fashionhappyhour.com,BLOCKED,HTTP 403
+http://onefifteen115.com,BLOCKED,HTTP 403
+http://journeyofeight.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://journeyofeight.com/
+Call log:
+  - navigating to ""http://journeyofeight.com/"", waiting until ""domcontentloaded""
+"
+http://emeraldcoastconventioncenter.com,BLOCKED,HTTP 403
+http://funkysonline.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://funkysonline.com/
+Call log:
+  - navigating to ""http://funkysonline.com/"", waiting until ""domcontentloaded""
+"
+http://cff.org,BLOCKED,HTTP 403
+http://bluevinesevents.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://bluevinesevents.com/
+Call log:
+  - navigating to ""http://bluevinesevents.com/"", waiting until ""domcontentloaded""
+"
+http://lincolnelectric.com,BLOCKED,HTTP 403
+http://delta.com,FAILED,HTTP 444
+http://quintessentiallyevents.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://quintessentiallyevents.com/
+Call log:
+  - navigating to ""http://quintessentiallyevents.com/"", waiting until ""domcontentloaded""
+"
+http://bulgari.com,BLOCKED,HTTP 403
+http://servicenow.com,BLOCKED,HTTP 403
+http://steelhouse.com,FAILED,HTTP 404
+http://i-entertainment.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://i-entertainment.net/
+Call log:
+  - navigating to ""http://i-entertainment.net/"", waiting until ""domcontentloaded""
+"
+http://betlinx.com,FAILED,HTTP 404
+http://westinirvingcc.com,BLOCKED,HTTP 403
+http://www.sherwoodtileandgranite.com,BLOCKED,HTTP 401
+http://www.robthediyguy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.robthediyguy.com/
+Call log:
+  - navigating to ""http://www.robthediyguy.com/"", waiting until ""domcontentloaded""
+"
+https://www.tigerconcretecoatings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tigerconcretecoatings.com/
+Call log:
+  - navigating to ""https://www.tigerconcretecoatings.com/"", waiting until ""domcontentloaded""
+"
+https://crocpaintingcompany.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://crocpaintingcompany.com/
+Call log:
+  - navigating to ""https://crocpaintingcompany.com/"", waiting until ""domcontentloaded""
+"
+http://www.acsdecorativeconcrete.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.acsdecorativeconcrete.com/
+Call log:
+  - navigating to ""http://www.acsdecorativeconcrete.com/"", waiting until ""domcontentloaded""
+"
+http://www.garageexperts.com/location/home/greater-austin,BLOCKED,HTTP 404
+https://www.monarchelpaso.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.monarchelpaso.com/
+Call log:
+  - navigating to ""https://www.monarchelpaso.com/"", waiting until ""domcontentloaded""
+"
+https://coloradoepoxykings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://coloradoepoxykings.com/
+Call log:
+  - navigating to ""https://coloradoepoxykings.com/"", waiting until ""domcontentloaded""
+"
+https://www.webfootcc.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.webfootcc.com/
+Call log:
+  - navigating to ""https://www.webfootcc.com/"", waiting until ""domcontentloaded""
+"
+https://www.canzmarketing.com,FAILED,HTTP 520
+http://encore-us.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://encore-us.com/"", waiting until ""domcontentloaded""
+"
+https://new-york-best-electricians.business.site,FAILED,HTTP 404
+http://www.carterelectric.net,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://www.carterelectric.net/
+Call log:
+  - navigating to ""http://www.carterelectric.net/"", waiting until ""domcontentloaded""
+"
+https://3e-electrical-services-llc.business.site,FAILED,HTTP 404
+http://www.williamselectron.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.williamselectron.com/
+Call log:
+  - navigating to ""http://www.williamselectron.com/"", waiting until ""domcontentloaded""
+"
+http://nimitzelectric.com,FAILED,HTTP 404
+https://aetnacorp.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://aetnacorp.com/
+Call log:
+  - navigating to ""https://aetnacorp.com/"", waiting until ""domcontentloaded""
+"
+http://www.powerpanelpros.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.powerpanelpros.com/
+Call log:
+  - navigating to ""http://www.powerpanelpros.com/"", waiting until ""domcontentloaded""
+"
+http://www.ds-electric.com,BLOCKED,HTTP 401
+http://www.safelv.com,BLOCKED,HTTP 403
+https://www.eeandc.com,FAILED,HTTP 404
+https://octipower.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://octipower.com/
+Call log:
+  - navigating to ""https://octipower.com/"", waiting until ""domcontentloaded""
+"
+http://www.networkservices.pro,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.networkservices.pro/
+Call log:
+  - navigating to ""http://www.networkservices.pro/"", waiting until ""domcontentloaded""
+"
+http://wwww.gowebstack.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://wwww.gowebstack.com/
+Call log:
+  - navigating to ""http://wwww.gowebstack.com/"", waiting until ""domcontentloaded""
+"
+http://bobmorriselectric.trustab.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://bobmorriselectric.trustab.org/"", waiting until ""domcontentloaded""
+"
+http://www.dora.state.co.us/electrical,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.dora.state.co.us/electrical"", waiting until ""domcontentloaded""
+"
+http://douridaskitchen.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://douridaskitchen.com/
+Call log:
+  - navigating to ""http://douridaskitchen.com/"", waiting until ""domcontentloaded""
+"
+http://www.20twentycreative.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.20twentycreative.com/
+Call log:
+  - navigating to ""https://www.20twentycreative.com/"", waiting until ""domcontentloaded""
+"
+http://www.tpgamesllc.com,FAILED,HTTP 404
+http://www.seattleelectricianservice.com,FAILED,HTTP 522
+http://bonefishgrill.com,BLOCKED,HTTP 403
+http://experiencekissimmee.com,BLOCKED,HTTP 403
+http://silverspot.net,BLOCKED,HTTP 403
+http://rotary.org,BLOCKED,HTTP 429
+http://aristalabs.com,BLOCKED,HTTP 403
+http://starlanespolaris.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://starlanespolaris.com/
+Call log:
+  - navigating to ""http://starlanespolaris.com/"", waiting until ""domcontentloaded""
+"
+http://entertrainmentjunction.com,FAILED,HTTP 404
+http://egotripmedia.com,FAILED,HTTP 404
+http://moma.org,BLOCKED,HTTP 403
+http://themanhattancenter.com,BLOCKED,HTTP 403
+http://eventconcept.co.uk,FAILED,HTTP 520
+http://clippers.com,BLOCKED,HTTP 403
+http://ncneo.org,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at http://ncneo.org/
+Call log:
+  - navigating to ""http://ncneo.org/"", waiting until ""domcontentloaded""
+"
+http://shirazevents.com,FAILED,HTTP 404
+http://bestbeverage.com,FAILED,HTTP 404
+http://resideresidentialtx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://resideresidentialtx.com/
+Call log:
+  - navigating to ""http://resideresidentialtx.com/"", waiting until ""domcontentloaded""
+"
+https://stanleyexteriors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://stanleyexteriors.com/
+Call log:
+  - navigating to ""https://stanleyexteriors.com/"", waiting until ""domcontentloaded""
+"
+http://limepaintingofindianapolis.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://limepaintingofindianapolis.com/
+Call log:
+  - navigating to ""http://limepaintingofindianapolis.com/"", waiting until ""domcontentloaded""
+"
+http://techmediaco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://techmediaco.com/
+Call log:
+  - navigating to ""http://techmediaco.com/"", waiting until ""domcontentloaded""
+"
+http://www.heritagepaintingpros.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.heritagepaintingpros.com/
+Call log:
+  - navigating to ""http://www.heritagepaintingpros.com/"", waiting until ""domcontentloaded""
+"
+https://indianapolis-in.thegaragefloorco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://indianapolis-in.thegaragefloorco.com/
+Call log:
+  - navigating to ""https://indianapolis-in.thegaragefloorco.com/"", waiting until ""domcontentloaded""
+"
+http://www.everstonefloors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.everstonefloors.com/
+Call log:
+  - navigating to ""http://www.everstonefloors.com/"", waiting until ""domcontentloaded""
+"
+http://kandlpaintitwell.weebly.com,FAILED,HTTP 404
+http://www.qualitycarpetcleaningelpaso.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.qualitycarpetcleaningelpaso.com/
+Call log:
+  - navigating to ""http://www.qualitycarpetcleaningelpaso.com/"", waiting until ""domcontentloaded""
+"
+https://rollinconcretepainters.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://rollinconcretepainters.com/
+Call log:
+  - navigating to ""https://rollinconcretepainters.com/"", waiting until ""domcontentloaded""
+"
+https://craftsmancoatings.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://craftsmancoatings.com/
+Call log:
+  - navigating to ""https://craftsmancoatings.com/"", waiting until ""domcontentloaded""
+"
+http://www.b2bleo.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.b2bleo.com/
+Call log:
+  - navigating to ""http://www.b2bleo.com/"", waiting until ""domcontentloaded""
+"
+https://www.experiacreative.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.experiacreative.com/
+Call log:
+  - navigating to ""https://www.experiacreative.com/"", waiting until ""domcontentloaded""
+"
+http://giftcards.quickgifts.com,BLOCKED,HTTP 403
+http://www.forteadvertising.com,BLOCKED,HTTP 403
+http://www.mikemalfettoneelectric.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mikemalfettoneelectric.com/
+Call log:
+  - navigating to ""http://www.mikemalfettoneelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.mgmelectric.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mgmelectric.us/
+Call log:
+  - navigating to ""http://www.mgmelectric.us/"", waiting until ""domcontentloaded""
+"
+http://www.voltavista.com,BLOCKED,HTTP 403
+http://a-1electrical.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://a-1electrical.com/
+Call log:
+  - navigating to ""http://a-1electrical.com/"", waiting until ""domcontentloaded""
+"
+https://www.geoelectricllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.geoelectricllc.com/
+Call log:
+  - navigating to ""https://www.geoelectricllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.lasvegasconnects.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lasvegasconnects.net/
+Call log:
+  - navigating to ""https://www.lasvegasconnects.net/"", waiting until ""domcontentloaded""
+"
+http://beegreenenergyllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://beegreenenergyllc.com/
+Call log:
+  - navigating to ""http://beegreenenergyllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.pinnacleelectric.net,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.pinnacleelectric.net/
+Call log:
+  - navigating to ""https://www.pinnacleelectric.net/"", waiting until ""domcontentloaded""
+"
+http://www.macsbuddy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.macsbuddy.com/
+Call log:
+  - navigating to ""http://www.macsbuddy.com/"", waiting until ""domcontentloaded""
+"
+https://touchedbymayat.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://touchedbymayat.com/
+Call log:
+  - navigating to ""https://touchedbymayat.com/"", waiting until ""domcontentloaded""
+"
+https://www.artistryglamllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.artistryglamllc.com/
+Call log:
+  - navigating to ""https://www.artistryglamllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.marathonmechanical.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.marathonmechanical.com/"", waiting until ""domcontentloaded""
+"
+https://www.mobilityplus.com/fid40/jacksonville-fl-32257,FAILED,HTTP 404
+http://www.paymentwall.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.paymentwall.com/"", waiting until ""domcontentloaded""
 "
