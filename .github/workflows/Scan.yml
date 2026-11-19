@@ -1,0 +1,94 @@
+name: Scan websites
+on:
+  workflow_dispatch:
+    inputs:
+      csv_file:
+        description: "Websites file ka naam (CSV ya Excel, repo me)"
+        default: "websites.csv"
+      min_score:
+        description: "HOT LEAD minimum score (aapke command prompt tool wala 65)"
+        default: "65"
+      box_only:
+        description: "Sirf BOX style wali sites (False = box ke saath poori-width purani sites bhi)"
+        type: boolean
+        default: false
+      only_not_mobile:
+        description: "Sirf 'mobile-friendly NAHI' wali sites (False = mobile-friendly par purani dikhne wali bhi)"
+        type: boolean
+        default: false
+      retry_errors:
+        description: "Pehle khuli-nahi sites dobara try karo"
+        type: boolean
+        default: false
+      push_sheet:
+        description: "Hot leads Google Sheet me update karo"
+        type: boolean
+        default: true
+permissions:
+  contents: write
+jobs:
+  scan:
+    name: scan (computer ${{ matrix.shard }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    strategy:
+      fail-fast: false
+      matrix:
+        # 20 computers ek saath (GitHub free plan ki limit). Kam karna ho to list chhoti kar do.
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Is computer ke hisse ki har site browser me kholkar check karo
+        env:
+          PYTHONUNBUFFERED: "1"
+          SKIP_SCREENSHOTS: "1"
+          CONCURRENCY: "5"
+          RETRY_COUNT: "1"
+          RETRY_DELAY: "2"
+          NAV_TIMEOUT_MS: "25000"
+        run: python -u main.py "${{ inputs.csv_file }}" --heuristic-only --shard ${{ matrix.shard }}/${{ strategy.job-total }} --skip-from final_all_results.csv --out shard --max-minutes 320 ${{ inputs.retry_errors && '--retry-errors' || '' }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: shard-${{ matrix.shard }}
+          path: shard_results.csv
+          if-no-files-found: ignore
+          retention-days: 3
+  merge:
+    name: sab jodo + Sheet update
+    needs: scan
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install openpyxl gspread google-auth
+      - uses: actions/download-artifact@v4
+        with:
+          path: shards
+      - name: Results jodo, hot leads banao
+        run: python merge_and_publish.py --shards shards --prev final_all_results.csv --list "${{ inputs.csv_file }}" --min-score ${{ inputs.min_score }} ${{ inputs.box_only && '--box-only' || '' }} ${{ inputs.only_not_mobile && '--not-mobile-only' || '' }}
+      - name: Google Sheet update (naye add, duplicate replace, purani galat leads 'Removed' tab me)
+        if: ${{ always() && inputs.push_sheet }}
+        continue-on-error: true
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SHEET_URL: ${{ secrets.SHEET_URL }}
+        run: python push_to_sheet.py final_hot_leads.csv final_not_hot.csv
+      - name: Results repo me save karo
+        if: always()
+        run: |
+          git config user.name "scanner-bot"
+          git config user.email "bot@users.noreply.github.com"
+          for f in final_all_results.csv final_hot_leads.csv final_hot_leads_all_time.csv final_not_hot.csv final_errors.csv; do [ -f "$f" ] && git add "$f"; done
+          git commit -m "scan results" || echo "nothing new"
+          git pull --rebase || true
+          git push || true
