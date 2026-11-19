@@ -1,0 +1,28 @@
+name: Calibrate accuracy
+on:
+  workflow_dispatch:
+    inputs:
+      labels_file:
+        description: "Labels CSV ka naam (columns: url,label  -> 1 purani, 0 nahi)"
+        default: "calibration_labels.csv"
+      render:
+        description: "Browser measure bhi use karo"
+        type: boolean
+        default: true
+permissions:
+  contents: read
+jobs:
+  calibrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - if: ${{ inputs.render }}
+        run: python -m playwright install --with-deps chromium
+      - name: Accuracy table (Summary tab me dikhegi)
+        run: |
+          { echo '```'; python outdated_checker.py calibrate "${{ inputs.labels_file }}" --db calib.db ${{ inputs.render && '--render' || '' }} | grep -v '^\[' ; echo '```'; } | tee -a "$GITHUB_STEP_SUMMARY"
