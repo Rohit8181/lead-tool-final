@@ -8232,3 +8232,88 @@ http://www.splis.com,http://www.splis.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeou
 Call log:
   - navigating to ""http://www.splis.com/"", waiting until ""domcontentloaded""
 "
+http://www.thunderelectricllc.com,http://www.thunderelectricllc.com/,SUCCESS,66,OUTDATED,HIGH PRIORITY,15,15,7,4,0,8,2,8,True,False,~2010-2016 (estimated),485,25,717/717,4,Boxed fixed-width layout | Not mobile friendly | No HTTPS (Not secure) | Table/deprecated-tag markup,"[4 independent outdated signals agree] | Fixed-width centered box: content only 485px wide (25% of a 1920px screen), ~717px empty on each side | No full-width sections (everything sits inside one box) | Deprecated HTML tags (font/center/marquee) | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal)",0.6,
+http://www.emeraldpacificelectric.com,https://www.emeraldpacificelectric.com/,SUCCESS,6,MODERN,IGNORE,0,4,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1858,97,41/21,0,,Viewport tag present but not device-width based | Excessive inline CSS,0.6,
+http://www.amelectricservice.com,https://www.amelectricservice.com/,SUCCESS,20,MODERN,IGNORE,9,0,1,4,0,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (6 image-only links) | Deprecated HTML tags (font/center/marquee) | Excessive inline CSS,0.6,
+http://www.qualtire.com,http://qualtire.com/index.html,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,12,0,2,7,0,6,2,2,False,True,~2010-2016 (estimated),1070,56,425/425,3,Image-based menu | No HTTPS (Not secure) | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Centered 1070px container, but page has 5 full-width sections (modern pattern) | Menu/links are images (5 image-only links) | Deprecated HTML tags (font/center/marquee) | Site opens on http:// (browser shows 'Not secure') | Multiple layout tables | Excessive inline CSS",0.6,
+http://www.everest.edu,http://www.everest.edu,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.everest.edu/
+Call log:
+  - navigating to ""http://www.everest.edu/"", waiting until ""domcontentloaded""
+"
+http://www.milhollandelectric.com,https://mckayroofingsolar.com/post/milholland-electric-customers,SUCCESS,10,MODERN,IGNORE,4,0,3,0,0,2,1,5,False,True,~2014-2020 (estimated),1314,68,570/36,0,,Off-center fixed-width content (1314px wide) | No full-width sections (everything sits inside one box) | No clear call-to-action / enquiry flow,0.6,
+http://www.electriciandallastx.com,http://www.electriciandallastx.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.enm.com,http://www.enm.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://reliableductsac.com,https://reliableductsac.com/,SUCCESS,4,MODERN,IGNORE,0,2,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
+http://www.atlascos.com,https://www.atlascos.com/,SUCCESS,9,MODERN,IGNORE,5,0,1,0,0,2,1,2,False,True,~2014-2020 (estimated),1613,84,154/154,1,Image-based menu,"Centered 1613px container, but page has 9 full-width sections (modern pattern) | Menu/links are images (7 image-only links)",0.6,
+https://quoruminternational.com/index.asp,https://quoruminternational.com/index.asp,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 400
+https://taylors-electrical-and-plumbing-and-heating-and-air.business.site,https://taylors-electrical-and-plumbing-and-heating-and-air.business.site,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://renuenergysolutions.com,https://renuenergysolutions.com/,SUCCESS,20,MODERN,IGNORE,7,0,2,2,4,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (20 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.rrtxelectrical.com,https://www.rrtxelectrical.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rrtxelectrical.com/
+Call log:
+  - navigating to ""https://www.rrtxelectrical.com/"", waiting until ""domcontentloaded""
+"
+https://jramos-company.sitey.me,https://jramos-company.sitey.me/,SUCCESS,18,MODERN,IGNORE,8,2,3,0,0,4,1,8,True,True,~2014-2020 (estimated),994,52,463/463,1,Boxed fixed-width layout,"Fixed-width centered box: content only 994px wide (52% of a 1920px screen), ~463px empty on each side | No full-width sections (everything sits inside one box) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+http://www.familyelectrical.info,https://familyelectrical.info/,SUCCESS,4,MODERN,IGNORE,0,2,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
+https://www.haleelectrician.com,https://www.haleelectrician.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.haleelectrician.com/
+Call log:
+  - navigating to ""https://www.haleelectrician.com/"", waiting until ""domcontentloaded""
+"
+https://meskellelectric.com,https://meskellelectric.com/,SUCCESS,10,MODERN,IGNORE,5,2,0,0,0,2,1,2,False,True,~2014-2020 (estimated),1216,63,352/352,1,Tiny body text,"Centered 1216px container, but page has 4 full-width sections (modern pattern) | Very small body text (~13px) | No @media queries in inline styles (partial signal)",0.6,
+http://www.rezzelectric.com,https://rezzelectric.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+https://www.aaark.com,https://www.aaark.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aaark.com/
+Call log:
+  - navigating to ""https://www.aaark.com/"", waiting until ""domcontentloaded""
+"
+http://advanceelectricalcontractors.com,https://www.advanceelectricalcontractors.com/,SUCCESS,10,MODERN,IGNORE,0,0,5,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (2000),Copyright year is 2000 (26 years old) | Excessive inline CSS | Large page (~10.8 MB),0.6,
+http://www.seattleelectric.org,https://seattleelectric.org/,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.fsgi.com,http://www.fsgi.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.mogulelectric.com,http://www.mogulelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.mogulelectric.com/
+Call log:
+  - navigating to ""https://www.mogulelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.interfacefireelectrical.com,https://www.interfacefireelectrical.com/lander,SUCCESS,12,MODERN,IGNORE,4,2,3,0,0,2,1,4,False,True,~2014-2020 (estimated),1600,83,160/160,0,,"Fixed-width centered box: content only 1600px wide (83% of a 1920px screen), ~160px empty on each side | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+http://www.abecelectric.com,https://www.abecelectric.com/,SUCCESS,9,MODERN,IGNORE,0,0,5,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Fax number displayed | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.pei-electric.com,https://pei-electric.com/,SUCCESS,5,MODERN,IGNORE,2,0,0,0,2,1,0,2,False,True,~2014-2020 (estimated),1419,74,250/250,0,,"Centered 1419px container, but page has 5 full-width sections (modern pattern)",0.6,
+http://www.maranathaelectrical.com,https://www.vigormarine.com/,SUCCESS,13,MODERN,IGNORE,5,0,0,2,3,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (82 image-only links) | Excessive inline CSS | Large page (~27.2 MB),0.6,
+https://www.manta.com/c/mtwyv2w/cheers-electric,https://www.manta.com/c/mtwyv2w/cheers-electric,SUCCESS,12,MODERN,IGNORE,0,8,0,2,2,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,0,,Page does not reflow on mobile (content 1.6x wider than screen) | Excessive inline CSS,0.6,
+http://www.peerhomesolutions.com,https://www.peerhomesolutions.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,0,2,0,0,2,False,True,~2020-2026 (estimated),1200,62,360/360,0,,"Centered 1200px container, but page has 2 full-width sections (modern pattern)",0.6,
+http://www.rfi.com,http://www.rfi.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.rfi.com/"", waiting until ""domcontentloaded""
+"
+http://www.permissioninteractive.com,http://www.permissioninteractive.com/,SUCCESS,75,STRONGLY OUTDATED,HOT LEAD,24,15,10,8,0,12,4,9,True,False,~2004-2012 (estimated),880,46,520/520,7,Boxed fixed-width layout | Not mobile friendly | Old copyright (2016) | Flash/plugin content | Justified old-style text | No HTTPS (Not secure) | Table/deprecated-tag markup,"[7 independent outdated signals agree] | Fixed-width centered box: content only 880px wide (46% of a 1920px screen), ~520px empty on each side | No full-width sections (everything sits inside one box) | Justified (stretched) body text, old-style typography | Flash / plugin content (no longer supported by browsers) | Table-based page layout | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile)",0.6,
+http://www.getoccasion.com,https://occasion.app/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1889,98,31/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.therealreal.com,http://www.therealreal.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.namesilo.com,https://www.namesilo.com/,SUCCESS,9,MODERN,IGNORE,0,2,5,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (2009),No @media queries in inline styles (partial signal) | Copyright year is 2009 (17 years old) | Excessive inline CSS,0.6,
+http://www.cimm.us,https://cimm.us/,SUCCESS,31,MODERN,IGNORE,7,9,3,7,0,4,1,0,False,False,~2014-2020 (estimated),1910,100,5/5,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Table-based page layout | No viewport meta tag (site not built for mobile) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Multiple layout tables,0.6,
+http://www.wish.com,https://www.wish.com/,SUCCESS,14,MODERN,IGNORE,0,0,5,2,7,0,0,0,False,True,~2020-2026 (estimated),1904,99,16/0,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (8.2s),0.6,
+http://www.boldcommerce.com,https://boldcommerce.com/,SUCCESS,10,MODERN,IGNORE,0,0,3,2,5,0,0,0,False,True,~2020-2026 (estimated),1794,93,111/15,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~12.1 MB),0.6,
+http://www.binaryminds.com,https://www.binaryminds.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links),0.6,
+https://blennd.com,https://blennd.com/,SUCCESS,12,MODERN,IGNORE,5,0,2,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (28 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://spontuneous.com,http://spontuneous.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at http://spontuneous.com/
+Call log:
+  - navigating to ""http://spontuneous.com/"", waiting until ""domcontentloaded""
+"
+https://www.cathedralpayments.com,https://cathedralpayments.com/,SUCCESS,16,MODERN,IGNORE,5,8,0,0,0,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Page does not reflow on mobile (content 1.6x wider than screen),0.6,
+http://www.electricmasters.biz,http://www.electricmasters.biz,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.electricmasters.biz/"", waiting until ""domcontentloaded""
+"
+https://www.poorboysvaporworld.com,https://poorboysvaporworld.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1872,98,0/48,0,,No significant outdated signals found,0.6,
+http://www.junglecommunications.com,https://www.junglecommunications.com/,SUCCESS,21,MODERN,IGNORE,7,0,5,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (13 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://coupflip.com,http://coupflip.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://coupflip.com/
+Call log:
+  - navigating to ""http://coupflip.com/"", waiting until ""domcontentloaded""
+"
+http://www.preferredelec.com,http://www.preferredelec.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.preferredelec.com/"", waiting until ""domcontentloaded""
+"
+http://www.shopedropoff.com,http://www.shopedropoff.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.shopedropoff.com/"", waiting until ""domcontentloaded""
+"
+http://www.hearingaidmarketing.com,http://www.hearingaidmarketing.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.hearingaidmarketing.com/"", waiting until ""domcontentloaded""
+"

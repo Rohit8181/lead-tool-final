@@ -2063,3 +2063,57 @@ http://www.splis.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
   - navigating to ""http://www.splis.com/"", waiting until ""domcontentloaded""
 "
+http://www.everest.edu,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.everest.edu/
+Call log:
+  - navigating to ""http://www.everest.edu/"", waiting until ""domcontentloaded""
+"
+http://www.electriciandallastx.com,FAILED,HTTP 404
+http://www.enm.com,FAILED,HTTP 404
+https://quoruminternational.com/index.asp,FAILED,HTTP 400
+https://taylors-electrical-and-plumbing-and-heating-and-air.business.site,FAILED,HTTP 404
+https://www.rrtxelectrical.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rrtxelectrical.com/
+Call log:
+  - navigating to ""https://www.rrtxelectrical.com/"", waiting until ""domcontentloaded""
+"
+https://www.haleelectrician.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.haleelectrician.com/
+Call log:
+  - navigating to ""https://www.haleelectrician.com/"", waiting until ""domcontentloaded""
+"
+https://www.aaark.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aaark.com/
+Call log:
+  - navigating to ""https://www.aaark.com/"", waiting until ""domcontentloaded""
+"
+http://www.fsgi.com,BLOCKED,HTTP 403
+http://www.mogulelectric.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.mogulelectric.com/
+Call log:
+  - navigating to ""https://www.mogulelectric.com/"", waiting until ""domcontentloaded""
+"
+http://www.rfi.com,BLOCKED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.rfi.com/"", waiting until ""domcontentloaded""
+"
+http://www.therealreal.com,BLOCKED,HTTP 403
+http://spontuneous.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at http://spontuneous.com/
+Call log:
+  - navigating to ""http://spontuneous.com/"", waiting until ""domcontentloaded""
+"
+http://www.electricmasters.biz,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.electricmasters.biz/"", waiting until ""domcontentloaded""
+"
+http://coupflip.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://coupflip.com/
+Call log:
+  - navigating to ""http://coupflip.com/"", waiting until ""domcontentloaded""
+"
+http://www.preferredelec.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.preferredelec.com/"", waiting until ""domcontentloaded""
+"
+http://www.shopedropoff.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.shopedropoff.com/"", waiting until ""domcontentloaded""
+"
+http://www.hearingaidmarketing.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.hearingaidmarketing.com/"", waiting until ""domcontentloaded""
+"
