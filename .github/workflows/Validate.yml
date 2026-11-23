@@ -21,7 +21,19 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
-      - run: python -m playwright install --with-deps chromium
+      - name: Browser install (fail ho to 4 baar dobara koshish)
+        run: |
+          for i in 1 2 3 4; do
+            sudo apt-get update -y || true
+            python -m playwright install --with-deps chromium && break
+            echo "browser install fail hua, 30 second baad dobara ($i)"; sleep 30
+          done
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          with sync_playwright() as p:
+              b = p.chromium.launch(); b.close()
+          print("browser OK")
+          PY
       - name: Labelled sites chalao aur accuracy napo (Summary tab me dikhegi)
         env:
           SKIP_SCREENSHOTS: "1"
