@@ -101,13 +101,14 @@ def prune(sh, ws, path, today):
 
 def main():
     path = sys.argv[1] if len(sys.argv) > 1 else "hot_leads.csv"
-    
-sa = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
-url = os.environ.get("SHEET_URL")
+
+    sa = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
+    url = os.environ.get("SHEET_URL")
 
     if not sa or not url:
         print("Google Sheet secrets set nahi hain - sheet update skip kiya.")
         return
+
     if not os.path.exists(path):
         print(f"{path} nahi mili - sheet update skip kiya.")
         return
