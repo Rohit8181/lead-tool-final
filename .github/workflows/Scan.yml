@@ -37,12 +37,24 @@ jobs:
         # 20 computers ek saath (GitHub free plan ki limit). Kam karna ho to list chhoti kar do.
         shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
     steps:
-      - uses: actions/checkout@v6
-      - uses: actions/setup-python@v6
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
-      - run: python -m playwright install --with-deps chromium
+      - name: Browser install (fail ho to 4 baar dobara koshish)
+        run: |
+          for i in 1 2 3 4; do
+            sudo apt-get update -y || true
+            python -m playwright install --with-deps chromium && break
+            echo "browser install fail hua, 30 second baad dobara ($i)"; sleep 30
+          done
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          with sync_playwright() as p:
+              b = p.chromium.launch(); b.close()
+          print("browser OK")
+          PY
       - name: Is computer ke hisse ki har site browser me kholkar check karo
         env:
           PYTHONUNBUFFERED: "1"
@@ -52,7 +64,7 @@ jobs:
           RETRY_DELAY: "2"
           NAV_TIMEOUT_MS: "25000"
         run: python -u main.py "${{ inputs.csv_file }}" --heuristic-only --shard ${{ matrix.shard }}/${{ strategy.job-total }} --skip-from final_all_results.csv --out shard --max-minutes 320 ${{ inputs.retry_errors && '--retry-errors' || '' }}
-      - uses: actions/upload-artifact@v7
+      - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: shard-${{ matrix.shard }}
@@ -66,12 +78,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v6
-      - uses: actions/setup-python@v6
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
       - run: pip install openpyxl gspread google-auth
-      - uses: actions/download-artifact@v8
+      - uses: actions/download-artifact@v4
         with:
           path: shards
       - name: Results jodo, hot leads banao
