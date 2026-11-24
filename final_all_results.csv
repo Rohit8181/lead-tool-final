@@ -11914,3 +11914,1012 @@ http://www.deercreekdoor.com,http://www.deercreekdoor.com,FAILED,,,,,,,,,,,,,,,,
 Call log:
   - navigating to ""http://www.deercreekdoor.com/"", waiting until ""domcontentloaded""
 "
+http://www.alloutfitness.org,http://www.alloutfitness.org,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alloutfitness.org/
+Call log:
+  - navigating to ""http://www.alloutfitness.org/"", waiting until ""domcontentloaded""
+"
+http://www.planetfitness.com,http://www.planetfitness.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.anytimefitness.com,https://www.anytimefitness.com/,SUCCESS,14,MODERN,IGNORE,7,0,0,0,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links),0.6,
+http://www.inshape.com,https://www.inshape.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~17.8 MB),0.6,
+https://www.planetfitness.com/gyms/thornton-co,https://www.planetfitness.com/gyms/thornton-co,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://fitnessconnection.com,https://fitnessconnection.com/,SUCCESS,20,MODERN,IGNORE,5,0,0,2,10,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS | Slow page load (8.7s) | Large page (~16.1 MB),0.6,
+http://www.ilovekickboxing.com,https://www.ilovekickboxing.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://www.planetfitness.com/gyms/inglewood-imperial-hwy-ca,https://www.planetfitness.com/gyms/inglewood-imperial-hwy-ca,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.planetfitness.com,https://www.planetfitness.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://ufcgym.com/sunnyvale,http://ufcgym.com/sunnyvale,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://capitalac.com,http://capitalac.com/,SUCCESS,12,MODERN,IGNORE,3,2,5,0,0,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://www.crunch.com,https://www.crunch.com/,SUCCESS,25,MODERN,IGNORE,7,0,3,0,10,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow | Slow page load (11.7s) | Large page (~14.4 MB),0.6,
+http://www.orangetheoryfitness.com,https://www.orangetheory.com/en-us,SUCCESS,26,MODERN,IGNORE,7,0,5,2,7,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | Excessive inline CSS | Slow page load (8.6s)",0.6,
+http://www.fitnessworks.com,https://thefitfx.com/,SUCCESS,17,MODERN,IGNORE,5,0,3,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://thetravelgymsystem.com,https://thetravelgymsystem.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 402
+http://carl-rec-center.edan.io,https://carl-rec-center.edan.io/,SUCCESS,17,MODERN,IGNORE,3,0,3,2,7,2,0,2,False,True,~2014-2020 (estimated),1108,58,406/406,1,Table/deprecated-tag markup,"Centered 1108px container, but page has 2 full-width sections (modern pattern) | Table-based page layout | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~14.7 MB)",0.6,
+https://gocyclenow.com/locations/coral-gables,https://gocyclenow.com/locations/coral-gables,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 401
+http://www.normandygym.com,http://www.normandygym.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.vinnafitness.com,https://vinnafitness.com/,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,2,False,True,~2020-2026 (estimated),1513,79,55/352,0,,"Centered 1513px container, but page has 14 full-width sections (modern pattern) | Copyright year is 2022 | Excessive inline CSS",0.6,
+https://www.hotworx.net/studio/stlouispark-westendblvd,https://www.hotworx.net/studio/stlouispark-westendblvd,SUCCESS,9,MODERN,IGNORE,0,0,2,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~19.2 MB),0.6,
+http://www.curves.com,https://www.curves.com/,SUCCESS,5,MODERN,IGNORE,0,0,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~12.5 MB),0.6,
+https://www.thevinefitness.com,https://vinecincy.com/,SUCCESS,6,MODERN,IGNORE,2,0,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+http://www.dance2gather.com,http://www.dance2gather.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dance2gather.com/
+Call log:
+  - navigating to ""http://www.dance2gather.com/"", waiting until ""domcontentloaded""
+"
+http://www.techartista.org,https://www.techartista.org/,SUCCESS,19,MODERN,IGNORE,5,4,3,2,2,2,1,0,False,True,~2014-2020 (estimated),1848,96,36/36,1,Image-based menu,Menu/links are images (4 image-only links) | Viewport tag present but not device-width based | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.crunch.com/locations/cameron-village,https://www.crunch.com/locations,SUCCESS,22,MODERN,IGNORE,7,0,3,0,7,4,1,0,False,True,~2014-2020 (estimated),1900,99,20/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow | Slow page load (11.4s),0.6,
+http://oneupgym.com,https://www.oneupgym.com/,SUCCESS,15,MODERN,IGNORE,5,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive inline CSS | Large page (~23.7 MB),0.6,
+https://www.hotworx.net,https://www.hotworx.net/,SUCCESS,9,MODERN,IGNORE,0,0,2,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~9.8 MB),0.6,
+https://www.olympiakids.org,https://www.olympiakids.org/,SUCCESS,27,MODERN,IGNORE,9,4,2,4,2,4,2,0,False,True,~2014-2020 (estimated),1890,98,20/10,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (14 image-only links) | Deprecated HTML tags (font/center/marquee) | Viewport tag present but not device-width based | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.xtremegymnastics.com,https://xtremegymnastics.com/,SUCCESS,19,MODERN,IGNORE,7,0,3,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.vitality-fitness.com,https://www.vitality-fitness.com/lander,SUCCESS,18,MODERN,IGNORE,5,2,8,0,0,2,1,0,False,True,~2014-2020 (estimated),1888,98,16/16,2,Old copyright (1999) | Tiny body text,Very small body text (~13px) | No @media queries in inline styles (partial signal) | Copyright year is 1999 (27 years old) | No clear call-to-action / enquiry flow,0.6,
+http://www.crunch.com,https://www.crunch.com/,SUCCESS,25,MODERN,IGNORE,7,0,3,0,10,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow | Slow page load (11.6s) | Large page (~15.0 MB),0.6,
+http://www.crunch.com/locations/long-beach,https://www.crunch.com/locations/long-beach,SUCCESS,23,MODERN,IGNORE,7,0,2,2,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~29.9 MB),0.6,
+http://www.crossfitkilleen.com,http://www.crossfitkilleen.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.crossfitkilleen.com/
+Call log:
+  - navigating to ""http://www.crossfitkilleen.com/"", waiting until ""domcontentloaded""
+"
+http://www.ufcgym.com,https://www.ufcgym.com/,SUCCESS,9,MODERN,IGNORE,0,2,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS | Large page (~26.5 MB),0.6,
+http://www.xfactorfitness.com,https://www.liftfactor.net/,SUCCESS,8,MODERN,IGNORE,0,0,3,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~14.6 MB),0.6,
+https://www.hotworx.net/studio/dentoncrossing,https://www.hotworx.net/studio/dentoncrossing,SUCCESS,9,MODERN,IGNORE,0,0,2,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~19.7 MB),0.6,
+http://hewrocklin.com,http://hewrocklin.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hewrocklin.com/
+Call log:
+  - navigating to ""http://hewrocklin.com/"", waiting until ""domcontentloaded""
+"
+http://www.americanbarbellclubs.com,http://www.americanbarbellclubs.com/.well-known/sgcaptcha/?r=%2F&y=ipr:3.41.210.135:1795511677.322,SUCCESS,19,MODERN,IGNORE,5,6,5,0,0,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | Horizontal overflow on mobile (1.2x screen width) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://chuzefitness.com,https://chuzefitness.com/,SUCCESS,23,MODERN,IGNORE,9,0,2,4,2,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (3 image-only links) | Deprecated HTML tags (font/center/marquee) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.charterfitness.com/location/charter-fitness-of-peoria,http://www.charterfitness.com/location/charter-fitness-of-peoria,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.sports-speed.com,http://www.sports-speed.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sports-speed.com/
+Call log:
+  - navigating to ""http://www.sports-speed.com/"", waiting until ""domcontentloaded""
+"
+https://www.anytimefitness.com/gyms/3849/el-segundo-ca-90245,https://www.anytimefitness.com/locations/el-segundo-california-3849,SUCCESS,17,MODERN,IGNORE,5,0,2,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~12.7 MB),0.6,
+http://www.dance101.org,https://dance101.org/,SUCCESS,5,MODERN,IGNORE,0,0,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~8.3 MB),0.6,
+http://www.team-isc.com,https://team-isc.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links),0.6,
+https://wellbridge.com,https://wellbridge.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.omaharockgym.com,https://www.omaharockgym.com/,SUCCESS,15,MODERN,IGNORE,5,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive inline CSS | Large page (~8.9 MB),0.6,
+http://www.coralgablesathleticclub.com,http://www.coralgablesathleticclub.com/,SUCCESS,19,MODERN,IGNORE,7,2,5,0,0,4,1,4,False,True,~2014-2020 (estimated),907,47,502/510,1,No HTTPS (Not secure),"Fixed-width centered box: content only 907px wide (47% of a 1920px screen), ~502px empty on each side | Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+http://www.dtocrossfit.com,https://dtocrossfit.com/,SUCCESS,17,MODERN,IGNORE,7,0,0,2,3,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive inline CSS | Large page (~10.3 MB),0.6,
+http://www.tigerslairaz.com,http://www.tigerslairaz.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://tmlturnmeloose.com,http://tmlturnmeloose.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tmlturnmeloose.com/
+Call log:
+  - navigating to ""http://tmlturnmeloose.com/"", waiting until ""domcontentloaded""
+"
+http://www.northloopfitness.com,https://www.northloopfitness.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+https://www.anytimefitness.com,https://www.anytimefitness.com/,SUCCESS,14,MODERN,IGNORE,7,0,0,0,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links),0.6,
+http://www.pgtampabay.com,https://pgathleticclub.com/,SUCCESS,15,MODERN,IGNORE,5,0,5,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Old copyright (2018) | Tiny body text,Very small body text (~13px) | Copyright year is 2018 (8 years old) | Excessive inline CSS,0.6,
+http://www.stillandmovingcenter.com,https://stillandmovingcenter.com/,SUCCESS,23,MODERN,IGNORE,7,2,2,2,5,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (30 image-only links) | No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~15.9 MB),0.6,
+http://clubpilates.com,https://www.clubpilates.com/,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.powertotsinc.com,https://www.powertotsinc.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1866,97,29/25,0,,Excessive inline CSS,0.6,
+http://www.ldtfitness.com,http://www.ldtfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.anytimefitness.com/gyms/1973/mount-lookout-oh-45226,https://www.anytimefitness.com/locations/mount-lookout-ohio-1973,SUCCESS,14,MODERN,IGNORE,5,0,0,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive inline CSS,0.6,
+http://www.thelittlegym.com/alamoheightstx,https://www.thelittlegym.com/texas-alamo-heights/,SUCCESS,12,MODERN,IGNORE,5,0,2,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.strikezoneyouthsports.com,http://www.strikezoneyouthsports.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.strikezoneyouthsports.com/
+Call log:
+  - navigating to ""http://www.strikezoneyouthsports.com/"", waiting until ""domcontentloaded""
+"
+http://www.nolimitssportsandfitness.com,http://www.nolimitssportsandfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nolimitssportsandfitness.com/
+Call log:
+  - navigating to ""http://www.nolimitssportsandfitness.com/"", waiting until ""domcontentloaded""
+"
+http://studiofitaz.com,https://studiofitaz.com/,SUCCESS,14,MODERN,IGNORE,4,0,5,2,0,2,1,3,False,True,~2014-2020 (estimated),1020,53,360/540,0,,Off-center fixed-width content (1020px wide) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.tampamuaythai.com/kmt,https://tampamuaythai.com/,SUCCESS,6,MODERN,IGNORE,2,0,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+http://www.my-gym.com,http://www.my-gym.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.my-gym.com/"", waiting until ""domcontentloaded""
+"
+http://www.chelseyfitfactory.com,http://www.chelseyfitfactory.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.chelseyfitfactory.com/
+Call log:
+  - navigating to ""http://www.chelseyfitfactory.com/"", waiting until ""domcontentloaded""
+"
+https://www.ilovekickboxing.com/stamford,https://www.ilovekickboxing.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.thegymdoctor.com,https://thegymdoctor.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,17,0,5,2,0,8,3,8,True,True,~2010-2016 (estimated),1041,54,436/443,3,Boxed fixed-width layout | Image-based menu | Justified old-style text,"[3 independent outdated signals agree] | Fixed-width centered box: content only 1041px wide (54% of a 1920px screen), ~436px empty on each side | No full-width sections (everything sits inside one box) | Justified (stretched) body text, old-style typography | Menu/links are images (40 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
+https://www.thedaileymethod.com,https://thedaileymethod.com/,SUCCESS,7,MODERN,IGNORE,0,0,5,2,0,0,0,0,False,True,~2020-2026 (estimated),1910,100,0/10,1,Old copyright (2000),Copyright year is 2000 (26 years old) | Excessive inline CSS,0.6,
+http://www.xtremefitnesstx.com,http://www.xtremefitnesstx.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.xtremefitnesstx.com/
+Call log:
+  - navigating to ""http://www.xtremefitnesstx.com/"", waiting until ""domcontentloaded""
+"
+http://craigranchfitness.com,https://gamesreviews.com/vn/football-betting-sites/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,8,0,7,3,2,4,1,2,False,True,~2014-2020 (estimated),1600,83,160/160,3,Old copyright (2006) | Image-based menu | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Centered 1600px container, but page has 3 full-width sections (modern pattern) | Menu/links are images (12 image-only links) | Table-based page layout | Copyright year is 2006 (20 years old) | Excessive unstructured text on homepage | Multiple layout tables",0.6,
+http://resultstc.com,https://resultstc.com/,SUCCESS,8,MODERN,IGNORE,0,0,5,0,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Large page (~85.6 MB),0.6,
+http://www.crossfitnow.com,https://platinumcreationscatering.com/,SUCCESS,16,MODERN,IGNORE,7,0,2,2,0,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.sacramentoecofitness.com,https://sacramentoecofitness.com/,SUCCESS,19,MODERN,IGNORE,7,2,3,0,2,4,1,2,False,True,~2014-2020 (estimated),1160,60,380/380,1,Image-based menu,"Centered 1160px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (10 image-only links) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+https://www.purebarre.com/location/atlanta-virginia-highlands-ga,https://www.purebarre.com/location/atlanta-virginia-highlands-ga,SUCCESS,11,MODERN,IGNORE,0,0,2,2,7,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~76.7 MB),0.6,
+http://www.buyfitness4less.com,https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FFitness-4-Less-Sacramento-116024329000899%2F,SUCCESS,13,MODERN,IGNORE,0,7,3,0,3,0,0,0,False,False,~2020-2026 (estimated),1851,96,0/69,0,,No viewport meta tag (site not built for mobile) | No clear call-to-action / enquiry flow | Large page (~9.3 MB),0.6,
+http://www.defined.com,https://defined.com/,SUCCESS,17,MODERN,IGNORE,5,0,2,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~30.8 MB),0.6,
+http://lightenupfitness.com,http://lightenupfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://fitbodybootcamp.com/9514-north-gilbert-az,https://fitbodybootcamp.com/9514-north-gilbert-az,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.getfitwithlena.com,https://www.getfitwithlena.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.sanctuary7.com,https://www.sanctuary7.com/,SUCCESS,66,OUTDATED,HIGH PRIORITY,12,15,5,4,2,6,2,8,True,False,~2010-2016 (estimated),1069,56,8/843,4,Boxed fixed-width layout | Not mobile friendly | Old copyright (2012) | Table/deprecated-tag markup,"[4 independent outdated signals agree] | Fixed-width layout stuck to the left (1069px wide), 843px blank on the right | No full-width sections (everything sits inside one box) | Thin border drawn around the main content box | Deprecated HTML tags (font/center/marquee) | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.8x wider than screen) | No @media queries in inline styles (partial signal)",0.6,
+https://www.anytimefitness.com/gyms/1449/cleveland-oh-44102,https://www.anytimefitness.com/locations/cleveland-ohio-1449,SUCCESS,16,MODERN,IGNORE,5,0,2,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.straightlinedancefitness.com,https://www.straightlinedancefitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.straightlinedancefitness.com/
+Call log:
+  - navigating to ""https://www.straightlinedancefitness.com/"", waiting until ""domcontentloaded""
+"
+http://oaklandfitco.com,http://oaklandfitco.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 520
+http://coloradoinfinityathletics.org,https://www.coloradoinfinityathletics.org/,SUCCESS,22,MODERN,IGNORE,5,0,8,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Old copyright (2018) | Image-based menu,Menu/links are images (3 image-only links) | Copyright year is 2018 (8 years old) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.fitwall.com,https://www.fitwall.com/,SUCCESS,5,MODERN,IGNORE,2,0,0,0,2,1,0,2,False,True,~2014-2020 (estimated),1140,59,390/390,0,,"Centered 1140px container, but page has 2 full-width sections (modern pattern)",0.6,
+https://www.ufcgym.com/locations/orange,https://www.ufcgym.com/locations,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1900,99,0/20,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://bizgym.com,http://bizgym.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://f45training.com/fivepointsraleigh,https://f45training.com/studio/fivepointsraleigh/,SUCCESS,22,MODERN,IGNORE,5,0,2,2,10,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (8.1s) | Large page (~52.6 MB),0.6,
+http://www.planetfitness.com/gyms/bakersfield-california-ave-ca-1603,http://www.planetfitness.com/gyms/bakersfield-california-ave-ca-1603,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.crenshaws.com,https://www.crenshaws.com/,SUCCESS,12,MODERN,IGNORE,5,0,2,2,0,2,1,2,False,True,~2014-2020 (estimated),1176,61,372/372,1,Image-based menu,"Centered 1176px container, but page has 10 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
+http://madepossiblept.com,https://madepossiblept.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links),0.6,
+http://www.schellers.com,https://www.schellers.com/,SUCCESS,14,MODERN,IGNORE,5,2,2,2,0,2,1,0,False,True,~2014-2020 (estimated),1905,99,15/0,1,Image-based menu,Menu/links are images (69 image-only links) | No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.gymfloorhero.com,https://www.gymfloorhero.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.sportimeny.com,https://www.sportimeny.com/,SUCCESS,23,MODERN,IGNORE,5,8,0,2,5,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (8 image-only links) | Page does not reflow on mobile (content 1.7x wider than screen) | Excessive inline CSS | Large page (~30.8 MB),0.6,
+http://www.flexcircuitgym.com,https://flexcircuitgym.com/,SUCCESS,18,MODERN,IGNORE,5,8,0,2,0,2,1,0,False,False,~2014-2020 (estimated),1755,91,165/0,1,Image-based menu,Menu/links are images (6 image-only links) | Page does not reflow on mobile (content 1.6x wider than screen) | Excessive inline CSS,0.6,
+http://americanbarbell.com,https://americanbarbell.com/,SUCCESS,22,MODERN,IGNORE,5,0,7,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (16 image-only links) | Fax number displayed | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~20.3 MB),0.6,
+https://www.outrageathletics.com,https://www.outrageathletics.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.outrageathletics.com/
+Call log:
+  - navigating to ""https://www.outrageathletics.com/"", waiting until ""domcontentloaded""
+"
+http://www.chelseapiersct.com,https://www.chelseapiers.com/athleticclub-stamford,SUCCESS,19,MODERN,IGNORE,7,0,3,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://activeclimbing.com,https://www.activeclimbing.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+https://www.craigranchfitness.com/home,https://gamesreviews.com/vn/football-betting-sites/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,8,0,7,3,2,4,1,2,False,True,~2014-2020 (estimated),1600,83,160/160,3,Old copyright (2006) | Image-based menu | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Centered 1600px container, but page has 3 full-width sections (modern pattern) | Menu/links are images (12 image-only links) | Table-based page layout | Copyright year is 2006 (20 years old) | Excessive unstructured text on homepage | Multiple layout tables",0.6,
+http://www.hyatt.com,http://www.hyatt.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.b.fit,https://b.fit/,SUCCESS,18,MODERN,IGNORE,5,0,3,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (16 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Slow page load (8.2s),0.6,
+https://christushwc.org,https://christushwc.org/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+https://ufcgym.com/rocklin,https://ufcgym.com/rocklin,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.theacademyfitness.com,http://www.theacademyfitness.com/,SUCCESS,24,NEEDS IMPROVEMENT,LOW PRIORITY,11,0,5,0,0,6,2,8,True,True,~2014-2020 (estimated),1211,63,355/355,2,Boxed fixed-width layout | No HTTPS (Not secure),"Fixed-width centered box: content only 1211px wide (63% of a 1920px screen), ~355px empty on each side | No full-width sections (everything sits inside one box) | Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow",0.6,
+https://www.arvcrebels.com,https://arvcrebels.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~15.2 MB),0.6,
+https://kikastretchstudios.com,https://kikastretchstudios.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.planetfitness.com/gyms/tucson-irvington-i-19-az,https://www.planetfitness.com/gyms/tucson-irvington-i-19-az,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.knockoutzonemiami.com,http://www.knockoutzonemiami.com/,SUCCESS,12,MODERN,IGNORE,3,2,5,0,0,2,0,0,False,True,~2014-2020 (estimated),1896,99,8/16,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://www.oaklandstrengthfactory.com,https://www.oaklandstrengthfactory.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.oaklandstrengthfactory.com/
+Call log:
+  - navigating to ""https://www.oaklandstrengthfactory.com/"", waiting until ""domcontentloaded""
+"
+https://www.anytimefitness.com/gyms/2993/west-sacramento-ca-95691,https://www.anytimefitness.com/gyms/2993/west-sacramento-ca-95691,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://onetoone.case.edu,https://case.edu/onetoone/,SUCCESS,4,MODERN,IGNORE,0,2,0,0,2,0,0,2,False,True,~2020-2026 (estimated),1243,65,338/339,0,,"Centered 1243px container, but page has 2 full-width sections (modern pattern) | No @media queries in inline styles (partial signal)",0.6,
+http://knockout-fitness.com,http://knockout-fitness.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.anytimefitness.com/gyms/477/omaha-ne-68134,https://www.anytimefitness.com/gyms/477/omaha-ne-68134,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.ironhawaiianfitness.com,https://ironhawaiianfitness.com/,SUCCESS,6,MODERN,IGNORE,0,0,4,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.snapfitness.com,https://www.snapfitness.com/us,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+http://www.houseofgyms.com,http://www.houseofgyms.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.houseofgyms.com/
+Call log:
+  - navigating to ""http://www.houseofgyms.com/"", waiting until ""domcontentloaded""
+"
+http://www.becomepowerful.com,https://becomepowerful.com/,SUCCESS,20,MODERN,IGNORE,5,0,3,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (17 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~182.2 MB),0.6,
+http://roundersmma.com,https://roundersmma.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.anytimefitness.com/gyms/4280/colorado-,https://www.anytimefitness.com/gyms/4280/colorado-,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://lexingtonicecenter.com,https://www.lexingtonicecenter.com/,SUCCESS,20,MODERN,IGNORE,5,0,8,2,2,2,1,2,False,True,~2014-2020 (estimated),1545,80,220/155,2,Old copyright (2017) | Image-based menu,"Centered 1545px container, but page has 11 full-width sections (modern pattern) | Menu/links are images (12 image-only links) | Copyright year is 2017 (9 years old) | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
+https://www.strengthandhealthgym.com,https://www.strengthandhealthgym.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 500
+http://www.iam4fitness.com,https://iam4fitness.com/,SUCCESS,5,MODERN,IGNORE,0,0,3,2,0,0,0,0,False,True,~2020-2026 (estimated),1786,93,64/70,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.nycelite.com,https://nycelite.com/,SUCCESS,8,MODERN,IGNORE,2,0,3,0,2,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+http://www.installitllc.com,https://installitllc.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1850,96,48/22,0,,No significant outdated signals found,0.6,
+https://www.tumble-tech.com/westlake,https://www.tumble-tech.com/westlake,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.fitzonebakersfield.com,https://www.fitzonebakersfield.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://ymcanwnc.org/locations/robinhood,http://ymcanwnc.org/locations/robinhood,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://hardkourninjaunlimited.com,http://hardkourninjaunlimited.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hardkourninjaunlimited.com/
+Call log:
+  - navigating to ""http://hardkourninjaunlimited.com/"", waiting until ""domcontentloaded""
+"
+http://www.islandhf.com,https://expireddomains.com/domain/islandhf.com,SUCCESS,6,MODERN,IGNORE,2,0,3,0,0,1,0,2,False,True,~2014-2020 (estimated),1120,58,400/400,0,,"Centered 1120px container, but page has 4 full-width sections (modern pattern) | No clear call-to-action / enquiry flow",0.6,
+https://www.hotworx.net/studio/mckinney-universitydr,https://www.hotworx.net/studio/mckinney-universitydr,SUCCESS,7,MODERN,IGNORE,0,0,2,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~19.8 MB),0.6,
+http://www.sparetimeclubs.com,http://www.sparetimeclubs.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sparetimeclubs.com/
+Call log:
+  - navigating to ""http://www.sparetimeclubs.com/"", waiting until ""domcontentloaded""
+"
+https://artofcontrol.com,https://artofcontrol.com/,SUCCESS,5,MODERN,IGNORE,0,0,3,0,2,0,0,2,False,True,~2020-2026 (estimated),1250,65,335/335,0,,"Centered 1250px container, but page has 3 full-width sections (modern pattern) | No clear call-to-action / enquiry flow",0.6,
+https://exygon.com,https://exygon.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links),0.6,
+http://crossfit.com,https://www.crossfit.com/,SUCCESS,5,MODERN,IGNORE,0,0,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~8.2 MB),0.6,
+https://www.chaoticgoodfitness.com,https://www.chaoticgoodfitness.com/,SUCCESS,12,MODERN,IGNORE,4,2,3,0,0,2,1,5,False,True,~2014-2020 (estimated),1320,69,600/0,0,,Off-center fixed-width content (1320px wide) | No full-width sections (everything sits inside one box) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://crunchathens.com,https://www.crunch.com/locations/athens,SUCCESS,23,MODERN,IGNORE,7,0,2,2,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~31.5 MB),0.6,
+http://ultimatefitness.pro,http://ultimatefitness.pro,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ultimatefitness.pro/
+Call log:
+  - navigating to ""http://ultimatefitness.pro/"", waiting until ""domcontentloaded""
+"
+http://www.tifitness.com,https://tifitness.com/,SUCCESS,8,MODERN,IGNORE,0,0,8,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (2017),Copyright year is 2017 (9 years old) | No clear call-to-action / enquiry flow,0.6,
+http://www.snapfitness.com/gyms/albuquerque-nm-87107/2469,https://www.snapfitness.com/us/gyms,SUCCESS,11,MODERN,IGNORE,3,0,2,2,2,2,0,0,False,True,~2014-2020 (estimated),1914,100,6/0,1,Table/deprecated-tag markup,Table-based page layout | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.gymstars.com,https://www.gymstars.com/,SUCCESS,13,MODERN,IGNORE,5,0,3,2,0,2,1,2,False,True,~2014-2020 (estimated),1430,74,490/0,1,Image-based menu,"Centered 1430px container, but page has 7 full-width sections (modern pattern) | Menu/links are images (8 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
+http://www.montclairswimandhealthclub.com,http://www.montclairswimandhealthclub.com/,SUCCESS,75,STRONGLY OUTDATED,HOT LEAD,23,15,5,7,0,12,4,9,True,False,~2004-2012 (estimated),836,44,542/542,5,Boxed fixed-width layout | Not mobile friendly | Image-based menu | No HTTPS (Not secure) | Table/deprecated-tag markup,"[5 independent outdated signals agree] | Fixed-width centered box: content only 836px wide (44% of a 1920px screen), ~542px empty on each side | No full-width sections (everything sits inside one box) | Menu/links are images (8 image-only links) | Deprecated HTML tags (font/center/marquee) | Table-based page layout | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile)",0.6,
+https://www.orangetheory.com/en-us/locations,https://www.orangetheory.com/en-us/locations,SUCCESS,22,MODERN,IGNORE,7,0,8,0,2,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | No clear call-to-action / enquiry flow",0.6,
+http://www.fcomaha.com,https://www.fcomaha.com/,SUCCESS,5,MODERN,IGNORE,0,0,0,0,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Large page (~26.2 MB),0.6,
+http://movementlabraleigh.com,https://movementlabraleigh.com/,SUCCESS,5,MODERN,IGNORE,0,0,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~9.9 MB),0.6,
+https://www.superpages.com/bp/miami-fl/instituto-de-la-salud-inc-l2607792906.htm,https://www.superpages.com/bp/miami-fl/instituto-de-la-salud-inc-l2607792906.htm,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://crossfitacadiana.com/lafayette,http://crossfitacadiana.com/lafayette,SUCCESS,26,NEEDS IMPROVEMENT,LOW PRIORITY,13,0,5,0,0,6,2,8,True,True,~2010-2016 (estimated),1120,58,400/400,2,Boxed fixed-width layout | No HTTPS (Not secure),"Fixed-width centered box: content only 1120px wide (58% of a 1920px screen), ~400px empty on each side | No full-width sections (everything sits inside one box) | Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow",0.6,
+https://burnbootcamp.com,https://burnbootcamp.com/,SUCCESS,20,MODERN,IGNORE,5,0,10,2,0,2,1,2,False,True,~2014-2020 (estimated),1613,84,67/240,2,Old copyright (2015) | Image-based menu,"Centered 1613px container, but page has 6 full-width sections (modern pattern) | Menu/links are images (8 image-only links) | Copyright year is 2015 (11 years old) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
+https://www.hotyogawaikiki.com,https://www.hotyogawaikiki.com/,SUCCESS,19,MODERN,IGNORE,4,0,8,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Old copyright (2017) | Justified old-style text,"Justified (stretched) body text, old-style typography | Copyright year is 2017 (9 years old) | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
+https://theflexcore.com,https://theflexcore.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.moodbarretrxstudio.com,https://www.moodbarretrxstudio.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.moodbarretrxstudio.com/
+Call log:
+  - navigating to ""https://www.moodbarretrxstudio.com/"", waiting until ""domcontentloaded""
+"
+http://www.lickids.com,http://www.lickids.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,11,15,4,6,0,6,2,4,False,False,~2014-2020 (estimated),773,40,40/1107,3,Not mobile friendly | No HTTPS (Not secure) | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Fixed-width layout stuck to the left (773px wide), 1107px blank on the right | Deprecated HTML tags (font/center/marquee) | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | Fax number displayed",0.6,
+http://rocksolidacademy.com,https://www.rocksolidacademy.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,2,False,True,~2020-2026 (estimated),1625,85,295/0,0,,"Centered 1625px container, but page has 3 full-width sections (modern pattern) | Excessive inline CSS",0.6,
+https://www.anytimefitness.com/gyms/3481/orange-ca-92867,https://www.anytimefitness.com/gyms/3481/orange-ca-92867,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.laboxing.com,https://prolast.com/,SUCCESS,8,MODERN,IGNORE,0,0,2,2,4,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://hamiltonhealthfitness.com,http://hamiltonhealthfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hamiltonhealthfitness.com/
+Call log:
+  - navigating to ""http://hamiltonhealthfitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.thealaskaclub.com,https://www.thealaskaclub.com/,SUCCESS,14,MODERN,IGNORE,5,0,0,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (14 image-only links) | Excessive inline CSS,0.6,
+http://www.gymboreeclasses.com,https://www.gymboreeclasses.com/,SUCCESS,6,MODERN,IGNORE,0,0,4,2,0,0,0,0,False,True,~2020-2026 (estimated),1901,99,10/10,0,,Copyright year is 2019 | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://steele-athletics.com,https://steele-athletics.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+http://www.hahn-enterprises.com,https://hahn-enterprises.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Fax number displayed | Excessive inline CSS,0.6,
+http://www.cheergyms.com,https://cheergyms.com/,SUCCESS,10,MODERN,IGNORE,5,0,0,2,0,2,1,2,False,True,~2014-2020 (estimated),1552,81,320/48,1,Image-based menu,"Centered 1552px container, but page has 16 full-width sections (modern pattern) | Menu/links are images (6 image-only links) | Excessive inline CSS",0.6,
+https://www.myacrosgym.com,https://www.myacrosgym.com/,SUCCESS,21,MODERN,IGNORE,7,0,5,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Old copyright (2018) | Image-based menu,Menu/links are images (5 image-only links) | Copyright year is 2018 (8 years old) | Excessive inline CSS,0.6,
+https://gymtechfitness.com/showrooms/greenwich,https://gymtechfitness.com/gym-equipment-showrooms/greenwich,SUCCESS,16,MODERN,IGNORE,7,0,2,0,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive unstructured text on homepage,0.6,
+https://www.aftrainingsolutions.com,https://thefatkiller.net/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1900,99,0/20,0,,No clear call-to-action / enquiry flow,0.6,
+https://www.instagram.com/skingymatl/?hl=en,https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fskingymatl%2F%3Fhl%3Den&is_from_rle,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1637,85,214/69,0,,No clear call-to-action / enquiry flow,0.6,
+http://www.curves.com/locations/club/beaumont-1,https://www.curves.com/find-a-club,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,2,False,True,~2020-2026 (estimated),1348,70,286/286,0,,"Centered 1348px container, but page has 5 full-width sections (modern pattern) | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
+https://www.goldsgym.com/citrus-heights,https://www.goldsgym.com/citrus-heights,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://athleticsandaestheticsabq.com,http://athleticsandaestheticsabq.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://athleticsandaestheticsabq.com/
+Call log:
+  - navigating to ""http://athleticsandaestheticsabq.com/"", waiting until ""domcontentloaded""
+"
+https://www.kangooclubcalifornia.com,https://www.kangooclubcalifornia.com/,SUCCESS,13,MODERN,IGNORE,5,0,3,2,0,2,1,2,False,True,~2014-2020 (estimated),1560,81,360/0,1,Image-based menu,"Centered 1560px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
+https://black-stripes.com,https://black-stripes.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://black-stripes.com/
+Call log:
+  - navigating to ""https://black-stripes.com/"", waiting until ""domcontentloaded""
+"
+http://step1danceandfitness.com,https://step1danceandfitness.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,2,False,True,~2020-2026 (estimated),1211,63,334/375,0,,"Centered 1211px container, but page has 11 full-width sections (modern pattern) | Excessive inline CSS",0.6,
+http://www.smithandesch.com,http://www.smithandesch.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.smithandesch.com/
+Call log:
+  - navigating to ""http://www.smithandesch.com/"", waiting until ""domcontentloaded""
+"
+https://www.hiittofit.com,https://www.hiittofit.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hiittofit.com/
+Call log:
+  - navigating to ""https://www.hiittofit.com/"", waiting until ""domcontentloaded""
+"
+https://ufcgym.com/longbeach,https://ufcgym.com/longbeach,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.thelittlegym.com/thousandoaksca,http://www.thelittlegym.com/thousandoaksca,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://werowmsp.com,https://werowmsp.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://werowmsp.com/
+Call log:
+  - navigating to ""https://werowmsp.com/"", waiting until ""domcontentloaded""
+"
+https://kaylarossifitness.com,https://kaylarossifitness.com/,SUCCESS,6,MODERN,IGNORE,0,2,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
+http://www.maxsgym.net,http://www.maxsgym.net,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.maxsgym.net/
+Call log:
+  - navigating to ""http://www.maxsgym.net/"", waiting until ""domcontentloaded""
+"
+https://www.missfittraining.com,https://www.missfittraining.com/,SUCCESS,11,MODERN,IGNORE,0,4,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Viewport tag present but not device-width based | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.sculpttulsa.com,http://www.sculpttulsa.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.bxfitness.com,http://www.bxfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.bxfitness.com/
+Call log:
+  - navigating to ""http://www.bxfitness.com/"", waiting until ""domcontentloaded""
+"
+https://www.planetfitness.com/gyms/wichita-new-leaf-ks,https://www.planetfitness.com/gyms/wichita-new-leaf-ks,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://ufcgym.com/costamesa,https://ufcgym.com/costamesa,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.planetfitness.com/gyms/fullerton-ca,https://www.planetfitness.com/gyms/fullerton-ca,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.wendysgymnastics.com,https://www.wendysgymnastics.com/,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,2,False,True,~2020-2026 (estimated),980,51,481/459,0,,"Centered 980px container, but page has 7 full-width sections (modern pattern) | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
+https://www.industrygymnastics.com,https://www.industrygymnastics.com/,SUCCESS,19,MODERN,IGNORE,9,0,0,2,2,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Justified old-style text,"Justified (stretched) body text, old-style typography | Menu/links are images (3 image-only links) | Excessive inline CSS",0.6,
+http://www.jerseyfitnessma.com,http://www.jerseyfitnessma.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jerseyfitnessma.com/
+Call log:
+  - navigating to ""http://www.jerseyfitnessma.com/"", waiting until ""domcontentloaded""
+"
+http://alaskafitnessequipment.com,https://alaskafitnessequipment.com/,SUCCESS,8,MODERN,IGNORE,2,0,0,2,3,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~10.1 MB),0.6,
+http://www.airboundtrampolinepark.com,https://airboundpark.com/,SUCCESS,22,MODERN,IGNORE,9,0,3,4,0,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (5 image-only links) | Deprecated HTML tags (font/center/marquee) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://pttmma.com,http://pttmma.com/index.html,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,12,0,5,7,0,6,2,2,False,True,~2010-2016 (estimated),1040,54,440/440,3,Image-based menu | No HTTPS (Not secure) | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Centered 1040px container, but page has 6 full-width sections (modern pattern) | Menu/links are images (5 image-only links) | Deprecated HTML tags (font/center/marquee) | Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow | Multiple layout tables | Excessive inline CSS",0.6,
+https://www.crunch.com/locations/north-colorado-springs,https://www.crunch.com/locations/north-colorado-springs,SUCCESS,26,MODERN,IGNORE,7,0,5,2,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~23.2 MB),0.6,
+http://www.sozocomplete.com,http://www.sozocomplete.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.sozocomplete.com/"", waiting until ""domcontentloaded""
+"
+http://www.baileysgym.com,http://www.baileysgym.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.baileysgym.com/
+Call log:
+  - navigating to ""http://www.baileysgym.com/"", waiting until ""domcontentloaded""
+"
+http://p2ptransformationcenter.com,http://p2ptransformationcenter.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://p2ptransformationcenter.com/
+Call log:
+  - navigating to ""http://p2ptransformationcenter.com/"", waiting until ""domcontentloaded""
+"
+http://www.sbelite.com,https://www.sbelite.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://purebarre.com/ct-darien,https://www.purebarre.com/location/darien-ct,SUCCESS,9,MODERN,IGNORE,0,0,2,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~54.1 MB),0.6,
+http://thegymflint.com,https://thegymflint.com/,SUCCESS,6,MODERN,IGNORE,2,0,0,0,3,1,0,0,False,True,~2014-2020 (estimated),1886,98,34/0,0,,Large page (~13.5 MB),0.6,
+http://www.genesishealthclubs.com,http://www.genesishealthclubs.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.customgymsonline.com,https://www.customgymsonline.com/,SUCCESS,17,MODERN,IGNORE,4,0,6,2,2,2,1,3,False,True,~2014-2020 (estimated),1264,66,403/254,0,,Off-center fixed-width content (1264px wide) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.anytimefitness.com/gyms/2386/lafayette-la-70508,https://www.anytimefitness.com/locations/lafayette-louisiana-2386,SUCCESS,15,MODERN,IGNORE,5,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive inline CSS | Slow page load (11.1s),0.6,
+http://workoutanytime.com,https://workoutanytime.com/,SUCCESS,13,MODERN,IGNORE,2,0,3,2,5,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~161.6 MB),0.6,
+https://www.planetfitness.com/gyms/independence-north-mo,https://www.planetfitness.com/gyms/independence-north-mo,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.caweightlossandfitness.com,https://www.caweightlossandfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.caweightlossandfitness.com/
+Call log:
+  - navigating to ""https://www.caweightlossandfitness.com/"", waiting until ""domcontentloaded""
+"
+https://www.brickzfitness.com,https://www.brickzfitness.com/,SUCCESS,25,MODERN,IGNORE,9,4,0,4,2,4,2,0,False,True,~2014-2020 (estimated),1776,92,74/70,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (55 image-only links) | Deprecated HTML tags (font/center/marquee) | Viewport tag present but not device-width based | Excessive inline CSS,0.6,
+http://1stplacefit.com,https://1stplacefit.com/lander,SUCCESS,18,MODERN,IGNORE,8,2,3,0,0,4,1,8,True,True,~2014-2020 (estimated),1600,83,160/160,1,Boxed fixed-width layout,"Fixed-width centered box: content only 1600px wide (83% of a 1920px screen), ~160px empty on each side | No full-width sections (everything sits inside one box) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+http://fightclubamerica.com,http://fightclubamerica.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://fightclubamerica.com/
+Call log:
+  - navigating to ""http://fightclubamerica.com/"", waiting until ""domcontentloaded""
+"
+https://fitfarmomaha.com,https://fitfarmomaha.com/,SUCCESS,4,MODERN,IGNORE,0,2,0,2,0,0,0,2,False,True,~2020-2026 (estimated),1423,74,248/248,0,,"Centered 1423px container, but page has 2 full-width sections (modern pattern) | No @media queries in inline styles (partial signal) | Excessive inline CSS",0.6,
+http://www.diamondstrong.us,https://diamondstrong.us/,SUCCESS,8,MODERN,IGNORE,0,0,3,0,5,0,0,2,False,True,~2020-2026 (estimated),1560,81,360/0,0,,"Centered 1560px container, but page has 2 full-width sections (modern pattern) | No clear call-to-action / enquiry flow | Large page (~109.7 MB)",0.6,
+https://hi-risefitness.com,https://hi-risefitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hi-risefitness.com/
+Call log:
+  - navigating to ""https://hi-risefitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.kakaakofitness.com,http://www.kakaakofitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kakaakofitness.com/
+Call log:
+  - navigating to ""http://www.kakaakofitness.com/"", waiting until ""domcontentloaded""
+"
+https://titleboxingclub.com/ice-blocks-ca,https://www.titleboxingclub.com/location/ice-blocks-ca,SUCCESS,12,MODERN,IGNORE,3,0,0,2,5,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | Excessive inline CSS | Large page (~34.0 MB),0.6,
+https://www.totalwomanspa.com,https://www.totalwomanspa.com/lander,SUCCESS,18,MODERN,IGNORE,5,2,8,0,0,2,1,0,False,True,~2014-2020 (estimated),1888,98,16/16,2,Old copyright (1999) | Tiny body text,Very small body text (~13px) | No @media queries in inline styles (partial signal) | Copyright year is 1999 (27 years old) | No clear call-to-action / enquiry flow,0.6,
+http://www.equinox.com,https://www.equinox.com/,SUCCESS,8,MODERN,IGNORE,0,0,2,2,4,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.liftforlifegym.org,https://liftforlifegym.org/,SUCCESS,11,MODERN,IGNORE,5,0,3,0,0,2,1,0,False,True,~2014-2020 (estimated),1900,99,20/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow,0.6,
+http://www.10gym.com,https://10gym.com/,SUCCESS,25,MODERN,IGNORE,8,0,0,5,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (4 image-only links) | Table-based page layout | Multiple layout tables | Excessive inline CSS | Slow page load (8.3s),0.6,
+https://www.shape2tone.com,https://www.shape2tone.com/,SUCCESS,5,MODERN,IGNORE,2,0,0,0,2,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+http://www.rei.com,http://www.rei.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.rei.com/
+Call log:
+  - navigating to ""https://www.rei.com/"", waiting until ""domcontentloaded""
+"
+http://www.lionesspoleden.com,https://www.lionesspoleden.com/,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.awakendenver.com,https://www.awakendenver.com/,SUCCESS,18,MODERN,IGNORE,9,0,3,0,0,4,2,3,False,True,~2014-2020 (estimated),1105,58,470/345,1,Image-based menu,Off-center fixed-width content (1105px wide) | Menu/links are images (6 image-only links) | No clear call-to-action / enquiry flow,0.6,
+https://www.retrofitness.com,https://www.retrofitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.retrofitness.com/
+Call log:
+  - navigating to ""https://www.retrofitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.evofitnj.com,https://evofitnj.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.sdacolorado.com,https://sdacolorado.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+http://www.ymcanwnc.org,https://ymcanwnc.org/,SUCCESS,5,MODERN,IGNORE,2,2,0,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | No @media queries in inline styles (partial signal),0.6,
+http://www.dtlr.com,https://www.dtlr.com/,SUCCESS,31,MODERN,IGNORE,10,0,2,5,7,5,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (4 image-only links) | Table-based page layout | Excessive unstructured text on homepage | Multiple layout tables | Excessive inline CSS | Large page (~40.7 MB),0.6,
+https://vasafitness.com,https://vasafitness.com/,SUCCESS,12,MODERN,IGNORE,0,0,5,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~20.9 MB),0.6,
+https://www.kansasbuiltfitness.com,https://kansasbuiltfitness.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,0,2,0,0,2,False,True,~2020-2026 (estimated),1200,62,360/360,0,,"Centered 1200px container, but page has 5 full-width sections (modern pattern)",0.6,
+http://www.imxlafayette.com,http://www.imxlafayette.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.planetfitness.com/gyms/fl/gainesville?gclid=co_m7zkfr7gcfejm7aod5gwala,http://www.planetfitness.com/gyms/fl/gainesville?gclid=co_m7zkfr7gcfejm7aod5gwala,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.191resolutionfitness.com,https://www.191resolutionfitness.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://www.fitness19.com/centers/citrus-heights,https://www.fitness19.com/locations/california/,SUCCESS,12,MODERN,IGNORE,2,0,5,2,2,1,0,0,False,True,~2014-2020 (estimated),1638,85,252/30,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.planetfitness.com/gyms/flint-township-mi,https://www.planetfitness.com/gyms/flint-township-mi,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.blackicefitness.com/index.html,http://www.blackicefitness.com/index.html,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.blackicefitness.com/index.html
+Call log:
+  - navigating to ""http://www.blackicefitness.com/index.html"", waiting until ""domcontentloaded""
+"
+http://www.planetfitness.com/gyms/independence-mo-215,http://www.planetfitness.com/gyms/independence-mo-215,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.evolvstrong.com,https://evolvstrong.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1880,98,20/20,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.ashleywagnerfitness.com,https://www.ashleywagnerfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ashleywagnerfitness.com/
+Call log:
+  - navigating to ""https://www.ashleywagnerfitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.orangetheoryfitness.com/?fbclid=iwar3ibk1ajkex5zkdjgmzjv3ok7fb96koz-1gkfudomr2v8ooz4zsxvvifyw,https://www.orangetheory.com/en-us,SUCCESS,23,MODERN,IGNORE,7,0,5,2,4,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | Excessive inline CSS",0.6,
+http://www.championskungfu.com,http://www.championskungfu.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 401
+http://boulevardyoga.com,http://boulevardyoga.com/,SUCCESS,12,MODERN,IGNORE,3,2,5,0,0,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.strongstyle.com,http://www.strongstyle.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.strongstyle.com/
+Call log:
+  - navigating to ""http://www.strongstyle.com/"", waiting until ""domcontentloaded""
+"
+http://strongislandfitness.com,https://strongislandfitness.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links),0.6,
+https://www.holistichealthandlifestyle.com,https://www.holistichealthandlifestyle.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.holistichealthandlifestyle.com/
+Call log:
+  - navigating to ""https://www.holistichealthandlifestyle.com/"", waiting until ""domcontentloaded""
+"
+https://www.5thstgym.com,https://5thstgym.com/,SUCCESS,7,MODERN,IGNORE,0,0,5,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Copyright year is 2019 | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://thecamptc.com/locations/downtown-long-beach-california,https://thecamptc.com/locations/downtown-long-beach-california,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.nextgenerationcrossfit.com,https://radio.yuyuko.pw/,SUCCESS,5,MODERN,IGNORE,0,0,3,0,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+http://neaumixfit.com,https://www.neaumixfit.com/,SUCCESS,19,MODERN,IGNORE,5,0,4,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~28.4 MB),0.6,
+https://www.anytimefitness.com/gyms/4945/honolulu-hi-96813,https://www.anytimefitness.com/locations/honolulu-hawaii-4945,SUCCESS,16,MODERN,IGNORE,5,0,2,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.upperlimits.com,https://www.upperlimits.com/,SUCCESS,17,MODERN,IGNORE,7,0,3,0,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (10 image-only links) | No clear call-to-action / enquiry flow,0.6,
+http://www.spaladyhealth.com,http://www.spaladyhealth.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spaladyhealth.com/
+Call log:
+  - navigating to ""http://www.spaladyhealth.com/"", waiting until ""domcontentloaded""
+"
+https://www.grindhousebk.com,https://www.grindhousebk.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.grindhousebk.com/
+Call log:
+  - navigating to ""https://www.grindhousebk.com/"", waiting until ""domcontentloaded""
+"
+http://farrellfit.com,http://farrellfit.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.planetfitness.com/gyms/bakersfield-ca-977,http://www.planetfitness.com/gyms/bakersfield-ca-977,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.gb-uh.com,http://www.gb-uh.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gb-uh.com/
+Call log:
+  - navigating to ""http://www.gb-uh.com/"", waiting until ""domcontentloaded""
+"
+http://www.lagymnastics.com,https://lagymnastics.com/,SUCCESS,23,MODERN,IGNORE,8,0,3,2,5,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (3 image-only links) | Table-based page layout | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~58.0 MB),0.6,
+http://www.dardanosgymnastics.com,https://www.dardanosgym.com/,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1890,98,30/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.galtgreen.com,https://www.galtgreen.com/,SUCCESS,18,MODERN,IGNORE,8,2,3,0,0,4,1,8,True,True,~2014-2020 (estimated),1146,60,387/387,1,Boxed fixed-width layout,"Fixed-width centered box: content only 1146px wide (60% of a 1920px screen), ~387px empty on each side | No full-width sections (everything sits inside one box) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+https://www.planetfitness.com/gyms/tucson-bridges-az,https://www.planetfitness.com/gyms/tucson-bridges-az,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.eosfitness.com,https://www.eosfitness.com/,SUCCESS,5,MODERN,IGNORE,0,0,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~50.1 MB),0.6,
+https://www.mygym.com/walnutcreek,https://www.mygym.com/walnutcreek,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.9round.com/fitness/olathe-ks,https://www.9round.com/fitness/olathe-ks,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.ghfc.com,http://www.ghfc.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,14,8,4,5,10,7,2,0,False,False,~2010-2016 (estimated),1866,97,54/0,3,Flash/plugin content | Image-based menu | No HTTPS (Not secure),[3 independent outdated signals agree] | Menu/links are images (3 image-only links) | Flash / plugin content (no longer supported by browsers) | Site opens on http:// (browser shows 'Not secure') | Page does not reflow on mobile (content 2.1x wider than screen) | Excessive unstructured text on homepage | Excessive inline CSS | Flash / .swf remnants,0.6,
+https://www.xtendbarre.com/studio/xtend-barre-lafayette,https://www.xtendbarre.com/studio/xtend-barre-lafayette,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.fitnessmdonline.com,https://fitnessmd.fit/,SUCCESS,13,MODERN,IGNORE,5,2,0,3,0,2,1,0,False,True,~2014-2020 (estimated),1896,99,15/9,1,Table/deprecated-tag markup,Table-based page layout | No @media queries in inline styles (partial signal) | Multiple layout tables,0.6,
+https://fitsmartstudio.com,https://fitsmartstudio.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fitsmartstudio.com/
+Call log:
+  - navigating to ""https://fitsmartstudio.com/"", waiting until ""domcontentloaded""
+"
+http://www.jonthecobracrosby.com,http://www.jonthecobracrosby.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://the-gym.com/victorville,https://the-gym.com/victorville,SUCCESS,5,MODERN,IGNORE,0,0,3,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://dethronefresno.com,https://dethronefresno.com/,SUCCESS,15,MODERN,IGNORE,6,0,5,0,0,3,1,2,False,True,~2014-2020 (estimated),1544,80,12/364,1,Flash/plugin content,"Centered 1544px container, but page has 6 full-width sections (modern pattern) | Flash / plugin content (no longer supported by browsers) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage",0.6,
+https://www.planetfitness.com/gyms/long-beach-ca,https://www.planetfitness.com/gyms/long-beach-ca,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.lotushouseofyoga.com,https://www.lotushouseofyoga.com/,SUCCESS,22,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,2,0,0,0,False,False,~2020-2026 (estimated),1824,95,48/48,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://sbgatlanta.com,https://sbgatlanta.com/,SUCCESS,22,MODERN,IGNORE,7,0,3,2,5,4,1,0,False,True,~2014-2020 (estimated),1916,100,2/2,1,Image-based menu,Menu/links are images (5 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (8.2s),0.6,
+http://www.maxmuscle.com,https://maxmuscle.com/,SUCCESS,19,MODERN,IGNORE,8,2,0,0,4,4,1,8,True,True,~2014-2020 (estimated),696,36,612/612,1,Boxed fixed-width layout,"Fixed-width centered box: content only 696px wide (36% of a 1920px screen), ~612px empty on each side | No full-width sections (everything sits inside one box) | No @media queries in inline styles (partial signal)",0.6,
+http://onelifefitness.com,https://www.onelifefitness.com/,SUCCESS,11,MODERN,IGNORE,0,0,2,2,7,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~33.1 MB),0.6,
+http://www.h2fitness.com,https://forsale.godaddy.com/forsale/www.h2fitness.com?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.nulifefitnesscamp.com,https://www.nulifefitnesscamp.com/,SUCCESS,14,MODERN,IGNORE,5,0,0,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS,0.6,
+http://www.wolfepacktkd.com,https://wolfepacktkd.com/,SUCCESS,12,MODERN,IGNORE,6,0,0,2,0,3,1,2,False,True,~2014-2020 (estimated),1526,80,10/384,1,Table/deprecated-tag markup,"Centered 1526px container, but page has 11 full-width sections (modern pattern) | Deprecated HTML tags (font/center/marquee) | Old web-agency/builder signature found",0.6,
+http://www.theboxinggym-stl.com,https://theboxinggym-stl.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,2,False,True,~2020-2026 (estimated),1160,60,380/380,0,,"Centered 1160px container, but page has 3 full-width sections (modern pattern) | Excessive inline CSS",0.6,
+http://www.thefitspace.com,https://thefitspace.com/,SUCCESS,22,MODERN,IGNORE,8,0,5,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Copyright year is 2021 | No clear call-to-action / enquiry flow,0.6,
+https://titleboxingclub.com/miami-beach-fl,https://www.titleboxingclub.com/location-search,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1880,98,40/0,0,,Excessive inline CSS,0.6,
+http://savagebarbell.com,http://savagebarbell.com/,SUCCESS,24,MODERN,IGNORE,8,6,5,0,0,4,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,2,Tiny body text | No HTTPS (Not secure),Very small body text (~10px) | Site opens on http:// (browser shows 'Not secure') | Horizontal overflow on mobile (1.2x screen width) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.thepunchhouse.com,https://forsale.godaddy.com/forsale/www.thepunchhouse.com?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://cityclubgymnasticsacademy.com,http://cityclubgymnasticsacademy.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://cityclubgymnasticsacademy.com/
+Call log:
+  - navigating to ""http://cityclubgymnasticsacademy.com/"", waiting until ""domcontentloaded""
+"
+http://www.ilovekickboxingauroraco.com,https://www.ilovekickboxing.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.crossfitlodo.com,http://www.crossfitlodo.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.crossfitlodo.com/
+Call log:
+  - navigating to ""http://www.crossfitlodo.com/"", waiting until ""domcontentloaded""
+"
+https://www.bamf.fit,https://www.bamf.fit,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.bamf.fit/
+Call log:
+  - navigating to ""https://www.bamf.fit/"", waiting until ""domcontentloaded""
+"
+https://honoluluholo.com,https://honoluluholo.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://heavymetalbarbell.net,https://heavymetalbarbell.net/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.sunsethillshomeinspection.com,https://www.sunsethillshomeinspection.com/,SUCCESS,60,OUTDATED,MEDIUM PRIORITY,8,10,2,0,0,4,1,9,True,False,~2014-2020 (estimated),900,47,510/510,2,Boxed fixed-width layout | Not mobile friendly,"[Boxed layout AND not mobile friendly] | Fixed-width centered box: content only 900px wide (47% of a 1920px screen), ~510px empty on each side | No full-width sections (everything sits inside one box) | Thin border drawn around the main content box | Page does not reflow on mobile (content 2.3x wider than screen) | No @media queries in inline styles (partial signal) | Copyright year is 2019",0.6,
+http://www.mygym.com/hoboken,http://www.mygym.com/hoboken,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.swatfitness.com,http://www.swatfitness.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://https://www.9round.com/fitness/walnut-creek-california,http://https://www.9round.com/fitness/walnut-creek-california,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://https//www.9round.com/fitness/walnut-creek-california
+Call log:
+  - navigating to ""http://https//www.9round.com/fitness/walnut-creek-california"", waiting until ""domcontentloaded""
+"
+http://www.physiquesfitness.com,https://forsale.godaddy.com/forsale/www.physiquesfitness.com?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://myfastfit.com,https://myfastfit.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://orangetheory.com,https://www.orangetheory.com/en-us,SUCCESS,25,MODERN,IGNORE,7,0,7,2,4,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
+http://www.goldsgymtn.com,http://www.goldsgymtn.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 401
+https://www.systemstrainingcenter.com,https://www.systemstrainingcenter.com/,SUCCESS,18,MODERN,IGNORE,0,8,4,2,4,0,0,0,False,False,~2020-2026 (estimated),1920,100,0/0,0,,Page does not reflow on mobile (content 1.6x wider than screen) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://mf360onthepark.com,https://mf360onthepark.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+http://touchstoneclimbing.com,http://touchstoneclimbing.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://heatatlanta.com/2012/?page_id=1205,http://heatatlanta.com/2012/?page_id=1205,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.fitness19.com/centers/victorville,http://www.fitness19.com/centers/victorville,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.inspiredwellness.com,https://www.inspiredwellness.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1912,100,0/8,0,,No clear call-to-action / enquiry flow,0.6,
+https://www.bigkentsfitness.com,https://www.bigkentsfitness.com/,SUCCESS,4,MODERN,IGNORE,0,2,2,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage,0.6,
+https://lapilatesfitness.com,https://lapilatesfitness.com/,SUCCESS,10,MODERN,IGNORE,0,0,3,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~220.6 MB),0.6,
+https://www.worldgym.com/gladstone,https://www.worldgym.com/gladstone,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.stretchlab.com/location/pavilions,https://www.stretchlab.com/location/pavilions,SUCCESS,14,MODERN,IGNORE,0,0,2,2,10,0,0,0,False,True,~2020-2026 (estimated),1880,98,40/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (9.6s) | Large page (~19.7 MB),0.6,
+https://miamilifecenter.com,https://miamilifecenter.com/,SUCCESS,18,MODERN,IGNORE,5,0,3,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (16 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~12.0 MB),0.6,
+http://www.uppercutgym.com,https://www.uppercutgym.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://wellbeats.com,https://www.wellbeats.com/,SUCCESS,13,MODERN,IGNORE,5,0,3,2,0,2,1,0,False,True,~2014-2020 (estimated),1900,99,20/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.anytimefitness.com/gyms/1566/solon-oh-44139,https://www.anytimefitness.com/locations/solon-ohio-1566,SUCCESS,19,MODERN,IGNORE,5,0,2,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (11.2s),0.6,
+http://www.thepacificclub.org,https://www.thepacificclub.org/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://www.fairmont.com/claremont-berkeley,https://www.fairmont.com/en.html,SUCCESS,17,MODERN,IGNORE,3,0,2,5,5,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | Excessive unstructured text on homepage | Multiple layout tables | Excessive inline CSS | Large page (~10.7 MB),0.6,
+https://www.traintoperformstl.com,https://www.traintoperformstl.com/,SUCCESS,14,MODERN,IGNORE,2,0,5,2,4,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Old copyright (2018),Copyright year is 2018 (8 years old) | Excessive inline CSS,0.6,
+https://fivethirteenstrength.com,https://www.fivethirteenstrength.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~18.5 MB),0.6,
+https://www.powerhousegymaurora.com,https://www.powerhousegymaurora.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+https://www.xponential.com,https://www.xponential.com/,SUCCESS,9,MODERN,IGNORE,0,0,0,2,7,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~41.9 MB),0.6,
+http://www.wnymma.com,https://www.wnymma.com/,SUCCESS,13,MODERN,IGNORE,5,0,3,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (8 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.dynamictreadmill.com,http://www.dynamictreadmill.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dynamictreadmill.com/
+Call log:
+  - navigating to ""http://www.dynamictreadmill.com/"", waiting until ""domcontentloaded""
+"
+http://www.seattlegymnastics.com,https://seattlegymnastics.com/,SUCCESS,11,MODERN,IGNORE,3,0,2,2,2,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.gymsystems.net,https://gymsystems.net/,SUCCESS,10,MODERN,IGNORE,5,0,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS,0.6,
+https://workoutanytime.com/north-arlington,https://workoutanytime.com/north-arlington/,SUCCESS,15,MODERN,IGNORE,7,0,3,0,0,4,1,2,False,True,~2014-2020 (estimated),1610,84,0/310,1,Image-based menu,"Centered 1610px container, but page has 8 full-width sections (modern pattern) | Menu/links are images (7 image-only links) | Old web-agency/builder signature found | No clear call-to-action / enquiry flow",0.6,
+http://lakeshoreacademy.com/?page=hidden_peak,http://lakeshoreacademy.com/?page=hidden_peak,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.yellowpages.com/westlake-village-ca/mip/precision-inspection-services-inc-481855719,http://www.yellowpages.com/westlake-village-ca/mip/precision-inspection-services-inc-481855719,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://gymbattleground.com,https://gymbattleground.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+http://www.atipt.com,https://www.atipt.com/,SUCCESS,16,MODERN,IGNORE,4,0,3,4,2,2,1,0,False,True,~2014-2020 (estimated),1690,88,111/119,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.orangetheory.com,https://www.orangetheory.com/en-us,SUCCESS,19,MODERN,IGNORE,7,0,5,0,2,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old)",0.6,
+http://www.goldsgym.com,https://www.goldsgym.com/,SUCCESS,20,MODERN,IGNORE,5,0,3,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~125.1 MB),0.6,
+http://www.worldgymhd.com,http://www.worldgymhd.com/,SUCCESS,17,MODERN,IGNORE,3,2,10,0,0,2,0,0,False,True,~2014-2020 (estimated),1709,89,40/171,2,Old copyright (2018) | No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | Copyright year is 2018 (8 years old) | No clear call-to-action / enquiry flow,0.6,
+https://www.9round.com/fitness/citrus-heights-ca-x3940,https://www.9round.com/fitness/citrus-heights-ca-x3940,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.gymcondition.com,https://www.trainwithdelaine.com/,SUCCESS,22,MODERN,IGNORE,9,2,3,2,0,4,2,5,False,True,~2014-2020 (estimated),1545,80,375/0,1,Tiny body text,Off-center fixed-width content (1545px wide) | No full-width sections (everything sits inside one box) | Very small body text (~12px) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.cyclebar.com/location/culver-city,https://www.cyclebar.com/location/culver-city,SUCCESS,20,MODERN,IGNORE,5,0,0,2,10,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Excessive inline CSS | Slow page load (10.2s) | Large page (~59.2 MB),0.6,
+http://www.anywherefit.com,http://www.anywherefit.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.anywherefit.com/
+Call log:
+  - navigating to ""http://www.anywherefit.com/"", waiting until ""domcontentloaded""
+"
+https://bodydesignpt.com,https://bodydesignpt.com/,SUCCESS,9,MODERN,IGNORE,0,0,5,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (2002),Copyright year is 2002 (24 years old) | Excessive inline CSS,0.6,
+http://www.alemanboxing.com,https://alemanboxing.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1840,96,40/40,0,,No clear call-to-action / enquiry flow,0.6,
+http://www.ezpersonaltraining.com,https://ezpersonaltraining.com/,SUCCESS,11,MODERN,IGNORE,5,0,1,0,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links),0.6,
+http://unifyvb.com,https://www.unifyvb.com/,SUCCESS,19,MODERN,IGNORE,9,0,0,2,2,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Justified old-style text,"Justified (stretched) body text, old-style typography | Menu/links are images (5 image-only links) | Excessive inline CSS",0.6,
+http://www.ironherocrossfit.com,https://ironherocrossfit.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links),0.6,
+https://www.werqfitness.com,https://www.werqfitness.com/,SUCCESS,6,MODERN,IGNORE,0,2,2,0,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Copyright year is 2020,0.6,
+http://overtimesportsacademy.com,http://overtimesportsacademy.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://overtimesportsacademy.com/
+Call log:
+  - navigating to ""http://overtimesportsacademy.com/"", waiting until ""domcontentloaded""
+"
+https://www.club4fitness.com/gym/lafayette,https://www.club4fitness.com/location/lafayette/,SUCCESS,26,MODERN,IGNORE,7,0,2,2,10,4,1,0,False,True,~2014-2020 (estimated),1880,98,40/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (26.5s) | Large page (~12.1 MB),0.6,
+https://anatomyfitness.com,https://anatomyfitness.com/,SUCCESS,9,MODERN,IGNORE,2,0,3,0,3,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Large page (~10.1 MB),0.6,
+http://purebarre.com,https://www.purebarre.com/,SUCCESS,13,MODERN,IGNORE,5,0,0,2,3,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive inline CSS | Large page (~45.3 MB),0.6,
+http://www.tacticalstrength.com,https://www.tacticalstrength.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,20,7,0,7,2,10,3,8,True,False,~2004-2012 (estimated),1423,74,16/481,3,Boxed fixed-width layout | Image-based menu | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Fixed-width layout stuck to the left (1423px wide), 481px blank on the right | No full-width sections (everything sits inside one box) | Menu/links are images (3 image-only links) | Deprecated HTML tags (font/center/marquee) | Table-based page layout | No viewport meta tag (site not built for mobile) | Multiple layout tables",0.6,
+http://www.minneapolistraining.com,http://www.minneapolistraining.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.snapfitness.com/gyms/goldenvalley-mn-55427/288,https://www.snapfitness.com/us/gyms,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,0,False,True,~2020-2026 (estimated),1914,100,6/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://kholmes43.wixsite.com/evo-fitness-training,https://kholmes43.wixsite.com/evo-fitness-training,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,2,False,True,~2020-2026 (estimated),1441,75,479/0,0,,"Centered 1441px container, but page has 5 full-width sections (modern pattern) | Excessive inline CSS",0.6,
+https://www.atrainfitnesscoaching.com,https://www.atrainfitnesscoaching.com/,SUCCESS,12,MODERN,IGNORE,5,2,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (11 image-only links) | No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
+http://www.gymnastfactory.com,https://gymnastfactory.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,0,2,0,0,0,False,True,~2020-2026 (estimated),1854,97,34/32,0,,Copyright year is 2021,0.6,
+https://crossfitpsyched.com,https://crossfitpsyched.com/,SUCCESS,5,MODERN,IGNORE,0,0,3,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.yelp.com/biz/colorados-pro-gym-aurora,https://www.yelp.com/biz/colorados-pro-gym-aurora,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.crossfithoboken.com,https://www.crossfithoboken.com/,SUCCESS,14,MODERN,IGNORE,5,4,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1900,99,10/10,1,Image-based menu,Menu/links are images (10 image-only links) | Viewport tag present but not device-width based | Excessive inline CSS,0.6,
+https://republiqnm.com,https://republiqnm.com/,SUCCESS,7,MODERN,IGNORE,0,2,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS | Large page (~658.2 MB),0.6,
+https://www.cyclebar.com/location/hyde-park,https://www.cyclebar.com/location-search,SUCCESS,21,MODERN,IGNORE,7,0,3,2,4,4,1,0,False,True,~2014-2020 (estimated),1745,91,175/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.onelifefitness.com/gyms/ballpark-village,https://www.onelifefitness.com/gyms/ballpark-village,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://porch.com/newbury-park-ca/home-inspectors/the-home-inspectors-network-pllc-/pp,https://pro.porch.com/how-it-works,SUCCESS,5,MODERN,IGNORE,0,0,0,0,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Slow page load (9.8s),0.6,
+https://www.thestudioclarksville.com,https://www.thestudioclarksville.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.thestudioclarksville.com/
+Call log:
+  - navigating to ""https://www.thestudioclarksville.com/"", waiting until ""domcontentloaded""
+"
+http://www.stepitupgym.com,http://quickresultonline.com/?dn=stepitupgym.com&sksubid=37309&_slsen=1,SUCCESS,12,MODERN,IGNORE,3,2,5,0,0,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.cityclubatriverranch.com,https://www.cityclubatriverranch.com/,SUCCESS,10,MODERN,IGNORE,0,2,3,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~42.6 MB),0.6,
+http://www.rocklincrossfit.com,http://www.rocklincrossfit.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rocklincrossfit.com/
+Call log:
+  - navigating to ""http://www.rocklincrossfit.com/"", waiting until ""domcontentloaded""
+"
+http://befitkilleen.com,https://www.befitkilleen.com/,SUCCESS,5,MODERN,IGNORE,0,0,1,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://www.clubpilates.com/culvercity,https://www.clubpilates.com/location/culvercity,SUCCESS,12,MODERN,IGNORE,0,0,5,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~9.0 MB),0.6,
+https://theloftathleticclub.com,https://theloftathleticclub.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://theloftathleticclub.com/
+Call log:
+  - navigating to ""https://theloftathleticclub.com/"", waiting until ""domcontentloaded""
+"
+http://www.orangetheoryfitness.com/studio-locations/atlanta-midtown-ga-coming-soon,https://www.orangetheory.com/en-us/locations,SUCCESS,22,MODERN,IGNORE,7,0,8,0,2,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | No clear call-to-action / enquiry flow",0.6,
+http://www.mygym.com/sanjose/refresh,https://www.mygym.com/notfound,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+http://a2xfit.com,https://a2xfit.com/,SUCCESS,16,MODERN,IGNORE,5,0,1,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS | Slow page load (8.4s),0.6,
+https://www.zone6fitness.com,https://www.zone6fitness.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~267.2 MB),0.6,
+https://www.flawlessboxingfit.com,https://www.flawlessboxingfit.com/,SUCCESS,15,MODERN,IGNORE,5,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Excessive inline CSS | Large page (~24.8 MB),0.6,
+http://greenlifefitnessllc.com,http://greenlifefitnessllc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://greenlifefitnessllc.com/
+Call log:
+  - navigating to ""http://greenlifefitnessllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.mommyfitnessomaha.com,https://mommyfitnessomaha.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1856,97,32/32,0,,No significant outdated signals found,0.6,
+http://fitnessevolution.com,http://fitnessevolution.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 401
+http://www.fitnessevolution.com,http://www.fitnessevolution.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 401
+https://meandifp.com,https://www.arielmechanical.com/,SUCCESS,14,MODERN,IGNORE,7,0,0,2,0,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (10 image-only links) | Excessive inline CSS,0.6,
+http://www.redzonegables.com,https://www.rzonefitness.com/,SUCCESS,7,MODERN,IGNORE,0,0,2,0,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Large page (~10.3 MB),0.6,
+http://hawaiifitcamp.com,http://hawaiifitcamp.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://hawaiifitcamp.com/
+Call log:
+  - navigating to ""http://hawaiifitcamp.com/"", waiting until ""domcontentloaded""
+"
+https://www.lionsgym.com,https://www.lionsgym.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.ymcatriangle.org/alexander-family-ymca,http://www.ymcatriangle.org/alexander-family-ymca,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.theakt.com,https://www.theakt.com/,SUCCESS,9,MODERN,IGNORE,2,0,0,2,4,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+https://www.impactgymaz.com,https://www.impactgymaz.com/,SUCCESS,3,MODERN,IGNORE,2,0,0,0,0,1,0,2,False,True,~2014-2020 (estimated),1544,80,352/24,0,,"Centered 1544px container, but page has 8 full-width sections (modern pattern)",0.6,
+https://www.bodyalivefitness.com,https://bodyalivefitness.com/,SUCCESS,5,MODERN,IGNORE,2,0,0,2,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://santechase.com,http://santechase.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://elitefitnessgymwear.com,https://elitefitnessgymwear.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://elitefitnessgymwear.com/
+Call log:
+  - navigating to ""https://elitefitnessgymwear.com/"", waiting until ""domcontentloaded""
+"
+http://www.retrofitness.com,http://www.retrofitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.retrofitness.com/
+Call log:
+  - navigating to ""http://www.retrofitness.com/"", waiting until ""domcontentloaded""
+"
+https://rozefitness.com,https://rozefitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://rozefitness.com/
+Call log:
+  - navigating to ""https://rozefitness.com/"", waiting until ""domcontentloaded""
+"
+https://www.provitanashville.com,https://www.provitanashville.com/,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Copyright year is 2022 | Excessive inline CSS,0.6,
+http://sunriseinspections.com,https://sunriseinspections.com/,SUCCESS,11,MODERN,IGNORE,5,0,0,0,3,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Large page (~32.4 MB),0.6,
+https://www.planetfitness.com/gyms/st-louis-central-west-end-mo,https://www.planetfitness.com/gyms/st-louis-central-west-end-mo,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.prestige-fitness.com,http://www.prestige-fitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.prestige-fitness.com/"", waiting until ""domcontentloaded""
+"
+http://alphaaestheticstraining.com,https://www.alphaaestheticstraining.com/,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Copyright year is 2021 | Excessive inline CSS,0.6,
+https://www.xgtfitnessca.com,https://www.xgtfitnessca.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://planetfitness.com,http://planetfitness.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.planetfitness.com/gyms/wi,http://www.planetfitness.com/gyms/wi,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://legacyfitness.net,https://legacyfitness.net,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://empireathletic.com,http://empireathletic.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://empireathletic.com/
+Call log:
+  - navigating to ""https://empireathletic.com/"", waiting until ""domcontentloaded""
+"
+https://fitsanjose.com,https://fitsanjose.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://fitsanjose.com/
+Call log:
+  - navigating to ""https://fitsanjose.com/"", waiting until ""domcontentloaded""
+"
+http://www.homegymsupreme.com,http://www.homegymsupreme.com/,SUCCESS,17,MODERN,IGNORE,7,0,5,0,0,4,1,4,False,True,~2014-2020 (estimated),754,39,583/583,1,No HTTPS (Not secure),"Fixed-width centered box: content only 754px wide (39% of a 1920px screen), ~583px empty on each side | Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow",0.6,
+https://www.equinox.com,https://www.equinox.com/,SUCCESS,8,MODERN,IGNORE,0,0,2,2,4,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.clubpilates.com,https://www.clubpilates.com/,SUCCESS,7,MODERN,IGNORE,0,0,2,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~18.3 MB),0.6,
+http://www.fitsomstudios.com,http://www.fitsomstudios.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at http://www.fitsomstudios.com/
+Call log:
+  - navigating to ""http://www.fitsomstudios.com/"", waiting until ""domcontentloaded""
+"
+https://absoluteflexappeal.com,https://absoluteflexappeal.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 401
+http://support.thetransformapp.com/support/home,http://support.thetransformapp.com/support/home,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://support.thetransformapp.com/support/home
+Call log:
+  - navigating to ""http://support.thetransformapp.com/support/home"", waiting until ""domcontentloaded""
+"
+http://x3sports.com,https://x3sports.com/,SUCCESS,9,MODERN,IGNORE,2,0,0,2,4,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | Excessive inline CSS,0.6,
+http://steelgym.com,https://www.steelgym.com/,SUCCESS,7,MODERN,IGNORE,2,0,0,2,2,1,0,2,False,True,~2014-2020 (estimated),990,52,462/468,0,,"Centered 990px container, but page has 3 full-width sections (modern pattern) | Excessive inline CSS",0.6,
+http://www.purecorept.com,http://www.purecorept.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 503
+https://fxbnewhope.com,https://fxbnewhope.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fxbnewhope.com/
+Call log:
+  - navigating to ""https://fxbnewhope.com/"", waiting until ""domcontentloaded""
+"
+https://www.d1sportstraining.com/raleigh,https://d1training.com/,SUCCESS,24,MODERN,IGNORE,7,0,5,2,5,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~9.4 MB),0.6,
+http://www.metroymca.org,https://metroymca.org/,SUCCESS,28,MODERN,IGNORE,11,0,0,4,5,6,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (5 image-only links) | Deprecated HTML tags (font/center/marquee) | Old web-agency/builder signature found | Excessive inline CSS | Large page (~22.6 MB),0.6,
+http://www.metropolisfitness.com,http://www.metropolisfitness.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.islandclubandspa.com,https://islandclubandspa.com/,SUCCESS,15,MODERN,IGNORE,3,2,5,3,0,2,0,2,False,True,~2014-2020 (estimated),1060,55,430/430,1,Table/deprecated-tag markup,"Centered 1060px container, but page has 3 full-width sections (modern pattern) | Table-based page layout | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Multiple layout tables",0.6,
+https://www.zesafitness.com,https://www.zesafitness.com/,SUCCESS,10,MODERN,IGNORE,0,4,4,0,2,0,0,0,False,True,~2020-2026 (estimated),1895,99,5/20,0,,Horizontal overflow on mobile (1.5x screen width) | No clear call-to-action / enquiry flow,0.6,
+https://www.ptpluswellness.com,https://www.ptpluswellness.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~21.4 MB),0.6,
+http://www.planetfitness.com/gyms/fountain-valley-ca-1133,http://www.planetfitness.com/gyms/fountain-valley-ca-1133,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.goldsgymtampa.com,http://www.goldsgymtampa.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.goldsgymtampa.com/
+Call log:
+  - navigating to ""https://www.goldsgymtampa.com/"", waiting until ""domcontentloaded""
+"
+https://www.crunch.com/locations/aurora-colorado,https://www.crunch.com/locations,SUCCESS,27,MODERN,IGNORE,10,0,3,0,7,5,2,0,False,True,~2014-2020 (estimated),1900,99,20/0,2,Image-based menu | Tiny body text,Very small body text (~12px) | Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow | Slow page load (9.3s),0.6,
+http://www.oasisgym.com,https://oasisgym.com/,SUCCESS,19,MODERN,IGNORE,5,0,2,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | Old web-agency/builder signature found | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~13.4 MB),0.6,
+https://www.bouldersgym.com,https://www.bouldersgym.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~19.2 MB),0.6,
+http://www.desertgymcats.com,http://www.desertgymcats.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.desertgymcats.com/
+Call log:
+  - navigating to ""https://www.desertgymcats.com/"", waiting until ""domcontentloaded""
+"
+https://advancedlivingbooster.com,https://advancedlivingbooster.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://advancedlivingbooster.com/
+Call log:
+  - navigating to ""https://advancedlivingbooster.com/"", waiting until ""domcontentloaded""
+"
+https://www.anytimefitness.com/gyms/2597/long-beach-ca-90804,https://www.anytimefitness.com/gyms/2597/long-beach-ca-90804,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.thelittlegym.com/nesanantoniotx,http://www.thelittlegym.com/nesanantoniotx,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.firehouse.fitness,https://www.firehouse.fitness,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.firehouse.fitness/
+Call log:
+  - navigating to ""https://www.firehouse.fitness/"", waiting until ""domcontentloaded""
+"
+https://myfitrepublic.com,https://myfitrepublic.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://myfitrepublic.com/
+Call log:
+  - navigating to ""https://myfitrepublic.com/"", waiting until ""domcontentloaded""
+"
+https://phatburn.com,https://www.vermontvacationland.com/,SUCCESS,13,MODERN,IGNORE,6,0,3,0,0,3,1,0,False,True,~2014-2020 (estimated),1874,98,28/18,1,Justified old-style text,"Justified (stretched) body text, old-style typography | No clear call-to-action / enquiry flow",0.6,
+http://fitnessuniverse.com,https://musclemania.com/,SUCCESS,15,MODERN,IGNORE,3,0,2,3,5,2,0,0,False,True,~2014-2020 (estimated),1770,92,75/75,1,Table/deprecated-tag markup,Table-based page layout | Excessive unstructured text on homepage | Multiple layout tables | Large page (~8.2 MB),0.6,
+http://charlestonfitmma.com,http://charlestonfitmma.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://charlestonfitmma.com/
+Call log:
+  - navigating to ""http://charlestonfitmma.com/"", waiting until ""domcontentloaded""
+"
+http://www.totalwomanspa.com,https://www.totalwomanspa.com/lander,SUCCESS,18,MODERN,IGNORE,5,2,8,0,0,2,1,0,False,True,~2014-2020 (estimated),1888,98,16/16,2,Old copyright (1999) | Tiny body text,Very small body text (~13px) | No @media queries in inline styles (partial signal) | Copyright year is 1999 (27 years old) | No clear call-to-action / enquiry flow,0.6,
+http://www.youfit.com,https://youfit.com/,SUCCESS,7,MODERN,IGNORE,0,0,2,0,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Large page (~15.5 MB),0.6,
+http://www.crossfitonthemove.com,http://www.crossfitonthemove.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.crossfitonthemove.com/
+Call log:
+  - navigating to ""http://www.crossfitonthemove.com/"", waiting until ""domcontentloaded""
+"
+http://cityofeastpeoria.com/for-residents/eastside-centre,http://cityofeastpeoria.com/for-residents/eastside-centre,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.californiafamilyfitness.com,http://www.californiafamilyfitness.com/,SUCCESS,14,MODERN,IGNORE,3,2,5,0,2,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://bossgymshop.net,https://bossgymshop.net,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bossgymshop.net/
+Call log:
+  - navigating to ""https://bossgymshop.net/"", waiting until ""domcontentloaded""
+"
+http://www.tonezonemesa.com,http://www.tonezonemesa.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tonezonemesa.com/
+Call log:
+  - navigating to ""http://www.tonezonemesa.com/"", waiting until ""domcontentloaded""
+"
+https://www.ufcgym.com/locations/lauderhill,https://www.ufcgym.com/locations,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1900,99,0/20,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+http://www.bluemoonfitness.com,https://bluemoonfitness.com/,SUCCESS,15,MODERN,IGNORE,5,0,1,2,4,2,1,0,False,True,~2014-2020 (estimated),1870,97,35/15,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive inline CSS,0.6,
+http://www.cityoflavista.org,http://www.cityoflavista.org/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,11,2,2,5,5,6,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,3,Image-based menu | No HTTPS (Not secure) | Table/deprecated-tag markup,[3 independent outdated signals agree] | Menu/links are images (6 image-only links) | Table-based page layout | Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | Multiple layout tables | Excessive inline CSS | Large page (~12.9 MB),0.6,
+http://www.minneapolis.hyatt.com,http://www.minneapolis.hyatt.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.minneapolis.hyatt.com/
+Call log:
+  - navigating to ""http://www.minneapolis.hyatt.com/"", waiting until ""domcontentloaded""
+"
+https://www.clubpilates.com/location/coralgables,https://www.clubpilates.com/location/coralgables,SUCCESS,15,MODERN,IGNORE,5,0,5,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://joesfitrevolution.com,https://joesfitrevolution.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://www.diamondfitraleigh.com,https://www.diamondfitperformance.com/,SUCCESS,19,MODERN,IGNORE,5,4,2,2,3,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (9 image-only links) | Viewport tag present but not device-width based | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~10.3 MB),0.6,
+https://mspfitness.com,https://mspfitness.com/,SUCCESS,29,NEEDS IMPROVEMENT,LOW PRIORITY,4,15,3,4,0,2,1,0,False,False,~2014-2020 (estimated),1904,99,8/8,2,Not mobile friendly | Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://www.yogasix.com/location/midtown,https://www.yogasix.com/location-search,SUCCESS,9,MODERN,IGNORE,0,0,0,2,7,0,0,0,False,True,~2020-2026 (estimated),1745,91,175/0,0,,Excessive inline CSS | Slow page load (13.2s),0.6,
+http://www.strongfitathletic.club,http://www.strongfitathletic.club,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.strongfitathletic.club/
+Call log:
+  - navigating to ""http://www.strongfitathletic.club/"", waiting until ""domcontentloaded""
+"
+https://www.anytimefitness.com/promos/real-af-reboot/?club=4945,https://www.anytimefitness.com/offer/group/real-af-reboot?club=4945,SUCCESS,16,MODERN,IGNORE,7,0,0,0,4,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links),0.6,
+http://www.b2bfitnessforlife.com,http://www.b2bfitnessforlife.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 409
+https://thecamptc.com/locations,https://thecamptc.com/locations/,SUCCESS,5,MODERN,IGNORE,0,0,3,0,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+http://www.thunderelite.com,https://www.thunderelite.com/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,2,False,True,~2014-2020 (estimated),971,51,474/475,1,Image-based menu,"Centered 971px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (4 image-only links) | Excessive inline CSS",0.6,
+https://workoutanytime.com/greensboro,https://workoutanytime.com/greensboro,SUCCESS,11,MODERN,IGNORE,5,0,3,0,0,2,1,2,False,True,~2014-2020 (estimated),1610,84,0/310,1,Image-based menu,"Centered 1610px container, but page has 8 full-width sections (modern pattern) | Menu/links are images (9 image-only links) | No clear call-to-action / enquiry flow",0.6,
+http://www.getrung.com,http://www.getrung.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.getrung.com/
+Call log:
+  - navigating to ""http://www.getrung.com/"", waiting until ""domcontentloaded""
+"
+https://www.anytimefitness.com/gyms/2595/new-orlea,https://www.anytimefitness.com/gyms/2595/new-orlea,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://f45training.com/oldeastdallas,https://f45training.com/studio/oldeastdallas/,SUCCESS,24,MODERN,IGNORE,8,0,2,2,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (3 image-only links) | Table-based page layout | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~52.4 MB),0.6,
+https://www.firestormfreerunning.com,https://www.firestormultra.com/,SUCCESS,18,MODERN,IGNORE,5,0,3,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (9 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~18.9 MB),0.6,
+https://www.supremehealthfitness.com,https://www.supremehealthfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://corefitnessandboxing.club,http://corefitnessandboxing.club,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://corefitnessandboxing.club/
+Call log:
+  - navigating to ""http://corefitnessandboxing.club/"", waiting until ""domcontentloaded""
+"
+https://goosefitness.com,https://goosefitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://goosefitness.com/
+Call log:
+  - navigating to ""https://goosefitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.gymsource.com,https://gymsource.com/,SUCCESS,2,MODERN,IGNORE,0,2,0,0,0,0,0,2,False,True,~2020-2026 (estimated),1130,59,390/400,0,,"Centered 1130px container, but page has 5 full-width sections (modern pattern) | No @media queries in inline styles (partial signal)",0.6,
+http://www.ironaddictiontraining.com,https://www.ironaddictiongym.com/,SUCCESS,23,MODERN,IGNORE,5,8,0,2,5,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Page does not reflow on mobile (content 2.5x wider than screen) | Excessive inline CSS | Large page (~8.3 MB),0.6,
+http://adventurefitness.club,https://adventurefitness.club/,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,2,False,True,~2020-2026 (estimated),1530,80,390/0,0,,"Centered 1530px container, but page has 12 full-width sections (modern pattern) | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
+http://fittribeacademy.com,http://fittribeacademy.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://mixsonclub.com,http://mixsonclub.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://pink-barre.com,http://www.pink-barre.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,11,6,7,2,2,6,2,9,True,False,~2014-2020 (estimated),1508,78,222/191,3,Boxed fixed-width layout | Old copyright (2012) | No HTTPS (Not secure),"[3 independent outdated signals agree] | Fixed-width centered box: content only 1508px wide (78% of a 1920px screen), ~222px empty on each side | No full-width sections (everything sits inside one box) | Thin border drawn around the main content box | Site opens on http:// (browser shows 'Not secure') | Viewport tag present but not device-width based | No @media queries in inline styles (partial signal) | Copyright year is 2012 (14 years old)",0.6,
+http://www.crunchabilene.com,https://www.crunch.com/locations/abilene,SUCCESS,26,MODERN,IGNORE,7,0,2,2,10,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (10.1s) | Large page (~29.3 MB),0.6,
+https://www.orangetheory.com/en-us/locations/california/san-jose/111-west-st-john-street-suite-100/?,https://www.orangetheory.com/en-us,SUCCESS,21,MODERN,IGNORE,7,0,7,0,2,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | Excessive unstructured text on homepage",0.6,
+http://www.ymcaatlanta.org,https://www.ymcaatlanta.org/,SUCCESS,14,MODERN,IGNORE,2,2,0,2,7,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | No @media queries in inline styles (partial signal) | Excessive inline CSS | Large page (~12.1 MB),0.6,
+http://www.fit2ripped.com,http://www.fit2ripped.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fit2ripped.com/
+Call log:
+  - navigating to ""http://www.fit2ripped.com/"", waiting until ""domcontentloaded""
+"
+http://www.elitetotalfitness.com,https://www.elitetotalfitness.com/,SUCCESS,13,MODERN,IGNORE,8,0,0,0,0,4,1,8,True,True,~2014-2020 (estimated),520,27,700/700,1,Boxed fixed-width layout,"Fixed-width centered box: content only 520px wide (27% of a 1920px screen), ~700px empty on each side | No full-width sections (everything sits inside one box)",0.6,
+https://sacramento.kaiafit.com,https://www.kaiafit.com/,SUCCESS,14,MODERN,IGNORE,5,4,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Viewport tag present but not device-width based | Excessive inline CSS,0.6,
+https://www.infinitesportsworld.com,https://www.infinitesportsworld.com/,SUCCESS,10,MODERN,IGNORE,0,2,8,0,0,0,0,0,False,True,~2020-2026 (estimated),1823,95,48/49,1,Old copyright (2012),No @media queries in inline styles (partial signal) | Copyright year is 2012 (14 years old) | No clear call-to-action / enquiry flow,0.6,
+http://edgebodyomaha.com,http://edgebodyomaha.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://edgebodyomaha.com/
+Call log:
+  - navigating to ""http://edgebodyomaha.com/"", waiting until ""domcontentloaded""
+"
+https://www.jetsetmiami.com,https://jetsetpilates.com/,SUCCESS,2,MODERN,IGNORE,0,0,2,0,0,0,0,0,False,True,~2020-2026 (estimated),1860,97,0/60,0,,Excessive unstructured text on homepage,0.6,
+http://www.dr-tanaka.com,http://www.dr-tanaka.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dr-tanaka.com/
+Call log:
+  - navigating to ""http://www.dr-tanaka.com/"", waiting until ""domcontentloaded""
+"
+https://www.starfitnesshawaii.com,https://www.starfitnesshawaii.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.starfitnesshawaii.com/
+Call log:
+  - navigating to ""https://www.starfitnesshawaii.com/"", waiting until ""domcontentloaded""
+"
+http://www.docsgym.org,https://docsgym.org/,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,12,0,0,0,0,6,2,8,True,True,~2010-2016 (estimated),740,38,560/620,2,Boxed fixed-width layout | Justified old-style text,"Fixed-width centered box: content only 740px wide (38% of a 1920px screen), ~560px empty on each side | No full-width sections (everything sits inside one box) | Justified (stretched) body text, old-style typography",0.6,
+http://www.velocitysp.com,https://velocityspusa.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+https://www.theakt.com/location/brier-creek,https://www.theakt.com/studios/brier-creek,SUCCESS,9,MODERN,IGNORE,2,0,0,2,4,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+https://www.dimension.fitness,https://www.dimension.fitness/,SUCCESS,8,MODERN,IGNORE,0,6,0,0,2,0,0,0,False,False,~2020-2026 (estimated),1920,100,0/0,0,,Viewport tag present but not device-width based | No @media queries in inline styles (partial signal),0.6,
+http://www.thecamptc.com,https://thecamptc.com/,SUCCESS,11,MODERN,IGNORE,0,0,3,0,8,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Slow page load (8.6s) | Large page (~29.3 MB),0.6,
+http://www.anytimefitness.com/gyms/1539/new-orleans-la-70119,https://www.anytimefitness.com/locations/new-orleans-louisiana-1539,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive inline CSS,0.6,
+http://precisionelitegymnastics.com,https://www.precisionelitegymnastics.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+https://www.act.fitness,https://act.fitness/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,2,False,True,~2020-2026 (estimated),1528,80,344/48,0,,"Centered 1528px container, but page has 15 full-width sections (modern pattern)",0.6,
+http://gymserviceinstallation.com,http://gymserviceinstallation.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://gymserviceinstallation.com/
+Call log:
+  - navigating to ""http://gymserviceinstallation.com/"", waiting until ""domcontentloaded""
+"
+http://goldsgym.com,https://www.goldsgym.com/,SUCCESS,20,MODERN,IGNORE,5,0,3,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~124.1 MB),0.6,
+https://www.crunch.com/locations/channelside,https://www.crunch.com/locations/channelside,SUCCESS,26,MODERN,IGNORE,7,0,2,2,10,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (9.7s) | Large page (~26.5 MB),0.6,
+http://www.lakeshoregym.com,https://lakeshoregym.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://www.mydfx.com,https://dfxpowerball.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://lansingwellness2.com,https://lansingwellness2.com/lander,SUCCESS,18,MODERN,IGNORE,5,2,8,0,0,2,1,0,False,True,~2014-2020 (estimated),1888,98,16/16,2,Old copyright (1999) | Tiny body text,Very small body text (~13px) | No @media queries in inline styles (partial signal) | Copyright year is 1999 (27 years old) | No clear call-to-action / enquiry flow,0.6,
+http://www.trainradical.com,https://trainradical.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+https://www.elevateabilene.com/?fbclid=iwar2gb6vl04qwsg1w-j-ah8_x2ksns1y-wa2o-cnlkqsvkxgk6-ud7kvoiv8,https://www.elevateabilene.com/?fbclid=iwar2gb6vl04qwsg1w-j-ah8_x2ksns1y-wa2o-cnlkqsvkxgk6-ud7kvoiv8,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+https://fitindustries.net,https://fitindustries.net,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fitindustries.net/
+Call log:
+  - navigating to ""https://fitindustries.net/"", waiting until ""domcontentloaded""
+"
+http://www.24hourfitness.com,https://www.24hourfitness.com/,SUCCESS,10,MODERN,IGNORE,5,0,0,0,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Tiny body text,Very small body text (~12px),0.6,
+http://www.fitbodybootcamp.com/9592-south-visalia-ca,http://www.fitbodybootcamp.com/9592-south-visalia-ca,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.f45trainingbuckhead.com,https://www.f45trainingbuckhead.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.f45trainingbuckhead.com/
+Call log:
+  - navigating to ""https://www.f45trainingbuckhead.com/"", waiting until ""domcontentloaded""
+"
+http://www.49erfit.com,http://www.49erfit.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.49erfit.com/
+Call log:
+  - navigating to ""https://www.49erfit.com/"", waiting until ""domcontentloaded""
+"
+https://www.planetfitness.com/gyms/charleston-sc,https://www.planetfitness.com/gyms/charleston-sc,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1912,100,8/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.unionworkout.com,https://www.unionworkout.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.unionworkout.com/
+Call log:
+  - navigating to ""https://www.unionworkout.com/"", waiting until ""domcontentloaded""
+"
+http://www.verticalfitnessstudio.com,https://www.verticalfitnessstudio.com/,SUCCESS,13,MODERN,IGNORE,0,4,3,2,4,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Viewport tag present but not device-width based | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.fitness1440mesa-az.com,https://www.fitness1440mesa-az.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fitness1440mesa-az.com/
+Call log:
+  - navigating to ""https://www.fitness1440mesa-az.com/"", waiting until ""domcontentloaded""
+"
+http://www.markeepersonaltraining.com,https://markeepersonaltraining.com/,SUCCESS,3,MODERN,IGNORE,0,2,1,0,0,0,0,2,False,True,~2020-2026 (estimated),1600,83,160/160,0,,"Centered 1600px container, but page has 8 full-width sections (modern pattern) | No @media queries in inline styles (partial signal)",0.6,
+http://www.plantbfitness.com,http://www.plantbfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.plantbfitness.com/
+Call log:
+  - navigating to ""http://www.plantbfitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.x3sports.com,https://x3sports.com/,SUCCESS,9,MODERN,IGNORE,2,0,0,2,4,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | Excessive inline CSS,0.6,
+https://www.ehsptchiro.com,https://ehsptchiro.com/,SUCCESS,4,MODERN,IGNORE,0,2,2,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage,0.6,
+https://4lfrfjy9.pages.infusionsoft.net,https://4lfrfjy9.pages.infusionsoft.net,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://magnausa.com/contact,http://magnausa.com/contact,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://magnausa.com/contact
+Call log:
+  - navigating to ""https://magnausa.com/contact"", waiting until ""domcontentloaded""
+"
+https://cycologystudio.com,https://cycologystudio.com/,SUCCESS,12,MODERN,IGNORE,7,0,0,0,0,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Tiny body text,Very small body text (~13px) | Old web-agency/builder signature found,0.6,
+http://www.fitforagoddess.com,https://www.fitforagoddess.com/,SUCCESS,26,MODERN,IGNORE,9,4,0,4,3,4,2,0,False,True,~2014-2020 (estimated),1676,87,77/167,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (5 image-only links) | Deprecated HTML tags (font/center/marquee) | Viewport tag present but not device-width based | Excessive inline CSS | Large page (~65.2 MB),0.6,
+https://www.9round.com/fitness/costa-mesa-california-fairview-road,https://www.9round.com/fitness/costa-mesa-california-fairview-road,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://bryanglazerfamilyjcc.com,https://www.shannaandbryanglazerjcc.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~9.8 MB),0.6,
+https://fitopiaems.com,https://fitopiaems.com/,SUCCESS,12,MODERN,IGNORE,0,0,3,2,7,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Slow page load (8.6s),0.6,
+http://hourblast.com,https://hourblast.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.corefluencypilates.com,https://www.corefluencypilates.com/,SUCCESS,20,MODERN,IGNORE,8,4,3,0,0,4,1,8,True,True,~2014-2020 (estimated),1110,58,410/400,1,Boxed fixed-width layout,"Fixed-width centered box: content only 1110px wide (58% of a 1920px screen), ~410px empty on each side | No full-width sections (everything sits inside one box) | Viewport tag present but not device-width based | No clear call-to-action / enquiry flow",0.6,
+http://www.melkis.com,https://melkis.com/,SUCCESS,8,MODERN,IGNORE,0,0,1,2,5,0,0,2,False,True,~2020-2026 (estimated),1530,80,30/360,0,,"Centered 1530px container, but page has 9 full-width sections (modern pattern) | Excessive inline CSS | Large page (~9.9 MB)",0.6,
+http://www.bodyandsoulmiami.com,https://bodyandsoulmiami.com/,PARTIAL,22,MODERN,IGNORE,7,0,0,2,8,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive inline CSS | Slow page load (19.8s) | Large page (~39.9 MB),0.6,
+http://thelittlegym.com,https://www.thelittlegym.com/,SUCCESS,22,MODERN,IGNORE,5,0,2,2,10,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (10 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (13.0s) | Large page (~8.9 MB),0.6,
+http://www.fitworks.com,https://fitworks.com/,SUCCESS,15,MODERN,IGNORE,3,0,1,2,7,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | Excessive inline CSS | Large page (~33.3 MB),0.6,
+https://www.planetfitness.com/gyms/anaheim-west-katella-ave-ca,https://www.planetfitness.com/gyms/anaheim-west-katella-ave-ca,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1912,100,8/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://f45training.com/downtowntuscaloosa,http://f45training.com/downtowntuscaloosa,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.burnathletic.com,http://www.burnathletic.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.burnathletic.com/"", waiting until ""domcontentloaded""
+"
+http://verticaladdictionct.com,http://verticaladdictionct.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://verticaladdictionct.com/
+Call log:
+  - navigating to ""http://verticaladdictionct.com/"", waiting until ""domcontentloaded""
+"
+http://www.crossfit325.com,https://crossfit325.com/,SUCCESS,3,MODERN,IGNORE,0,0,0,0,3,0,0,2,False,True,~2020-2026 (estimated),1180,62,370/370,0,,"Centered 1180px container, but page has 7 full-width sections (modern pattern) | Large page (~16.7 MB)",0.6,
+http://anytimefitness.com,https://www.anytimefitness.com/,SUCCESS,14,MODERN,IGNORE,7,0,0,0,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links),0.6,
+https://trifitnesslansing.com,https://trifitnesslansing.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.planetfitness.com/gyms/visalia-ca,https://www.planetfitness.com/gyms/visalia-ca,SUCCESS,5,MODERN,IGNORE,0,0,3,2,0,0,0,0,False,True,~2020-2026 (estimated),1912,100,8/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://www.hotworx.net/studio/westminster-federalparkway,https://www.hotworx.net/studio/westminster-federalparkway,SUCCESS,9,MODERN,IGNORE,0,0,2,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~19.8 MB),0.6,
+http://www.gotmusclept.com,https://www.gotmusclept.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1776,92,96/48,1,Image-based menu,Menu/links are images (3 image-only links),0.6,
+http://www.libertygym.com,http://www.libertygym.com/,SUCCESS,66,OUTDATED,HIGH PRIORITY,16,10,5,2,0,8,3,8,True,False,~2010-2016 (estimated),946,49,494/480,4,Boxed fixed-width layout | Not mobile friendly | Tiny body text | No HTTPS (Not secure),"[4 independent outdated signals agree] | Fixed-width centered box: content only 946px wide (49% of a 1920px screen), ~494px empty on each side | No full-width sections (everything sits inside one box) | Very small body text (~13px) | Site opens on http:// (browser shows 'Not secure') | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+http://www.fitnessconnection4u.com,http://www.fitnessconnection4u.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fitnessconnection4u.com/
+Call log:
+  - navigating to ""http://www.fitnessconnection4u.com/"", waiting until ""domcontentloaded""
+"
+http://www.shapehealthfitness.com,https://shapehealthfitness.com/,SUCCESS,10,MODERN,IGNORE,0,0,8,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (1998),Copyright year is 1998 (28 years old) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.omingbirdaerialgym.com,https://www.omingbirdaerialgym.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.omingbirdaerialgym.com/
+Call log:
+  - navigating to ""https://www.omingbirdaerialgym.com/"", waiting until ""domcontentloaded""
+"
+https://www.gymguyz.com,https://www.gymguyz.com/,SUCCESS,17,MODERN,IGNORE,5,0,0,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive inline CSS | Large page (~24.4 MB),0.6,
+https://www.cyclebar.com/location/roseville,https://www.cyclebar.com/location-search,SUCCESS,24,MODERN,IGNORE,7,0,3,2,7,4,1,0,False,True,~2014-2020 (estimated),1745,91,175/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Slow page load (13.8s),0.6,
+http://www.sweetpeachwax.com,https://www.sweetpeachwax.com/,SUCCESS,14,MODERN,IGNORE,4,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | Excessive inline CSS | Large page (~67.6 MB),0.6,
+http://www.worldgym.com,https://www.worldgym.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+https://thequeergym.com,https://www.thequeergym.com/,SUCCESS,8,MODERN,IGNORE,0,0,3,2,3,0,0,0,False,True,~2020-2026 (estimated),1900,99,15/5,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~12.2 MB),0.6,
+http://www.toughlotus.com,http://www.toughlotus.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://bocahawaii.com,https://bocahawaii.com/,SUCCESS,13,MODERN,IGNORE,5,0,3,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (22 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://crossfitnordeast.com,https://www.crossfitnordeast.com/,SUCCESS,12,MODERN,IGNORE,5,2,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
+http://www.bodytwenty.com/south-tampa,http://www.bodytwenty.com/south-tampa,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 409
+http://www.goldsgym.com/gyms/colorado/colorado-springs/845,http://www.goldsgym.com/gyms/colorado/colorado-springs/845,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.ufcfit.com/locations/anaheim-gardenwalk,https://www.ufcgym.com/locations/anaheim-gardenwalk,SUCCESS,7,MODERN,IGNORE,0,2,3,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://purebarre.com/la-neworleans,https://www.purebarre.com/location/new-orleans-la,SUCCESS,5,MODERN,IGNORE,0,0,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~97.9 MB),0.6,
+https://www.lgagymnastics.com,https://lgagymnastics.com/,SUCCESS,11,MODERN,IGNORE,5,0,1,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS,0.6,
+http://www.snapfitness.com/gyms/cincinnati-oh-45202/4067,http://www.snapfitness.com/gyms/cincinnati-oh-45202/4067,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.nbsgym.com,https://www.nbsgym.com/,SUCCESS,23,MODERN,IGNORE,5,2,0,5,8,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | No @media queries in inline styles (partial signal) | Multiple layout tables | Excessive inline CSS | Slow page load (12.3s) | Large page (~8.4 MB),0.6,
+https://www.goldsgym.com,https://www.goldsgym.com/,SUCCESS,18,MODERN,IGNORE,5,0,3,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~133.1 MB),0.6,
+http://www.gymboree.com,http://www.gymboree.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.sobekick.com,https://sobekick.com/,SUCCESS,20,MODERN,IGNORE,5,2,8,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Old copyright (2017) | Image-based menu,Menu/links are images (3 image-only links) | No @media queries in inline styles (partial signal) | Copyright year is 2017 (9 years old) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://boxfitelite.com,http://boxfitelite.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.planetfitness.com/gyms/orange-ca,https://www.planetfitness.com/gyms/orange-ca,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1912,100,8/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.davidbartongym.com,http://www.davidbartongym.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.davidbartongym.com/"", waiting until ""domcontentloaded""
+"
+http://https://www.crunch.com/locations/california/simi-valley/simi-valley,http://https://www.crunch.com/locations/california/simi-valley/simi-valley,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://https//www.crunch.com/locations/california/simi-valley/simi-valley
+Call log:
+  - navigating to ""http://https//www.crunch.com/locations/california/simi-valley/simi-valley"", waiting until ""domcontentloaded""
+"
+https://www.goldsgym.com/markets/socal,https://www.goldsgym.com/markets/socal/,SUCCESS,6,MODERN,IGNORE,2,0,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow,0.6,
+http://undergroundfitnessandsport.com,https://undergroundfitnessandsport.com/,SUCCESS,5,MODERN,IGNORE,2,2,0,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal),0.6,
+http://redlineathletics.com/locations/colorado/westminster,http://redlineathletics.com/locations/colorado/westminster,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_TOO_MANY_REDIRECTS at http://redlineathletics.com/locations/colorado/westminster
+Call log:
+  - navigating to ""http://redlineathletics.com/locations/colorado/westminster"", waiting until ""domcontentloaded""
+"
+http://www.powerhousegym.com,https://powerhousegym.com/,SUCCESS,21,MODERN,IGNORE,7,0,0,2,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Old web-agency/builder signature found | Excessive inline CSS | Large page (~9.9 MB),0.6,
+http://www.purplemoonhotyoga.com,http://www.purplemoonhotyoga.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.purplemoonhotyoga.com/
+Call log:
+  - navigating to ""http://www.purplemoonhotyoga.com/"", waiting until ""domcontentloaded""
+"
+https://www.planetfitness.com/gyms/abilene-tx,https://www.planetfitness.com/gyms/abilene-tx,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1912,100,8/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+https://siliconvalleyathletics.com,https://siliconvalleyathletics.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://siliconvalleyathletics.com/
+Call log:
+  - navigating to ""https://siliconvalleyathletics.com/"", waiting until ""domcontentloaded""
+"
+http://www.worldgym.com/beaumont,https://www.worldgym.com/beaumont,SUCCESS,2,MODERN,IGNORE,0,0,0,0,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
+https://staxxdstudio.com,https://staxxdstudio.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://staxxdstudio.com/
+Call log:
+  - navigating to ""https://staxxdstudio.com/"", waiting until ""domcontentloaded""
+"
+http://www.healthyhabitsstudio.com,https://www.healthyhabitsstudio.com/,SUCCESS,15,MODERN,IGNORE,8,0,0,2,0,4,1,8,True,True,~2014-2020 (estimated),1140,59,390/390,1,Boxed fixed-width layout,"Fixed-width centered box: content only 1140px wide (59% of a 1920px screen), ~390px empty on each side | No full-width sections (everything sits inside one box) | Excessive inline CSS",0.6,
+http://aspirefitnessclubs.com/arizona-locations,http://aspirefitnessclubs.com/arizona-locations,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://aspirefitnessclubs.com/arizona-locations
+Call log:
+  - navigating to ""http://aspirefitnessclubs.com/arizona-locations"", waiting until ""domcontentloaded""
+"
+https://www.torvafitclub.com,https://www.torvafitclub.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.torvafitclub.com/
+Call log:
+  - navigating to ""https://www.torvafitclub.com/"", waiting until ""domcontentloaded""
+"
+https://www.bangkokboxingfitness.com,https://bangkokboxingfitness.com/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS,0.6,
+https://www.therisingstrength.com,https://www.therisingstrength.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.therisingstrength.com/
+Call log:
+  - navigating to ""https://www.therisingstrength.com/"", waiting until ""domcontentloaded""
+"
+http://tremontathletic.com,https://tremontathletic.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1674,87,123/123,0,,Excessive inline CSS,0.6,
+http://www.tlgalbuquerquenm.com,https://www.thelittlegym.com/new-mexico-albuquerque/,SUCCESS,12,MODERN,IGNORE,5,0,2,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://12thstatecrossfit.com,https://12thstatecrossfit.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,2,False,True,~2020-2026 (estimated),1358,71,172/390,0,,"Centered 1358px container, but page has 3 full-width sections (modern pattern) | Excessive inline CSS",0.6,
+http://www.revolution-cycling.com,https://www.revolution-cycling.com/,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.ocstrengthandfitness.com,http://www.ocstrengthandfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ocstrengthandfitness.com/
+Call log:
+  - navigating to ""http://www.ocstrengthandfitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.crossfitoahu.com,https://crossfitoahu.com/,SUCCESS,24,MODERN,IGNORE,7,0,8,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Copyright year is 2021 | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+https://www.boomelite.com,https://www.boomelite.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.boomelite.com/
+Call log:
+  - navigating to ""https://www.boomelite.com/"", waiting until ""domcontentloaded""
+"
+http://www.fitbodystudio.com,http://www.fitbodystudio.com/,SUCCESS,22,MODERN,IGNORE,8,0,2,2,5,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | No HTTPS (Not secure),Menu/links are images (6 image-only links) | Site opens on http:// (browser shows 'Not secure') | Excessive inline CSS | Slow page load (8.4s),0.6,
+https://www.norcalcybersales.com,https://www.norcalcybersales.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.norcalcybersales.com/
+Call log:
+  - navigating to ""https://www.norcalcybersales.com/"", waiting until ""domcontentloaded""
+"
+https://gemstonegymnastics.com,https://gemstonegymnastics.com/,SUCCESS,14,MODERN,IGNORE,5,0,3,0,3,2,1,0,False,True,~2014-2020 (estimated),1890,98,30/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Large page (~19.3 MB),0.6,
+https://www.crunch.com/locations/hillsborough,https://www.crunch.com/locations/hillsborough,SUCCESS,23,MODERN,IGNORE,7,0,2,2,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~28.0 MB),0.6,
+https://www.clubpilates.com/oldmetairie,https://www.clubpilates.com/location/oldmetairie,SUCCESS,11,MODERN,IGNORE,2,0,3,2,3,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~13.7 MB),0.6,
+http://www.tampabayturners.com,http://www.tampabayturners.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.tampabayturners.com/
+Call log:
+  - navigating to ""http://www.tampabayturners.com/"", waiting until ""domcontentloaded""
+"
+https://www.kateridesign.com,https://www.kateridesign.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kateridesign.com/
+Call log:
+  - navigating to ""https://www.kateridesign.com/"", waiting until ""domcontentloaded""
+"
+https://www.planetfitness.com/gyms/chula-vista-broadway-ave-ca,https://www.planetfitness.com/gyms/chula-vista-broadway-ave-ca,SUCCESS,15,MODERN,IGNORE,0,8,3,2,2,0,0,0,False,False,~2020-2026 (estimated),1912,100,8/0,0,,Page does not reflow on mobile (content 1.7x wider than screen) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://www.hockeygiant.com,https://www.purehockey.com/,SUCCESS,18,MODERN,IGNORE,7,0,2,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.iamcrossfit.com,http://www.iamcrossfit.com/,SUCCESS,20,MODERN,IGNORE,5,0,7,0,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | Copyright year is 2022 | No clear call-to-action / enquiry flow | Slow page load (21.8s),0.6,
+https://www.fitness19.com/centers/simi-valley,https://www.fitness19.com/locations/california/,SUCCESS,12,MODERN,IGNORE,2,0,5,2,2,1,0,0,False,True,~2014-2020 (estimated),1638,85,252/30,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
+http://www.tbtgym.com,https://tbtgym.com/,SUCCESS,5,MODERN,IGNORE,0,0,0,0,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Large page (~18.1 MB),0.6,
+https://www.planetfitness.com/gyms,https://www.planetfitness.com/gyms,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://jameepaufit.com,http://jameepaufit.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jameepaufit.com/
+Call log:
+  - navigating to ""http://jameepaufit.com/"", waiting until ""domcontentloaded""
+"
+https://www.anytimefitness.com/gyms/3016/windermere-fl-34786,https://www.anytimefitness.com/locations/windermere-florida-3016,SUCCESS,14,MODERN,IGNORE,5,0,0,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Excessive inline CSS,0.6,
+http://www.coreatl.com,http://www.coreatl.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.coreatl.com/
+Call log:
+  - navigating to ""http://www.coreatl.com/"", waiting until ""domcontentloaded""
+"
+http://www.niftyafterfifty.com,https://www.niftyafterfifty.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,2,False,True,~2020-2026 (estimated),982,51,469/469,0,,"Centered 982px container, but page has 2 full-width sections (modern pattern) | Excessive inline CSS",0.6,
+https://www.orangetheory.com/en-us/locations/oklah,https://www.orangetheory.com/en-us,SUCCESS,25,MODERN,IGNORE,7,0,7,2,4,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
+http://www.stoneageclimbinggym.com,https://climbstoneage.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1880,98,20/20,0,,Copyright year is 2020 | Excessive inline CSS,0.6,
+https://www.fitbodybootcamp.com/ardenfitnessbootcamp/#whatisfbbc,https://www.fitbodybootcamp.com/ardenfitnessbootcamp/#whatisfbbc,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.crunch.com/locations/gilbert,https://www.crunch.com/locations,SUCCESS,19,MODERN,IGNORE,7,0,3,0,4,4,1,0,False,True,~2014-2020 (estimated),1900,99,20/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow,0.6,
+http://toddsmithfitness.com,https://www.toddsmithfitness.com/,SUCCESS,6,MODERN,IGNORE,0,0,3,0,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Large page (~17.7 MB),0.6,
+http://www.vedasfitness.com,https://forsale.godaddy.com/forsale/www.vedasfitness.com?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
+https://www.pinpointtraining.co,https://pinpointtraining.co/,SUCCESS,5,MODERN,IGNORE,2,0,0,2,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
+http://emilyjacksonfitness.com,http://emilyjacksonfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://emilyjacksonfitness.com/
+Call log:
+  - navigating to ""http://emilyjacksonfitness.com/"", waiting until ""domcontentloaded""
+"
+https://www.elev8tionfitness.com/join,https://www.elev8tionfitness.com/join,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.tcomn.com,https://tcomn.com/,SUCCESS,19,MODERN,IGNORE,10,0,2,0,0,5,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Tiny body text,Very small body text (~13px) | Menu/links are images (8 image-only links) | Fax number displayed,0.6,
+https://www.yogasix.com/location/land-park,https://www.yogasix.com/location/land-park,SUCCESS,14,MODERN,IGNORE,0,0,2,2,10,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (14.5s) | Large page (~94.1 MB),0.6,
+http://www.sportfitraining.com,https://www.sportfitraining.com/,SUCCESS,9,MODERN,IGNORE,2,0,2,2,2,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Copyright year is 2021 | Excessive inline CSS,0.6,
+http://hallsofstrength.com,http://hallsofstrength.com/,SUCCESS,22,MODERN,IGNORE,6,0,7,5,0,3,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,No HTTPS (Not secure) | Table/deprecated-tag markup,Table-based page layout | Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Multiple layout tables | Excessive inline CSS,0.6,
+http://www.purebarre.com/fl-tampa,https://www.purebarre.com/location/tampa-south-tampa-fl,SUCCESS,11,MODERN,IGNORE,0,0,2,2,7,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~53.2 MB),0.6,
+http://www.honolulufitnesscenter.com,http://www.honolulufitnesscenter.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.cincy360fitness.com,https://www.cincy360fitness.com/,SUCCESS,8,MODERN,IGNORE,0,0,3,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~13.2 MB),0.6,
+http://www.sanfranciscogymnastics.com,http://www.sanfranciscogymnastics.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.sanfranciscogymnastics.com/
+Call log:
+  - navigating to ""http://www.sanfranciscogymnastics.com/"", waiting until ""domcontentloaded""
+"
+http://fithylandhills.com/club/broomfield-gyms,http://fithylandhills.com/club/broomfield-gyms,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://fithylandhills.com/club/broomfield-gyms"", waiting until ""domcontentloaded""
+"
+https://thegymchulavista.com,https://thegymchulavista.com/,SUCCESS,9,MODERN,IGNORE,4,0,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee),0.6,
+https://www.hibbett.com,https://www.hibbett.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.ascensionfitnesseb.com,https://www.ascensionfitnesseb.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ascensionfitnesseb.com/
+Call log:
+  - navigating to ""https://www.ascensionfitnesseb.com/"", waiting until ""domcontentloaded""
+"
+http://www.fitness19.com/centers/orange,http://www.fitness19.com/centers/orange/,SUCCESS,19,MODERN,IGNORE,7,0,5,0,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Justified old-style text | No HTTPS (Not secure),"Justified (stretched) body text, old-style typography | Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow",0.6,
+http://www.everybodyfights.com/locations/kentucky,http://www.everybodyfights.com/locations/kentucky,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://jcls.jazzercise.com/facility/jazzercise-evansville-west-fitness-center,http://jcls.jazzercise.com/facility/jazzercise-evansville-west-fitness-center,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://jcls.jazzercise.com/facility/jazzercise-evansville-west-fitness-center"", waiting until ""domcontentloaded""
+"
+http://bigeasy-crossfit.com,http://bigeasy-crossfit.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://bigeasy-crossfit.com/"", waiting until ""domcontentloaded""
+"
+http://titleboxingclubstamford.com,http://titleboxingclubstamford.com/,SUCCESS,26,NEEDS IMPROVEMENT,LOW PRIORITY,11,2,5,0,0,6,2,8,True,True,~2014-2020 (estimated),1170,61,375/375,2,Boxed fixed-width layout | No HTTPS (Not secure),"Fixed-width centered box: content only 1170px wide (61% of a 1920px screen), ~375px empty on each side | No full-width sections (everything sits inside one box) | Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+http://www.redlerilles.com,https://redlerilles.com/,SUCCESS,10,MODERN,IGNORE,3,2,3,0,0,2,0,2,False,True,~2014-2020 (estimated),1580,82,340/0,1,Table/deprecated-tag markup,"Centered 1580px container, but page has 8 full-width sections (modern pattern) | Table-based page layout | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
+https://www.crossfitthornton.com,https://crossfitthornton.com/,SUCCESS,21,MODERN,IGNORE,5,8,3,2,0,2,1,0,False,False,~2014-2020 (estimated),1919,100,1/0,1,Image-based menu,Menu/links are images (4 image-only links) | Page does not reflow on mobile (content 2.3x wider than screen) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://michaeljohnsonperformance.com,http://michaeljohnsonperformance.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.planetfitness.com/gyms/simi-valley-ca,https://www.planetfitness.com/gyms/simi-valley-ca,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://thepitbarbellclub.com,https://thepitbarbellclub.net/,SUCCESS,3,MODERN,IGNORE,0,0,1,2,0,0,0,0,False,True,~2020-2026 (estimated),1712,89,0/208,0,,Excessive inline CSS,0.6,
+https://www.lifetime.life/life-time-locations/ok-oklahoma-city.html,https://www.lifetime.life/locations/ok/oklahoma-city.html,SUCCESS,15,MODERN,IGNORE,2,0,3,2,7,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~13.1 MB),0.6,
+http://www.feldmanfitness.com,https://feldmanfitness.com/,SUCCESS,7,MODERN,IGNORE,0,0,0,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Slow page load (8.6s),0.6,
+https://orangetheoryfitness.com,https://www.orangetheory.com/en-us,SUCCESS,21,MODERN,IGNORE,7,0,5,0,4,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old)",0.6,
+http://www.crossfitidentity.com,https://www.crossfitidentity.com/,SUCCESS,9,MODERN,IGNORE,0,0,0,2,7,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~10.4 MB),0.6,
+http://www.fourthpowerfitness.com,http://www.fourthpowerfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fourthpowerfitness.com/
+Call log:
+  - navigating to ""http://www.fourthpowerfitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.primetimeboxing.com,https://www.primetimeboxing.com/,SUCCESS,8,MODERN,IGNORE,0,0,3,0,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Large page (~15.6 MB),0.6,
+http://www.dragonpalmfitness.com,http://www.dragonpalmfitness.com/,SUCCESS,26,MODERN,IGNORE,10,0,2,7,0,5,2,0,False,True,~2014-2020 (estimated),1805,94,50/65,2,No HTTPS (Not secure) | Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Table-based page layout | Site opens on http:// (browser shows 'Not secure') | Multiple layout tables | Excessive inline CSS,0.6,
+https://fightclubamerica.com,https://fightclubamerica.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fightclubamerica.com/
+Call log:
+  - navigating to ""https://fightclubamerica.com/"", waiting until ""domcontentloaded""
+"
+http://www.powermmafitness.com,https://sdmuhkadisoro1.com/pages/profil-sekolah.php/,SUCCESS,31,MODERN,IGNORE,10,4,3,5,2,5,2,0,False,True,~2014-2020 (estimated),1670,87,0/250,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (10 image-only links) | Table-based page layout | Horizontal overflow on mobile (1.5x screen width) | No clear call-to-action / enquiry flow | Multiple layout tables | Excessive inline CSS,0.6,
+https://www.radicallyfitoakland.com,https://www.radicallyfitoakland.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1637,85,283/0,0,,Excessive inline CSS,0.6,
+http://www.ebfitnessclub.com,http://www.ebfitnessclub.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.peakcityathletics.com,https://www.peakcityathletics.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.peakcityathletics.com/
+Call log:
+  - navigating to ""https://www.peakcityathletics.com/"", waiting until ""domcontentloaded""
+"
+http://www.clarkhatchfitness.com,http://www.clarkhatchfitness.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.clarkhatchfitness.com/
+Call log:
+  - navigating to ""http://www.clarkhatchfitness.com/"", waiting until ""domcontentloaded""
+"
+http://www.cirquedevol.com,https://www.cirquedevol.com/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,2,False,True,~2014-2020 (estimated),1531,80,389/0,1,Image-based menu,"Centered 1531px container, but page has 4 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Excessive inline CSS",0.6,
+http://www.snapfitness.com/neminneapolis,https://www.snapfitness.com/us/gyms/minneapolis-northeast-mn,SUCCESS,10,MODERN,IGNORE,5,0,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive inline CSS,0.6,
+https://www.orangetheory.com,https://www.orangetheory.com/en-us,SUCCESS,21,MODERN,IGNORE,7,0,5,2,2,4,1,2,False,True,~2014-2020 (estimated),1624,85,280/16,2,Old copyright (2011) | Image-based menu,"Centered 1624px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Copyright year is 2011 (15 years old) | Excessive inline CSS",0.6,
+http://www.unitedcheerleading.com,http://www.unitedcheerleading.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.unitedcheerleading.com/
+Call log:
+  - navigating to ""http://www.unitedcheerleading.com/"", waiting until ""domcontentloaded""
+"
+https://hardcorefitnessbootcamp.com/anaheim-ca,https://hardcorefitnessbootcamp.com/anaheim-ca,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 410
+http://newyork.trapezeschool.com,https://www.wifihotelpenang.com/,SUCCESS,15,MODERN,IGNORE,5,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS | Slow page load (8.8s),0.6,
+http://www.bestdayfitness.com,https://bestdayfitness.com/,SUCCESS,10,MODERN,IGNORE,0,0,10,0,0,0,0,0,False,True,~2020-2026 (estimated),1844,96,29/47,1,Old copyright (2010),Copyright year is 2010 (16 years old) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage,0.6,
+http://www.thecamptc.com/location-santaana,http://www.thecamptc.com/location-santaana,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.theacademylex.com,https://theacademylex.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,0,2,0,0,0,False,True,~2020-2026 (estimated),1824,95,96/0,0,,No significant outdated signals found,0.6,
+https://www.planetfitness.com/gyms/chula-vista-otay-ranch-ca,https://www.planetfitness.com/gyms/chula-vista-otay-ranch-ca,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,0,False,True,~2020-2026 (estimated),1912,100,8/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
+http://theperfectsidekick.com/contact,http://theperfectsidekick.com/contact,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.borgmanconstruction.com,https://www.borgmanathletics.com/,PARTIAL,15,MODERN,IGNORE,5,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (18 image-only links) | Excessive inline CSS | Large page (~12.3 MB),0.6,
+http://www.laweightloss.com,http://www.laweightloss.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 522

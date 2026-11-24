@@ -1,1783 +1,608 @@
 url,status,reason
-http://www.bettermanbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bettermanbuilders.com/
+http://www.alloutfitness.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alloutfitness.org/
 Call log:
-  - navigating to ""http://www.bettermanbuilders.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.alloutfitness.org/"", waiting until ""domcontentloaded""
 "
-http://www.coconstructionanddemo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.coconstructionanddemo.com/
+http://www.planetfitness.com,BLOCKED,HTTP 403
+https://www.planetfitness.com/gyms/thornton-co,BLOCKED,HTTP 403
+https://www.planetfitness.com/gyms/inglewood-imperial-hwy-ca,BLOCKED,HTTP 403
+http://ufcgym.com/sunnyvale,FAILED,HTTP 404
+https://thetravelgymsystem.com,FAILED,HTTP 402
+https://gocyclenow.com/locations/coral-gables,BLOCKED,HTTP 401
+http://www.normandygym.com,BLOCKED,HTTP 403
+http://www.dance2gather.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dance2gather.com/
 Call log:
-  - navigating to ""http://www.coconstructionanddemo.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.dance2gather.com/"", waiting until ""domcontentloaded""
 "
-http://rwgconstructionllc.com,FAILED,HTTP 404
-http://www.umclt.com,BLOCKED,HTTP 401
-https://alpha-drywall-and-construction.business.site,FAILED,HTTP 404
-http://callherodoors.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://callherodoors.com/
+http://www.crossfitkilleen.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.crossfitkilleen.com/
 Call log:
-  - navigating to ""https://callherodoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.crossfitkilleen.com/"", waiting until ""domcontentloaded""
 "
-http://www.theebestbuiltinc.net,FAILED,HTTP 404
-https://www.sanantoniotxpainter.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sanantoniotxpainter.com/
+http://hewrocklin.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hewrocklin.com/
 Call log:
-  - navigating to ""https://www.sanantoniotxpainter.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://hewrocklin.com/"", waiting until ""domcontentloaded""
 "
-http://www.tremblay-construction.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tremblay-construction.net/
+http://www.charterfitness.com/location/charter-fitness-of-peoria,FAILED,HTTP 404
+http://www.sports-speed.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sports-speed.com/
 Call log:
-  - navigating to ""http://www.tremblay-construction.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.sports-speed.com/"", waiting until ""domcontentloaded""
 "
-http://summitcitybuilders.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://summitcitybuilders.net/
+https://wellbridge.com,BLOCKED,HTTP 403
+http://www.tigerslairaz.com,BLOCKED,HTTP 403
+http://tmlturnmeloose.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tmlturnmeloose.com/
 Call log:
-  - navigating to ""http://summitcitybuilders.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://tmlturnmeloose.com/"", waiting until ""domcontentloaded""
 "
-https://www.agpsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.agpsllc.com/
+http://www.ldtfitness.com,FAILED,HTTP 404
+http://www.strikezoneyouthsports.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.strikezoneyouthsports.com/
 Call log:
-  - navigating to ""https://www.agpsllc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.strikezoneyouthsports.com/"", waiting until ""domcontentloaded""
 "
-https://menardgaragedoors.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://menardgaragedoors.com/
+http://www.nolimitssportsandfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nolimitssportsandfitness.com/
 Call log:
-  - navigating to ""https://menardgaragedoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.nolimitssportsandfitness.com/"", waiting until ""domcontentloaded""
 "
-https://www.rangerdoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rangerdoors.com/
+http://www.my-gym.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""https://www.rangerdoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.my-gym.com/"", waiting until ""domcontentloaded""
 "
-http://ajgaragedoorscorp.com,FAILED,HTTP 404
-http://signature-series-construction-and-garage-doors.business.site,FAILED,HTTP 404
-http://www.northshoregaragedoors.com,BLOCKED,HTTP 403
-http://www.valporaiseddoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.valporaiseddoors.com/
+http://www.chelseyfitfactory.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.chelseyfitfactory.com/
 Call log:
-  - navigating to ""http://www.valporaiseddoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.chelseyfitfactory.com/"", waiting until ""domcontentloaded""
 "
-https://www.dyersgaragedoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dyersgaragedoors.com/
+http://www.xtremefitnesstx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.xtremefitnesstx.com/
 Call log:
-  - navigating to ""https://www.dyersgaragedoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.xtremefitnesstx.com/"", waiting until ""domcontentloaded""
 "
-http://www.mcnultyconstructionsf.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.mcnultyconstructionsf.com/
+http://lightenupfitness.com,FAILED,HTTP 404
+https://fitbodybootcamp.com/9514-north-gilbert-az,BLOCKED,HTTP 403
+https://www.getfitwithlena.com,FAILED,HTTP 404
+https://www.straightlinedancefitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.straightlinedancefitness.com/
 Call log:
-  - navigating to ""http://www.mcnultyconstructionsf.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.straightlinedancefitness.com/"", waiting until ""domcontentloaded""
 "
-https://gallegosgarage.com,BLOCKED,HTTP 403
-http://www.overheaddoorkalamazoo.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.overheaddoorkalamazoo.com/
+http://oaklandfitco.com,BLOCKED,HTTP 520
+http://bizgym.com,BLOCKED,HTTP 403
+http://www.planetfitness.com/gyms/bakersfield-california-ave-ca-1603,FAILED,HTTP 404
+https://www.outrageathletics.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.outrageathletics.com/
 Call log:
-  - navigating to ""http://www.overheaddoorkalamazoo.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.outrageathletics.com/"", waiting until ""domcontentloaded""
 "
-https://ottosconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ottosconstruction.com/
+http://www.hyatt.com,BLOCKED,HTTP 403
+https://ufcgym.com/rocklin,FAILED,HTTP 404
+https://kikastretchstudios.com,BLOCKED,HTTP 403
+https://www.planetfitness.com/gyms/tucson-irvington-i-19-az,BLOCKED,HTTP 403
+https://www.oaklandstrengthfactory.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.oaklandstrengthfactory.com/
 Call log:
-  - navigating to ""https://ottosconstruction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.oaklandstrengthfactory.com/"", waiting until ""domcontentloaded""
 "
-http://www.deancustomremodeltx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.deancustomremodeltx.com/
+https://www.anytimefitness.com/gyms/2993/west-sacramento-ca-95691,FAILED,HTTP 404
+http://knockout-fitness.com,BLOCKED,HTTP 403
+https://www.anytimefitness.com/gyms/477/omaha-ne-68134,FAILED,HTTP 404
+http://www.houseofgyms.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.houseofgyms.com/
 Call log:
-  - navigating to ""http://www.deancustomremodeltx.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.houseofgyms.com/"", waiting until ""domcontentloaded""
 "
-http://www.certidoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.certidoor.com/
+https://www.anytimefitness.com/gyms/4280/colorado-,FAILED,HTTP 404
+https://www.strengthandhealthgym.com,FAILED,HTTP 500
+https://www.tumble-tech.com/westlake,FAILED,HTTP 404
+https://www.fitzonebakersfield.com,FAILED,HTTP 404
+http://ymcanwnc.org/locations/robinhood,FAILED,HTTP 404
+http://hardkourninjaunlimited.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hardkourninjaunlimited.com/
 Call log:
-  - navigating to ""http://www.certidoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://hardkourninjaunlimited.com/"", waiting until ""domcontentloaded""
 "
-https://roanokehometowngaragedoor.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://roanokehometowngaragedoor.com/
+http://www.sparetimeclubs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sparetimeclubs.com/
 Call log:
-  - navigating to ""https://roanokehometowngaragedoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.sparetimeclubs.com/"", waiting until ""domcontentloaded""
 "
-http://trianglegaragedoorsllc.com,BLOCKED,HTTP 403
-http://www.appledoor.com,BLOCKED,HTTP 403
-https://24hourdoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://24hourdoor.com/
+http://ultimatefitness.pro,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ultimatefitness.pro/
 Call log:
-  - navigating to ""https://24hourdoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://ultimatefitness.pro/"", waiting until ""domcontentloaded""
 "
-http://www.wantzconstructioninc.com,BLOCKED,HTTP 403
-https://www.kruegerwindowandsiding.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kruegerwindowandsiding.com/
+https://www.superpages.com/bp/miami-fl/instituto-de-la-salud-inc-l2607792906.htm,FAILED,HTTP 404
+https://theflexcore.com,BLOCKED,HTTP 403
+https://www.moodbarretrxstudio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.moodbarretrxstudio.com/
 Call log:
-  - navigating to ""https://www.kruegerwindowandsiding.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.moodbarretrxstudio.com/"", waiting until ""domcontentloaded""
 "
-http://www.lewisdoorservicelouisville.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lewisdoorservicelouisville.com/
+https://www.anytimefitness.com/gyms/3481/orange-ca-92867,FAILED,HTTP 404
+http://hamiltonhealthfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hamiltonhealthfitness.com/
 Call log:
-  - navigating to ""http://www.lewisdoorservicelouisville.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://hamiltonhealthfitness.com/"", waiting until ""domcontentloaded""
 "
-http://fabbuildremodel.com,FAILED,HTTP 409
-https://tucsongaragedoorservice.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://tucsongaragedoorservice.com/
+https://www.goldsgym.com/citrus-heights,FAILED,HTTP 404
+http://athleticsandaestheticsabq.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://athleticsandaestheticsabq.com/
 Call log:
-  - navigating to ""https://tucsongaragedoorservice.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://athleticsandaestheticsabq.com/"", waiting until ""domcontentloaded""
 "
-http://www.sidejobgaragedoors.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.sidejobgaragedoors.com/
+https://black-stripes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://black-stripes.com/
 Call log:
-  - navigating to ""https://www.sidejobgaragedoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://black-stripes.com/"", waiting until ""domcontentloaded""
 "
-http://www.flynnroofing.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.flynnroofing.net/
+http://www.smithandesch.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.smithandesch.com/
 Call log:
-  - navigating to ""http://www.flynnroofing.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.smithandesch.com/"", waiting until ""domcontentloaded""
 "
-http://www.neighborhoodbuilding.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.neighborhoodbuilding.com/
+https://www.hiittofit.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hiittofit.com/
 Call log:
-  - navigating to ""http://www.neighborhoodbuilding.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.hiittofit.com/"", waiting until ""domcontentloaded""
 "
-https://mlngaragedoorcompany.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mlngaragedoorcompany.com/
+https://ufcgym.com/longbeach,FAILED,HTTP 404
+http://www.thelittlegym.com/thousandoaksca,FAILED,HTTP 404
+https://werowmsp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://werowmsp.com/
 Call log:
-  - navigating to ""https://mlngaragedoorcompany.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://werowmsp.com/"", waiting until ""domcontentloaded""
 "
-https://www.ofallonwindowanddoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ofallonwindowanddoor.com/
+http://www.maxsgym.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.maxsgym.net/
 Call log:
-  - navigating to ""https://www.ofallonwindowanddoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.maxsgym.net/"", waiting until ""domcontentloaded""
 "
-http://www.soularddoorstl.com,BLOCKED,HTTP 401
-http://gensondoor.com,BLOCKED,HTTP 403
-http://www.powerprohandyman.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.powerprohandyman.com/
+http://www.sculpttulsa.com,BLOCKED,HTTP 403
+http://www.bxfitness.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.bxfitness.com/
 Call log:
-  - navigating to ""http://www.powerprohandyman.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.bxfitness.com/"", waiting until ""domcontentloaded""
 "
-https://www.lundysgaragedooromaha.com,FAILED,HTTP 404
-https://mastergaragedoor.entrematic.com/index.htm,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+https://www.planetfitness.com/gyms/wichita-new-leaf-ks,BLOCKED,HTTP 403
+https://ufcgym.com/costamesa,FAILED,HTTP 404
+https://www.planetfitness.com/gyms/fullerton-ca,BLOCKED,HTTP 403
+http://www.jerseyfitnessma.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jerseyfitnessma.com/
 Call log:
-  - navigating to ""https://mastergaragedoor.entrematic.com/index.htm"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.jerseyfitnessma.com/"", waiting until ""domcontentloaded""
 "
-http://www.castrange.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.sozocomplete.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.castrange.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.sozocomplete.com/"", waiting until ""domcontentloaded""
 "
-http://www.joegaragedoor.com,BLOCKED,HTTP 403
-http://accurategaragedoorcompany.com,BLOCKED,HTTP 403
-https://prestigedoorohio.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://prestigedoorohio.com/
+http://www.baileysgym.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.baileysgym.com/
 Call log:
-  - navigating to ""https://prestigedoorohio.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.baileysgym.com/"", waiting until ""domcontentloaded""
 "
-https://johnsonsdoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://johnsonsdoor.com/
+http://p2ptransformationcenter.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://p2ptransformationcenter.com/
 Call log:
-  - navigating to ""https://johnsonsdoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://p2ptransformationcenter.com/"", waiting until ""domcontentloaded""
 "
-http://ladlops.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ladlops.com/
+http://www.genesishealthclubs.com,BLOCKED,HTTP 403
+https://www.planetfitness.com/gyms/independence-north-mo,BLOCKED,HTTP 403
+https://www.caweightlossandfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.caweightlossandfitness.com/
 Call log:
-  - navigating to ""http://ladlops.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.caweightlossandfitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.totalgarageworks.com,FAILED,HTTP 520
-http://www.ableconcretellcva.com,FAILED,HTTP 404
-http://www.pdqdoor.com,BLOCKED,HTTP 403
-http://www.paul-maulucci.com,FAILED,HTTP 500
-https://rsgaragedoorservices.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://rsgaragedoorservices.com/
+http://fightclubamerica.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://fightclubamerica.com/
 Call log:
-  - navigating to ""https://rsgaragedoorservices.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://fightclubamerica.com/"", waiting until ""domcontentloaded""
 "
-http://masters-construction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://masters-construction.com/
+https://hi-risefitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hi-risefitness.com/
 Call log:
-  - navigating to ""http://masters-construction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://hi-risefitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.superiordoorinc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.superiordoorinc.com/
+http://www.kakaakofitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kakaakofitness.com/
 Call log:
-  - navigating to ""http://www.superiordoorinc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.kakaakofitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.enhanceopenings.com,BLOCKED,HTTP 403
-http://www.rimcoconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rimcoconstruction.com/
+http://www.rei.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.rei.com/
 Call log:
-  - navigating to ""http://www.rimcoconstruction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.rei.com/"", waiting until ""domcontentloaded""
 "
-http://www.scottdidrikson.com,BLOCKED,HTTP 403
-https://www.haegeledoor.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.haegeledoor.com/
+https://www.retrofitness.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.retrofitness.com/
 Call log:
-  - navigating to ""https://www.haegeledoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.retrofitness.com/"", waiting until ""domcontentloaded""
 "
-https://www.isproofing.com/home,FAILED,HTTP 500
-http://www.gielgaragedoors.com,BLOCKED,HTTP 403
-https://www.dynamicgaragedoorrepair.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.imxlafayette.com,BLOCKED,HTTP 403
+http://www.planetfitness.com/gyms/fl/gainesville?gclid=co_m7zkfr7gcfejm7aod5gwala,BLOCKED,HTTP 403
+https://www.planetfitness.com/gyms/flint-township-mi,BLOCKED,HTTP 403
+http://www.blackicefitness.com/index.html,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.blackicefitness.com/index.html
 Call log:
-  - navigating to ""https://www.dynamicgaragedoorrepair.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.blackicefitness.com/index.html"", waiting until ""domcontentloaded""
 "
-http://www.ohdtorrington.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.ohdtorrington.com/
+http://www.planetfitness.com/gyms/independence-mo-215,BLOCKED,HTTP 403
+https://www.ashleywagnerfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ashleywagnerfitness.com/
 Call log:
-  - navigating to ""http://www.ohdtorrington.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.ashleywagnerfitness.com/"", waiting until ""domcontentloaded""
 "
-http://Mysgds.com,BLOCKED,HTTP 403
-http://carrsoverheaddoorinc.com/index.html,FAILED,HTTP 404
-http://www.sullivandoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.sullivandoor.com/
+http://www.championskungfu.com,BLOCKED,HTTP 401
+http://www.strongstyle.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.strongstyle.com/
 Call log:
-  - navigating to ""http://www.sullivandoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.strongstyle.com/"", waiting until ""domcontentloaded""
 "
-http://www.theoverheaddoor.com,BLOCKED,HTTP 401
-https://abrooksgaragedoors.business.site,FAILED,HTTP 404
-http://www.deluxegeneralcontractors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.deluxegeneralcontractors.com/
+https://www.holistichealthandlifestyle.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.holistichealthandlifestyle.com/
 Call log:
-  - navigating to ""http://www.deluxegeneralcontractors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.holistichealthandlifestyle.com/"", waiting until ""domcontentloaded""
 "
-http://billsgaragedoorca.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://billsgaragedoorca.com/
+https://thecamptc.com/locations/downtown-long-beach-california,FAILED,HTTP 404
+http://www.spaladyhealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spaladyhealth.com/
 Call log:
-  - navigating to ""http://billsgaragedoorca.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.spaladyhealth.com/"", waiting until ""domcontentloaded""
 "
-https://www.gcimproved.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gcimproved.com/
+https://www.grindhousebk.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.grindhousebk.com/
 Call log:
-  - navigating to ""https://www.gcimproved.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.grindhousebk.com/"", waiting until ""domcontentloaded""
 "
-https://www.garagedoorsoftexas.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.garagedoorsoftexas.net/
+http://farrellfit.com,BLOCKED,HTTP 403
+http://www.planetfitness.com/gyms/bakersfield-ca-977,BLOCKED,HTTP 403
+http://www.gb-uh.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gb-uh.com/
 Call log:
-  - navigating to ""https://www.garagedoorsoftexas.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.gb-uh.com/"", waiting until ""domcontentloaded""
 "
-http://www.ohdconroe.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ohdconroe.com/
+https://www.planetfitness.com/gyms/tucson-bridges-az,BLOCKED,HTTP 403
+https://www.mygym.com/walnutcreek,BLOCKED,HTTP 403
+https://www.9round.com/fitness/olathe-ks,FAILED,HTTP 404
+https://www.xtendbarre.com/studio/xtend-barre-lafayette,FAILED,HTTP 404
+https://fitsmartstudio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fitsmartstudio.com/
 Call log:
-  - navigating to ""http://www.ohdconroe.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://fitsmartstudio.com/"", waiting until ""domcontentloaded""
 "
-http://www.springfieldohd.com,BLOCKED,HTTP 403
-http://www.waynesoverheaddoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.waynesoverheaddoors.com/
+http://www.jonthecobracrosby.com,FAILED,HTTP 404
+https://www.planetfitness.com/gyms/long-beach-ca,FAILED,HTTP 404
+http://cityclubgymnasticsacademy.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://cityclubgymnasticsacademy.com/
 Call log:
-  - navigating to ""http://www.waynesoverheaddoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://cityclubgymnasticsacademy.com/"", waiting until ""domcontentloaded""
 "
-https://anchordoorsystems.com,BLOCKED,HTTP 403
-https://www.smithandsonsmd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.smithandsonsmd.com/
+http://www.crossfitlodo.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.crossfitlodo.com/
 Call log:
-  - navigating to ""https://www.smithandsonsmd.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.crossfitlodo.com/"", waiting until ""domcontentloaded""
 "
-http://www.garagedoors-glensfalls.com,FAILED,HTTP 409
-http://www.aaofga.com,FAILED,HTTP 520
-http://www.windowworldinc.com,BLOCKED,HTTP 403
-https://proliftdoors.com,BLOCKED,HTTP 403
-https://www.nwwashingtonremodelers.com,BLOCKED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.nwwashingtonremodelers.com/
+https://www.bamf.fit,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.bamf.fit/
 Call log:
-  - navigating to ""https://www.nwwashingtonremodelers.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.bamf.fit/"", waiting until ""domcontentloaded""
 "
-http://www.stellargaragedoor.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.stellargaragedoor.com/
+https://honoluluholo.com,BLOCKED,HTTP 403
+http://www.mygym.com/hoboken,BLOCKED,HTTP 403
+http://www.swatfitness.com,BLOCKED,HTTP 403
+http://https://www.9round.com/fitness/walnut-creek-california,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://https//www.9round.com/fitness/walnut-creek-california
 Call log:
-  - navigating to ""https://www.stellargaragedoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://https//www.9round.com/fitness/walnut-creek-california"", waiting until ""domcontentloaded""
 "
-https://www.chaseroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chaseroofing.com/
+https://myfastfit.com,BLOCKED,HTTP 403
+http://www.goldsgymtn.com,BLOCKED,HTTP 401
+http://touchstoneclimbing.com,BLOCKED,HTTP 403
+http://heatatlanta.com/2012/?page_id=1205,FAILED,HTTP 404
+http://www.fitness19.com/centers/victorville,FAILED,HTTP 404
+https://www.worldgym.com/gladstone,FAILED,HTTP 404
+http://www.dynamictreadmill.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dynamictreadmill.com/
 Call log:
-  - navigating to ""https://www.chaseroofing.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.dynamictreadmill.com/"", waiting until ""domcontentloaded""
 "
-http://www.activemember.com/stanman,FAILED,HTTP 404
-http://www.10kconstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.10kconstruction.com/
+http://lakeshoreacademy.com/?page=hidden_peak,FAILED,HTTP 404
+http://www.yellowpages.com/westlake-village-ca/mip/precision-inspection-services-inc-481855719,FAILED,HTTP 404
+https://www.9round.com/fitness/citrus-heights-ca-x3940,FAILED,HTTP 404
+http://www.anywherefit.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.anywherefit.com/
 Call log:
-  - navigating to ""http://www.10kconstruction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.anywherefit.com/"", waiting until ""domcontentloaded""
 "
-http://www.wmbardwellhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.wmbardwellhomes.com/
+http://overtimesportsacademy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://overtimesportsacademy.com/
 Call log:
-  - navigating to ""http://www.wmbardwellhomes.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://overtimesportsacademy.com/"", waiting until ""domcontentloaded""
 "
-https://camhomestl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://camhomestl.com/
+http://www.minneapolistraining.com,BLOCKED,HTTP 403
+https://www.yelp.com/biz/colorados-pro-gym-aurora,BLOCKED,HTTP 403
+https://www.onelifefitness.com/gyms/ballpark-village,FAILED,HTTP 404
+https://www.thestudioclarksville.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.thestudioclarksville.com/
 Call log:
-  - navigating to ""https://camhomestl.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.thestudioclarksville.com/"", waiting until ""domcontentloaded""
 "
-http://pro-vision-garage-specialties.business.site,FAILED,HTTP 404
-https://www.galanenterprisesllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.galanenterprisesllc.com/
+http://www.rocklincrossfit.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rocklincrossfit.com/
 Call log:
-  - navigating to ""https://www.galanenterprisesllc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.rocklincrossfit.com/"", waiting until ""domcontentloaded""
 "
-https://www.blancosmanagementserv.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.blancosmanagementserv.com/
+https://theloftathleticclub.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://theloftathleticclub.com/
 Call log:
-  - navigating to ""https://www.blancosmanagementserv.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://theloftathleticclub.com/"", waiting until ""domcontentloaded""
 "
-http://www.adamsdoorcompany.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.adamsdoorcompany.com/
+http://greenlifefitnessllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://greenlifefitnessllc.com/
 Call log:
-  - navigating to ""http://www.adamsdoorcompany.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://greenlifefitnessllc.com/"", waiting until ""domcontentloaded""
 "
-http://garagedoorpatrol.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://garagedoorpatrol.com/
+http://fitnessevolution.com,BLOCKED,HTTP 401
+http://www.fitnessevolution.com,BLOCKED,HTTP 401
+http://hawaiifitcamp.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://hawaiifitcamp.com/
 Call log:
-  - navigating to ""https://garagedoorpatrol.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://hawaiifitcamp.com/"", waiting until ""domcontentloaded""
 "
-https://beckerconstructionllc.wordpress.com,BLOCKED,HTTP 403
-http://sensiblehomeproducts.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://sensiblehomeproducts.com/
+http://www.ymcatriangle.org/alexander-family-ymca,BLOCKED,HTTP 403
+http://santechase.com,FAILED,HTTP 404
+https://elitefitnessgymwear.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://elitefitnessgymwear.com/
 Call log:
-  - navigating to ""http://sensiblehomeproducts.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://elitefitnessgymwear.com/"", waiting until ""domcontentloaded""
 "
-http://www.absolutegaragebuilders.com,BLOCKED,HTTP 403
-https://www.qualitydoor.biz,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.qualitydoor.biz/
+http://www.retrofitness.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.retrofitness.com/
 Call log:
-  - navigating to ""https://www.qualitydoor.biz/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.retrofitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.metrogaragedoor.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.metrogaragedoor.net/
+https://rozefitness.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://rozefitness.com/
 Call log:
-  - navigating to ""http://www.metrogaragedoor.net/"", waiting until ""domcontentloaded""
+  - navigating to ""https://rozefitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.vipgaragedoorservices.com,BLOCKED,HTTP 403
-https://www.callgoodguys.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.callgoodguys.com/
+https://www.planetfitness.com/gyms/st-louis-central-west-end-mo,BLOCKED,HTTP 403
+http://www.prestige-fitness.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""https://www.callgoodguys.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.prestige-fitness.com/"", waiting until ""domcontentloaded""
 "
-http://gaskillgeneralcontractors.com,FAILED,HTTP 503
-https://socalgaragedoorservices.business.site,FAILED,HTTP 404
-https://www.garagedoorsvallejoca.com,FAILED,HTTP 404
-http://www.reynoldsdoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.reynoldsdoors.com/
+https://www.xgtfitnessca.com,FAILED,HTTP 404
+http://planetfitness.com,BLOCKED,HTTP 403
+http://www.planetfitness.com/gyms/wi,BLOCKED,HTTP 403
+https://legacyfitness.net,BLOCKED,HTTP 403
+http://empireathletic.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://empireathletic.com/
 Call log:
-  - navigating to ""http://www.reynoldsdoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://empireathletic.com/"", waiting until ""domcontentloaded""
 "
-http://www.houston-garage-doors.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.houston-garage-doors.net/
+https://fitsanjose.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://fitsanjose.com/
 Call log:
-  - navigating to ""http://www.houston-garage-doors.net/"", waiting until ""domcontentloaded""
+  - navigating to ""https://fitsanjose.com/"", waiting until ""domcontentloaded""
 "
-https://dcgaragerepair.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://dcgaragerepair.com/
+http://www.fitsomstudios.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at http://www.fitsomstudios.com/
 Call log:
-  - navigating to ""https://dcgaragerepair.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.fitsomstudios.com/"", waiting until ""domcontentloaded""
 "
-http://www.biltritegaragedoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.biltritegaragedoors.com/
+https://absoluteflexappeal.com,BLOCKED,HTTP 401
+http://support.thetransformapp.com/support/home,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://support.thetransformapp.com/support/home
 Call log:
-  - navigating to ""http://www.biltritegaragedoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://support.thetransformapp.com/support/home"", waiting until ""domcontentloaded""
 "
-http://www.modernhomesolutionsnc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.modernhomesolutionsnc.com/
+http://www.purecorept.com,FAILED,HTTP 503
+https://fxbnewhope.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fxbnewhope.com/
 Call log:
-  - navigating to ""http://www.modernhomesolutionsnc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://fxbnewhope.com/"", waiting until ""domcontentloaded""
 "
-http://www.ohdraleigh.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.ohdraleigh.com/
+http://www.metropolisfitness.com,BLOCKED,HTTP 403
+http://www.planetfitness.com/gyms/fountain-valley-ca-1133,FAILED,HTTP 404
+http://www.goldsgymtampa.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.goldsgymtampa.com/
 Call log:
-  - navigating to ""http://www.ohdraleigh.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.goldsgymtampa.com/"", waiting until ""domcontentloaded""
 "
-https://www.hpihomepros.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hpihomepros.com/
+http://www.desertgymcats.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.desertgymcats.com/
 Call log:
-  - navigating to ""https://www.hpihomepros.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.desertgymcats.com/"", waiting until ""domcontentloaded""
 "
-https://www.bestchoicecarports.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bestchoicecarports.com/
+https://advancedlivingbooster.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://advancedlivingbooster.com/
 Call log:
-  - navigating to ""https://www.bestchoicecarports.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://advancedlivingbooster.com/"", waiting until ""domcontentloaded""
 "
-http://www.denvergaragedoctor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.denvergaragedoctor.com/
+https://www.anytimefitness.com/gyms/2597/long-beach-ca-90804,FAILED,HTTP 404
+http://www.thelittlegym.com/nesanantoniotx,FAILED,HTTP 404
+https://www.firehouse.fitness,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.firehouse.fitness/
 Call log:
-  - navigating to ""http://www.denvergaragedoctor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.firehouse.fitness/"", waiting until ""domcontentloaded""
 "
-http://mcspadden.chiohd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://mcspadden.chiohd.com/
+https://myfitrepublic.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://myfitrepublic.com/
 Call log:
-  - navigating to ""http://mcspadden.chiohd.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://myfitrepublic.com/"", waiting until ""domcontentloaded""
 "
-https://american-door-co.business.site,FAILED,HTTP 404
-http://www.ace-locksmith.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.ace-locksmith.net/
+http://charlestonfitmma.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://charlestonfitmma.com/
 Call log:
-  - navigating to ""http://www.ace-locksmith.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://charlestonfitmma.com/"", waiting until ""domcontentloaded""
 "
-http://charlotte.ontracgaragedoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://charlotte.ontracgaragedoors.com/
+http://www.crossfitonthemove.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.crossfitonthemove.com/
 Call log:
-  - navigating to ""http://charlotte.ontracgaragedoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.crossfitonthemove.com/"", waiting until ""domcontentloaded""
 "
-http://www.shawneegaragedoor.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.shawneegaragedoor.com/
+http://cityofeastpeoria.com/for-residents/eastside-centre,FAILED,HTTP 404
+https://bossgymshop.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bossgymshop.net/
 Call log:
-  - navigating to ""https://www.shawneegaragedoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://bossgymshop.net/"", waiting until ""domcontentloaded""
 "
-http://www.cardinalremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cardinalremodeling.com/
+http://www.tonezonemesa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tonezonemesa.com/
 Call log:
-  - navigating to ""http://www.cardinalremodeling.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.tonezonemesa.com/"", waiting until ""domcontentloaded""
 "
-http://www.brucejohnsonconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.brucejohnsonconstruction.com/
+http://www.minneapolis.hyatt.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.minneapolis.hyatt.com/
 Call log:
-  - navigating to ""http://www.brucejohnsonconstruction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.minneapolis.hyatt.com/"", waiting until ""domcontentloaded""
 "
-http://www.norwoks.com,FAILED,HTTP 409
-https://qualitydoorandmoremo.com/home.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://qualitydoorandmoremo.com/home.html
+http://www.strongfitathletic.club,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.strongfitathletic.club/
 Call log:
-  - navigating to ""https://qualitydoorandmoremo.com/home.html"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.strongfitathletic.club/"", waiting until ""domcontentloaded""
 "
-http://www.doorsinmotioncolorado.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.doorsinmotioncolorado.com/
+http://www.b2bfitnessforlife.com,FAILED,HTTP 409
+http://www.getrung.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.getrung.com/
 Call log:
-  - navigating to ""http://www.doorsinmotioncolorado.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.getrung.com/"", waiting until ""domcontentloaded""
 "
-http://www.presidentialconstructioninc.com,BLOCKED,HTTP 403
-http://kavancustomconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://kavancustomconstruction.com/
+https://www.anytimefitness.com/gyms/2595/new-orlea,FAILED,HTTP 404
+https://www.supremehealthfitness.com,FAILED,HTTP 404
+http://corefitnessandboxing.club,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://corefitnessandboxing.club/
 Call log:
-  - navigating to ""http://kavancustomconstruction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://corefitnessandboxing.club/"", waiting until ""domcontentloaded""
 "
-https://schererquality.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+https://goosefitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://goosefitness.com/
 Call log:
-  - navigating to ""https://schererquality.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://goosefitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.championgaragedoors.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://fittribeacademy.com,BLOCKED,HTTP 403
+http://mixsonclub.com,BLOCKED,HTTP 403
+http://www.fit2ripped.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fit2ripped.com/
 Call log:
-  - navigating to ""http://www.championgaragedoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.fit2ripped.com/"", waiting until ""domcontentloaded""
 "
-http://www.garagedoorrepairlv.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.garagedoorrepairlv.com/
+http://edgebodyomaha.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://edgebodyomaha.com/
 Call log:
-  - navigating to ""http://www.garagedoorrepairlv.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://edgebodyomaha.com/"", waiting until ""domcontentloaded""
 "
-https://bcsoverheaddoortexas.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bcsoverheaddoortexas.com/
+http://www.dr-tanaka.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dr-tanaka.com/
 Call log:
-  - navigating to ""https://bcsoverheaddoortexas.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.dr-tanaka.com/"", waiting until ""domcontentloaded""
 "
-https://www.gdigarage.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.gdigarage.com/
+https://www.starfitnesshawaii.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.starfitnesshawaii.com/
 Call log:
-  - navigating to ""https://www.gdigarage.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.starfitnesshawaii.com/"", waiting until ""domcontentloaded""
 "
-https://www.all-stardoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.all-stardoor.com/
+http://gymserviceinstallation.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://gymserviceinstallation.com/
 Call log:
-  - navigating to ""https://www.all-stardoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://gymserviceinstallation.com/"", waiting until ""domcontentloaded""
 "
-http://www.odcfresno.com,BLOCKED,HTTP 403
-https://aaagaragedoorma.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aaagaragedoorma.com/
+https://fitindustries.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fitindustries.net/
 Call log:
-  - navigating to ""https://aaagaragedoorma.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://fitindustries.net/"", waiting until ""domcontentloaded""
 "
-http://www.jebhomeimprovements.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jebhomeimprovements.com/
+http://www.fitbodybootcamp.com/9592-south-visalia-ca,BLOCKED,HTTP 403
+https://www.f45trainingbuckhead.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.f45trainingbuckhead.com/
 Call log:
-  - navigating to ""http://www.jebhomeimprovements.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.f45trainingbuckhead.com/"", waiting until ""domcontentloaded""
 "
-http://www.jthomeimprovementma.com,FAILED,HTTP 409
-https://www.midstatedoorssparta.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.midstatedoorssparta.com/
+http://www.49erfit.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.49erfit.com/
 Call log:
-  - navigating to ""https://www.midstatedoorssparta.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.49erfit.com/"", waiting until ""domcontentloaded""
 "
-https://www.raycodoorsanddocks.com/dock-equipment-repairs,FAILED,HTTP 404
-http://www.mc-doors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mc-doors.com/
+https://www.unionworkout.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.unionworkout.com/
 Call log:
-  - navigating to ""http://www.mc-doors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.unionworkout.com/"", waiting until ""domcontentloaded""
 "
-http://aratedgaragedoorsalesandrepair.com,BLOCKED,HTTP 403
-https://www.aladdindoors.com/locator/15763.14773.aladdin-garage-doors-of-minneapolis,FAILED,HTTP 404
-http://www.frrswyo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.frrswyo.com/
+https://www.fitness1440mesa-az.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fitness1440mesa-az.com/
 Call log:
-  - navigating to ""http://www.frrswyo.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.fitness1440mesa-az.com/"", waiting until ""domcontentloaded""
 "
-https://dmservicestl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dmservicestl.com/
+http://www.plantbfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.plantbfitness.com/
 Call log:
-  - navigating to ""https://dmservicestl.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.plantbfitness.com/"", waiting until ""domcontentloaded""
 "
-http://rapshomeimprovement.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://rapshomeimprovement.com/
+https://4lfrfjy9.pages.infusionsoft.net,FAILED,HTTP 404
+http://magnausa.com/contact,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://magnausa.com/contact
 Call log:
-  - navigating to ""http://rapshomeimprovement.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://magnausa.com/contact"", waiting until ""domcontentloaded""
 "
-http://nativehandymanservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://nativehandymanservices.com/
+https://www.9round.com/fitness/costa-mesa-california-fairview-road,FAILED,HTTP 404
+http://f45training.com/downtowntuscaloosa,FAILED,HTTP 404
+http://www.burnathletic.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://nativehandymanservices.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.burnathletic.com/"", waiting until ""domcontentloaded""
 "
-https://berrydoorandwindow.com,BLOCKED,HTTP 403
-https://www.kitchentuneup.com/lincoln-ne,BLOCKED,HTTP 403
-https://www.kdcontractings.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://verticaladdictionct.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://verticaladdictionct.com/
 Call log:
-  - navigating to ""https://www.kdcontractings.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://verticaladdictionct.com/"", waiting until ""domcontentloaded""
 "
-https://ctoverheaddoors.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://ctoverheaddoors.com/
+https://trifitnesslansing.com,FAILED,HTTP 404
+http://www.fitnessconnection4u.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fitnessconnection4u.com/
 Call log:
-  - navigating to ""https://ctoverheaddoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.fitnessconnection4u.com/"", waiting until ""domcontentloaded""
 "
-http://www.exteriorservices.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.exteriorservices.net/
+https://www.omingbirdaerialgym.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.omingbirdaerialgym.com/
 Call log:
-  - navigating to ""http://www.exteriorservices.net/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.omingbirdaerialgym.com/"", waiting until ""domcontentloaded""
 "
-http://www.garage-door-store.com,FAILED,HTTP 404
-http://www.professionalgaragedoor.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.professionalgaragedoor.net/
+http://www.toughlotus.com,FAILED,HTTP 404
+http://www.bodytwenty.com/south-tampa,FAILED,HTTP 409
+http://www.goldsgym.com/gyms/colorado/colorado-springs/845,FAILED,HTTP 404
+http://www.snapfitness.com/gyms/cincinnati-oh-45202/4067,FAILED,HTTP 404
+http://www.gymboree.com,BLOCKED,HTTP 403
+http://boxfitelite.com,FAILED,HTTP 404
+http://www.davidbartongym.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.professionalgaragedoor.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.davidbartongym.com/"", waiting until ""domcontentloaded""
 "
-https://www.homecomfortpractice.com,BLOCKED,HTTP 429
-http://www.hubcitydoors-corpuschristi.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hubcitydoors-corpuschristi.com/
+http://https://www.crunch.com/locations/california/simi-valley/simi-valley,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://https//www.crunch.com/locations/california/simi-valley/simi-valley
 Call log:
-  - navigating to ""http://www.hubcitydoors-corpuschristi.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://https//www.crunch.com/locations/california/simi-valley/simi-valley"", waiting until ""domcontentloaded""
 "
-https://www.hy-pointconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hy-pointconstruction.com/
+http://redlineathletics.com/locations/colorado/westminster,FAILED,"Page.goto: net::ERR_TOO_MANY_REDIRECTS at http://redlineathletics.com/locations/colorado/westminster
 Call log:
-  - navigating to ""https://www.hy-pointconstruction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://redlineathletics.com/locations/colorado/westminster"", waiting until ""domcontentloaded""
 "
-http://www.allamericandoor.com,BLOCKED,HTTP 403
-https://www.yelp.com/biz/m-and-m-garage-doors-manteca-2?sort_by=rating_asc,BLOCKED,HTTP 403
-http://www.ohdbc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.ohdbc.com/
+http://www.purplemoonhotyoga.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.purplemoonhotyoga.com/
 Call log:
-  - navigating to ""https://www.ohdbc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.purplemoonhotyoga.com/"", waiting until ""domcontentloaded""
 "
-http://www.customdoorcontrols.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.customdoorcontrols.com/
+https://siliconvalleyathletics.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://siliconvalleyathletics.com/
 Call log:
-  - navigating to ""http://www.customdoorcontrols.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://siliconvalleyathletics.com/"", waiting until ""domcontentloaded""
 "
-http://www.rosspropertiesandconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rosspropertiesandconstruction.com/
+https://staxxdstudio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://staxxdstudio.com/
 Call log:
-  - navigating to ""http://www.rosspropertiesandconstruction.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://staxxdstudio.com/"", waiting until ""domcontentloaded""
 "
-http://www.steveshumskyunlimteddoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.steveshumskyunlimteddoors.com/
+http://aspirefitnessclubs.com/arizona-locations,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://aspirefitnessclubs.com/arizona-locations
 Call log:
-  - navigating to ""http://www.steveshumskyunlimteddoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://aspirefitnessclubs.com/arizona-locations"", waiting until ""domcontentloaded""
 "
-http://www.aplusremodelingmass.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aplusremodelingmass.net/
+https://www.torvafitclub.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.torvafitclub.com/
 Call log:
-  - navigating to ""http://www.aplusremodelingmass.net/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.torvafitclub.com/"", waiting until ""domcontentloaded""
 "
-https://PrimeAccessControl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://primeaccesscontrol.com/
+https://www.therisingstrength.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.therisingstrength.com/
 Call log:
-  - navigating to ""https://primeaccesscontrol.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.therisingstrength.com/"", waiting until ""domcontentloaded""
 "
-http://alloptiondoorswa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://alloptiondoorswa.com/
+http://www.ocstrengthandfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ocstrengthandfitness.com/
 Call log:
-  - navigating to ""http://alloptiondoorswa.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.ocstrengthandfitness.com/"", waiting until ""domcontentloaded""
 "
-https://parkviewpropertyservices.org,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://parkviewpropertyservices.org/
+https://www.boomelite.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.boomelite.com/
 Call log:
-  - navigating to ""https://parkviewpropertyservices.org/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.boomelite.com/"", waiting until ""domcontentloaded""
 "
-https://fbdoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fbdoors.com/
+https://www.norcalcybersales.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.norcalcybersales.com/
 Call log:
-  - navigating to ""https://fbdoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.norcalcybersales.com/"", waiting until ""domcontentloaded""
 "
-https://www.pandrentrydoorsinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pandrentrydoorsinc.com/
+http://www.tampabayturners.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.tampabayturners.com/
 Call log:
-  - navigating to ""https://www.pandrentrydoorsinc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.tampabayturners.com/"", waiting until ""domcontentloaded""
 "
-http://valleyviewbuilders.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://valleyviewbuilders.org/
+https://www.kateridesign.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kateridesign.com/
 Call log:
-  - navigating to ""http://valleyviewbuilders.org/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.kateridesign.com/"", waiting until ""domcontentloaded""
 "
-https://www.moccasinridgeremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.moccasinridgeremodeling.com/
+https://www.planetfitness.com/gyms,BLOCKED,HTTP 403
+http://jameepaufit.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jameepaufit.com/
 Call log:
-  - navigating to ""https://www.moccasinridgeremodeling.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://jameepaufit.com/"", waiting until ""domcontentloaded""
 "
-http://www.stanfieldcontracting.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.stanfieldcontracting.com/
+http://www.coreatl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.coreatl.com/
 Call log:
-  - navigating to ""http://www.stanfieldcontracting.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.coreatl.com/"", waiting until ""domcontentloaded""
 "
-http://www.gogaragedoorguru.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+https://www.fitbodybootcamp.com/ardenfitnessbootcamp/#whatisfbbc,BLOCKED,HTTP 403
+http://emilyjacksonfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://emilyjacksonfitness.com/
 Call log:
-  - navigating to ""http://www.gogaragedoorguru.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://emilyjacksonfitness.com/"", waiting until ""domcontentloaded""
 "
-http://kenshomeimprovementsmo.net/exterior-renovation,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://kenshomeimprovementsmo.net/exterior-renovation
+https://www.elev8tionfitness.com/join,FAILED,HTTP 404
+http://www.honolulufitnesscenter.com,BLOCKED,HTTP 403
+http://www.sanfranciscogymnastics.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.sanfranciscogymnastics.com/
 Call log:
-  - navigating to ""http://kenshomeimprovementsmo.net/exterior-renovation"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.sanfranciscogymnastics.com/"", waiting until ""domcontentloaded""
 "
-http://christopherbuilt.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://christopherbuilt.com/
+http://fithylandhills.com/club/broomfield-gyms,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""https://christopherbuilt.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://fithylandhills.com/club/broomfield-gyms"", waiting until ""domcontentloaded""
 "
-https://www.toledogeneralcontractor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.toledogeneralcontractor.com/
+https://www.hibbett.com,BLOCKED,HTTP 403
+https://www.ascensionfitnesseb.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ascensionfitnesseb.com/
 Call log:
-  - navigating to ""https://www.toledogeneralcontractor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.ascensionfitnesseb.com/"", waiting until ""domcontentloaded""
 "
-http://www.huskygaragedoorrepairs.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.huskygaragedoorrepairs.com/
+http://www.everybodyfights.com/locations/kentucky,FAILED,HTTP 404
+http://jcls.jazzercise.com/facility/jazzercise-evansville-west-fitness-center,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.huskygaragedoorrepairs.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://jcls.jazzercise.com/facility/jazzercise-evansville-west-fitness-center"", waiting until ""domcontentloaded""
 "
-http://www.diamondgaragedoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.diamondgaragedoor.com/
+http://bigeasy-crossfit.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.diamondgaragedoor.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://bigeasy-crossfit.com/"", waiting until ""domcontentloaded""
 "
-https://rc-construction-general-contractor.business.site,FAILED,HTTP 404
-http://sidinggroup.com,FAILED,HTTP 520
-http://kurtisdoors.com,FAILED,HTTP 500
-http://www.tarrantcountyroofing.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.tarrantcountyroofing.net/
+http://michaeljohnsonperformance.com,FAILED,HTTP 404
+https://www.planetfitness.com/gyms/simi-valley-ca,BLOCKED,HTTP 403
+http://www.fourthpowerfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fourthpowerfitness.com/
 Call log:
-  - navigating to ""http://www.tarrantcountyroofing.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.fourthpowerfitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.garagedoorsolutionsinc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.garagedoorsolutionsinc.com/
+https://fightclubamerica.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fightclubamerica.com/
 Call log:
-  - navigating to ""http://www.garagedoorsolutionsinc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://fightclubamerica.com/"", waiting until ""domcontentloaded""
 "
-https://nationservecoloradosprings.com,FAILED,HTTP 404
-https://www.hamonohd.com,FAILED,HTTP 520
-http://www.a1garage.com/lansing-mi,BLOCKED,HTTP 403
-https://www.qualityoverheaddoor.com,BLOCKED,HTTP 403
-http://www.qualitygaragedoorsllc.com,FAILED,HTTP 404
-https://abcgaragedoorsllc.com,FAILED,HTTP 404
-https://ohanagaragedoorrepair.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://ohanagaragedoorrepair.com/
+http://www.ebfitnessclub.com,FAILED,HTTP 404
+https://www.peakcityathletics.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.peakcityathletics.com/
 Call log:
-  - navigating to ""https://ohanagaragedoorrepair.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.peakcityathletics.com/"", waiting until ""domcontentloaded""
 "
-http://www.deyodoors.com,BLOCKED,HTTP 403
-http://www.gaddysdoorservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gaddysdoorservice.com/
+http://www.clarkhatchfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.clarkhatchfitness.com/
 Call log:
-  - navigating to ""http://www.gaddysdoorservice.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.clarkhatchfitness.com/"", waiting until ""domcontentloaded""
 "
-http://www.24hoursgaragedoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.24hoursgaragedoors.com/
+http://www.unitedcheerleading.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.unitedcheerleading.com/
 Call log:
-  - navigating to ""http://www.24hoursgaragedoors.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.unitedcheerleading.com/"", waiting until ""domcontentloaded""
 "
-http://www.unitedwestandllc.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.unitedwestandllc.net/
-Call log:
-  - navigating to ""http://www.unitedwestandllc.net/"", waiting until ""domcontentloaded""
-"
-https://www.garagedoorservicemadisonwi.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.garagedoorservicemadisonwi.com/
-Call log:
-  - navigating to ""https://www.garagedoorservicemadisonwi.com/"", waiting until ""domcontentloaded""
-"
-http://www.crossremodeling.com,FAILED,HTTP 404
-http://www.doormasterkern.com,BLOCKED,HTTP 403
-http://www.atlantaentrysystems.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.atlantaentrysystems.com/
-Call log:
-  - navigating to ""http://www.atlantaentrysystems.com/"", waiting until ""domcontentloaded""
-"
-http://www.limabuilds.com,FAILED,HTTP 500
-https://www.castrobrothers79.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.castrobrothers79.com/
-Call log:
-  - navigating to ""https://www.castrobrothers79.com/"", waiting until ""domcontentloaded""
-"
-http://elitegaragedoorsandgates.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://elitegaragedoorsandgates.com/
-Call log:
-  - navigating to ""http://elitegaragedoorsandgates.com/"", waiting until ""domcontentloaded""
-"
-http://www.allprogaragedoors.com,FAILED,HTTP 404
-http://www.topqualitydoors.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.topqualitydoors.net/
-Call log:
-  - navigating to ""http://www.topqualitydoors.net/"", waiting until ""domcontentloaded""
-"
-http://A1Garage.com/Tulsa,BLOCKED,HTTP 403
-https://www.mylesgaragedoors.com,BLOCKED,HTTP 403
-https://atrgaragedoorrepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://atrgaragedoorrepair.com/
-Call log:
-  - navigating to ""https://atrgaragedoorrepair.com/"", waiting until ""domcontentloaded""
-"
-http://www.aic-services.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aic-services.net/
-Call log:
-  - navigating to ""http://www.aic-services.net/"", waiting until ""domcontentloaded""
-"
-https://www.tyatesconstructioninc.net,FAILED,HTTP 404
-https://www.darehomerepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.darehomerepair.com/
-Call log:
-  - navigating to ""https://www.darehomerepair.com/"", waiting until ""domcontentloaded""
-"
-https://mmservicesofacadiana.com,FAILED,HTTP 500
-http://joeyjonesconstruction.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://joeyjonesconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.LaramieConstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.laramieconstruction.com/
-Call log:
-  - navigating to ""http://www.laramieconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.garagedoorwerks.com,FAILED,HTTP 404
-https://loyalty-llc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://loyalty-llc.com/
-Call log:
-  - navigating to ""https://loyalty-llc.com/"", waiting until ""domcontentloaded""
-"
-http://www.eastcoastroofing.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.eastcoastroofing.com/
-Call log:
-  - navigating to ""http://www.eastcoastroofing.com/"", waiting until ""domcontentloaded""
-"
-https://www.urquizoconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.urquizoconstruction.com/
-Call log:
-  - navigating to ""https://www.urquizoconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.sonysgaragedoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sonysgaragedoor.com/
-Call log:
-  - navigating to ""http://www.sonysgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-https://www.capitaloverhead.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.capitaloverhead.com/
-Call log:
-  - navigating to ""https://www.capitaloverhead.com/"", waiting until ""domcontentloaded""
-"
-http://www.longhornrr.com,FAILED,HTTP 522
-http://mercedgaragedoorsca.com,BLOCKED,HTTP 403
-https://www.foothillgaragedoor.com,FAILED,HTTP 520
-https://callahandoors.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://callahandoors.com/
-Call log:
-  - navigating to ""https://callahandoors.com/"", waiting until ""domcontentloaded""
-"
-https://dovercompany.com/contact-us,FAILED,HTTP 404
-https://faicangaragedoor.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://faicangaragedoor.us/
-Call log:
-  - navigating to ""https://faicangaragedoor.us/"", waiting until ""domcontentloaded""
-"
-https://lechlitner-door-sales-service-inc.business.site,FAILED,HTTP 404
-http://www.competitionglasssales.com,FAILED,HTTP 404
-http://www.uptonsroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.uptonsroofing.com/
-Call log:
-  - navigating to ""http://www.uptonsroofing.com/"", waiting until ""domcontentloaded""
-"
-http://www.paragondoorrepair.com,BLOCKED,HTTP 429
-http://sandsgaragedoorservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://sandsgaragedoorservice.com/
-Call log:
-  - navigating to ""http://sandsgaragedoorservice.com/"", waiting until ""domcontentloaded""
-"
-http://www.nationoverheaddoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.nationoverheaddoor.com/
-Call log:
-  - navigating to ""http://www.nationoverheaddoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.garagedoorrus.com,FAILED,HTTP 409
-http://www.hamiltonoverheaddoorsoh.com,FAILED,HTTP 404
-https://lakelandsoverheaddoor.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://lakelandsoverheaddoor.com/
-Call log:
-  - navigating to ""https://lakelandsoverheaddoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.suessbuilders.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.suessbuilders.com/
-Call log:
-  - navigating to ""http://www.suessbuilders.com/"", waiting until ""domcontentloaded""
-"
-https://www.lost-valley-home-care-and-remodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lost-valley-home-care-and-remodeling.com/
-Call log:
-  - navigating to ""https://www.lost-valley-home-care-and-remodeling.com/"", waiting until ""domcontentloaded""
-"
-https://garagedoorserviceco.us,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://garagedoorserviceco.us/
-Call log:
-  - navigating to ""https://garagedoorserviceco.us/"", waiting until ""domcontentloaded""
-"
-http://gorrieregan.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://gorrieregan.com/
-Call log:
-  - navigating to ""http://gorrieregan.com/"", waiting until ""domcontentloaded""
-"
-http://www.besthelphs.com,FAILED,HTTP 404
-http://canyonlakeconstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://canyonlakeconstruction.com/
-Call log:
-  - navigating to ""http://canyonlakeconstruction.com/"", waiting until ""domcontentloaded""
-"
-https://www.4channelmark.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.4channelmark.com/
-Call log:
-  - navigating to ""https://www.4channelmark.com/"", waiting until ""domcontentloaded""
-"
-http://www.locktightimpact.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.locktightimpact.com/
-Call log:
-  - navigating to ""http://www.locktightimpact.com/"", waiting until ""domcontentloaded""
-"
-https://www.penagaragedoors.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""https://www.penagaragedoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.ehlgaragedoorservice.com,FAILED,HTTP 404
-https://zenreno.design,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://zenreno.design/
-Call log:
-  - navigating to ""https://zenreno.design/"", waiting until ""domcontentloaded""
-"
-http://jabconinc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://jabconinc.com/
-Call log:
-  - navigating to ""https://jabconinc.com/"", waiting until ""domcontentloaded""
-"
-http://www.dalcohomeremodeling.com,BLOCKED,HTTP 403
-https://www.ohiorenovationexpertsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ohiorenovationexpertsllc.com/
-Call log:
-  - navigating to ""https://www.ohiorenovationexpertsllc.com/"", waiting until ""domcontentloaded""
-"
-https://www.gulfstatesoverheaddoor.com,BLOCKED,HTTP 403
-https://prowest-midwest-remodeling-co.business.site,FAILED,HTTP 404
-http://www.houldenremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.houldenremodeling.com/
-Call log:
-  - navigating to ""http://www.houldenremodeling.com/"", waiting until ""domcontentloaded""
-"
-https://integrityexteriorsolutions.com,BLOCKED,HTTP 403
-https://1stclassoverheadgaragedoor.com,FAILED,HTTP 522
-https://www.auto-magicdooropenercorp.com,FAILED,HTTP 404
-http://www.raynor.com,FAILED,HTTP 502
-https://rockportoverheaddoorcompany.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://rockportoverheaddoorcompany.com/
-Call log:
-  - navigating to ""https://rockportoverheaddoorcompany.com/"", waiting until ""domcontentloaded""
-"
-https://www.cedarparkgaragedoors.com,BLOCKED,HTTP 403
-http://lagunasgaragedoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://lagunasgaragedoor.com/
-Call log:
-  - navigating to ""http://lagunasgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.garagedoorrepairofsandiego.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.garagedoorrepairofsandiego.com/
-Call log:
-  - navigating to ""http://www.garagedoorrepairofsandiego.com/"", waiting until ""domcontentloaded""
-"
-https://www.yzgaragedoors.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.yzgaragedoors.com/
-Call log:
-  - navigating to ""https://www.yzgaragedoors.com/"", waiting until ""domcontentloaded""
-"
-https://www.northfloridaseamlessgutters.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.northfloridaseamlessgutters.com/
-Call log:
-  - navigating to ""https://www.northfloridaseamlessgutters.com/"", waiting until ""domcontentloaded""
-"
-https://www.dillydoor.com,BLOCKED,HTTP 403
-http://www.advanceddoorsystems.net,FAILED,HTTP 404
-http://www.hometowngaragedoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.hometowngaragedoors.com/
-Call log:
-  - navigating to ""http://www.hometowngaragedoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.richmondvadoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.richmondvadoors.com/
-Call log:
-  - navigating to ""http://www.richmondvadoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.chrincmd.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.chrincmd.com/
-Call log:
-  - navigating to ""http://www.chrincmd.com/"", waiting until ""domcontentloaded""
-"
-http://www.rpmgaragedoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rpmgaragedoor.com/
-Call log:
-  - navigating to ""http://www.rpmgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.coloradogaragedoorpros.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.coloradogaragedoorpros.com/
-Call log:
-  - navigating to ""http://www.coloradogaragedoorpros.com/"", waiting until ""domcontentloaded""
-"
-https://americanrynogaragedoors.com,BLOCKED,HTTP 403
-http://music-city-garage-doors.com,FAILED,HTTP 404
-https://garagedooroflynchburg.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://garagedooroflynchburg.com/
-Call log:
-  - navigating to ""https://garagedooroflynchburg.com/"", waiting until ""domcontentloaded""
-"
-http://www.briverajuan.wixsite.com/mysite,FAILED,HTTP 409
-https://www.callawayconstruction605.com,FAILED,HTTP 404
-https://abetteroverheaddoorllc.com,FAILED,HTTP 520
-http://rivercityremodelersmn.com,FAILED,HTTP 404
-http://chesterfieldhomerepairllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://chesterfieldhomerepairllc.com/
-Call log:
-  - navigating to ""http://chesterfieldhomerepairllc.com/"", waiting until ""domcontentloaded""
-"
-https://groundbreakingstl.com,FAILED,HTTP 404
-http://www.royaltystl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.royaltystl.com/
-Call log:
-  - navigating to ""http://www.royaltystl.com/"", waiting until ""domcontentloaded""
-"
-http://www.lottmannandsons.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lottmannandsons.com/
-Call log:
-  - navigating to ""http://www.lottmannandsons.com/"", waiting until ""domcontentloaded""
-"
-https://diamondgaragerepairs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://diamondgaragerepairs.com/
-Call log:
-  - navigating to ""https://diamondgaragerepairs.com/"", waiting until ""domcontentloaded""
-"
-https://uerenovations.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://uerenovations.com/
-Call log:
-  - navigating to ""https://uerenovations.com/"", waiting until ""domcontentloaded""
-"
-http://www.mncsal.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mncsal.com/
-Call log:
-  - navigating to ""http://www.mncsal.com/"", waiting until ""domcontentloaded""
-"
-http://www.douglasgaragedoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.douglasgaragedoor.com/
-Call log:
-  - navigating to ""http://www.douglasgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-https://www.donsgaragedoorsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.donsgaragedoorsllc.com/
-Call log:
-  - navigating to ""https://www.donsgaragedoorsllc.com/"", waiting until ""domcontentloaded""
-"
-http://www.ajsdecorativeglass.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.ajsdecorativeglass.com/
-Call log:
-  - navigating to ""http://www.ajsdecorativeglass.com/"", waiting until ""domcontentloaded""
-"
-http://www.kesremodel.com,FAILED,HTTP 500
-https://www.homemend.com,BLOCKED,HTTP 403
-https://mygaragedoorsteam.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mygaragedoorsteam.com/
-Call log:
-  - navigating to ""https://mygaragedoorsteam.com/"", waiting until ""domcontentloaded""
-"
-http://www.cardinalroofingtx.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.cardinalroofingtx.com/
-Call log:
-  - navigating to ""http://www.cardinalroofingtx.com/"", waiting until ""domcontentloaded""
-"
-https://www.npcconstruction.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.npcconstruction.net/
-Call log:
-  - navigating to ""https://www.npcconstruction.net/"", waiting until ""domcontentloaded""
-"
-https://www.7daygaragedoorsandgates.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.7daygaragedoorsandgates.com/
-Call log:
-  - navigating to ""https://www.7daygaragedoorsandgates.com/"", waiting until ""domcontentloaded""
-"
-http://www.bmsgaragerepair.com,FAILED,"Page.goto: Download is starting
-Call log:
-  - navigating to ""http://www.bmsgaragerepair.com/"", waiting until ""domcontentloaded""
-"
-https://tiptopdoorservice.com,BLOCKED,HTTP 403
-https://clearchoiceroofandwindows.com,BLOCKED,HTTP 403
-https://www.all-inrestorationllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.all-inrestorationllc.com/
-Call log:
-  - navigating to ""https://www.all-inrestorationllc.com/"", waiting until ""domcontentloaded""
-"
-http://www.cincinnatidoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.cincinnatidoor.com/
-Call log:
-  - navigating to ""http://www.cincinnatidoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.duvaloverheaddoors.com,FAILED,HTTP 404
-http://garagedoorguy.co,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://garagedoorguy.co/
-Call log:
-  - navigating to ""http://garagedoorguy.co/"", waiting until ""domcontentloaded""
-"
-https://twitter.com/TruTeamCo,BLOCKED,HTTP 403
-http://www.PrecisionDE.com,FAILED,HTTP 404
-http://www.jacobsohd.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.jacobsohd.com/"", waiting until ""domcontentloaded""
-"
-https://www.lacroixma.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lacroixma.com/
-Call log:
-  - navigating to ""https://www.lacroixma.com/"", waiting until ""domcontentloaded""
-"
-http://www.coloradopremiergaragedoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.coloradopremiergaragedoors.com/
-Call log:
-  - navigating to ""http://www.coloradopremiergaragedoors.com/"", waiting until ""domcontentloaded""
-"
-https://www.denvergaragedoorguys.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.denvergaragedoorguys.com/
-Call log:
-  - navigating to ""https://www.denvergaragedoorguys.com/"", waiting until ""domcontentloaded""
-"
-http://www.macdoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.macdoor.com/
-Call log:
-  - navigating to ""http://www.macdoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.remodelingspecialists.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.remodelingspecialists.com/
-Call log:
-  - navigating to ""http://www.remodelingspecialists.com/"", waiting until ""domcontentloaded""
-"
-http://www.sundogconstruction.com,FAILED,HTTP 404
-https://grizzlygaragedoorllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://grizzlygaragedoorllc.com/
-Call log:
-  - navigating to ""https://grizzlygaragedoorllc.com/"", waiting until ""domcontentloaded""
-"
-https://www.norsevalhallaconstruction.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.norsevalhallaconstruction.net/
-Call log:
-  - navigating to ""https://www.norsevalhallaconstruction.net/"", waiting until ""domcontentloaded""
-"
-http://petersonelitebuilders.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://petersonelitebuilders.com/
-Call log:
-  - navigating to ""https://petersonelitebuilders.com/"", waiting until ""domcontentloaded""
-"
-http://www.radcliffehomes.com,FAILED,HTTP 404
-http://www.timberlineconstructionllc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.timberlineconstructionllc.com/
-Call log:
-  - navigating to ""http://www.timberlineconstructionllc.com/"", waiting until ""domcontentloaded""
-"
-http://noelconstruction.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://noelconstruction.net/
-Call log:
-  - navigating to ""http://noelconstruction.net/"", waiting until ""domcontentloaded""
-"
-http://krimmelconst.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://krimmelconst.net/
-Call log:
-  - navigating to ""http://krimmelconst.net/"", waiting until ""domcontentloaded""
-"
-https://palmsgaragedoors.com,FAILED,HTTP 520
-http://www.ajgaragedoor.net,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://www.ajgaragedoor.net/
-Call log:
-  - navigating to ""http://www.ajgaragedoor.net/"", waiting until ""domcontentloaded""
-"
-https://twitter.com/sterlingdoor,BLOCKED,HTTP 403
-http://www.mpsashdoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mpsashdoor.com/
-Call log:
-  - navigating to ""http://www.mpsashdoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.columbusgaragedoorinstaller.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.columbusgaragedoorinstaller.com/
-Call log:
-  - navigating to ""http://www.columbusgaragedoorinstaller.com/"", waiting until ""domcontentloaded""
-"
-http://www.aremarkablehome.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aremarkablehome.com/
-Call log:
-  - navigating to ""http://www.aremarkablehome.com/"", waiting until ""domcontentloaded""
-"
-https://garagerepairconcordnc.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://garagerepairconcordnc.com/
-Call log:
-  - navigating to ""https://garagerepairconcordnc.com/"", waiting until ""domcontentloaded""
-"
-http://www.tricitiesgaragedoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.tricitiesgaragedoor.com/
-Call log:
-  - navigating to ""http://www.tricitiesgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.proliftdoors.com/lake-murray,BLOCKED,HTTP 403
-http://nashua.chiohd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://nashua.chiohd.com/
-Call log:
-  - navigating to ""http://nashua.chiohd.com/"", waiting until ""domcontentloaded""
-"
-http://www.ajconstruction-nh.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ajconstruction-nh.com/
-Call log:
-  - navigating to ""http://www.ajconstruction-nh.com/"", waiting until ""domcontentloaded""
-"
-http://www.tricountybuildingsupplier.com,BLOCKED,HTTP 403
-http://www.neiljoneshomeimprovements.com,FAILED,HTTP 409
-https://www.accuratebuildersandrepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.accuratebuildersandrepair.com/
-Call log:
-  - navigating to ""https://www.accuratebuildersandrepair.com/"", waiting until ""domcontentloaded""
-"
-http://ultimateserviceappliance.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://ultimateserviceappliance.com/
-Call log:
-  - navigating to ""http://ultimateserviceappliance.com/"", waiting until ""domcontentloaded""
-"
-http://statelinegaragedoorllc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://statelinegaragedoorllc.com/
-Call log:
-  - navigating to ""http://statelinegaragedoorllc.com/"", waiting until ""domcontentloaded""
-"
-http://www.thedoorguyusa.com,BLOCKED,HTTP 403
-http://icscontractingllc.com/contact-us,FAILED,HTTP 404
-https://www.yelp.com/biz/quickfix-doors-marysville,BLOCKED,HTTP 403
-http://www.TbarJConstruction.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.tbarjconstruction.com/
-Call log:
-  - navigating to ""https://www.tbarjconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.a1garage.com/tucson,BLOCKED,HTTP 403
-https://www.brothersgaragedoor.us,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.brothersgaragedoor.us/
-Call log:
-  - navigating to ""https://www.brothersgaragedoor.us/"", waiting until ""domcontentloaded""
-"
-https://elite-renovations-contractor.business.site,FAILED,HTTP 404
-https://www.ramgaragedoors.com,FAILED,HTTP 404
-https://wheatstateroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wheatstateroofing.com/
-Call log:
-  - navigating to ""https://wheatstateroofing.com/"", waiting until ""domcontentloaded""
-"
-http://www.pollockconstructionllc.com,BLOCKED,HTTP 403
-https://gatewaydoorstl.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://gatewaydoorstl.com/
-Call log:
-  - navigating to ""https://gatewaydoorstl.com/"", waiting until ""domcontentloaded""
-"
-http://www.doorsplusmore.us,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.doorsplusmore.us/
-Call log:
-  - navigating to ""http://www.doorsplusmore.us/"", waiting until ""domcontentloaded""
-"
-http://www.newdesignremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.newdesignremodeling.com/
-Call log:
-  - navigating to ""http://www.newdesignremodeling.com/"", waiting until ""domcontentloaded""
-"
-https://www.abcgaragedoor.biz,FAILED,HTTP 404
-http://independentgaragedoorrepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://independentgaragedoorrepair.com/
-Call log:
-  - navigating to ""http://independentgaragedoorrepair.com/"", waiting until ""domcontentloaded""
-"
-http://www.alliedservicespecialtiesinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alliedservicespecialtiesinc.com/
-Call log:
-  - navigating to ""http://www.alliedservicespecialtiesinc.com/"", waiting until ""domcontentloaded""
-"
-http://www.hutchinsgaragedoors.com,BLOCKED,HTTP 403
-https://www.hdroofing.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hdroofing.net/
-Call log:
-  - navigating to ""https://www.hdroofing.net/"", waiting until ""domcontentloaded""
-"
-https://solanogaragedoorrepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://solanogaragedoorrepair.com/
-Call log:
-  - navigating to ""https://solanogaragedoorrepair.com/"", waiting until ""domcontentloaded""
-"
-https://www.acasodesign-doors.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.acasodesign-doors.com/
-Call log:
-  - navigating to ""https://www.acasodesign-doors.com/"", waiting until ""domcontentloaded""
-"
-http://www.notjustgaragedoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.notjustgaragedoors.com/
-Call log:
-  - navigating to ""http://www.notjustgaragedoors.com/"", waiting until ""domcontentloaded""
-"
-https://houghconstructionthedoorandwindowpeople.com,FAILED,HTTP 404
-https://dandccreations.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dandccreations.com/
-Call log:
-  - navigating to ""https://dandccreations.com/"", waiting until ""domcontentloaded""
-"
-http://www.saranacgaragedoorco.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.saranacgaragedoorco.com/
-Call log:
-  - navigating to ""http://www.saranacgaragedoorco.com/"", waiting until ""domcontentloaded""
-"
-http://www.harbordoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.harbordoor.com/
-Call log:
-  - navigating to ""http://www.harbordoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.virginiaexterminating.co,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.virginiaexterminating.co/
-Call log:
-  - navigating to ""http://www.virginiaexterminating.co/"", waiting until ""domcontentloaded""
-"
-http://www.kapinosbuilders.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.kapinosbuilders.com/
-Call log:
-  - navigating to ""http://www.kapinosbuilders.com/"", waiting until ""domcontentloaded""
-"
-https://www.djscarpentryandpainting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.djscarpentryandpainting.com/
-Call log:
-  - navigating to ""https://www.djscarpentryandpainting.com/"", waiting until ""domcontentloaded""
-"
-http://www.bbsconstructioninc.com,BLOCKED,HTTP 429
-http://GarageDoorCityCo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://garagedoorcityco.com/
-Call log:
-  - navigating to ""http://garagedoorcityco.com/"", waiting until ""domcontentloaded""
-"
-https://www.yoursuperiorcontractor.com,FAILED,HTTP 404
-https://www.trotterroofing.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.trotterroofing.com/
-Call log:
-  - navigating to ""https://www.trotterroofing.com/"", waiting until ""domcontentloaded""
-"
-https://ericthefixitguy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ericthefixitguy.com/
-Call log:
-  - navigating to ""https://ericthefixitguy.com/"", waiting until ""domcontentloaded""
-"
-http://hurricanegaragedoorfl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hurricanegaragedoorfl.com/
-Call log:
-  - navigating to ""http://hurricanegaragedoorfl.com/"", waiting until ""domcontentloaded""
-"
-http://www.heartlandhomeimp.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.heartlandhomeimp.com/
-Call log:
-  - navigating to ""http://www.heartlandhomeimp.com/"", waiting until ""domcontentloaded""
-"
-http://sd-mn.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://sd-mn.com/
-Call log:
-  - navigating to ""http://sd-mn.com/"", waiting until ""domcontentloaded""
-"
-http://www.marshallhandymanservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.marshallhandymanservices.com/
-Call log:
-  - navigating to ""http://www.marshallhandymanservices.com/"", waiting until ""domcontentloaded""
-"
-http://emergencygaragedoors.trustab.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://emergencygaragedoors.trustab.org/"", waiting until ""domcontentloaded""
-"
-http://www.gross-rhode.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gross-rhode.com/
-Call log:
-  - navigating to ""http://www.gross-rhode.com/"", waiting until ""domcontentloaded""
-"
-http://www.quinlan-const-servs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.quinlan-const-servs.com/
-Call log:
-  - navigating to ""http://www.quinlan-const-servs.com/"", waiting until ""domcontentloaded""
-"
-http://www.jrgaragedoorinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jrgaragedoorinc.com/
-Call log:
-  - navigating to ""http://www.jrgaragedoorinc.com/"", waiting until ""domcontentloaded""
-"
-https://www.hoskinssiding.biz,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hoskinssiding.biz/
-Call log:
-  - navigating to ""https://www.hoskinssiding.biz/"", waiting until ""domcontentloaded""
-"
-https://www.aprhomeimprovement.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aprhomeimprovement.com/
-Call log:
-  - navigating to ""https://www.aprhomeimprovement.com/"", waiting until ""domcontentloaded""
-"
-https://www.americangaragedoorsupplies.com,FAILED,HTTP 500
-http://www.georgetownconcretecontractor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.georgetownconcretecontractor.com/
-Call log:
-  - navigating to ""http://www.georgetownconcretecontractor.com/"", waiting until ""domcontentloaded""
-"
-https://taorganized.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://taorganized.com/
-Call log:
-  - navigating to ""https://taorganized.com/"", waiting until ""domcontentloaded""
-"
-http://www.ohiogaragedoor.com,FAILED,HTTP 404
-https://cagaragedoors.com/san-luis-obispo-garage-doors,FAILED,HTTP 404
-http://hammertimehomerepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hammertimehomerepair.com/
-Call log:
-  - navigating to ""http://hammertimehomerepair.com/"", waiting until ""domcontentloaded""
-"
-http://3brothershomeimprovementllc.com,FAILED,HTTP 409
-https://www.distinctionhomesolutions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.distinctionhomesolutions.com/
-Call log:
-  - navigating to ""https://www.distinctionhomesolutions.com/"", waiting until ""domcontentloaded""
-"
-http://www.mtdservices.com,BLOCKED,HTTP 403
-https://www.oceanstategeneralcontractors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.oceanstategeneralcontractors.com/
-Call log:
-  - navigating to ""https://www.oceanstategeneralcontractors.com/"", waiting until ""domcontentloaded""
-"
-http://timberlandexteriorscolorado.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://timberlandexteriorscolorado.com/
-Call log:
-  - navigating to ""http://timberlandexteriorscolorado.com/"", waiting until ""domcontentloaded""
-"
-http://www.skycastlegaragedoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.skycastlegaragedoors.com/
-Call log:
-  - navigating to ""http://www.skycastlegaragedoors.com/"", waiting until ""domcontentloaded""
-"
-http://crawfordgaragedoors.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://crawfordgaragedoors.net/
-Call log:
-  - navigating to ""http://crawfordgaragedoors.net/"", waiting until ""domcontentloaded""
-"
-https://right-angle-design-llc.business.site,FAILED,HTTP 404
-https://tropicguardfl.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://tropicguardfl.com/
-Call log:
-  - navigating to ""https://tropicguardfl.com/"", waiting until ""domcontentloaded""
-"
-https://www.brinleehomesomaha.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.brinleehomesomaha.com/
-Call log:
-  - navigating to ""https://www.brinleehomesomaha.com/"", waiting until ""domcontentloaded""
-"
-https://www.dansdoors.com,BLOCKED,HTTP 403
-http://www.palsinc.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.palsinc.net/
-Call log:
-  - navigating to ""http://www.palsinc.net/"", waiting until ""domcontentloaded""
-"
-http://www.paradigmcontracting.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.paradigmcontracting.net/
-Call log:
-  - navigating to ""http://www.paradigmcontracting.net/"", waiting until ""domcontentloaded""
-"
-https://greenhawbuilding.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://greenhawbuilding.com/
-Call log:
-  - navigating to ""https://greenhawbuilding.com/"", waiting until ""domcontentloaded""
-"
-http://www.refugeroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.refugeroofing.com/
-Call log:
-  - navigating to ""http://www.refugeroofing.com/"", waiting until ""domcontentloaded""
-"
-http://www.cheneydoor.com,BLOCKED,HTTP 403
-http://thompsongaragedoorservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://thompsongaragedoorservice.com/
-Call log:
-  - navigating to ""http://thompsongaragedoorservice.com/"", waiting until ""domcontentloaded""
-"
-http://missionconstruction.works,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://missionconstruction.works/
-Call log:
-  - navigating to ""http://missionconstruction.works/"", waiting until ""domcontentloaded""
-"
-https://nuyoucontractingandremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nuyoucontractingandremodeling.com/
-Call log:
-  - navigating to ""https://nuyoucontractingandremodeling.com/"", waiting until ""domcontentloaded""
-"
-http://www.a1garagedoorservicewny.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.a1garagedoorservicewny.com/
-Call log:
-  - navigating to ""http://www.a1garagedoorservicewny.com/"", waiting until ""domcontentloaded""
-"
-http://www.aqualityhome.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aqualityhome.net/
-Call log:
-  - navigating to ""http://www.aqualityhome.net/"", waiting until ""domcontentloaded""
-"
-http://garzagaragedoors.trustab.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://garzagaragedoors.trustab.org/"", waiting until ""domcontentloaded""
-"
-http://www.moosetrackgaragedoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.moosetrackgaragedoors.com/
-Call log:
-  - navigating to ""http://www.moosetrackgaragedoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.allianceoverheaddoor.com,FAILED,HTTP 409
-https://www.advancedoverheaddoornwi.com,FAILED,HTTP 404
-http://www.gdslosal.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gdslosal.com/
-Call log:
-  - navigating to ""http://www.gdslosal.com/"", waiting until ""domcontentloaded""
-"
-https://garagedoorrepairnevadacity.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://garagedoorrepairnevadacity.com/
-Call log:
-  - navigating to ""https://garagedoorrepairnevadacity.com/"", waiting until ""domcontentloaded""
-"
-http://www.fortwaynedoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.fortwaynedoor.com/
-Call log:
-  - navigating to ""http://www.fortwaynedoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.highcalibreconstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.highcalibreconstruction.com/
-Call log:
-  - navigating to ""http://www.highcalibreconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.cunninghamdoor.com,BLOCKED,HTTP 403
-https://www.amadooroverheaddoor.com/index.php,FAILED,HTTP 404
-http://www.wintersealinc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.wintersealinc.com/
-Call log:
-  - navigating to ""http://www.wintersealinc.com/"", waiting until ""domcontentloaded""
-"
-http://www.ncsunrooms.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ncsunrooms.com/
-Call log:
-  - navigating to ""http://www.ncsunrooms.com/"", waiting until ""domcontentloaded""
-"
-http://www.akinsgaragedoorservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.akinsgaragedoorservice.com/
-Call log:
-  - navigating to ""http://www.akinsgaragedoorservice.com/"", waiting until ""domcontentloaded""
-"
-https://www.handymanlazllc.com,FAILED,HTTP 404
-https://www.tntgdaz.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tntgdaz.com/
-Call log:
-  - navigating to ""https://www.tntgdaz.com/"", waiting until ""domcontentloaded""
-"
-https://www.assuredstormwindow.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.assuredstormwindow.com/
-Call log:
-  - navigating to ""https://www.assuredstormwindow.com/"", waiting until ""domcontentloaded""
-"
-http://pilarhandymanservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://pilarhandymanservices.com/
-Call log:
-  - navigating to ""http://pilarhandymanservices.com/"", waiting until ""domcontentloaded""
-"
-https://www.salinacontractor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.salinacontractor.com/
-Call log:
-  - navigating to ""https://www.salinacontractor.com/"", waiting until ""domcontentloaded""
-"
-http://www.proficientmn.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.proficientmn.com/
-Call log:
-  - navigating to ""http://www.proficientmn.com/"", waiting until ""domcontentloaded""
-"
-http://www.activemember.com/aaseamlessgutters,FAILED,HTTP 404
-http://coffercustomremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://coffercustomremodeling.com/
-Call log:
-  - navigating to ""http://coffercustomremodeling.com/"", waiting until ""domcontentloaded""
-"
-https://www.classicgaragedoormn.com,FAILED,HTTP 404
-https://www.coloradonativegc.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coloradonativegc.com/
-Call log:
-  - navigating to ""https://www.coloradonativegc.com/"", waiting until ""domcontentloaded""
-"
-http://dldoorandmore.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://dldoorandmore.com/
-Call log:
-  - navigating to ""http://dldoorandmore.com/"", waiting until ""domcontentloaded""
-"
-http://www.revupyourhome.com,FAILED,HTTP 404
-http://www.garciasgaragedoorshutters.com,BLOCKED,HTTP 403
-https://www.nhbuilding.org,FAILED,HTTP 404
-http://www.merchantvilleoverheaddoor.com,BLOCKED,HTTP 403
-http://www.xpressgaragedoorservics.com,FAILED,HTTP 404
-https://ecogarageservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecogarageservices.com/
-Call log:
-  - navigating to ""https://ecogarageservices.com/"", waiting until ""domcontentloaded""
-"
-https://www.unclebobsgaragedoor.com,FAILED,HTTP 404
-http://www.townandcountrydoor.net,BLOCKED,HTTP 403
-https://www.groveoverheaddoor.com,FAILED,HTTP 404
-http://www.renovationsystemsinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.renovationsystemsinc.com/
-Call log:
-  - navigating to ""http://www.renovationsystemsinc.com/"", waiting until ""domcontentloaded""
-"
-https://yourbestgaragedoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://yourbestgaragedoor.com/
-Call log:
-  - navigating to ""https://yourbestgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-https://www.allpointservicesllc.com,FAILED,HTTP 404
-http://www.cbrconstruction.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.cbrconstruction.com/
-Call log:
-  - navigating to ""https://www.cbrconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://allaboutgaragedoorsnc.com,FAILED,"Page.goto: net::ERR_TOO_MANY_REDIRECTS at http://allaboutgaragedoorsnc.com/
-Call log:
-  - navigating to ""http://allaboutgaragedoorsnc.com/"", waiting until ""domcontentloaded""
-"
-http://pinamconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://pinamconstruction.com/
-Call log:
-  - navigating to ""http://pinamconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.prostarbuilderslllp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.prostarbuilderslllp.com/
-Call log:
-  - navigating to ""http://www.prostarbuilderslllp.com/"", waiting until ""domcontentloaded""
-"
-https://coastal-screen-enclosures.business.site,FAILED,HTTP 404
-https://instashed.business.site/?utm_s,FAILED,HTTP 404
-https://jjbhome.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://jjbhome.com/
-Call log:
-  - navigating to ""https://jjbhome.com/"", waiting until ""domcontentloaded""
-"
-http://seymourgaragedoors.com,FAILED,HTTP 404
-https://markgateautomation.business.site,FAILED,HTTP 404
-http://www.integrityfactoryservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.integrityfactoryservice.com/
-Call log:
-  - navigating to ""http://www.integrityfactoryservice.com/"", waiting until ""domcontentloaded""
-"
-http://portlanddoorsandlocksguy.com,FAILED,HTTP 520
-http://www.acpaintmyhouse.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.acpaintmyhouse.com/
-Call log:
-  - navigating to ""http://www.acpaintmyhouse.com/"", waiting until ""domcontentloaded""
-"
-http://uptowngaragedoors.com/index.htm,FAILED,HTTP 404
-http://williamseaycontracting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://williamseaycontracting.com/
-Call log:
-  - navigating to ""http://williamseaycontracting.com/"", waiting until ""domcontentloaded""
-"
-http://www.oklahomaroofingandconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.oklahomaroofingandconstruction.com/
-Call log:
-  - navigating to ""http://www.oklahomaroofingandconstruction.com/"", waiting until ""domcontentloaded""
-"
-https://www.activemember.com/moffettconstructionhandymanser,FAILED,HTTP 404
-http://www.gnbmn.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.gnbmn.com/
-Call log:
-  - navigating to ""http://www.gnbmn.com/"", waiting until ""domcontentloaded""
-"
-https://www.bestroofingks.com,BLOCKED,HTTP 403
-http://www.rightwaybuilderspa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rightwaybuilderspa.com/
-Call log:
-  - navigating to ""http://www.rightwaybuilderspa.com/"", waiting until ""domcontentloaded""
-"
-http://www.bonnetsalesandservice.com/residential.htm,BLOCKED,HTTP 403
-https://www.legendsgaragedoor.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.legendsgaragedoor.com/
-Call log:
-  - navigating to ""https://www.legendsgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-https://www.dghomeimprovements.com,FAILED,HTTP 404
-https://www.urbangaragedoorco.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.urbangaragedoorco.com/
-Call log:
-  - navigating to ""https://www.urbangaragedoorco.com/"", waiting until ""domcontentloaded""
-"
-http://garagedoorwizardtx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://garagedoorwizardtx.com/
-Call log:
-  - navigating to ""http://garagedoorwizardtx.com/"", waiting until ""domcontentloaded""
-"
-https://www.jimwilliamsrenovations.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jimwilliamsrenovations.com/
-Call log:
-  - navigating to ""https://www.jimwilliamsrenovations.com/"", waiting until ""domcontentloaded""
-"
-http://www.dandldoor.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.dandldoor.com/
-Call log:
-  - navigating to ""https://www.dandldoor.com/"", waiting until ""domcontentloaded""
-"
-https://cwdoorsfl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://cwdoorsfl.com/
-Call log:
-  - navigating to ""https://cwdoorsfl.com/"", waiting until ""domcontentloaded""
-"
-http://www.overheaddoordepot.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.overheaddoordepot.com/
-Call log:
-  - navigating to ""http://www.overheaddoordepot.com/"", waiting until ""domcontentloaded""
-"
-http://www.spectrumoverheaddoor.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.spectrumoverheaddoor.com/
-Call log:
-  - navigating to ""http://www.spectrumoverheaddoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.mrhandyman.com/local-handyman-service/fl/greater-jacksonville.aspx,FAILED,HTTP 404
-http://www.neighborhoodhvacservice.com,BLOCKED,HTTP 403
-http://www.eyeforperfectionco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.eyeforperfectionco.com/
-Call log:
-  - navigating to ""http://www.eyeforperfectionco.com/"", waiting until ""domcontentloaded""
-"
-https://up-down-doors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://up-down-doors.com/
-Call log:
-  - navigating to ""https://up-down-doors.com/"", waiting until ""domcontentloaded""
-"
-http://www.wilsongaragedoorco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.wilsongaragedoorco.com/
-Call log:
-  - navigating to ""http://www.wilsongaragedoorco.com/"", waiting until ""domcontentloaded""
-"
-http://www.billsmithoverheaddoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.billsmithoverheaddoors.com/
-Call log:
-  - navigating to ""http://www.billsmithoverheaddoors.com/"", waiting until ""domcontentloaded""
-"
-http://accessdoorcompany.com/locations/chattanooga_tn,BLOCKED,HTTP 403
-http://ohdbirmingham.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://ohdbirmingham.com/
-Call log:
-  - navigating to ""http://ohdbirmingham.com/"", waiting until ""domcontentloaded""
-"
-http://www.trustedgaragedoorservices.com,FAILED,HTTP 404
-http://www.handymanprosllc.com,FAILED,HTTP 404
-https://www.montoyaornamentalironworks.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.montoyaornamentalironworks.com/
-Call log:
-  - navigating to ""https://www.montoyaornamentalironworks.com/"", waiting until ""domcontentloaded""
-"
-https://set-instone.com,FAILED,HTTP 526
-https://okccontractorsguild.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://okccontractorsguild.com/
-Call log:
-  - navigating to ""https://okccontractorsguild.com/"", waiting until ""domcontentloaded""
-"
-http://www.freshstartmn.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.freshstartmn.com/
-Call log:
-  - navigating to ""https://www.freshstartmn.com/"", waiting until ""domcontentloaded""
-"
-https://finished-kitchens.business.site,FAILED,HTTP 404
-http://hubertsremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hubertsremodeling.com/
-Call log:
-  - navigating to ""http://hubertsremodeling.com/"", waiting until ""domcontentloaded""
-"
-http://www.bellangerpainting.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bellangerpainting.com/
-Call log:
-  - navigating to ""https://www.bellangerpainting.com/"", waiting until ""domcontentloaded""
-"
-http://windowworldgulfcoast.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://windowworldgulfcoast.com/
-Call log:
-  - navigating to ""http://windowworldgulfcoast.com/"", waiting until ""domcontentloaded""
-"
-https://www.tcigeneralcontractingservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tcigeneralcontractingservices.com/
-Call log:
-  - navigating to ""https://www.tcigeneralcontractingservices.com/"", waiting until ""domcontentloaded""
-"
-https://www.nailit.contractors,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nailit.contractors/
-Call log:
-  - navigating to ""https://www.nailit.contractors/"", waiting until ""domcontentloaded""
-"
-https://rhinogaragedoorsct.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://rhinogaragedoorsct.com/
-Call log:
-  - navigating to ""https://rhinogaragedoorsct.com/"", waiting until ""domcontentloaded""
-"
-http://garagedoorshungright.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://garagedoorshungright.com/
-Call log:
-  - navigating to ""http://garagedoorshungright.com/"", waiting until ""domcontentloaded""
-"
-http://www.qualitydoor.biz,FAILED,HTTP 404
-http://www.rockportgaragedoorscompany.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.rockportgaragedoorscompany.com/
-Call log:
-  - navigating to ""https://www.rockportgaragedoorscompany.com/"", waiting until ""domcontentloaded""
-"
-http://drdoortx.com,BLOCKED,HTTP 403
-http://www.dellconstructionservices.com,FAILED,HTTP 702
-http://rampartgaragedoors.com,BLOCKED,HTTP 403
-http://www.nf-garagedoorrepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nf-garagedoorrepair.com/
-Call log:
-  - navigating to ""http://www.nf-garagedoorrepair.com/"", waiting until ""domcontentloaded""
-"
-http://www.tntgaragedoorsmi.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tntgaragedoorsmi.com/
-Call log:
-  - navigating to ""http://www.tntgaragedoorsmi.com/"", waiting until ""domcontentloaded""
-"
-http://www.lydybuildingsupply.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.lydybuildingsupply.com/
-Call log:
-  - navigating to ""https://www.lydybuildingsupply.com/"", waiting until ""domcontentloaded""
-"
-http://www.wagneroverheaddoor.com,FAILED,HTTP 404
-http://www.alltimehomerenovations.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alltimehomerenovations.com/
-Call log:
-  - navigating to ""http://www.alltimehomerenovations.com/"", waiting until ""domcontentloaded""
-"
-http://www.armstronggaragedoor.com,BLOCKED,HTTP 403
-http://garagedoorsplus.chiohd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://garagedoorsplus.chiohd.com/
-Call log:
-  - navigating to ""http://garagedoorsplus.chiohd.com/"", waiting until ""domcontentloaded""
-"
-http://www.bestdoorservice.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bestdoorservice.com/
-Call log:
-  - navigating to ""https://www.bestdoorservice.com/"", waiting until ""domcontentloaded""
-"
-http://www.carolinacustomgarages.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.carolinacustomgarages.com/
-Call log:
-  - navigating to ""http://www.carolinacustomgarages.com/"", waiting until ""domcontentloaded""
-"
-https://www.nicelyd1.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nicelyd1.com/
-Call log:
-  - navigating to ""https://www.nicelyd1.com/"", waiting until ""domcontentloaded""
-"
-http://www.jackspropertyservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jackspropertyservice.com/
-Call log:
-  - navigating to ""http://www.jackspropertyservice.com/"", waiting until ""domcontentloaded""
-"
-http://www.desertgaragedoorsep.com,FAILED,HTTP 404
-https://pnggaragedoors.com,FAILED,HTTP 404
-http://www.downhomerenovations.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.downhomerenovations.com/
-Call log:
-  - navigating to ""http://www.downhomerenovations.com/"", waiting until ""domcontentloaded""
-"
-https://bakkeninsulation.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://bakkeninsulation.com/
-Call log:
-  - navigating to ""https://bakkeninsulation.com/"", waiting until ""domcontentloaded""
-"
-https://www.d-kdoor.com,FAILED,HTTP 502
-http://cgconstructionkansas.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://cgconstructionkansas.com/
-Call log:
-  - navigating to ""http://cgconstructionkansas.com/"", waiting until ""domcontentloaded""
-"
-https://www.jorgensendoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jorgensendoors.com/
-Call log:
-  - navigating to ""https://www.jorgensendoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.donandsonsgaragedoors.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.donandsonsgaragedoors.com/"", waiting until ""domcontentloaded""
-"
-https://allaboutremodeling405.com,BLOCKED,HTTP 403
-http://www.novarisconstruction.com,FAILED,HTTP 404
-http://www.cardinal-door.com,BLOCKED,HTTP 403
-https://morningstarrepairservice.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://morningstarrepairservice.com/
-Call log:
-  - navigating to ""https://morningstarrepairservice.com/"", waiting until ""domcontentloaded""
-"
-http://altecinc.net,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://altecinc.net/"", waiting until ""domcontentloaded""
-"
-https://www.amcranston.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.amcranston.com/
-Call log:
-  - navigating to ""https://www.amcranston.com/"", waiting until ""domcontentloaded""
-"
-http://www.rusco-windows.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.rusco-windows.com/
-Call log:
-  - navigating to ""https://www.rusco-windows.com/"", waiting until ""domcontentloaded""
-"
-http://www.dekalbgaragedoorrepair.com,BLOCKED,HTTP 403
-http://www.independentoverheaddoors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.independentoverheaddoors.com/
-Call log:
-  - navigating to ""http://www.independentoverheaddoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.hpoverhead.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hpoverhead.com/
-Call log:
-  - navigating to ""http://www.hpoverhead.com/"", waiting until ""domcontentloaded""
-"
-https://www.gdidoors.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.gdidoors.com/
-Call log:
-  - navigating to ""https://www.gdidoors.com/"", waiting until ""domcontentloaded""
-"
-http://lgdc365.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://lgdc365.com/
-Call log:
-  - navigating to ""http://lgdc365.com/"", waiting until ""domcontentloaded""
-"
-https://www.daltongaragedoors.net,FAILED,HTTP 404
-http://prodoorsfl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://prodoorsfl.com/
-Call log:
-  - navigating to ""http://prodoorsfl.com/"", waiting until ""domcontentloaded""
-"
-http://davisgaragedoorrepairs.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://davisgaragedoorrepairs.net/
-Call log:
-  - navigating to ""http://davisgaragedoorrepairs.net/"", waiting until ""domcontentloaded""
-"
-http://winstonsalem.ontracgaragedoors.com,FAILED,HTTP 404
-http://www.dcmaconstruction.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.dcmaconstruction.com/
-Call log:
-  - navigating to ""https://www.dcmaconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.dsidoors.com,BLOCKED,HTTP 403
-http://jn-construction-contractor.business.site,FAILED,HTTP 404
-https://coloradospringsgaragedoors.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://coloradospringsgaragedoors.com/
-Call log:
-  - navigating to ""https://coloradospringsgaragedoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.jenko.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.jenko.com/"", waiting until ""domcontentloaded""
-"
-http://www.smokymountaingds.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.smokymountaingds.com/
-Call log:
-  - navigating to ""http://www.smokymountaingds.com/"", waiting until ""domcontentloaded""
-"
-http://www.orbithomeservicesllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.orbithomeservicesllc.com/
-Call log:
-  - navigating to ""http://www.orbithomeservicesllc.com/"", waiting until ""domcontentloaded""
-"
-https://www.alphadoorcorps.com,BLOCKED,HTTP 403
-http://alpinestreamconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://alpinestreamconstruction.com/
-Call log:
-  - navigating to ""http://alpinestreamconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://EliteGarageDoorsandGates.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://elitegaragedoorsandgates.com/
-Call log:
-  - navigating to ""http://elitegaragedoorsandgates.com/"", waiting until ""domcontentloaded""
-"
-http://agapedoors.net,FAILED,HTTP 404
-https://riteawaygaragedoors.com,BLOCKED,HTTP 403
-http://nwdoorokc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://nwdoorokc.com/
-Call log:
-  - navigating to ""http://nwdoorokc.com/"", waiting until ""domcontentloaded""
-"
-http://tristateohd.chiohd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tristateohd.chiohd.com/
-Call log:
-  - navigating to ""http://tristateohd.chiohd.com/"", waiting until ""domcontentloaded""
-"
-http://www.phillipsbrothersinc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.phillipsbrothersinc.com/"", waiting until ""domcontentloaded""
-"
-https://wichitahomeworks.com,BLOCKED,HTTP 403
-http://Http://www.garagegadgetry.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://http//www.garagegadgetry.com
-Call log:
-  - navigating to ""http://http//www.garagegadgetry.com"", waiting until ""domcontentloaded""
-"
-http://www.ccmgaragedoors.com,FAILED,HTTP 522
-http://www.thelimitedmobility.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.thelimitedmobility.com/
-Call log:
-  - navigating to ""http://www.thelimitedmobility.com/"", waiting until ""domcontentloaded""
-"
-http://www.lakesmillwork.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lakesmillwork.com/
-Call log:
-  - navigating to ""http://www.lakesmillwork.com/"", waiting until ""domcontentloaded""
-"
-http://www.fraleyfox.com,FAILED,HTTP 404
-https://atc-maintenance.com,FAILED,HTTP 404
-http://www.TipTopTulsa.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.tiptoptulsa.com/"", waiting until ""domcontentloaded""
-"
-http://www.bartlettbrainard.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.bartlettbrainard.com/
-Call log:
-  - navigating to ""http://www.bartlettbrainard.com/"", waiting until ""domcontentloaded""
-"
-https://agsmartgarage.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://agsmartgarage.com/
-Call log:
-  - navigating to ""https://agsmartgarage.com/"", waiting until ""domcontentloaded""
-"
-http://www.corpuschristigaragedoors.net,BLOCKED,HTTP 403
-http://kerrpro.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://kerrpro.com/
-Call log:
-  - navigating to ""http://kerrpro.com/"", waiting until ""domcontentloaded""
-"
-https://texasbestroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://texasbestroofing.com/
-Call log:
-  - navigating to ""https://texasbestroofing.com/"", waiting until ""domcontentloaded""
-"
-http://www.overheaddoorfindlay.com,BLOCKED,HTTP 403
-https://letusserveyou.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://letusserveyou.com/
-Call log:
-  - navigating to ""https://letusserveyou.com/"", waiting until ""domcontentloaded""
-"
-https://www.yelp.com/biz/miller-precision-home-improvements-akron-3,BLOCKED,HTTP 403
-https://www.denisdoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.denisdoor.com/
-Call log:
-  - navigating to ""https://www.denisdoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.cisnerosgaragedoors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cisnerosgaragedoors.com/
-Call log:
-  - navigating to ""http://www.cisnerosgaragedoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.weatherlygd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.weatherlygd.com/
-Call log:
-  - navigating to ""http://www.weatherlygd.com/"", waiting until ""domcontentloaded""
-"
-http://www.chscompany.biz,BLOCKED,HTTP 403
-http://www.elpasodoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.elpasodoor.com/
-Call log:
-  - navigating to ""http://www.elpasodoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.ghiva.com,FAILED,HTTP 404
-https://auroragarageservices.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://auroragarageservices.com/
-Call log:
-  - navigating to ""https://auroragarageservices.com/"", waiting until ""domcontentloaded""
-"
-http://www.jdgriffiths.com,FAILED,HTTP 500
-http://www.garagedoorscartersvillega.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.garagedoorscartersvillega.com/
-Call log:
-  - navigating to ""http://www.garagedoorscartersvillega.com/"", waiting until ""domcontentloaded""
-"
-http://remodel-615.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://remodel-615.com/
-Call log:
-  - navigating to ""https://remodel-615.com/"", waiting until ""domcontentloaded""
-"
-https://www.warrengaragedoor.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.warrengaragedoor.com/
-Call log:
-  - navigating to ""https://www.warrengaragedoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.royaleconstruction.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.royaleconstruction.net/
-Call log:
-  - navigating to ""http://www.royaleconstruction.net/"", waiting until ""domcontentloaded""
-"
-http://www.kolbingerconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kolbingerconstruction.com/
-Call log:
-  - navigating to ""http://www.kolbingerconstruction.com/"", waiting until ""domcontentloaded""
-"
-https://integrityohd.co,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://integrityohd.co/
-Call log:
-  - navigating to ""https://integrityohd.co/"", waiting until ""domcontentloaded""
-"
-http://www.elitecontracting.build,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.elitecontracting.build/
-Call log:
-  - navigating to ""http://www.elitecontracting.build/"", waiting until ""domcontentloaded""
-"
-https://www.garagedoorsrescue.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.garagedoorsrescue.com/
-Call log:
-  - navigating to ""https://www.garagedoorsrescue.com/"", waiting until ""domcontentloaded""
-"
-https://masterstouchpainting.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://masterstouchpainting.com/
-Call log:
-  - navigating to ""https://masterstouchpainting.com/"", waiting until ""domcontentloaded""
-"
-https://soularddoorstl.com,BLOCKED,HTTP 401
-https://www.abbottdoorwny.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.abbottdoorwny.com/
-Call log:
-  - navigating to ""https://www.abbottdoorwny.com/"", waiting until ""domcontentloaded""
-"
-https://mb-exteriors.com,FAILED,HTTP 404
-http://www.arkelysconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.arkelysconstruction.com/
-Call log:
-  - navigating to ""http://www.arkelysconstruction.com/"", waiting until ""domcontentloaded""
-"
-https://callidealdoors.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""https://callidealdoors.com/"", waiting until ""domcontentloaded""
-"
-http://www.braunbuiltcorp.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.braunbuiltcorp.com/"", waiting until ""domcontentloaded""
-"
-http://superior-garage-doors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://superior-garage-doors.com/
-Call log:
-  - navigating to ""http://superior-garage-doors.com/"", waiting until ""domcontentloaded""
-"
-http://www.skipsonline.com,BLOCKED,HTTP 403
-https://brexteriors.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://brexteriors.com/
-Call log:
-  - navigating to ""https://brexteriors.com/"", waiting until ""domcontentloaded""
-"
-http://advan-tech-door-services.business.site,FAILED,HTTP 404
-https://aagaragedoors.biz,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aagaragedoors.biz/
-Call log:
-  - navigating to ""https://aagaragedoors.biz/"", waiting until ""domcontentloaded""
-"
-https://www.doorinstallationandrepair.com/contact-us/dealer-locator/rs_arch_sales.html,FAILED,HTTP 404
-http://a1garage.com/michigan,BLOCKED,HTTP 403
-https://apexgaragedoor.com,BLOCKED,HTTP 403
-http://www.alloydgaragedoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alloydgaragedoor.com/
-Call log:
-  - navigating to ""http://www.alloydgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-https://hartgaragedoor.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://hartgaragedoor.com/
-Call log:
-  - navigating to ""https://hartgaragedoor.com/"", waiting until ""domcontentloaded""
-"
-http://walker-home-improvement.business.site,FAILED,HTTP 404
-http://rbgaragedoorshouston.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://rbgaragedoorshouston.com/
-Call log:
-  - navigating to ""http://rbgaragedoorshouston.com/"", waiting until ""domcontentloaded""
-"
-https://brooks-doors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://brooks-doors.com/
-Call log:
-  - navigating to ""https://brooks-doors.com/"", waiting until ""domcontentloaded""
-"
-http://www.walthainesgeneralcontractor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.walthainesgeneralcontractor.com/
-Call log:
-  - navigating to ""http://www.walthainesgeneralcontractor.com/"", waiting until ""domcontentloaded""
-"
-http://www.carolinagaragedoor.com,BLOCKED,HTTP 403
-http://www.mostollerconstruction.com,FAILED,HTTP 404
-https://kalamagaragedoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kalamagaragedoor.com/
-Call log:
-  - navigating to ""https://kalamagaragedoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.thisoldcarpenter.com,FAILED,HTTP 404
-http://www.aysgaragedoors.com,FAILED,HTTP 409
-https://accessgaragedoor.business.site,FAILED,HTTP 404
-http://www.imageoverheaddoor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.imageoverheaddoor.com/
-Call log:
-  - navigating to ""http://www.imageoverheaddoor.com/"", waiting until ""domcontentloaded""
-"
-http://www.resurrectionconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.resurrectionconstruction.com/
-Call log:
-  - navigating to ""http://www.resurrectionconstruction.com/"", waiting until ""domcontentloaded""
-"
-http://www.keithrmillerroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.keithrmillerroofing.com/
-Call log:
-  - navigating to ""http://www.keithrmillerroofing.com/"", waiting until ""domcontentloaded""
-"
-http://www.kehmp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kehmp.com/
-Call log:
-  - navigating to ""http://www.kehmp.com/"", waiting until ""domcontentloaded""
-"
-https://roofingtoledo.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://roofingtoledo.net/
-Call log:
-  - navigating to ""https://roofingtoledo.net/"", waiting until ""domcontentloaded""
-"
-http://www.aodsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aodsllc.com/
-Call log:
-  - navigating to ""http://www.aodsllc.com/"", waiting until ""domcontentloaded""
-"
-https://www.custombuilding.net,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.custombuilding.net/
-Call log:
-  - navigating to ""https://www.custombuilding.net/"", waiting until ""domcontentloaded""
-"
-http://www.elitedoorservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.elitedoorservice.com/
-Call log:
-  - navigating to ""http://www.elitedoorservice.com/"", waiting until ""domcontentloaded""
-"
-http://www.deercreekdoor.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.deercreekdoor.com/"", waiting until ""domcontentloaded""
-"
+https://hardcorefitnessbootcamp.com/anaheim-ca,FAILED,HTTP 410
+http://www.thecamptc.com/location-santaana,FAILED,HTTP 404
+http://theperfectsidekick.com/contact,FAILED,HTTP 404
+http://www.laweightloss.com,FAILED,HTTP 522
