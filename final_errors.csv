@@ -1,608 +1,2386 @@
 url,status,reason
-http://www.alloutfitness.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alloutfitness.org/
+https://www.artistryglamllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.artistryglamllc.com/
 Call log:
-  - navigating to ""http://www.alloutfitness.org/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.artistryglamllc.com/"", waiting until ""domcontentloaded""
 "
-http://www.planetfitness.com,BLOCKED,HTTP 403
-https://www.planetfitness.com/gyms/thornton-co,BLOCKED,HTTP 403
-https://www.planetfitness.com/gyms/inglewood-imperial-hwy-ca,BLOCKED,HTTP 403
-http://ufcgym.com/sunnyvale,FAILED,HTTP 404
-https://thetravelgymsystem.com,FAILED,HTTP 402
-https://gocyclenow.com/locations/coral-gables,BLOCKED,HTTP 401
-http://www.normandygym.com,BLOCKED,HTTP 403
-http://www.dance2gather.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dance2gather.com/
+http://www.healthtonevada.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.healthtonevada.com/
 Call log:
-  - navigating to ""http://www.dance2gather.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.healthtonevada.com/"", waiting until ""domcontentloaded""
 "
-http://www.crossfitkilleen.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.crossfitkilleen.com/
+http://www.aplushomehealthcare.biz,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aplushomehealthcare.biz/
 Call log:
-  - navigating to ""http://www.crossfitkilleen.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.aplushomehealthcare.biz/"", waiting until ""domcontentloaded""
 "
-http://hewrocklin.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hewrocklin.com/
+http://www.bnbhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bnbhc.com/
 Call log:
-  - navigating to ""http://hewrocklin.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.bnbhc.com/"", waiting until ""domcontentloaded""
 "
-http://www.charterfitness.com/location/charter-fitness-of-peoria,FAILED,HTTP 404
-http://www.sports-speed.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sports-speed.com/
+http://www.nevaehhomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nevaehhomehealth.com/
 Call log:
-  - navigating to ""http://www.sports-speed.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.nevaehhomehealth.com/"", waiting until ""domcontentloaded""
 "
-https://wellbridge.com,BLOCKED,HTTP 403
-http://www.tigerslairaz.com,BLOCKED,HTTP 403
-http://tmlturnmeloose.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tmlturnmeloose.com/
+http://proweavertech.com/devinehhai,FAILED,HTTP 500
+http://nursecareofbuckhead.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://nursecareofbuckhead.com/
 Call log:
-  - navigating to ""http://tmlturnmeloose.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://nursecareofbuckhead.com/"", waiting until ""domcontentloaded""
 "
-http://www.ldtfitness.com,FAILED,HTTP 404
-http://www.strikezoneyouthsports.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.strikezoneyouthsports.com/
+http://russellville.gentivahomehealth.com,BLOCKED,HTTP 403
+http://www.osuhahomehealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.osuhahomehealthcare.com/
 Call log:
-  - navigating to ""http://www.strikezoneyouthsports.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.osuhahomehealthcare.com/"", waiting until ""domcontentloaded""
 "
-http://www.nolimitssportsandfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nolimitssportsandfitness.com/
+https://www.murraysblessings.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.murraysblessings.com/
 Call log:
-  - navigating to ""http://www.nolimitssportsandfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.murraysblessings.com/"", waiting until ""domcontentloaded""
 "
-http://www.my-gym.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.angmarholdings.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.angmarholdings.com/
 Call log:
-  - navigating to ""http://www.my-gym.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.angmarholdings.com/"", waiting until ""domcontentloaded""
 "
-http://www.chelseyfitfactory.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.chelseyfitfactory.com/
+http://alphahhinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://alphahhinc.com/
 Call log:
-  - navigating to ""http://www.chelseyfitfactory.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://alphahhinc.com/"", waiting until ""domcontentloaded""
 "
-http://www.xtremefitnesstx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.xtremefitnesstx.com/
+http://www.lmkhomehealthcincy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lmkhomehealthcincy.com/
 Call log:
-  - navigating to ""http://www.xtremefitnesstx.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.lmkhomehealthcincy.com/"", waiting until ""domcontentloaded""
 "
-http://lightenupfitness.com,FAILED,HTTP 404
-https://fitbodybootcamp.com/9514-north-gilbert-az,BLOCKED,HTTP 403
-https://www.getfitwithlena.com,FAILED,HTTP 404
-https://www.straightlinedancefitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.straightlinedancefitness.com/
+https://pristinecares.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pristinecares.com/
 Call log:
-  - navigating to ""https://www.straightlinedancefitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://pristinecares.com/"", waiting until ""domcontentloaded""
 "
-http://oaklandfitco.com,BLOCKED,HTTP 520
-http://bizgym.com,BLOCKED,HTTP 403
-http://www.planetfitness.com/gyms/bakersfield-california-ave-ca-1603,FAILED,HTTP 404
-https://www.outrageathletics.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.outrageathletics.com/
+http://www.heartland-manorcare.com/locations/manorcare-health-services-fountain-valley,FAILED,HTTP 404
+https://ride-health.com,BLOCKED,HTTP 403
+https://www.caringspiritsaz.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.caringspiritsaz.com/
 Call log:
-  - navigating to ""https://www.outrageathletics.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.caringspiritsaz.com/"", waiting until ""domcontentloaded""
 "
-http://www.hyatt.com,BLOCKED,HTTP 403
-https://ufcgym.com/rocklin,FAILED,HTTP 404
-https://kikastretchstudios.com,BLOCKED,HTTP 403
-https://www.planetfitness.com/gyms/tucson-irvington-i-19-az,BLOCKED,HTTP 403
-https://www.oaklandstrengthfactory.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.oaklandstrengthfactory.com/
+http://www.sroptions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sroptions.com/
 Call log:
-  - navigating to ""https://www.oaklandstrengthfactory.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.sroptions.com/"", waiting until ""domcontentloaded""
 "
-https://www.anytimefitness.com/gyms/2993/west-sacramento-ca-95691,FAILED,HTTP 404
-http://knockout-fitness.com,BLOCKED,HTTP 403
-https://www.anytimefitness.com/gyms/477/omaha-ne-68134,FAILED,HTTP 404
-http://www.houseofgyms.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.houseofgyms.com/
+http://mamha.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.houseofgyms.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://mamha.org/"", waiting until ""domcontentloaded""
 "
-https://www.anytimefitness.com/gyms/4280/colorado-,FAILED,HTTP 404
-https://www.strengthandhealthgym.com,FAILED,HTTP 500
-https://www.tumble-tech.com/westlake,FAILED,HTTP 404
-https://www.fitzonebakersfield.com,FAILED,HTTP 404
-http://ymcanwnc.org/locations/robinhood,FAILED,HTTP 404
-http://hardkourninjaunlimited.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hardkourninjaunlimited.com/
+https://www.prioritysupportive.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prioritysupportive.com/
 Call log:
-  - navigating to ""http://hardkourninjaunlimited.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.prioritysupportive.com/"", waiting until ""domcontentloaded""
 "
-http://www.sparetimeclubs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sparetimeclubs.com/
+http://www.mqhhomecare.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mqhhomecare.org/
 Call log:
-  - navigating to ""http://www.sparetimeclubs.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.mqhhomecare.org/"", waiting until ""domcontentloaded""
 "
-http://ultimatefitness.pro,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ultimatefitness.pro/
+http://www.darkknightz.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.darkknightz.com/
 Call log:
-  - navigating to ""http://ultimatefitness.pro/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.darkknightz.com/"", waiting until ""domcontentloaded""
 "
-https://www.superpages.com/bp/miami-fl/instituto-de-la-salud-inc-l2607792906.htm,FAILED,HTTP 404
-https://theflexcore.com,BLOCKED,HTTP 403
-https://www.moodbarretrxstudio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.moodbarretrxstudio.com/
+https://sellersfunding.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://sellersfunding.com/
 Call log:
-  - navigating to ""https://www.moodbarretrxstudio.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://sellersfunding.com/"", waiting until ""domcontentloaded""
 "
-https://www.anytimefitness.com/gyms/3481/orange-ca-92867,FAILED,HTTP 404
-http://hamiltonhealthfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hamiltonhealthfitness.com/
+https://www.fifthseasonfinancial.com,BLOCKED,HTTP 403
+http://www.set4life.org,FAILED,HTTP 404
+http://www.netzelfinancial.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.netzelfinancial.com/
 Call log:
-  - navigating to ""http://hamiltonhealthfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.netzelfinancial.com/"", waiting until ""domcontentloaded""
 "
-https://www.goldsgym.com/citrus-heights,FAILED,HTTP 404
-http://athleticsandaestheticsabq.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://athleticsandaestheticsabq.com/
+http://www.assetsmaker.com,FAILED,HTTP 404
+https://www.pinnacleassetservices.com,FAILED,HTTP 526
+https://foro.io,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://foro.io/
 Call log:
-  - navigating to ""http://athleticsandaestheticsabq.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://foro.io/"", waiting until ""domcontentloaded""
 "
-https://black-stripes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://black-stripes.com/
+https://www.dehollanderfinancial.com,BLOCKED,HTTP 403
+http://www.lfa-ia.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.lfa-ia.com/
 Call log:
-  - navigating to ""https://black-stripes.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.lfa-ia.com/"", waiting until ""domcontentloaded""
 "
-http://www.smithandesch.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.smithandesch.com/
+http://www.freedomfinancialmd.com,FAILED,HTTP 404
+http://www.aaroncirksena.com,BLOCKED,HTTP 429
+https://www.farmloans.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.farmloans.com/
 Call log:
-  - navigating to ""http://www.smithandesch.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.farmloans.com/"", waiting until ""domcontentloaded""
 "
-https://www.hiittofit.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hiittofit.com/
+http://dominionfinancial.org,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://dominionfinancial.org/
 Call log:
-  - navigating to ""https://www.hiittofit.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://dominionfinancial.org/"", waiting until ""domcontentloaded""
 "
-https://ufcgym.com/longbeach,FAILED,HTTP 404
-http://www.thelittlegym.com/thousandoaksca,FAILED,HTTP 404
-https://werowmsp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://werowmsp.com/
+http://nyclaserplace.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://nyclaserplace.com/
 Call log:
-  - navigating to ""https://werowmsp.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://nyclaserplace.com/"", waiting until ""domcontentloaded""
 "
-http://www.maxsgym.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.maxsgym.net/
+https://www.mystylistandi.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mystylistandi.com/
 Call log:
-  - navigating to ""http://www.maxsgym.net/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.mystylistandi.com/"", waiting until ""domcontentloaded""
 "
-http://www.sculpttulsa.com,BLOCKED,HTTP 403
-http://www.bxfitness.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.bxfitness.com/
+https://www.3hcltd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.3hcltd.com/
 Call log:
-  - navigating to ""http://www.bxfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.3hcltd.com/"", waiting until ""domcontentloaded""
 "
-https://www.planetfitness.com/gyms/wichita-new-leaf-ks,BLOCKED,HTTP 403
-https://ufcgym.com/costamesa,FAILED,HTTP 404
-https://www.planetfitness.com/gyms/fullerton-ca,BLOCKED,HTTP 403
-http://www.jerseyfitnessma.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jerseyfitnessma.com/
+http://www.lifelinebybv.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lifelinebybv.com/
 Call log:
-  - navigating to ""http://www.jerseyfitnessma.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.lifelinebybv.com/"", waiting until ""domcontentloaded""
 "
-http://www.sozocomplete.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.salushomecare.com/in-home-health-care-agency-irvine,FAILED,HTTP 404
+http://www.homeinstead.com/126,BLOCKED,HTTP 429
+http://abqcomfortkeepers.com,FAILED,HTTP 404
+https://amazing-hearts-home-care-agency-llc.business.site,FAILED,HTTP 404
+https://angels-of-life-home-carellc.business.site,FAILED,HTTP 404
+http://www.homeinstead.com/coloradosprings,BLOCKED,HTTP 429
+https://www.mycareathome.com,BLOCKED,HTTP 403
+https://caringliveshomehealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://caringliveshomehealthcare.com/
 Call log:
-  - navigating to ""http://www.sozocomplete.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://caringliveshomehealthcare.com/"", waiting until ""domcontentloaded""
 "
-http://www.baileysgym.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.baileysgym.com/
+http://www.pri-medinfusion.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.pri-medinfusion.com/
 Call log:
-  - navigating to ""http://www.baileysgym.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.pri-medinfusion.com/"", waiting until ""domcontentloaded""
 "
-http://p2ptransformationcenter.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://p2ptransformationcenter.com/
+https://www.homeinstead.com/location/484,BLOCKED,HTTP 429
+http://www.rmghealthllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rmghealthllc.com/
 Call log:
-  - navigating to ""http://p2ptransformationcenter.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.rmghealthllc.com/"", waiting until ""domcontentloaded""
 "
-http://www.genesishealthclubs.com,BLOCKED,HTTP 403
-https://www.planetfitness.com/gyms/independence-north-mo,BLOCKED,HTTP 403
-https://www.caweightlossandfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.caweightlossandfitness.com/
+http://millenniumhomecare.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://millenniumhomecare.org/
 Call log:
-  - navigating to ""https://www.caweightlossandfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://millenniumhomecare.org/"", waiting until ""domcontentloaded""
 "
-http://fightclubamerica.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://fightclubamerica.com/
+https://www.lifetoucheshomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lifetoucheshomehealth.com/
 Call log:
-  - navigating to ""http://fightclubamerica.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.lifetoucheshomehealth.com/"", waiting until ""domcontentloaded""
 "
-https://hi-risefitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hi-risefitness.com/
+http://www.aramishealthservices.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""https://hi-risefitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.aramishealthservices.com/"", waiting until ""domcontentloaded""
 "
-http://www.kakaakofitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kakaakofitness.com/
+https://parkviewadvance.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://parkviewadvance.com/
 Call log:
-  - navigating to ""http://www.kakaakofitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://parkviewadvance.com/"", waiting until ""domcontentloaded""
 "
-http://www.rei.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.rei.com/
+http://www.kandslawgroup.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.kandslawgroup.com/
 Call log:
-  - navigating to ""https://www.rei.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.kandslawgroup.com/"", waiting until ""domcontentloaded""
 "
-https://www.retrofitness.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.retrofitness.com/
+http://www.transitionalhomehealth.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""https://www.retrofitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.transitionalhomehealth.com/"", waiting until ""domcontentloaded""
 "
-http://www.imxlafayette.com,BLOCKED,HTTP 403
-http://www.planetfitness.com/gyms/fl/gainesville?gclid=co_m7zkfr7gcfejm7aod5gwala,BLOCKED,HTTP 403
-https://www.planetfitness.com/gyms/flint-township-mi,BLOCKED,HTTP 403
-http://www.blackicefitness.com/index.html,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.blackicefitness.com/index.html
+http://www.bankfinancial.com,BLOCKED,HTTP 403
+http://www.phmc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.phmc.com/
 Call log:
-  - navigating to ""http://www.blackicefitness.com/index.html"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.phmc.com/"", waiting until ""domcontentloaded""
 "
-http://www.planetfitness.com/gyms/independence-mo-215,BLOCKED,HTTP 403
-https://www.ashleywagnerfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ashleywagnerfitness.com/
+http://www.creditbuilderz.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.creditbuilderz.com/
 Call log:
-  - navigating to ""https://www.ashleywagnerfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.creditbuilderz.com/"", waiting until ""domcontentloaded""
 "
-http://www.championskungfu.com,BLOCKED,HTTP 401
-http://www.strongstyle.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.strongstyle.com/
+http://www.fsa-1.com,FAILED,HTTP 409
+http://www.skotynsky.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.skotynsky.com/
 Call log:
-  - navigating to ""http://www.strongstyle.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.skotynsky.com/"", waiting until ""domcontentloaded""
 "
-https://www.holistichealthandlifestyle.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.holistichealthandlifestyle.com/
+http://www.firstfidelityguarantee.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.firstfidelityguarantee.com/
 Call log:
-  - navigating to ""https://www.holistichealthandlifestyle.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.firstfidelityguarantee.com/"", waiting until ""domcontentloaded""
 "
-https://thecamptc.com/locations/downtown-long-beach-california,FAILED,HTTP 404
-http://www.spaladyhealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spaladyhealth.com/
+https://www.safeharboroh.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.safeharboroh.com/
 Call log:
-  - navigating to ""http://www.spaladyhealth.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.safeharboroh.com/"", waiting until ""domcontentloaded""
 "
-https://www.grindhousebk.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.grindhousebk.com/
+http://www.wallstreetfusiongroup.com,FAILED,HTTP 530
+https://www.refijet.com/lp/bbb,FAILED,HTTP 404
+http://www.clearfp.com,BLOCKED,HTTP 403
+http://www.lasercosmetica.com,BLOCKED,HTTP 403
+http://www.mynymakeupacademy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mynymakeupacademy.com/
 Call log:
-  - navigating to ""https://www.grindhousebk.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.mynymakeupacademy.com/"", waiting until ""domcontentloaded""
 "
-http://farrellfit.com,BLOCKED,HTTP 403
-http://www.planetfitness.com/gyms/bakersfield-ca-977,BLOCKED,HTTP 403
-http://www.gb-uh.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gb-uh.com/
+https://www.livedebtfree.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.livedebtfree.net/
 Call log:
-  - navigating to ""http://www.gb-uh.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.livedebtfree.net/"", waiting until ""domcontentloaded""
 "
-https://www.planetfitness.com/gyms/tucson-bridges-az,BLOCKED,HTTP 403
-https://www.mygym.com/walnutcreek,BLOCKED,HTTP 403
-https://www.9round.com/fitness/olathe-ks,FAILED,HTTP 404
-https://www.xtendbarre.com/studio/xtend-barre-lafayette,FAILED,HTTP 404
-https://fitsmartstudio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fitsmartstudio.com/
+https://www.weavetastic.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weavetastic.com/
 Call log:
-  - navigating to ""https://fitsmartstudio.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.weavetastic.com/"", waiting until ""domcontentloaded""
 "
-http://www.jonthecobracrosby.com,FAILED,HTTP 404
-https://www.planetfitness.com/gyms/long-beach-ca,FAILED,HTTP 404
-http://cityclubgymnasticsacademy.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://cityclubgymnasticsacademy.com/
+https://www.carecutz.com,BLOCKED,HTTP 403
+https://therealmagicalunicorn.as.me,FAILED,HTTP 404
+https://cornerstonefundingofnc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://cityclubgymnasticsacademy.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://cornerstonefundingofnc.com/"", waiting until ""domcontentloaded""
 "
-http://www.crossfitlodo.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.crossfitlodo.com/
+http://www.almostfamily.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://www.almostfamily.com/
 Call log:
-  - navigating to ""http://www.crossfitlodo.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.almostfamily.com/"", waiting until ""domcontentloaded""
 "
-https://www.bamf.fit,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.bamf.fit/
+http://touchingheartsseniorcare.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at http://touchingheartsseniorcare.com/
 Call log:
-  - navigating to ""https://www.bamf.fit/"", waiting until ""domcontentloaded""
+  - navigating to ""http://touchingheartsseniorcare.com/"", waiting until ""domcontentloaded""
 "
-https://honoluluholo.com,BLOCKED,HTTP 403
-http://www.mygym.com/hoboken,BLOCKED,HTTP 403
-http://www.swatfitness.com,BLOCKED,HTTP 403
-http://https://www.9round.com/fitness/walnut-creek-california,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://https//www.9round.com/fitness/walnut-creek-california
+http://www.viaelegante.com,FAILED,HTTP 409
+http://www.hih.coop,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hih.coop/
 Call log:
-  - navigating to ""http://https//www.9round.com/fitness/walnut-creek-california"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.hih.coop/"", waiting until ""domcontentloaded""
 "
-https://myfastfit.com,BLOCKED,HTTP 403
-http://www.goldsgymtn.com,BLOCKED,HTTP 401
-http://touchstoneclimbing.com,BLOCKED,HTTP 403
-http://heatatlanta.com/2012/?page_id=1205,FAILED,HTTP 404
-http://www.fitness19.com/centers/victorville,FAILED,HTTP 404
-https://www.worldgym.com/gladstone,FAILED,HTTP 404
-http://www.dynamictreadmill.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dynamictreadmill.com/
+https://www.seniorassistanceusa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.seniorassistanceusa.com/
 Call log:
-  - navigating to ""http://www.dynamictreadmill.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.seniorassistanceusa.com/"", waiting until ""domcontentloaded""
 "
-http://lakeshoreacademy.com/?page=hidden_peak,FAILED,HTTP 404
-http://www.yellowpages.com/westlake-village-ca/mip/precision-inspection-services-inc-481855719,FAILED,HTTP 404
-https://www.9round.com/fitness/citrus-heights-ca-x3940,FAILED,HTTP 404
-http://www.anywherefit.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.anywherefit.com/
+http://vangels.com,BLOCKED,HTTP 403
+https://www.christiancarecommunities.org/locations/louisville/christian-health-center,FAILED,HTTP 404
+http://www.bellacare.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bellacare.us/
 Call log:
-  - navigating to ""http://www.anywherefit.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.bellacare.us/"", waiting until ""domcontentloaded""
 "
-http://overtimesportsacademy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://overtimesportsacademy.com/
+https://www.unconditionallovehhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.unconditionallovehhc.com/
 Call log:
-  - navigating to ""http://overtimesportsacademy.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.unconditionallovehhc.com/"", waiting until ""domcontentloaded""
 "
-http://www.minneapolistraining.com,BLOCKED,HTTP 403
-https://www.yelp.com/biz/colorados-pro-gym-aurora,BLOCKED,HTTP 403
-https://www.onelifefitness.com/gyms/ballpark-village,FAILED,HTTP 404
-https://www.thestudioclarksville.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.thestudioclarksville.com/
+http://ugafhomecare.com,FAILED,HTTP 404
+http://www.elimcare.org,FAILED,HTTP 404
+https://www.homeinsteadseniorcareoh.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.homeinsteadseniorcareoh.com/
 Call log:
-  - navigating to ""https://www.thestudioclarksville.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.homeinsteadseniorcareoh.com/"", waiting until ""domcontentloaded""
 "
-http://www.rocklincrossfit.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rocklincrossfit.com/
+https://ananastouch.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ananastouch.com/
 Call log:
-  - navigating to ""http://www.rocklincrossfit.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://ananastouch.com/"", waiting until ""domcontentloaded""
 "
-https://theloftathleticclub.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://theloftathleticclub.com/
+https://gladysdisabilityagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gladysdisabilityagency.com/
 Call log:
-  - navigating to ""https://theloftathleticclub.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://gladysdisabilityagency.com/"", waiting until ""domcontentloaded""
 "
-http://greenlifefitnessllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://greenlifefitnessllc.com/
+https://www.pediatrichomehealthcare.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.pediatrichomehealthcare.com/
 Call log:
-  - navigating to ""http://greenlifefitnessllc.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.pediatrichomehealthcare.com/"", waiting until ""domcontentloaded""
 "
-http://fitnessevolution.com,BLOCKED,HTTP 401
-http://www.fitnessevolution.com,BLOCKED,HTTP 401
-http://hawaiifitcamp.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://hawaiifitcamp.com/
+https://unityshomecarellc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://unityshomecarellc.com/
 Call log:
-  - navigating to ""http://hawaiifitcamp.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://unityshomecarellc.com/"", waiting until ""domcontentloaded""
 "
-http://www.ymcatriangle.org/alexander-family-ymca,BLOCKED,HTTP 403
-http://santechase.com,FAILED,HTTP 404
-https://elitefitnessgymwear.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://elitefitnessgymwear.com/
+http://www.dkcusa.com,FAILED,HTTP 404
+http://intrepidusa.com,FAILED,HTTP 404
+http://www.xavierhhs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.xavierhhs.com/
 Call log:
-  - navigating to ""https://elitefitnessgymwear.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.xavierhhs.com/"", waiting until ""domcontentloaded""
 "
-http://www.retrofitness.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.retrofitness.com/
+https://www.suburbanhomehealthcare.com,BLOCKED,HTTP 403
+http://www.seniorbridge.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.retrofitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.seniorbridge.com/"", waiting until ""domcontentloaded""
 "
-https://rozefitness.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://rozefitness.com/
+https://www.thorcapitalgroup.com,BLOCKED,HTTP 403
+https://patientfi.com,BLOCKED,HTTP 403
+http://www.rslfunding.com,FAILED,HTTP 500
+https://www.northlandfinancialllc.com,BLOCKED,HTTP 403
+https://www.firsthorizon.com,BLOCKED,HTTP 403
+http://pnfp.com,BLOCKED,HTTP 403
+http://www.apexmortgagellc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.apexmortgagellc.com/
 Call log:
-  - navigating to ""https://rozefitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.apexmortgagellc.com/"", waiting until ""domcontentloaded""
 "
-https://www.planetfitness.com/gyms/st-louis-central-west-end-mo,BLOCKED,HTTP 403
-http://www.prestige-fitness.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.kingdomtrust.com,BLOCKED,HTTP 403
+http://www.garryliday.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.garryliday.com/
 Call log:
-  - navigating to ""http://www.prestige-fitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.garryliday.com/"", waiting until ""domcontentloaded""
 "
-https://www.xgtfitnessca.com,FAILED,HTTP 404
-http://planetfitness.com,BLOCKED,HTTP 403
-http://www.planetfitness.com/gyms/wi,BLOCKED,HTTP 403
-https://legacyfitness.net,BLOCKED,HTTP 403
-http://empireathletic.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://empireathletic.com/
+http://salspasuites.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://salspasuites.com/
 Call log:
-  - navigating to ""https://empireathletic.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://salspasuites.com/"", waiting until ""domcontentloaded""
 "
-https://fitsanjose.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://fitsanjose.com/
+http://www.bibbohairsalonandspa.com,FAILED,HTTP 500
+http://www.jonathanpond.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""https://fitsanjose.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.jonathanpond.com/"", waiting until ""domcontentloaded""
 "
-http://www.fitsomstudios.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at http://www.fitsomstudios.com/
+http://treidandcompany.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.fitsomstudios.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://treidandcompany.com/"", waiting until ""domcontentloaded""
 "
-https://absoluteflexappeal.com,BLOCKED,HTTP 401
-http://support.thetransformapp.com/support/home,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://support.thetransformapp.com/support/home
+http://www.windstonebehavioral.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.windstonebehavioral.com/
 Call log:
-  - navigating to ""http://support.thetransformapp.com/support/home"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.windstonebehavioral.com/"", waiting until ""domcontentloaded""
 "
-http://www.purecorept.com,FAILED,HTTP 503
-https://fxbnewhope.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fxbnewhope.com/
+http://www.heartrockcare.com,FAILED,HTTP 404
+https://www.bethlehemhhc.com,BLOCKED,HTTP 403
+http://www.i-carehhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.i-carehhc.com/
 Call log:
-  - navigating to ""https://fxbnewhope.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.i-carehhc.com/"", waiting until ""domcontentloaded""
 "
-http://www.metropolisfitness.com,BLOCKED,HTTP 403
-http://www.planetfitness.com/gyms/fountain-valley-ca-1133,FAILED,HTTP 404
-http://www.goldsgymtampa.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.goldsgymtampa.com/
+http://meisatransportation.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://meisatransportation.com/
 Call log:
-  - navigating to ""https://www.goldsgymtampa.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://meisatransportation.com/"", waiting until ""domcontentloaded""
 "
-http://www.desertgymcats.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.desertgymcats.com/
+http://www.primecarehawaii.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.primecarehawaii.com/
 Call log:
-  - navigating to ""https://www.desertgymcats.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.primecarehawaii.com/"", waiting until ""domcontentloaded""
 "
-https://advancedlivingbooster.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://advancedlivingbooster.com/
+http://www.betterlivingseniorservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.betterlivingseniorservices.com/
 Call log:
-  - navigating to ""https://advancedlivingbooster.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.betterlivingseniorservices.com/"", waiting until ""domcontentloaded""
 "
-https://www.anytimefitness.com/gyms/2597/long-beach-ca-90804,FAILED,HTTP 404
-http://www.thelittlegym.com/nesanantoniotx,FAILED,HTTP 404
-https://www.firehouse.fitness,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.firehouse.fitness/
+https://carecorehealth.com/garden-park,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://carecorehealth.com/garden-park
 Call log:
-  - navigating to ""https://www.firehouse.fitness/"", waiting until ""domcontentloaded""
+  - navigating to ""https://carecorehealth.com/garden-park"", waiting until ""domcontentloaded""
 "
-https://myfitrepublic.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://myfitrepublic.com/
+https://residentialcareservicescolorado.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://residentialcareservicescolorado.com/
 Call log:
-  - navigating to ""https://myfitrepublic.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://residentialcareservicescolorado.com/"", waiting until ""domcontentloaded""
 "
-http://charlestonfitmma.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://charlestonfitmma.com/
+http://www.excelcare-stl.com,FAILED,HTTP 404
+http://www.providingtlc.com,FAILED,HTTP 404
+http://www.phhs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.phhs.com/
 Call log:
-  - navigating to ""http://charlestonfitmma.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.phhs.com/"", waiting until ""domcontentloaded""
 "
-http://www.crossfitonthemove.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.crossfitonthemove.com/
+http://www.tiffanikiminstitute.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tiffanikiminstitute.com/
 Call log:
-  - navigating to ""http://www.crossfitonthemove.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.tiffanikiminstitute.com/"", waiting until ""domcontentloaded""
 "
-http://cityofeastpeoria.com/for-residents/eastside-centre,FAILED,HTTP 404
-https://bossgymshop.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bossgymshop.net/
+http://www.professionalcarehomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.professionalcarehomehealth.com/
 Call log:
-  - navigating to ""https://bossgymshop.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.professionalcarehomehealth.com/"", waiting until ""domcontentloaded""
 "
-http://www.tonezonemesa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tonezonemesa.com/
+https://www.franciscanhealth.org/vns,FAILED,HTTP 404
+http://americashomehealth.com,BLOCKED,HTTP 403
+https://www.fhnchicago.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.tonezonemesa.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.fhnchicago.com/"", waiting until ""domcontentloaded""
 "
-http://www.minneapolis.hyatt.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.minneapolis.hyatt.com/
+http://www.astrahealthcare.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.astrahealthcare.net/
 Call log:
-  - navigating to ""http://www.minneapolis.hyatt.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.astrahealthcare.net/"", waiting until ""domcontentloaded""
 "
-http://www.strongfitathletic.club,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.strongfitathletic.club/
+https://www.asacredheartseniorcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.asacredheartseniorcare.com/
 Call log:
-  - navigating to ""http://www.strongfitathletic.club/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.asacredheartseniorcare.com/"", waiting until ""domcontentloaded""
 "
-http://www.b2bfitnessforlife.com,FAILED,HTTP 409
-http://www.getrung.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.getrung.com/
+http://kindredathome.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.getrung.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://kindredathome.com/"", waiting until ""domcontentloaded""
 "
-https://www.anytimefitness.com/gyms/2595/new-orlea,FAILED,HTTP 404
-https://www.supremehealthfitness.com,FAILED,HTTP 404
-http://corefitnessandboxing.club,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://corefitnessandboxing.club/
+http://www.jms-global.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.jms-global.com/
 Call log:
-  - navigating to ""http://corefitnessandboxing.club/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.jms-global.com/"", waiting until ""domcontentloaded""
 "
-https://goosefitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://goosefitness.com/
+http://www.freewayfunding.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.freewayfunding.com/
 Call log:
-  - navigating to ""https://goosefitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.freewayfunding.com/"", waiting until ""domcontentloaded""
 "
-http://fittribeacademy.com,BLOCKED,HTTP 403
-http://mixsonclub.com,BLOCKED,HTTP 403
-http://www.fit2ripped.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fit2ripped.com/
+http://www.pam-grp.com,FAILED,HTTP 409
+http://robertstaxandretirement.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://robertstaxandretirement.com/
 Call log:
-  - navigating to ""http://www.fit2ripped.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://robertstaxandretirement.com/"", waiting until ""domcontentloaded""
 "
-http://edgebodyomaha.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://edgebodyomaha.com/
+http://www.landingscu.org,BLOCKED,HTTP 403
+https://fundinghub.io,FAILED,HTTP 503
+http://www.lplfinancial.lpl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lplfinancial.lpl.com/
 Call log:
-  - navigating to ""http://edgebodyomaha.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.lplfinancial.lpl.com/"", waiting until ""domcontentloaded""
 "
-http://www.dr-tanaka.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dr-tanaka.com/
+https://www.prospero-health.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://www.dr-tanaka.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.prospero-health.com/"", waiting until ""domcontentloaded""
 "
-https://www.starfitnesshawaii.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.starfitnesshawaii.com/
+http://stubbstaxjacksonville.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://stubbstaxjacksonville.com/
 Call log:
-  - navigating to ""https://www.starfitnesshawaii.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://stubbstaxjacksonville.com/"", waiting until ""domcontentloaded""
 "
-http://gymserviceinstallation.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://gymserviceinstallation.com/
+https://www.usbank.com/en/personal/personalcustomerservice.cfm,FAILED,HTTP 404
+http://www.garrisonwealth.com,BLOCKED,HTTP 403
+http://www.synchrony.com,BLOCKED,HTTP 403
+http://www.fix401k.com,BLOCKED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fix401k.com/
 Call log:
-  - navigating to ""http://gymserviceinstallation.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.fix401k.com/"", waiting until ""domcontentloaded""
 "
-https://fitindustries.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fitindustries.net/
+https://www.hearnwm.com,FAILED,HTTP 409
+http://www.fsservicecenter.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""https://fitindustries.net/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.fsservicecenter.com/"", waiting until ""domcontentloaded""
 "
-http://www.fitbodybootcamp.com/9592-south-visalia-ca,BLOCKED,HTTP 403
-https://www.f45trainingbuckhead.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.f45trainingbuckhead.com/
+http://www.kktaxandaccounting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kktaxandaccounting.com/
 Call log:
-  - navigating to ""https://www.f45trainingbuckhead.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.kktaxandaccounting.com/"", waiting until ""domcontentloaded""
 "
-http://www.49erfit.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.49erfit.com/
+http://www.retirementincomeusa.com,BLOCKED,HTTP 403
+https://eastweymouthbusinessservices.com,BLOCKED,HTTP 403
+https://www.signaturewealthandtax.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.signaturewealthandtax.com/
 Call log:
-  - navigating to ""https://www.49erfit.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.signaturewealthandtax.com/"", waiting until ""domcontentloaded""
 "
-https://www.unionworkout.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.unionworkout.com/
+https://www.royalfitnessbyryan.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.royalfitnessbyryan.com/
 Call log:
-  - navigating to ""https://www.unionworkout.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.royalfitnessbyryan.com/"", waiting until ""domcontentloaded""
 "
-https://www.fitness1440mesa-az.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fitness1440mesa-az.com/
+http://www.madonejacks.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.madonejacks.com/
 Call log:
-  - navigating to ""https://www.fitness1440mesa-az.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.madonejacks.com/"", waiting until ""domcontentloaded""
 "
-http://www.plantbfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.plantbfitness.com/
+https://www.shinesalonclt.com,FAILED,HTTP 502
+http://ulsalons.com/directory.html,FAILED,HTTP 404
+https://bossmayneminks.acuityscheduling.com/schedule.php,FAILED,HTTP 404
+http://www.homewatchcaregivers.com/tustin,FAILED,HTTP 404
+https://www.bayada.com/offices/oh/cuyahoga-falls/2497-state-road/home-health,FAILED,HTTP 503
+http://www.allevahomecare.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.allevahomecare.org/
 Call log:
-  - navigating to ""http://www.plantbfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.allevahomecare.org/"", waiting until ""domcontentloaded""
 "
-https://4lfrfjy9.pages.infusionsoft.net,FAILED,HTTP 404
-http://magnausa.com/contact,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://magnausa.com/contact
+http://www.intrepidusa.com,FAILED,HTTP 404
+http://www.consulatehealthcare.com,FAILED,HTTP 404
+http://www.cosbycareshealthcareservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cosbycareshealthcareservice.com/
 Call log:
-  - navigating to ""https://magnausa.com/contact"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.cosbycareshealthcareservice.com/"", waiting until ""domcontentloaded""
 "
-https://www.9round.com/fitness/costa-mesa-california-fairview-road,FAILED,HTTP 404
-http://f45training.com/downtowntuscaloosa,FAILED,HTTP 404
-http://www.burnathletic.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+https://carespot-solutions.business.site,FAILED,HTTP 404
+https://www.gentlefavorshomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gentlefavorshomehealth.com/
 Call log:
-  - navigating to ""http://www.burnathletic.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.gentlefavorshomehealth.com/"", waiting until ""domcontentloaded""
 "
-http://verticaladdictionct.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://verticaladdictionct.com/
+https://a-caring-heart-home-health-care.business.site,FAILED,HTTP 404
+http://www.gentlehandsoftime.com,BLOCKED,HTTP 403
+http://godshearthomehealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://godshearthomehealthcare.com/
 Call log:
-  - navigating to ""http://verticaladdictionct.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://godshearthomehealthcare.com/"", waiting until ""domcontentloaded""
 "
-https://trifitnesslansing.com,FAILED,HTTP 404
-http://www.fitnessconnection4u.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fitnessconnection4u.com/
+https://www.umbrellamobileprimary.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.umbrellamobileprimary.com/
 Call log:
-  - navigating to ""http://www.fitnessconnection4u.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.umbrellamobileprimary.com/"", waiting until ""domcontentloaded""
 "
-https://www.omingbirdaerialgym.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.omingbirdaerialgym.com/
+http://www.adaptivehealthservices.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at http://www.adaptivehealthservices.com/
 Call log:
-  - navigating to ""https://www.omingbirdaerialgym.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.adaptivehealthservices.com/"", waiting until ""domcontentloaded""
 "
-http://www.toughlotus.com,FAILED,HTTP 404
-http://www.bodytwenty.com/south-tampa,FAILED,HTTP 409
-http://www.goldsgym.com/gyms/colorado/colorado-springs/845,FAILED,HTTP 404
-http://www.snapfitness.com/gyms/cincinnati-oh-45202/4067,FAILED,HTTP 404
-http://www.gymboree.com,BLOCKED,HTTP 403
-http://boxfitelite.com,FAILED,HTTP 404
-http://www.davidbartongym.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+https://www.arlingtoncourtnursing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.arlingtoncourtnursing.com/
 Call log:
-  - navigating to ""http://www.davidbartongym.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.arlingtoncourtnursing.com/"", waiting until ""domcontentloaded""
 "
-http://https://www.crunch.com/locations/california/simi-valley/simi-valley,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://https//www.crunch.com/locations/california/simi-valley/simi-valley
+http://anointedhandsenterprises.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://anointedhandsenterprises.com/
 Call log:
-  - navigating to ""http://https//www.crunch.com/locations/california/simi-valley/simi-valley"", waiting until ""domcontentloaded""
+  - navigating to ""http://anointedhandsenterprises.com/"", waiting until ""domcontentloaded""
 "
-http://redlineathletics.com/locations/colorado/westminster,FAILED,"Page.goto: net::ERR_TOO_MANY_REDIRECTS at http://redlineathletics.com/locations/colorado/westminster
+https://buckeyehomehealthcare.wordpress.com,BLOCKED,HTTP 403
+http://www.homehealthcareagencies.com,BLOCKED,HTTP 403
+http://www.amninstitute.com/business.html,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://www.amninstitute.com/business.html
 Call log:
-  - navigating to ""http://redlineathletics.com/locations/colorado/westminster"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.amninstitute.com/business.html"", waiting until ""domcontentloaded""
 "
-http://www.purplemoonhotyoga.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.purplemoonhotyoga.com/
+https://www.handsthathelppca.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.handsthathelppca.com/
 Call log:
-  - navigating to ""http://www.purplemoonhotyoga.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.handsthathelppca.com/"", waiting until ""domcontentloaded""
 "
-https://siliconvalleyathletics.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://siliconvalleyathletics.com/
+http://www.tlchealthcarelv.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tlchealthcarelv.com/
 Call log:
-  - navigating to ""https://siliconvalleyathletics.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.tlchealthcarelv.com/"", waiting until ""domcontentloaded""
 "
-https://staxxdstudio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://staxxdstudio.com/
+http://www.getarate.com,FAILED,HTTP 404
+http://www.monroepavilion.com,FAILED,HTTP 522
+http://www.nmilwaukee.comforcare.com,FAILED,HTTP 522
+https://www.humanitasadvisors.com,FAILED,"Page.goto: net::ERR_ABORTED at https://www.humanitasadvisors.com/
 Call log:
-  - navigating to ""https://staxxdstudio.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.humanitasadvisors.com/"", waiting until ""domcontentloaded""
 "
-http://aspirefitnessclubs.com/arizona-locations,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://aspirefitnessclubs.com/arizona-locations
+http://www.firsthorizon.com,BLOCKED,HTTP 403
+http://www.equiant.com,BLOCKED,HTTP 403
+https://ezhealthcare.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to ""http://aspirefitnessclubs.com/arizona-locations"", waiting until ""domcontentloaded""
+  - navigating to ""https://ezhealthcare.org/"", waiting until ""domcontentloaded""
 "
-https://www.torvafitclub.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.torvafitclub.com/
+https://www.activate-renewables.com,FAILED,HTTP 503
+https://swapsy.com,FAILED,Page.wait_for_timeout: Page crashed
+https://rwalen.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rwalen.com/
 Call log:
-  - navigating to ""https://www.torvafitclub.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://rwalen.com/"", waiting until ""domcontentloaded""
 "
-https://www.therisingstrength.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.therisingstrength.com/
+http://www.cfimortgage.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.cfimortgage.com/
 Call log:
-  - navigating to ""https://www.therisingstrength.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.cfimortgage.com/"", waiting until ""domcontentloaded""
 "
-http://www.ocstrengthandfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ocstrengthandfitness.com/
+http://www.hwco.com,BLOCKED,HTTP 403
+https://www.thegreatwesternautomart.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.thegreatwesternautomart.com/
 Call log:
-  - navigating to ""http://www.ocstrengthandfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.thegreatwesternautomart.com/"", waiting until ""domcontentloaded""
 "
-https://www.boomelite.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.boomelite.com/
+http://www.preventforeclosure.us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.preventforeclosure.us/
 Call log:
-  - navigating to ""https://www.boomelite.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.preventforeclosure.us/"", waiting until ""domcontentloaded""
 "
-https://www.norcalcybersales.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.norcalcybersales.com/
+http://www.centerstreetsecurities.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://www.centerstreetsecurities.com/
 Call log:
-  - navigating to ""https://www.norcalcybersales.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.centerstreetsecurities.com/"", waiting until ""domcontentloaded""
 "
-http://www.tampabayturners.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.tampabayturners.com/
+http://www.choulesfinancial.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.choulesfinancial.com/
 Call log:
-  - navigating to ""http://www.tampabayturners.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.choulesfinancial.com/"", waiting until ""domcontentloaded""
 "
-https://www.kateridesign.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kateridesign.com/
+http://www.distinctivesalonandspa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.distinctivesalonandspa.com/
 Call log:
-  - navigating to ""https://www.kateridesign.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.distinctivesalonandspa.com/"", waiting until ""domcontentloaded""
 "
-https://www.planetfitness.com/gyms,BLOCKED,HTTP 403
-http://jameepaufit.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jameepaufit.com/
+https://www.energym.org,BLOCKED,HTTP 403
+http://www.onegerl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.onegerl.com/
 Call log:
-  - navigating to ""http://jameepaufit.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.onegerl.com/"", waiting until ""domcontentloaded""
 "
-http://www.coreatl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.coreatl.com/
+http://clipperhairstyling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://clipperhairstyling.com/
 Call log:
-  - navigating to ""http://www.coreatl.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://clipperhairstyling.com/"", waiting until ""domcontentloaded""
 "
-https://www.fitbodybootcamp.com/ardenfitnessbootcamp/#whatisfbbc,BLOCKED,HTTP 403
-http://emilyjacksonfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://emilyjacksonfitness.com/
+https://glampire-beauty.com,FAILED,HTTP 404
+http://www.fantasticsams.com/pages/findasalon/findsalondetail.aspx?salonid=11644,FAILED,HTTP 404
+http://www.wagnernurse.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.wagnernurse.com/
 Call log:
-  - navigating to ""http://emilyjacksonfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.wagnernurse.com/"", waiting until ""domcontentloaded""
 "
-https://www.elev8tionfitness.com/join,FAILED,HTTP 404
-http://www.honolulufitnesscenter.com,BLOCKED,HTTP 403
-http://www.sanfranciscogymnastics.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.sanfranciscogymnastics.com/
+http://www.lifetransitionshealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lifetransitionshealthcare.com/
 Call log:
-  - navigating to ""http://www.sanfranciscogymnastics.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.lifetransitionshealthcare.com/"", waiting until ""domcontentloaded""
 "
-http://fithylandhills.com/club/broomfield-gyms,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.saclifeforce.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.saclifeforce.com/
 Call log:
-  - navigating to ""http://fithylandhills.com/club/broomfield-gyms"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.saclifeforce.com/"", waiting until ""domcontentloaded""
 "
-https://www.hibbett.com,BLOCKED,HTTP 403
-https://www.ascensionfitnesseb.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ascensionfitnesseb.com/
+https://www.kindredhealthcare.com/our-services/home-care/about/affiliates/gentiva,FAILED,HTTP 404
+http://www.comforcare.com/twin-cities-care,FAILED,HTTP 404
+http://www.enduringheartstl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.enduringheartstl.com/
 Call log:
-  - navigating to ""https://www.ascensionfitnesseb.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.enduringheartstl.com/"", waiting until ""domcontentloaded""
 "
-http://www.everybodyfights.com/locations/kentucky,FAILED,HTTP 404
-http://jcls.jazzercise.com/facility/jazzercise-evansville-west-fitness-center,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.qualityrideandservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.qualityrideandservices.com/
 Call log:
-  - navigating to ""http://jcls.jazzercise.com/facility/jazzercise-evansville-west-fitness-center"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.qualityrideandservices.com/"", waiting until ""domcontentloaded""
 "
-http://bigeasy-crossfit.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.tophomecareagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tophomecareagency.com/
 Call log:
-  - navigating to ""http://bigeasy-crossfit.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.tophomecareagency.com/"", waiting until ""domcontentloaded""
 "
-http://michaeljohnsonperformance.com,FAILED,HTTP 404
-https://www.planetfitness.com/gyms/simi-valley-ca,BLOCKED,HTTP 403
-http://www.fourthpowerfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fourthpowerfitness.com/
+https://michaelsangelshomehealthcare.com,FAILED,HTTP 404
+http://www.5280homecaresvc.com,FAILED,HTTP 500
+http://www.mkjhomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mkjhomecare.com/
 Call log:
-  - navigating to ""http://www.fourthpowerfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.mkjhomecare.com/"", waiting until ""domcontentloaded""
 "
-https://fightclubamerica.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fightclubamerica.com/
+http://www.accessiblehighlandpark.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.accessiblehighlandpark.com/
 Call log:
-  - navigating to ""https://fightclubamerica.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.accessiblehighlandpark.com/"", waiting until ""domcontentloaded""
 "
-http://www.ebfitnessclub.com,FAILED,HTTP 404
-https://www.peakcityathletics.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.peakcityathletics.com/
+https://www.dakotahome.care,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dakotahome.care/
 Call log:
-  - navigating to ""https://www.peakcityathletics.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.dakotahome.care/"", waiting until ""domcontentloaded""
 "
-http://www.clarkhatchfitness.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.clarkhatchfitness.com/
+https://mycohs.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://mycohs.com/
 Call log:
-  - navigating to ""http://www.clarkhatchfitness.com/"", waiting until ""domcontentloaded""
+  - navigating to ""https://mycohs.com/"", waiting until ""domcontentloaded""
 "
-http://www.unitedcheerleading.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.unitedcheerleading.com/
+http://mandmhealthcare.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://mandmhealthcare.com/
 Call log:
-  - navigating to ""http://www.unitedcheerleading.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://mandmhealthcare.com/"", waiting until ""domcontentloaded""
 "
-https://hardcorefitnessbootcamp.com/anaheim-ca,FAILED,HTTP 410
-http://www.thecamptc.com/location-santaana,FAILED,HTTP 404
-http://theperfectsidekick.com/contact,FAILED,HTTP 404
-http://www.laweightloss.com,FAILED,HTTP 522
+http://ourangelhomehealthinc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://ourangelhomehealthinc.com/
+Call log:
+  - navigating to ""https://ourangelhomehealthinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.eldersource.com,BLOCKED,HTTP 403
+http://homeinstead.com/237,BLOCKED,HTTP 429
+https://sunshinecarehomelasvegas.business.site,FAILED,HTTP 404
+http://www.craighomecare.com,FAILED,HTTP 522
+http://www.mysl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mysl.com/
+Call log:
+  - navigating to ""http://www.mysl.com/"", waiting until ""domcontentloaded""
+"
+http://www.secureonecapital.com,FAILED,HTTP 404
+http://www.montinico.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.montinico.com/
+Call log:
+  - navigating to ""http://www.montinico.com/"", waiting until ""domcontentloaded""
+"
+https://www.jlmfinancialservices.net,FAILED,HTTP 404
+http://www.raymondjames.com/mesaaz,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.raymondjames.com/mesaaz
+Call log:
+  - navigating to ""https://www.raymondjames.com/mesaaz"", waiting until ""domcontentloaded""
+"
+http://www.affirmwealthadvisors.com,BLOCKED,HTTP 403
+http://www.perlmortgage.com,FAILED,HTTP 404
+https://callahanplanning.com,FAILED,HTTP 404
+https://balancedgrowthcounseling.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://balancedgrowthcounseling.com/
+Call log:
+  - navigating to ""https://balancedgrowthcounseling.com/"", waiting until ""domcontentloaded""
+"
+http://www.ericscottfinancial.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.ericscottfinancial.com/
+Call log:
+  - navigating to ""http://www.ericscottfinancial.com/"", waiting until ""domcontentloaded""
+"
+http://www.alglaw.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.alglaw.com/
+Call log:
+  - navigating to ""https://www.alglaw.com/"", waiting until ""domcontentloaded""
+"
+https://www.healthanddiscoverylifeline.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.healthanddiscoverylifeline.com/
+Call log:
+  - navigating to ""https://www.healthanddiscoverylifeline.com/"", waiting until ""domcontentloaded""
+"
+http://www.delilahhair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.delilahhair.com/
+Call log:
+  - navigating to ""http://www.delilahhair.com/"", waiting until ""domcontentloaded""
+"
+http://www.archersalon.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.archersalon.com/
+Call log:
+  - navigating to ""https://www.archersalon.com/"", waiting until ""domcontentloaded""
+"
+http://crestretirementplanning.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://crestretirementplanning.com/"", waiting until ""domcontentloaded""
+"
+https://www.laserskincenterboston.com,BLOCKED,HTTP 403
+http://caringfromtheheartagencyllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://caringfromtheheartagencyllc.com/
+Call log:
+  - navigating to ""http://caringfromtheheartagencyllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.optionsservices.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.optionsservices.net/
+Call log:
+  - navigating to ""http://www.optionsservices.net/"", waiting until ""domcontentloaded""
+"
+http://www.allforyouhomecare.com,BLOCKED,HTTP 403
+http://www.homehelpershomecare.com/n-atlanta,FAILED,HTTP 404
+https://www.bestcareus.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.bestcareus.com/
+Call log:
+  - navigating to ""https://www.bestcareus.com/"", waiting until ""domcontentloaded""
+"
+http://www.texasterraceskillednursing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.texasterraceskillednursing.com/
+Call log:
+  - navigating to ""http://www.texasterraceskillednursing.com/"", waiting until ""domcontentloaded""
+"
+http://www.allsaintshomecare.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.allsaintshomecare.com/
+Call log:
+  - navigating to ""http://www.allsaintshomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.westbroadway.org/lighthouse,FAILED,HTTP 404
+https://www.goldencarealliance.com,FAILED,HTTP 404
+http://www.christeeshomecare.com,FAILED,"Page.goto: Download is starting
+Call log:
+  - navigating to ""http://www.christeeshomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.flassistedliving.com/casamarti/index.htm,FAILED,HTTP 404
+http://www.accessnursing.com,BLOCKED,HTTP 403
+http://www.weputfamilyfirst.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.weputfamilyfirst.com/
+Call log:
+  - navigating to ""http://www.weputfamilyfirst.com/"", waiting until ""domcontentloaded""
+"
+http://www.attentivehomehealth.com,FAILED,HTTP 503
+https://villagecaregiving.com/pittsburgh-office,FAILED,HTTP 404
+http://www.touchinghearts.com/sanantonio,FAILED,HTTP 404
+https://northstarhomehealthcare.business.site,FAILED,HTTP 404
+http://www.blessintouniquecare.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.blessintouniquecare.org/
+Call log:
+  - navigating to ""http://www.blessintouniquecare.org/"", waiting until ""domcontentloaded""
+"
+https://www.linkedin.com/company/medical-staffing-options,FAILED,HTTP 404
+http://seniorhelpers.com/jacksonville,FAILED,HTTP 404
+http://www.angelhomehealthcare.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.angelhomehealthcare.org/
+Call log:
+  - navigating to ""http://www.angelhomehealthcare.org/"", waiting until ""domcontentloaded""
+"
+https://www.somervillehome.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.somervillehome.org/
+Call log:
+  - navigating to ""https://www.somervillehome.org/"", waiting until ""domcontentloaded""
+"
+http://metrohomehealth.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://metrohomehealth.org/
+Call log:
+  - navigating to ""http://metrohomehealth.org/"", waiting until ""domcontentloaded""
+"
+http://www.angelsfamilyhomehealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.angelsfamilyhomehealthcare.com/
+Call log:
+  - navigating to ""http://www.angelsfamilyhomehealthcare.com/"", waiting until ""domcontentloaded""
+"
+http://www.promisehomehealth.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.promisehomehealth.net/
+Call log:
+  - navigating to ""http://www.promisehomehealth.net/"", waiting until ""domcontentloaded""
+"
+http://www.lasvegascare4life.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lasvegascare4life.com/
+Call log:
+  - navigating to ""http://www.lasvegascare4life.com/"", waiting until ""domcontentloaded""
+"
+https://lovingheartshomehealth.com,FAILED,HTTP 404
+http://www.rpgconsultants.com,BLOCKED,HTTP 403
+http://www.leadersfc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.leadersfc.com/
+Call log:
+  - navigating to ""http://www.leadersfc.com/"", waiting until ""domcontentloaded""
+"
+https://inheritnow.com,BLOCKED,HTTP 403
+http://www.nationalfinancialrelief.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.nationalfinancialrelief.com/
+Call log:
+  - navigating to ""http://www.nationalfinancialrelief.com/"", waiting until ""domcontentloaded""
+"
+https://www.ascentfunding.com,BLOCKED,HTTP 403
+https://amerifirstloan.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://amerifirstloan.com/
+Call log:
+  - navigating to ""https://amerifirstloan.com/"", waiting until ""domcontentloaded""
+"
+https://abraxasgp.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://abraxasgp.com/
+Call log:
+  - navigating to ""https://abraxasgp.com/"", waiting until ""domcontentloaded""
+"
+http://www.wolfbunt.com,FAILED,HTTP 409
+http://www.linscomb-williams.com,BLOCKED,HTTP 403
+http://www.robpaullcpa.com,BLOCKED,HTTP 403
+http://www.farmersagent.com/plorenz,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.farmersagent.com/plorenz
+Call log:
+  - navigating to ""http://www.farmersagent.com/plorenz"", waiting until ""domcontentloaded""
+"
+https://www.accessonemedcard.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.accessonemedcard.com/
+Call log:
+  - navigating to ""https://www.accessonemedcard.com/"", waiting until ""domcontentloaded""
+"
+https://crossvine.nm.com/contact-us.19.htm,FAILED,HTTP 404
+http://www.mybmfsolutions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mybmfsolutions.com/
+Call log:
+  - navigating to ""http://www.mybmfsolutions.com/"", waiting until ""domcontentloaded""
+"
+https://capexresources.com,BLOCKED,HTTP 403
+https://www.retireincome.net,BLOCKED,HTTP 403
+https://centennialrevenuemanagement.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://centennialrevenuemanagement.com/
+Call log:
+  - navigating to ""https://centennialrevenuemanagement.com/"", waiting until ""domcontentloaded""
+"
+http://www.tradesmartu.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tradesmartu.com/
+Call log:
+  - navigating to ""http://www.tradesmartu.com/"", waiting until ""domcontentloaded""
+"
+https://chbrownco.com,FAILED,HTTP 404
+https://samberslaydstudios.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://samberslaydstudios.com/
+Call log:
+  - navigating to ""https://samberslaydstudios.com/"", waiting until ""domcontentloaded""
+"
+http://www.houstonbalayage.com/index.html,FAILED,HTTP 404
+http://www.skin-spaclinic.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.skin-spaclinic.com/
+Call log:
+  - navigating to ""http://www.skin-spaclinic.com/"", waiting until ""domcontentloaded""
+"
+http://locsnmorenatural.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://locsnmorenatural.com/
+Call log:
+  - navigating to ""http://locsnmorenatural.com/"", waiting until ""domcontentloaded""
+"
+http://www.homeinstead.com/273/default.aspx,BLOCKED,HTTP 429
+http://www.nationcareinc.com,BLOCKED,HTTP 403
+http://pugetsoundhh.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://pugetsoundhh.com/
+Call log:
+  - navigating to ""http://pugetsoundhh.com/"", waiting until ""domcontentloaded""
+"
+http://www.legionhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.legionhc.com/
+Call log:
+  - navigating to ""http://www.legionhc.com/"", waiting until ""domcontentloaded""
+"
+https://serenitynow.healthcare,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://serenitynow.healthcare/
+Call log:
+  - navigating to ""https://serenitynow.healthcare/"", waiting until ""domcontentloaded""
+"
+https://agapehealinghands.com,BLOCKED,HTTP 403
+http://www.bechomecare.com,FAILED,HTTP 404
+http://www.nowhealthsolutions.com/contact.html,FAILED,HTTP 404
+http://www.kellycuddles.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kellycuddles.com/
+Call log:
+  - navigating to ""http://www.kellycuddles.com/"", waiting until ""domcontentloaded""
+"
+http://www.omegahhs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.omegahhs.com/
+Call log:
+  - navigating to ""http://www.omegahhs.com/"", waiting until ""domcontentloaded""
+"
+http://www.love2livecare.com,BLOCKED,HTTP 403
+http://www.capitalhomecare.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.capitalhomecare.net/
+Call log:
+  - navigating to ""http://www.capitalhomecare.net/"", waiting until ""domcontentloaded""
+"
+https://www.cookchildrenshomehealth.com/pages/default.aspx,FAILED,HTTP 404
+http://www.homecareohio.com/athc_home_page.html,FAILED,HTTP 404
+https://www.asmallmiraclellc.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.asmallmiraclellc.com/
+Call log:
+  - navigating to ""https://www.asmallmiraclellc.com/"", waiting until ""domcontentloaded""
+"
+http://thmgt.com,FAILED,HTTP 500
+http://www.nursecore.net,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.nursecore.net/"", waiting until ""domcontentloaded""
+"
+http://www.via-christi.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.via-christi.org/"", waiting until ""domcontentloaded""
+"
+https://bostonbesthomecareservice.com,BLOCKED,HTTP 403
+http://www.caringseniorservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.caringseniorservices.com/
+Call log:
+  - navigating to ""http://www.caringseniorservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.homecaredenverco.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at http://www.homecaredenverco.com/
+Call log:
+  - navigating to ""http://www.homecaredenverco.com/"", waiting until ""domcontentloaded""
+"
+http://www.southwesthomehealth.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.southwesthomehealth.org/
+Call log:
+  - navigating to ""http://www.southwesthomehealth.org/"", waiting until ""domcontentloaded""
+"
+http://www.plusfundinggroup.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.plusfundinggroup.com/
+Call log:
+  - navigating to ""https://www.plusfundinggroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.efeinc.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.efeinc.net/
+Call log:
+  - navigating to ""http://www.efeinc.net/"", waiting until ""domcontentloaded""
+"
+https://thepfsway.com,BLOCKED,HTTP 403
+https://brockstargrp.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://brockstargrp.com/
+Call log:
+  - navigating to ""https://brockstargrp.com/"", waiting until ""domcontentloaded""
+"
+http://www.rahjax.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.rahjax.com/"", waiting until ""domcontentloaded""
+"
+https://www.goettlmortgage.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goettlmortgage.com/
+Call log:
+  - navigating to ""https://www.goettlmortgage.com/"", waiting until ""domcontentloaded""
+"
+http://www.vanhouteninc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.vanhouteninc.com/
+Call log:
+  - navigating to ""http://www.vanhouteninc.com/"", waiting until ""domcontentloaded""
+"
+https://www.cummardfinancial.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cummardfinancial.com/
+Call log:
+  - navigating to ""https://www.cummardfinancial.com/"", waiting until ""domcontentloaded""
+"
+http://www.fleetwaycapital.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.fleetwaycapital.com/
+Call log:
+  - navigating to ""http://www.fleetwaycapital.com/"", waiting until ""domcontentloaded""
+"
+https://www.peacefuldwellingsafh.com,FAILED,HTTP 522
+http://www.relianceretirement.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at http://www.relianceretirement.com/
+Call log:
+  - navigating to ""http://www.relianceretirement.com/"", waiting until ""domcontentloaded""
+"
+http://www.nashionalfinancial.com,FAILED,HTTP 404
+http://ceba4u.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ceba4u.com/
+Call log:
+  - navigating to ""http://ceba4u.com/"", waiting until ""domcontentloaded""
+"
+http://www.fisherinvestments.com,BLOCKED,HTTP 429
+http://www.evosnap.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.evosnap.com/"", waiting until ""domcontentloaded""
+"
+https://lifeshieldfinancial.com,BLOCKED,HTTP 403
+https://www.northstar65.com,BLOCKED,HTTP 403
+https://www.bcmadvisors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bcmadvisors.com/
+Call log:
+  - navigating to ""https://www.bcmadvisors.com/"", waiting until ""domcontentloaded""
+"
+https://www.adviserinvestments.com,BLOCKED,HTTP 403
+http://www.adelmannfinancial.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.adelmannfinancial.net/
+Call log:
+  - navigating to ""http://www.adelmannfinancial.net/"", waiting until ""domcontentloaded""
+"
+http://www.numericacu.com,BLOCKED,HTTP 403
+http://cadencewealthadvisorstn.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://cadencewealthadvisorstn.com/
+Call log:
+  - navigating to ""http://cadencewealthadvisorstn.com/"", waiting until ""domcontentloaded""
+"
+http://www.restorationsalonchicago.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.restorationsalonchicago.com/
+Call log:
+  - navigating to ""http://www.restorationsalonchicago.com/"", waiting until ""domcontentloaded""
+"
+https://dsignsbyhim.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dsignsbyhim.com/
+Call log:
+  - navigating to ""https://dsignsbyhim.com/"", waiting until ""domcontentloaded""
+"
+http://www.etudelounge.com/home,FAILED,HTTP 404
+http://www.rejoycefinancial.com,FAILED,HTTP 522
+http://www.locksandlashessalon.com,FAILED,HTTP 456
+https://www.styleseat.com/m/v/queenbanka,FAILED,HTTP 404
+https://www.homeinstead.com/327,BLOCKED,HTTP 429
+https://www.alternativesservices.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.alternativesservices.net/
+Call log:
+  - navigating to ""https://www.alternativesservices.net/"", waiting until ""domcontentloaded""
+"
+http://www.personalizedcareusa.com,BLOCKED,HTTP 403
+http://www.amedisys.com/care-center?id=3348,FAILED,HTTP 404
+http://www.itsgood2bhome.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.itsgood2bhome.net/
+Call log:
+  - navigating to ""http://www.itsgood2bhome.net/"", waiting until ""domcontentloaded""
+"
+https://www.evonhomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.evonhomecare.com/
+Call log:
+  - navigating to ""https://www.evonhomecare.com/"", waiting until ""domcontentloaded""
+"
+https://www.umbrellahhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.umbrellahhc.com/
+Call log:
+  - navigating to ""https://www.umbrellahhc.com/"", waiting until ""domcontentloaded""
+"
+http://www.kindredathome.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kindredathome.com/
+Call log:
+  - navigating to ""http://www.kindredathome.com/"", waiting until ""domcontentloaded""
+"
+http://www.visionsofstlouis.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.visionsofstlouis.net/
+Call log:
+  - navigating to ""http://www.visionsofstlouis.net/"", waiting until ""domcontentloaded""
+"
+http://www.ascensionhealthventures.org,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.ascensionhealthventures.org/
+Call log:
+  - navigating to ""http://www.ascensionhealthventures.org/"", waiting until ""domcontentloaded""
+"
+http://www.nightingaleshomehealthagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nightingaleshomehealthagency.com/
+Call log:
+  - navigating to ""http://www.nightingaleshomehealthagency.com/"", waiting until ""domcontentloaded""
+"
+http://www.excellentcareprofessionals.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.excellentcareprofessionals.com/
+Call log:
+  - navigating to ""http://www.excellentcareprofessionals.com/"", waiting until ""domcontentloaded""
+"
+http://www.activityindailyliving.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.activityindailyliving.com/
+Call log:
+  - navigating to ""http://www.activityindailyliving.com/"", waiting until ""domcontentloaded""
+"
+http://www.npagencyonline.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.npagencyonline.com/
+Call log:
+  - navigating to ""http://www.npagencyonline.com/"", waiting until ""domcontentloaded""
+"
+http://www.beamforseniors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.beamforseniors.com/
+Call log:
+  - navigating to ""http://www.beamforseniors.com/"", waiting until ""domcontentloaded""
+"
+https://www.goallinehomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goallinehomecare.com/
+Call log:
+  - navigating to ""https://www.goallinehomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.helpinghandssandiego.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.helpinghandssandiego.com/
+Call log:
+  - navigating to ""http://www.helpinghandssandiego.com/"", waiting until ""domcontentloaded""
+"
+http://aplusfamilycare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://aplusfamilycare.com/
+Call log:
+  - navigating to ""http://aplusfamilycare.com/"", waiting until ""domcontentloaded""
+"
+https://www.minorshelpinghandssupportservices.com,FAILED,HTTP 404
+http://www.salvationacademyvle.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.salvationacademyvle.com/"", waiting until ""domcontentloaded""
+"
+http://www.uchhonline.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.uchhonline.com/
+Call log:
+  - navigating to ""http://www.uchhonline.com/"", waiting until ""domcontentloaded""
+"
+https://www.homeinsteadcharlotte.com,BLOCKED,HTTP 429
+http://www.cardiachomecare.com,BLOCKED,HTTP 403
+http://athomeeldercareinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://athomeeldercareinc.com/
+Call log:
+  - navigating to ""http://athomeeldercareinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.agreateryou.org/home.html,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.agreateryou.org/home.html
+Call log:
+  - navigating to ""https://www.agreateryou.org/home.html"", waiting until ""domcontentloaded""
+"
+http://www.avalonhc.com,BLOCKED,HTTP 403
+http://www.ahhsac.com,BLOCKED,HTTP 403
+http://www.stormfieldcapital.com,BLOCKED,HTTP 403
+http://www.johngeantasio.com,BLOCKED,HTTP 403
+http://www.livingsenior.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.livingsenior.com/"", waiting until ""domcontentloaded""
+"
+https://gravitylending.com/bbb,FAILED,HTTP 404
+https://unifiedwealth.net,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://unifiedwealth.net/
+Call log:
+  - navigating to ""https://unifiedwealth.net/"", waiting until ""domcontentloaded""
+"
+https://www.firstcu.net,FAILED,HTTP 520
+https://commercialplus.com,FAILED,HTTP 520
+https://www.americanreversemortgagelending.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.americanreversemortgagelending.com/
+Call log:
+  - navigating to ""https://www.americanreversemortgagelending.com/"", waiting until ""domcontentloaded""
+"
+http://rpcfinancial.com,FAILED,HTTP 400
+http://mxnfinancial.com,FAILED,HTTP 404
+https://www.poweredbyevolv.com,BLOCKED,HTTP 403
+https://www.bigmoneyfinancial.com/big-money,FAILED,HTTP 409
+https://www.fhmemphis.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.fhmemphis.com/
+Call log:
+  - navigating to ""https://www.fhmemphis.com/"", waiting until ""domcontentloaded""
+"
+http://www.helpingseniorsplan.com,FAILED,HTTP 404
+http://www.medalliongroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.medalliongroup.com/
+Call log:
+  - navigating to ""http://www.medalliongroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.rsico.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.rsico.com/
+Call log:
+  - navigating to ""http://www.rsico.com/"", waiting until ""domcontentloaded""
+"
+https://www.efirstbank.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.efirstbank.com/
+Call log:
+  - navigating to ""https://www.efirstbank.com/"", waiting until ""domcontentloaded""
+"
+http://www.lordandrichards.com,BLOCKED,HTTP 403
+http://businesscreditreports.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://businesscreditreports.com/
+Call log:
+  - navigating to ""http://businesscreditreports.com/"", waiting until ""domcontentloaded""
+"
+https://www.instagram.com/sazzedbysisters/?hl=en,BLOCKED,HTTP 429
+http://www.urbanstylehairstudio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.urbanstylehairstudio.com/
+Call log:
+  - navigating to ""http://www.urbanstylehairstudio.com/"", waiting until ""domcontentloaded""
+"
+https://www.lavishhairtique.com/home,FAILED,HTTP 404
+http://www.nustaspa.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.nustaspa.com/
+Call log:
+  - navigating to ""https://www.nustaspa.com/"", waiting until ""domcontentloaded""
+"
+http://flawlessillusion.com,FAILED,HTTP 520
+http://www.dakaraihomecareservices.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.dakaraihomecareservices.com/
+Call log:
+  - navigating to ""https://www.dakaraihomecareservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.americanprestigecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.americanprestigecare.com/
+Call log:
+  - navigating to ""http://www.americanprestigecare.com/"", waiting until ""domcontentloaded""
+"
+http://mariposaseniorcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://mariposaseniorcare.com/
+Call log:
+  - navigating to ""http://mariposaseniorcare.com/"", waiting until ""domcontentloaded""
+"
+http://www.medicsleepcare.com,BLOCKED,HTTP 403
+http://www.adaptivenursing.com,FAILED,HTTP 404
+http://www.goldenlivingcenters.com,FAILED,HTTP 404
+http://www.tranquilityhomehealthcare.org/home.html,FAILED,HTTP 404
+http://www.fairview.org/homecare,FAILED,HTTP 404
+http://www.nursesmiles.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nursesmiles.net/
+Call log:
+  - navigating to ""http://www.nursesmiles.net/"", waiting until ""domcontentloaded""
+"
+https://www.selectcarenyc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.selectcarenyc.com/
+Call log:
+  - navigating to ""https://www.selectcarenyc.com/"", waiting until ""domcontentloaded""
+"
+https://www.bioscrip.com/family-of-bioscrip-companies,FAILED,HTTP 404
+http://www.myphoenixhomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.myphoenixhomecare.com/
+Call log:
+  - navigating to ""http://www.myphoenixhomecare.com/"", waiting until ""domcontentloaded""
+"
+https://www.lllhealthcare.com,BLOCKED,HTTP 403
+http://www.marigoldhomehealthcareagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.marigoldhomehealthcareagency.com/
+Call log:
+  - navigating to ""http://www.marigoldhomehealthcareagency.com/"", waiting until ""domcontentloaded""
+"
+https://www.be-well-boston.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.be-well-boston.com/
+Call log:
+  - navigating to ""https://www.be-well-boston.com/"", waiting until ""domcontentloaded""
+"
+https://www.seniorcare.com/home-care/wi/milwaukee/community-home-health-care/8720,BLOCKED,HTTP 403
+http://www.sutterphysicianservices.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.sutterphysicianservices.org/"", waiting until ""domcontentloaded""
+"
+https://www.csfinad.com,FAILED,HTTP 404
+https://www.jampolkinney.cpa,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jampolkinney.cpa/
+Call log:
+  - navigating to ""https://www.jampolkinney.cpa/"", waiting until ""domcontentloaded""
+"
+http://www.longislandinvestmentadvisors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.longislandinvestmentadvisors.com/
+Call log:
+  - navigating to ""http://www.longislandinvestmentadvisors.com/"", waiting until ""domcontentloaded""
+"
+https://www.investingwithamg.com/about.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.investingwithamg.com/about.html
+Call log:
+  - navigating to ""https://www.investingwithamg.com/about.html"", waiting until ""domcontentloaded""
+"
+https://www.bbfinancialservices.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bbfinancialservices.org/
+Call log:
+  - navigating to ""https://www.bbfinancialservices.org/"", waiting until ""domcontentloaded""
+"
+http://www.fmwcpas.com,BLOCKED,HTTP 403
+http://www.oasismortgageaz.com,BLOCKED,HTTP 403
+https://lendingwithcartier.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lendingwithcartier.com/
+Call log:
+  - navigating to ""https://lendingwithcartier.com/"", waiting until ""domcontentloaded""
+"
+https://retirementstrategyconnection.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://retirementstrategyconnection.com/
+Call log:
+  - navigating to ""https://retirementstrategyconnection.com/"", waiting until ""domcontentloaded""
+"
+http://www.robertcrosstaxaccounting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.robertcrosstaxaccounting.com/
+Call log:
+  - navigating to ""http://www.robertcrosstaxaccounting.com/"", waiting until ""domcontentloaded""
+"
+http://www.raymondjames.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.raymondjames.com/
+Call log:
+  - navigating to ""http://www.raymondjames.com/"", waiting until ""domcontentloaded""
+"
+http://www.csiweb.com,BLOCKED,HTTP 403
+http://www.appliedfinancialstrategies.com,FAILED,HTTP 404
+http://www.pendrickcp.com,FAILED,HTTP 530
+https://www.stewardshipcolorado.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.stewardshipcolorado.com/
+Call log:
+  - navigating to ""https://www.stewardshipcolorado.com/"", waiting until ""domcontentloaded""
+"
+http://www.hairbyro.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hairbyro.com/
+Call log:
+  - navigating to ""http://www.hairbyro.com/"", waiting until ""domcontentloaded""
+"
+http://www.studio31hairlab.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.studio31hairlab.com/
+Call log:
+  - navigating to ""http://www.studio31hairlab.com/"", waiting until ""domcontentloaded""
+"
+http://archapothecary.com,FAILED,"Page.goto: net::ERR_TOO_MANY_REDIRECTS at http://archapothecary.com/
+Call log:
+  - navigating to ""http://archapothecary.com/"", waiting until ""domcontentloaded""
+"
+http://www.theperfectworkout.com,FAILED,HTTP 520
+https://www.salonivydfw.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.salonivydfw.com/
+Call log:
+  - navigating to ""https://www.salonivydfw.com/"", waiting until ""domcontentloaded""
+"
+https://www.goodhairco.co,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodhairco.co/
+Call log:
+  - navigating to ""https://www.goodhairco.co/"", waiting until ""domcontentloaded""
+"
+https://www.candaceterrybeauty.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.candaceterrybeauty.com/
+Call log:
+  - navigating to ""https://www.candaceterrybeauty.com/"", waiting until ""domcontentloaded""
+"
+http://www.gouldsalons.com,BLOCKED,HTTP 403
+https://gypsyrosalieswigs.business.site,FAILED,HTTP 404
+https://www.laveedasplace.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.laveedasplace.com/
+Call log:
+  - navigating to ""https://www.laveedasplace.com/"", waiting until ""domcontentloaded""
+"
+https://www.gmhhc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.gmhhc.com/
+Call log:
+  - navigating to ""https://www.gmhhc.com/"", waiting until ""domcontentloaded""
+"
+http://www.unileverusa.com,BLOCKED,HTTP 403
+https://www.homeinstead.com/144,BLOCKED,HTTP 429
+https://www.rescare.com/homecare-location/rescare-homecare-oklahoma-city,FAILED,HTTP 404
+https://www.saberhealth.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.saberhealth.com/
+Call log:
+  - navigating to ""https://www.saberhealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.bluecrosshomecare.com,FAILED,HTTP 500
+http://friendlyhomehealthcare.com,BLOCKED,HTTP 403
+https://www.parkerscarehomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.parkerscarehomehealth.com/
+Call log:
+  - navigating to ""https://www.parkerscarehomehealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.homeinsteadwichita.com,BLOCKED,HTTP 429
+http://www.genesisprivatehomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.genesisprivatehomecare.com/
+Call log:
+  - navigating to ""http://www.genesisprivatehomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.healingspringsmed-care.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.healingspringsmed-care.com/
+Call log:
+  - navigating to ""http://www.healingspringsmed-care.com/"", waiting until ""domcontentloaded""
+"
+http://shcofbuckhead.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://shcofbuckhead.com/
+Call log:
+  - navigating to ""http://shcofbuckhead.com/"", waiting until ""domcontentloaded""
+"
+https://www.beverleyshomehealthcare.com,FAILED,HTTP 404
+https://www.brettrhodentherapy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.brettrhodentherapy.com/
+Call log:
+  - navigating to ""https://www.brettrhodentherapy.com/"", waiting until ""domcontentloaded""
+"
+http://homeclinicsofamerica.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://homeclinicsofamerica.com/
+Call log:
+  - navigating to ""http://homeclinicsofamerica.com/"", waiting until ""domcontentloaded""
+"
+https://www.privatehomecare.org,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.privatehomecare.org/
+Call log:
+  - navigating to ""https://www.privatehomecare.org/"", waiting until ""domcontentloaded""
+"
+https://angels-at-my-doorllc.business.site,FAILED,HTTP 404
+https://www.guardianangelcaregivers.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.guardianangelcaregivers.com/
+Call log:
+  - navigating to ""https://www.guardianangelcaregivers.com/"", waiting until ""domcontentloaded""
+"
+http://www.themvon.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.themvon.com/
+Call log:
+  - navigating to ""https://www.themvon.com/"", waiting until ""domcontentloaded""
+"
+https://www.jb2funding.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.jb2funding.com/
+Call log:
+  - navigating to ""https://www.jb2funding.com/"", waiting until ""domcontentloaded""
+"
+https://zerafinancial.com,BLOCKED,HTTP 403
+http://www.texaspropertytaxloans.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.texaspropertytaxloans.com/
+Call log:
+  - navigating to ""http://www.texaspropertytaxloans.com/"", waiting until ""domcontentloaded""
+"
+http://www.originhs.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.originhs.com/"", waiting until ""domcontentloaded""
+"
+http://www.newmansfinancialplanning.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.newmansfinancialplanning.com/
+Call log:
+  - navigating to ""http://www.newmansfinancialplanning.com/"", waiting until ""domcontentloaded""
+"
+https://gregorwealth.com,FAILED,HTTP 404
+https://demiuhomecare.net,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://demiuhomecare.net/"", waiting until ""domcontentloaded""
+"
+http://www.mclemoregroup.com,FAILED,HTTP 503
+https://uniquefinancialalliance.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://uniquefinancialalliance.com/
+Call log:
+  - navigating to ""https://uniquefinancialalliance.com/"", waiting until ""domcontentloaded""
+"
+http://www.lionheadfinancial.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.lionheadfinancial.com/
+Call log:
+  - navigating to ""http://www.lionheadfinancial.com/"", waiting until ""domcontentloaded""
+"
+http://bgtaxservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://bgtaxservices.com/
+Call log:
+  - navigating to ""http://bgtaxservices.com/"", waiting until ""domcontentloaded""
+"
+https://oakcapitalmortgage.com,BLOCKED,HTTP 403
+http://www.afcu.org,BLOCKED,HTTP 403
+http://www.irexa.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.irexa.net/
+Call log:
+  - navigating to ""http://www.irexa.net/"", waiting until ""domcontentloaded""
+"
+https://barbaraandbarbara.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://barbaraandbarbara.com/
+Call log:
+  - navigating to ""https://barbaraandbarbara.com/"", waiting until ""domcontentloaded""
+"
+https://www.dfwbrazilianblowouts.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dfwbrazilianblowouts.com/
+Call log:
+  - navigating to ""https://www.dfwbrazilianblowouts.com/"", waiting until ""domcontentloaded""
+"
+http://shesastylist.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://shesastylist.com/
+Call log:
+  - navigating to ""https://shesastylist.com/"", waiting until ""domcontentloaded""
+"
+http://www.victoriosalon.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.victoriosalon.com/
+Call log:
+  - navigating to ""http://www.victoriosalon.com/"", waiting until ""domcontentloaded""
+"
+http://www.call-jane.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.call-jane.com/
+Call log:
+  - navigating to ""http://www.call-jane.com/"", waiting until ""domcontentloaded""
+"
+http://www.homeinstead.com,BLOCKED,HTTP 429
+http://newmansmed.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://newmansmed.com/
+Call log:
+  - navigating to ""http://newmansmed.com/"", waiting until ""domcontentloaded""
+"
+https://www.grahamandgrahamec.com,FAILED,HTTP 404
+https://www.khobcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.khobcare.com/
+Call log:
+  - navigating to ""https://www.khobcare.com/"", waiting until ""domcontentloaded""
+"
+http://www.abriahomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.abriahomehealth.com/
+Call log:
+  - navigating to ""http://www.abriahomehealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.staugustinemanor.org,FAILED,HTTP 409
+http://www.imanihomehealthcare.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.imanihomehealthcare.com/
+Call log:
+  - navigating to ""https://www.imanihomehealthcare.com/"", waiting until ""domcontentloaded""
+"
+http://www.homehelpers.cc/kansascitynorth58251,FAILED,HTTP 404
+https://www.homeinsteadfoundation.org,BLOCKED,HTTP 429
+http://www.ahcare.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ahcare.org/
+Call log:
+  - navigating to ""http://www.ahcare.org/"", waiting until ""domcontentloaded""
+"
+http://www.mnprofessionalhealth.com,BLOCKED,HTTP 403
+https://solacecarestaffingllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://solacecarestaffingllc.com/
+Call log:
+  - navigating to ""https://solacecarestaffingllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.provisionofpromise.com,FAILED,HTTP 404
+http://www.completehealthcareohio.com/default.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.completehealthcareohio.com/default.html
+Call log:
+  - navigating to ""http://www.completehealthcareohio.com/default.html"", waiting until ""domcontentloaded""
+"
+http://www.adelepostonagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.adelepostonagency.com/
+Call log:
+  - navigating to ""http://www.adelepostonagency.com/"", waiting until ""domcontentloaded""
+"
+http://www.centralnc.comforcare.com,FAILED,HTTP 522
+http://www.americanheartshc.com,FAILED,HTTP 500
+https://www.hometeamnursing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hometeamnursing.com/
+Call log:
+  - navigating to ""https://www.hometeamnursing.com/"", waiting until ""domcontentloaded""
+"
+http://www.totalpatientcare.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.totalpatientcare.net/
+Call log:
+  - navigating to ""http://www.totalpatientcare.net/"", waiting until ""domcontentloaded""
+"
+https://www.joinhonor.com/california/san-francisco,FAILED,HTTP 404
+https://accordiushealth.com,BLOCKED,HTTP 403
+http://www.motherscarehha.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.motherscarehha.com/
+Call log:
+  - navigating to ""http://www.motherscarehha.com/"", waiting until ""domcontentloaded""
+"
+https://www.rayhillinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rayhillinc.com/
+Call log:
+  - navigating to ""https://www.rayhillinc.com/"", waiting until ""domcontentloaded""
+"
+https://adaptiveindiana.com,BLOCKED,HTTP 403
+http://americanstimulusfunding.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://americanstimulusfunding.com/
+Call log:
+  - navigating to ""http://americanstimulusfunding.com/"", waiting until ""domcontentloaded""
+"
+http://www.brightstarcare.com/central-seattle,FAILED,HTTP 404
+http://myfundingusa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://myfundingusa.com/
+Call log:
+  - navigating to ""http://myfundingusa.com/"", waiting until ""domcontentloaded""
+"
+http://www.hcips.com/services.htm,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.hcips.com/services.htm"", waiting until ""domcontentloaded""
+"
+http://www.harrisbank.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.harrisbank.com/
+Call log:
+  - navigating to ""http://www.harrisbank.com/"", waiting until ""domcontentloaded""
+"
+http://www.taxsolutionstore.com,BLOCKED,HTTP 403
+https://clementemgtsvcs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://clementemgtsvcs.com/
+Call log:
+  - navigating to ""https://clementemgtsvcs.com/"", waiting until ""domcontentloaded""
+"
+https://deviric.rvcliveclients.ncitsolutions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://deviric.rvcliveclients.ncitsolutions.com/
+Call log:
+  - navigating to ""https://deviric.rvcliveclients.ncitsolutions.com/"", waiting until ""domcontentloaded""
+"
+https://n1brokersllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n1brokersllc.com/
+Call log:
+  - navigating to ""https://n1brokersllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.assuredmanagement.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.assuredmanagement.com/
+Call log:
+  - navigating to ""https://www.assuredmanagement.com/"", waiting until ""domcontentloaded""
+"
+http://businessblocks101.com,FAILED,HTTP 404
+http://www.originca.com,FAILED,HTTP 503
+http://www.amnb.com,BLOCKED,HTTP 403
+http://www.nexcapitalgroup.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.nexcapitalgroup.com/
+Call log:
+  - navigating to ""http://www.nexcapitalgroup.com/"", waiting until ""domcontentloaded""
+"
+https://www.afsdebt.net,BLOCKED,HTTP 403
+http://www.fmsbank.com,BLOCKED,HTTP 403
+http://advocatecapital.com,BLOCKED,HTTP 403
+https://www.instagram.com/naturalhair_world/?hl=en,BLOCKED,HTTP 429
+http://www.kimstensions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kimstensions.com/
+Call log:
+  - navigating to ""http://www.kimstensions.com/"", waiting until ""domcontentloaded""
+"
+http://salonstudioh.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://salonstudioh.com/
+Call log:
+  - navigating to ""http://salonstudioh.com/"", waiting until ""domcontentloaded""
+"
+https://www.instagram.com/groomzmen,BLOCKED,HTTP 429
+http://www.glamdollsmakeup.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.glamdollsmakeup.com/"", waiting until ""domcontentloaded""
+"
+http://globaltaxexpressinc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://globaltaxexpressinc.com/"", waiting until ""domcontentloaded""
+"
+http://completeira.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://completeira.com/"", waiting until ""domcontentloaded""
+"
+http://www.sibleynursing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sibleynursing.com/
+Call log:
+  - navigating to ""http://www.sibleynursing.com/"", waiting until ""domcontentloaded""
+"
+http://goldenhealthcareservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://goldenhealthcareservices.com/
+Call log:
+  - navigating to ""http://goldenhealthcareservices.com/"", waiting until ""domcontentloaded""
+"
+http://tlcsittersmobile.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tlcsittersmobile.com/
+Call log:
+  - navigating to ""http://tlcsittersmobile.com/"", waiting until ""domcontentloaded""
+"
+http://www.catalinainhome.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.catalinainhome.com/
+Call log:
+  - navigating to ""http://www.catalinainhome.com/"", waiting until ""domcontentloaded""
+"
+http://www.dollhouserecoverygroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dollhouserecoverygroup.com/
+Call log:
+  - navigating to ""http://www.dollhouserecoverygroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.harmonyhomehealth.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.harmonyhomehealth.com/
+Call log:
+  - navigating to ""http://www.harmonyhomehealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.ccsshomecare.com,FAILED,HTTP 500
+http://tarheelshomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tarheelshomecare.com/
+Call log:
+  - navigating to ""http://tarheelshomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.petschrespiratory.com/about-us.html,FAILED,HTTP 522
+https://shivaenterprisesllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://shivaenterprisesllc.com/
+Call log:
+  - navigating to ""https://shivaenterprisesllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.homebuddy.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.homebuddy.org/
+Call log:
+  - navigating to ""https://www.homebuddy.org/"", waiting until ""domcontentloaded""
+"
+http://www.daisyhomehealth.com,BLOCKED,HTTP 403
+https://www.phsk.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.phsk.org/
+Call log:
+  - navigating to ""https://www.phsk.org/"", waiting until ""domcontentloaded""
+"
+https://www.thebestloveandcare.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.thebestloveandcare.com/
+Call log:
+  - navigating to ""https://www.thebestloveandcare.com/"", waiting until ""domcontentloaded""
+"
+https://lifesaversinternationalhealthcareservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lifesaversinternationalhealthcareservices.com/
+Call log:
+  - navigating to ""https://lifesaversinternationalhealthcareservices.com/"", waiting until ""domcontentloaded""
+"
+https://www.homeinstead.com/358,BLOCKED,HTTP 429
+http://www.preferredcaregivers.com,BLOCKED,HTTP 403
+https://www.ahnhme.org,BLOCKED,HTTP 403
+https://www.archcare.org/nursing-homes/terence-cardinal-cooke,FAILED,HTTP 404
+http://www.professionalcaretakers.com,BLOCKED,HTTP 403
+http://www.homeinstead.com/158,BLOCKED,HTTP 429
+https://angelicumhomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://angelicumhomehealth.com/
+Call log:
+  - navigating to ""https://angelicumhomehealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.a1care.com,FAILED,HTTP 404
+http://www.allcaremn.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.allcaremn.com/"", waiting until ""domcontentloaded""
+"
+http://www.rosashomehealth.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.rosashomehealth.com/"", waiting until ""domcontentloaded""
+"
+https://www.senioradvocacyspecialists.com,FAILED,HTTP 404
+http://www.belovedhomecareagencyllc.com,FAILED,HTTP 522
+http://www.premiummerchantfunding.com,FAILED,HTTP 520
+http://www.goldclubdirect.com,FAILED,HTTP 520
+https://gbcommercialloans.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://gbcommercialloans.com/
+Call log:
+  - navigating to ""https://gbcommercialloans.com/"", waiting until ""domcontentloaded""
+"
+http://www.riafinancial.com,BLOCKED,HTTP 403
+https://www.investmentfinancepartners.com,FAILED,HTTP 404
+http://ckbudgeting.com/about,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://ckbudgeting.com/about
+Call log:
+  - navigating to ""https://ckbudgeting.com/about"", waiting until ""domcontentloaded""
+"
+https://www.firstfidelitynorthtexas.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.firstfidelitynorthtexas.com/
+Call log:
+  - navigating to ""https://www.firstfidelitynorthtexas.com/"", waiting until ""domcontentloaded""
+"
+http://www.cfgwmt.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.cfgwmt.com/
+Call log:
+  - navigating to ""http://www.cfgwmt.com/"", waiting until ""domcontentloaded""
+"
+https://www.ribbonhome.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ribbonhome.com/
+Call log:
+  - navigating to ""https://www.ribbonhome.com/"", waiting until ""domcontentloaded""
+"
+http://www.wabts.com,FAILED,HTTP 409
+https://austinfinancialplanner.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://austinfinancialplanner.com/"", waiting until ""domcontentloaded""
+"
+https://waypointbank.com,BLOCKED,HTTP 403
+http://www.cucamongacounseling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cucamongacounseling.com/
+Call log:
+  - navigating to ""http://www.cucamongacounseling.com/"", waiting until ""domcontentloaded""
+"
+https://moolahwise.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://moolahwise.com/"", waiting until ""domcontentloaded""
+"
+http://www.xexchicago.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.xexchicago.com/
+Call log:
+  - navigating to ""http://www.xexchicago.com/"", waiting until ""domcontentloaded""
+"
+http://www.boardwalkelectrology.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.boardwalkelectrology.com/
+Call log:
+  - navigating to ""http://www.boardwalkelectrology.com/"", waiting until ""domcontentloaded""
+"
+http://elisabat.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://elisabat.com/
+Call log:
+  - navigating to ""http://elisabat.com/"", waiting until ""domcontentloaded""
+"
+http://www.luxxbyq.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.luxxbyq.com/
+Call log:
+  - navigating to ""http://www.luxxbyq.com/"", waiting until ""domcontentloaded""
+"
+http://uniquehairexperience.com,BLOCKED,HTTP 403
+https://www.vagaro.com/copperandash,FAILED,HTTP 404
+http://www.heartwoodllc.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.heartwoodllc.net/
+Call log:
+  - navigating to ""http://www.heartwoodllc.net/"", waiting until ""domcontentloaded""
+"
+http://clearpathhomehealth.com,BLOCKED,HTTP 403
+https://www.sycamoreheightsrehab.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.sycamoreheightsrehab.com/
+Call log:
+  - navigating to ""https://www.sycamoreheightsrehab.com/"", waiting until ""domcontentloaded""
+"
+http://www.miracleslifecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.miracleslifecare.com/
+Call log:
+  - navigating to ""http://www.miracleslifecare.com/"", waiting until ""domcontentloaded""
+"
+https://humanizehomecare.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://humanizehomecare.com/
+Call log:
+  - navigating to ""https://humanizehomecare.com/"", waiting until ""domcontentloaded""
+"
+http://preferhome.com/alabama/south-alabama,FAILED,HTTP 404
+https://www.aplaceathomefranchise.com,FAILED,HTTP 404
+http://www.imanhealthcareinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.imanhealthcareinc.com/
+Call log:
+  - navigating to ""http://www.imanhealthcareinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.summithhc.com,FAILED,HTTP 500
+http://www.inhomepersonalcare.com,BLOCKED,HTTP 403
+http://www.atouchoftlccincy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.atouchoftlccincy.com/
+Call log:
+  - navigating to ""http://www.atouchoftlccincy.com/"", waiting until ""domcontentloaded""
+"
+https://prioritycarehomehealth.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://prioritycarehomehealth.org/
+Call log:
+  - navigating to ""https://prioritycarehomehealth.org/"", waiting until ""domcontentloaded""
+"
+https://wallacefamilyservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wallacefamilyservices.com/
+Call log:
+  - navigating to ""https://wallacefamilyservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.eldercarebakersfieldca.com,FAILED,HTTP 526
+http://www.pulsehomehealthcare.com/index.html,FAILED,HTTP 404
+http://www.ccsicares.com,BLOCKED,HTTP 403
+https://goldentimesassistedliving.com,FAILED,HTTP 404
+http://emancicare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://emancicare.com/
+Call log:
+  - navigating to ""http://emancicare.com/"", waiting until ""domcontentloaded""
+"
+https://www.promisingtouch.com,FAILED,HTTP 404
+http://www.brightstarcare.com/san-antonio-north-central-/contact-us,FAILED,HTTP 404
+http://www.seniorhelpers.com/greaterfortworth,FAILED,HTTP 404
+http://www.edenspointehomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.edenspointehomecare.com/
+Call log:
+  - navigating to ""http://www.edenspointehomecare.com/"", waiting until ""domcontentloaded""
+"
+http://marywoodcircle.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://marywoodcircle.org/"", waiting until ""domcontentloaded""
+"
+http://www.djhealthcare.com,BLOCKED,HTTP 403
+http://casaiherbolaria.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://casaiherbolaria.com/
+Call log:
+  - navigating to ""http://casaiherbolaria.com/"", waiting until ""domcontentloaded""
+"
+http://hipsolutionsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hipsolutionsllc.com/
+Call log:
+  - navigating to ""http://hipsolutionsllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.ascfinancialgroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ascfinancialgroup.com/
+Call log:
+  - navigating to ""http://www.ascfinancialgroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.1031crowdfunding.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.1031crowdfunding.com/
+Call log:
+  - navigating to ""http://www.1031crowdfunding.com/"", waiting until ""domcontentloaded""
+"
+http://mylksb.bank,BLOCKED,HTTP 403
+http://www.cafiusa.com,FAILED,HTTP 404
+http://www.familywealthadvisors.com,FAILED,HTTP 526
+https://www.linkedin.com/in/eric-janvier-b296b2120?,FAILED,HTTP 999
+http://www.davemccullers.com,BLOCKED,HTTP 403
+https://www.schmidtsbookkeeping.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.schmidtsbookkeeping.com/
+Call log:
+  - navigating to ""https://www.schmidtsbookkeeping.com/"", waiting until ""domcontentloaded""
+"
+http://billsaoudfinancial.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://billsaoudfinancial.com/
+Call log:
+  - navigating to ""http://billsaoudfinancial.com/"", waiting until ""domcontentloaded""
+"
+http://smartmoneyforlife.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://smartmoneyforlife.com/
+Call log:
+  - navigating to ""http://smartmoneyforlife.com/"", waiting until ""domcontentloaded""
+"
+http://www.reisingfinancial.com,BLOCKED,HTTP 403
+https://indicatoradvisory.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://indicatoradvisory.com/
+Call log:
+  - navigating to ""https://indicatoradvisory.com/"", waiting until ""domcontentloaded""
+"
+http://www.tbwas.com,BLOCKED,HTTP 403
+https://www.advanzcu.org,BLOCKED,HTTP 403
+https://www.citizensbank.com,BLOCKED,HTTP 403
+https://www.owens-financialgroup.com,FAILED,HTTP 404
+http://www.nwfinancialchoices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nwfinancialchoices.com/
+Call log:
+  - navigating to ""http://www.nwfinancialchoices.com/"", waiting until ""domcontentloaded""
+"
+http://www.npocu.org,BLOCKED,HTTP 403
+http://www.steve123.com,BLOCKED,HTTP 403
+http://juliusscissor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://juliusscissor.com/
+Call log:
+  - navigating to ""http://juliusscissor.com/"", waiting until ""domcontentloaded""
+"
+https://hairplusstudios.business.site,FAILED,HTTP 404
+http://www.belezamedicalspa.com,FAILED,HTTP 404
+http://www.wisconsin.aaa.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.wisconsin.aaa.com/"", waiting until ""domcontentloaded""
+"
+https://www.valorenurseregistry.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.valorenurseregistry.com/
+Call log:
+  - navigating to ""https://www.valorenurseregistry.com/"", waiting until ""domcontentloaded""
+"
+https://bigheartcaringhands.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bigheartcaringhands.com/
+Call log:
+  - navigating to ""https://bigheartcaringhands.com/"", waiting until ""domcontentloaded""
+"
+https://www.newleafresidential.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.newleafresidential.com/
+Call log:
+  - navigating to ""https://www.newleafresidential.com/"", waiting until ""domcontentloaded""
+"
+http://jessnichomehealthagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jessnichomehealthagency.com/
+Call log:
+  - navigating to ""http://jessnichomehealthagency.com/"", waiting until ""domcontentloaded""
+"
+http://homeinstead.com/228,BLOCKED,HTTP 429
+https://divineangelshomehealthandmedicalstaffing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://divineangelshomehealthandmedicalstaffing.com/
+Call log:
+  - navigating to ""https://divineangelshomehealthandmedicalstaffing.com/"", waiting until ""domcontentloaded""
+"
+https://www.midlandmhomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.midlandmhomehealth.com/
+Call log:
+  - navigating to ""https://www.midlandmhomehealth.com/"", waiting until ""domcontentloaded""
+"
+https://www.asmallmiraclellc.com/our-locations/goldsboro,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.asmallmiraclellc.com/our-locations/goldsboro
+Call log:
+  - navigating to ""https://www.asmallmiraclellc.com/our-locations/goldsboro"", waiting until ""domcontentloaded""
+"
+http://www.villageatmarymount.org,BLOCKED,HTTP 403
+http://www.orchardgardensrehab.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.orchardgardensrehab.com/
+Call log:
+  - navigating to ""http://www.orchardgardensrehab.com/"", waiting until ""domcontentloaded""
+"
+http://www.homeinstead.com/530,BLOCKED,HTTP 429
+https://www.bouldinprestigious.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bouldinprestigious.com/
+Call log:
+  - navigating to ""https://www.bouldinprestigious.com/"", waiting until ""domcontentloaded""
+"
+http://www.nancyhammond-lpc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nancyhammond-lpc.com/
+Call log:
+  - navigating to ""http://www.nancyhammond-lpc.com/"", waiting until ""domcontentloaded""
+"
+http://www.actshomehealth.com,FAILED,HTTP 409
+https://aurelia-care.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aurelia-care.com/
+Call log:
+  - navigating to ""https://aurelia-care.com/"", waiting until ""domcontentloaded""
+"
+http://www.mdhomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mdhomehealth.com/
+Call log:
+  - navigating to ""http://www.mdhomehealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.carecollaborative.com,FAILED,HTTP 404
+http://www.msa-corp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.msa-corp.com/
+Call log:
+  - navigating to ""http://www.msa-corp.com/"", waiting until ""domcontentloaded""
+"
+http://www.seniorsfindinghome.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.seniorsfindinghome.com/
+Call log:
+  - navigating to ""http://www.seniorsfindinghome.com/"", waiting until ""domcontentloaded""
+"
+http://www.dhulmarhhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dhulmarhhc.com/
+Call log:
+  - navigating to ""http://www.dhulmarhhc.com/"", waiting until ""domcontentloaded""
+"
+http://www.lifechangesofohio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lifechangesofohio.com/
+Call log:
+  - navigating to ""http://www.lifechangesofohio.com/"", waiting until ""domcontentloaded""
+"
+http://www.ascseniorcare.com,FAILED,HTTP 404
+http://www.solomonmedicalhomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.solomonmedicalhomecare.com/
+Call log:
+  - navigating to ""http://www.solomonmedicalhomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.msnhealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.msnhealth.com/
+Call log:
+  - navigating to ""http://www.msnhealth.com/"", waiting until ""domcontentloaded""
+"
+https://www.pthomecare.com/texas,FAILED,HTTP 404
+http://www.psawealthmanagement.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.psawealthmanagement.com/
+Call log:
+  - navigating to ""http://www.psawealthmanagement.com/"", waiting until ""domcontentloaded""
+"
+http://www.uprocessing.com,BLOCKED,HTTP 403
+http://www.hrblock.com,BLOCKED,HTTP 403
+http://www.suncitiesfinancialgroup.com,FAILED,HTTP 404
+http://www.djmaccounting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.djmaccounting.com/
+Call log:
+  - navigating to ""http://www.djmaccounting.com/"", waiting until ""domcontentloaded""
+"
+https://www.tandemtrustfinancial.com,FAILED,HTTP 409
+http://www.northstarbrokerage.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.northstarbrokerage.com/
+Call log:
+  - navigating to ""http://www.northstarbrokerage.com/"", waiting until ""domcontentloaded""
+"
+http://www.bilskyfinancialgroup.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.bilskyfinancialgroup.com/
+Call log:
+  - navigating to ""http://www.bilskyfinancialgroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.absoluteresolutions.com,BLOCKED,HTTP 403
+http://www.strategicwealthadvisorsgroup.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.strategicwealthadvisorsgroup.com/
+Call log:
+  - navigating to ""http://www.strategicwealthadvisorsgroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.3bfinancialservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.3bfinancialservices.com/
+Call log:
+  - navigating to ""http://www.3bfinancialservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.camarda.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.camarda.com/
+Call log:
+  - navigating to ""http://www.camarda.com/"", waiting until ""domcontentloaded""
+"
+http://www.vistapoints.org,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.vistapoints.org/
+Call log:
+  - navigating to ""http://www.vistapoints.org/"", waiting until ""domcontentloaded""
+"
+http://www.harbourpointewhealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.harbourpointewhealth.com/
+Call log:
+  - navigating to ""http://www.harbourpointewhealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.rktongue.com,BLOCKED,HTTP 403
+http://kimerywealth.com,FAILED,HTTP 500
+https://www.statefarm.com/agent/us/tx/el-paso/manny-r-casillas-lg0wl1ys000,BLOCKED,HTTP 403
+http://www.apofinancial.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.apofinancial.com/
+Call log:
+  - navigating to ""http://www.apofinancial.com/"", waiting until ""domcontentloaded""
+"
+http://www.webbpickard.com,BLOCKED,HTTP 403
+http://www.acpa4uinc.com,FAILED,HTTP 404
+https://apshair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://apshair.com/
+Call log:
+  - navigating to ""https://apshair.com/"", waiting until ""domcontentloaded""
+"
+http://bishops.co/locations/wicker-park,FAILED,HTTP 404
+http://www.lhfs.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.lhfs.com/"", waiting until ""domcontentloaded""
+"
+http://citrusatx.com,BLOCKED,HTTP 403
+http://www.prestigehealthchoice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.prestigehealthchoice.com/
+Call log:
+  - navigating to ""http://www.prestigehealthchoice.com/"", waiting until ""domcontentloaded""
+"
+https://www.caringheartsofrochester.com,FAILED,HTTP 526
+https://www.optimumhhsolutions.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.optimumhhsolutions.com/
+Call log:
+  - navigating to ""https://www.optimumhhsolutions.com/"", waiting until ""domcontentloaded""
+"
+https://www.highplainsseniorcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.highplainsseniorcare.com/
+Call log:
+  - navigating to ""https://www.highplainsseniorcare.com/"", waiting until ""domcontentloaded""
+"
+https://www.humanservicesarizona.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.humanservicesarizona.com/
+Call log:
+  - navigating to ""https://www.humanservicesarizona.com/"", waiting until ""domcontentloaded""
+"
+http://www.olushome.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.olushome.com/
+Call log:
+  - navigating to ""http://www.olushome.com/"", waiting until ""domcontentloaded""
+"
+https://amazn-delivery-services.business.site,FAILED,HTTP 404
+https://revivehomehealthcare.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://revivehomehealthcare.org/
+Call log:
+  - navigating to ""https://revivehomehealthcare.org/"", waiting until ""domcontentloaded""
+"
+http://www.ac-healthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ac-healthcare.com/
+Call log:
+  - navigating to ""http://www.ac-healthcare.com/"", waiting until ""domcontentloaded""
+"
+https://www.prudential.com/personal,BLOCKED,HTTP 403
+http://www.kokuanurses.com,BLOCKED,HTTP 403
+http://www.allcarepa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.allcarepa.com/
+Call log:
+  - navigating to ""http://www.allcarepa.com/"", waiting until ""domcontentloaded""
+"
+http://www.healthcarenewyork.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.healthcarenewyork.net/
+Call log:
+  - navigating to ""http://www.healthcarenewyork.net/"", waiting until ""domcontentloaded""
+"
+http://www.truehandshomehealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.truehandshomehealthcare.com/
+Call log:
+  - navigating to ""http://www.truehandshomehealthcare.com/"", waiting until ""domcontentloaded""
+"
+http://helpathome.com/locationsbystate.cfm?state=il,FAILED,HTTP 404
+http://www.tunnellrehab.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.tunnellrehab.com/
+Call log:
+  - navigating to ""https://www.tunnellrehab.com/"", waiting until ""domcontentloaded""
+"
+https://afamiliarfacehomecarellc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://afamiliarfacehomecarellc.com/
+Call log:
+  - navigating to ""https://afamiliarfacehomecarellc.com/"", waiting until ""domcontentloaded""
+"
+http://www.oacolumbus.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.oacolumbus.com/
+Call log:
+  - navigating to ""http://www.oacolumbus.com/"", waiting until ""domcontentloaded""
+"
+http://www.griswoldhomecare.com/garland,BLOCKED,HTTP 403
+https://www.circulohealth.com,FAILED,HTTP 402
+https://premiersh.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://premiersh.com/
+Call log:
+  - navigating to ""https://premiersh.com/"", waiting until ""domcontentloaded""
+"
+https://www.blessedhandshomecarenc.com,FAILED,HTTP 404
+https://www.stepbystepss.org,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.stepbystepss.org/
+Call log:
+  - navigating to ""https://www.stepbystepss.org/"", waiting until ""domcontentloaded""
+"
+https://helpingheartspca.com,FAILED,HTTP 500
+http://www.cernahealth.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.cernahealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.theherbhouseonline.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.theherbhouseonline.com/
+Call log:
+  - navigating to ""http://www.theherbhouseonline.com/"", waiting until ""domcontentloaded""
+"
+http://www.newcareinc.com,FAILED,HTTP 500
+http://www.livitylifecare.com,FAILED,HTTP 404
+http://heirsadjustmentservice.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://heirsadjustmentservice.com/
+Call log:
+  - navigating to ""http://heirsadjustmentservice.com/"", waiting until ""domcontentloaded""
+"
+https://www.dandesolutionsgroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dandesolutionsgroup.com/
+Call log:
+  - navigating to ""https://www.dandesolutionsgroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.icadvisors.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.icadvisors.com/
+Call log:
+  - navigating to ""http://www.icadvisors.com/"", waiting until ""domcontentloaded""
+"
+http://www.tbfgroup.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.tbfgroup.com/
+Call log:
+  - navigating to ""http://www.tbfgroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.woodfininc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.woodfininc.com/
+Call log:
+  - navigating to ""http://www.woodfininc.com/"", waiting until ""domcontentloaded""
+"
+http://www.billhaddoxinsurance.com,FAILED,HTTP 404
+http://www.ovationlending.com,BLOCKED,HTTP 403
+http://www.wealthbridgesolutions.com,BLOCKED,HTTP 403
+http://depauwtax.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://depauwtax.com/
+Call log:
+  - navigating to ""http://depauwtax.com/"", waiting until ""domcontentloaded""
+"
+http://www.orlandocpa.net,BLOCKED,HTTP 403
+https://www.ronblue.com/greenville,FAILED,HTTP 404
+http://www.csgbenefits.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.csgbenefits.com/"", waiting until ""domcontentloaded""
+"
+http://www.acceleratedwealth.com,FAILED,HTTP 409
+http://www.mahanassociates.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mahanassociates.com/
+Call log:
+  - navigating to ""http://www.mahanassociates.com/"", waiting until ""domcontentloaded""
+"
+http://www.mcgillfinancialensemble.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mcgillfinancialensemble.com/
+Call log:
+  - navigating to ""http://www.mcgillfinancialensemble.com/"", waiting until ""domcontentloaded""
+"
+http://www.theprivateslice.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at http://www.theprivateslice.com/
+Call log:
+  - navigating to ""http://www.theprivateslice.com/"", waiting until ""domcontentloaded""
+"
+http://hairdesignsbytim.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hairdesignsbytim.com/
+Call log:
+  - navigating to ""http://hairdesignsbytim.com/"", waiting until ""domcontentloaded""
+"
+http://www.aveda.com,BLOCKED,HTTP 403
+http://www.markastimpsonandassociatesinc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.markastimpsonandassociatesinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.covidtestcourier.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.covidtestcourier.com/
+Call log:
+  - navigating to ""http://www.covidtestcourier.com/"", waiting until ""domcontentloaded""
+"
+http://www.heavenstouchcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.heavenstouchcare.com/
+Call log:
+  - navigating to ""http://www.heavenstouchcare.com/"", waiting until ""domcontentloaded""
+"
+https://accentcare.com/stores/amarillo-tx-personal-care-services,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://accentcare.com/stores/amarillo-tx-personal-care-services
+Call log:
+  - navigating to ""https://accentcare.com/stores/amarillo-tx-personal-care-services"", waiting until ""domcontentloaded""
+"
+http://www.mercylifeal.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.mercylifeal.com/
+Call log:
+  - navigating to ""https://www.mercylifeal.com/"", waiting until ""domcontentloaded""
+"
+https://mzblueinhomecomfortservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mzblueinhomecomfortservices.com/
+Call log:
+  - navigating to ""https://mzblueinhomecomfortservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.perfectcareathome.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.perfectcareathome.com/
+Call log:
+  - navigating to ""http://www.perfectcareathome.com/"", waiting until ""domcontentloaded""
+"
+http://www.abundanthh.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.abundanthh.com/
+Call log:
+  - navigating to ""http://www.abundanthh.com/"", waiting until ""domcontentloaded""
+"
+https://excellenthomehealthcare.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://excellenthomehealthcare.com/
+Call log:
+  - navigating to ""https://excellenthomehealthcare.com/"", waiting until ""domcontentloaded""
+"
+https://www.ourangelshomehealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ourangelshomehealthcare.com/
+Call log:
+  - navigating to ""https://www.ourangelshomehealthcare.com/"", waiting until ""domcontentloaded""
+"
+http://www.easylivingfl.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.easylivingfl.com/
+Call log:
+  - navigating to ""http://www.easylivingfl.com/"", waiting until ""domcontentloaded""
+"
+http://www.hcr-manorcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hcr-manorcare.com/
+Call log:
+  - navigating to ""http://www.hcr-manorcare.com/"", waiting until ""domcontentloaded""
+"
+http://www.caremerge.com/site,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.caremerge.com/site
+Call log:
+  - navigating to ""http://www.caremerge.com/site"", waiting until ""domcontentloaded""
+"
+http://www.lovebhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lovebhc.com/
+Call log:
+  - navigating to ""http://www.lovebhc.com/"", waiting until ""domcontentloaded""
+"
+https://www.patientadvocatesofny.com,FAILED,HTTP 404
+http://www.nursesunlimited.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.nursesunlimited.com/
+Call log:
+  - navigating to ""http://www.nursesunlimited.com/"", waiting until ""domcontentloaded""
+"
+http://www.athomeprc.com,FAILED,HTTP 404
+http://www.assistinghands.com/50/arizona/phoenix,FAILED,HTTP 404
+http://www.covenanthome-healthagency.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.covenanthome-healthagency.com/
+Call log:
+  - navigating to ""http://www.covenanthome-healthagency.com/"", waiting until ""domcontentloaded""
+"
+http://www.diligenthealthcare.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.diligenthealthcare.com/
+Call log:
+  - navigating to ""http://www.diligenthealthcare.com/"", waiting until ""domcontentloaded""
+"
+http://www.prestigeinhomecom.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.prestigeinhomecom.com/
+Call log:
+  - navigating to ""http://www.prestigeinhomecom.com/"", waiting until ""domcontentloaded""
+"
+https://supremehealthsystems.com,BLOCKED,HTTP 403
+https://pivotingaspects.com/contact-us-2,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pivotingaspects.com/contact-us-2
+Call log:
+  - navigating to ""https://pivotingaspects.com/contact-us-2"", waiting until ""domcontentloaded""
+"
+http://www.ahelpinghandnw.com,FAILED,HTTP 404
+http://www.globalfinancegroup.com,FAILED,HTTP 500
+http://www.hdfsi.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.hdfsi.com/
+Call log:
+  - navigating to ""https://www.hdfsi.com/"", waiting until ""domcontentloaded""
+"
+http://www.liveyourideallife.com,BLOCKED,HTTP 403
+https://www.finsyn.com,BLOCKED,HTTP 403
+https://www.recoveredmoneyfinder.org/novaclaimservicers,FAILED,HTTP 404
+http://www.upi.umaryland.edu,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.upi.umaryland.edu/"", waiting until ""domcontentloaded""
+"
+http://www.integrityfinsvcs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.integrityfinsvcs.com/
+Call log:
+  - navigating to ""http://www.integrityfinsvcs.com/"", waiting until ""domcontentloaded""
+"
+http://www.permanentvalue.com,BLOCKED,HTTP 403
+http://www.elitecarehomehealth.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.elitecarehomehealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.ratchukwm.com,BLOCKED,HTTP 403
+http://www.a4wealth.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.a4wealth.com/
+Call log:
+  - navigating to ""http://www.a4wealth.com/"", waiting until ""domcontentloaded""
+"
+http://www.plummerfinancial.com,FAILED,HTTP 404
+https://www.katzabosch.com,BLOCKED,HTTP 403
+https://www.consumerfinancialservicesonline.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.consumerfinancialservicesonline.com/
+Call log:
+  - navigating to ""https://www.consumerfinancialservicesonline.com/"", waiting until ""domcontentloaded""
+"
+http://www.taxease.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.taxease.com/"", waiting until ""domcontentloaded""
+"
+https://sqmerchantservices.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://sqmerchantservices.com/
+Call log:
+  - navigating to ""https://sqmerchantservices.com/"", waiting until ""domcontentloaded""
+"
+https://katarinaamadora.com,BLOCKED,HTTP 403
+https://shannamollstudios.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://shannamollstudios.com/
+Call log:
+  - navigating to ""https://shannamollstudios.com/"", waiting until ""domcontentloaded""
+"
+http://www.getyourdoup.com,FAILED,HTTP 404
+http://www.xquisitteshops.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.xquisitteshops.com/
+Call log:
+  - navigating to ""http://www.xquisitteshops.com/"", waiting until ""domcontentloaded""
+"
+http://www.taxserviceselpaso.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.taxserviceselpaso.com/
+Call log:
+  - navigating to ""http://www.taxserviceselpaso.com/"", waiting until ""domcontentloaded""
+"
+http://www.studiostylists.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.studiostylists.com/
+Call log:
+  - navigating to ""https://www.studiostylists.com/"", waiting until ""domcontentloaded""
+"
+http://www.toniguy.com/hair-salons/fort-worth-tx/west-7th,FAILED,HTTP 404
+http://www.alegrecare.com,BLOCKED,HTTP 403
+https://www.homeinstead.com/626,BLOCKED,HTTP 429
+https://www.ansleyhealth.com,FAILED,HTTP 404
+https://www.arialhomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.arialhomehealth.com/
+Call log:
+  - navigating to ""https://www.arialhomehealth.com/"", waiting until ""domcontentloaded""
+"
+https://www.homeinstead.com/272/home-instead-senior-care,BLOCKED,HTTP 429
+http://www.sttheresemn.org/athomesolutions,FAILED,HTTP 404
+http://www.allcarephh.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.allcarephh.com/
+Call log:
+  - navigating to ""https://www.allcarephh.com/"", waiting until ""domcontentloaded""
+"
+http://www.angelhearthhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.angelhearthhc.com/
+Call log:
+  - navigating to ""http://www.angelhearthhc.com/"", waiting until ""domcontentloaded""
+"
+https://thelegacycareathome.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://thelegacycareathome.com/
+Call log:
+  - navigating to ""https://thelegacycareathome.com/"", waiting until ""domcontentloaded""
+"
+http://www.cardinalhomehealthcaresolutions.com,FAILED,HTTP 404
+https://www.aparhomehealth.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aparhomehealth.com/
+Call log:
+  - navigating to ""https://www.aparhomehealth.com/"", waiting until ""domcontentloaded""
+"
+https://homecareforadults.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://homecareforadults.com/
+Call log:
+  - navigating to ""https://homecareforadults.com/"", waiting until ""domcontentloaded""
+"
+http://www.mymorecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mymorecare.com/
+Call log:
+  - navigating to ""http://www.mymorecare.com/"", waiting until ""domcontentloaded""
+"
+https://www.legacyhhc.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.legacyhhc.com/
+Call log:
+  - navigating to ""https://www.legacyhhc.com/"", waiting until ""domcontentloaded""
+"
+http://www.optimahomehealthcare.com,FAILED,HTTP 522
+http://www.nottoworryinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nottoworryinc.com/
+Call log:
+  - navigating to ""http://www.nottoworryinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.seniorcarecentersltc.com,FAILED,HTTP 404
+http://www.integrityseniorcare.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.integrityseniorcare.net/
+Call log:
+  - navigating to ""http://www.integrityseniorcare.net/"", waiting until ""domcontentloaded""
+"
+http://www.assistinghands.com/bucks,FAILED,HTTP 404
+http://www.roscommonhealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.roscommonhealthcare.com/
+Call log:
+  - navigating to ""http://www.roscommonhealthcare.com/"", waiting until ""domcontentloaded""
+"
+http://suburbanhomehealthcare.com,FAILED,HTTP 520
+http://www.herb-t.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.herb-t.com/
+Call log:
+  - navigating to ""http://www.herb-t.com/"", waiting until ""domcontentloaded""
+"
+http://www.ideclarehomecare.com,FAILED,HTTP 404
+http://www.americanmerchant.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.americanmerchant.org/
+Call log:
+  - navigating to ""http://www.americanmerchant.org/"", waiting until ""domcontentloaded""
+"
+https://specialtycapital.com,BLOCKED,HTTP 429
+http://www.specializednursing.net,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.specializednursing.net/"", waiting until ""domcontentloaded""
+"
+http://www.keyhealth.net,BLOCKED,HTTP 401
+http://www.pinnacle-plan.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.pinnacle-plan.com/
+Call log:
+  - navigating to ""http://www.pinnacle-plan.com/"", waiting until ""domcontentloaded""
+"
+http://www.cypressrealtymortgage.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cypressrealtymortgage.com/
+Call log:
+  - navigating to ""http://www.cypressrealtymortgage.com/"", waiting until ""domcontentloaded""
+"
+http://maxrealmax.com,FAILED,HTTP 404
+https://www.raymondjames.com/cornerstone,BLOCKED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.raymondjames.com/cornerstone
+Call log:
+  - navigating to ""https://www.raymondjames.com/cornerstone"", waiting until ""domcontentloaded""
+"
+https://www.ilgfinancial.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ilgfinancial.com/
+Call log:
+  - navigating to ""https://www.ilgfinancial.com/"", waiting until ""domcontentloaded""
+"
+http://www.joepalumbocpa.com,BLOCKED,HTTP 429
+http://www.steffensinsurance.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.steffensinsurance.com/
+Call log:
+  - navigating to ""http://www.steffensinsurance.com/"", waiting until ""domcontentloaded""
+"
+https://www.lexfinplan.com,BLOCKED,HTTP 403
+https://www.kerosspa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kerosspa.com/
+Call log:
+  - navigating to ""https://www.kerosspa.com/"", waiting until ""domcontentloaded""
+"
+http://www.facetofacehair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.facetofacehair.com/
+Call log:
+  - navigating to ""http://www.facetofacehair.com/"", waiting until ""domcontentloaded""
+"
+https://www.mainvest.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mainvest.com/
+Call log:
+  - navigating to ""https://www.mainvest.com/"", waiting until ""domcontentloaded""
+"
+https://www.linkedin.com/in/rasheeda-jamison-38937b161,BLOCKED,HTTP 429
+http://www.spearheadhomemedical.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spearheadhomemedical.com/
+Call log:
+  - navigating to ""http://www.spearheadhomemedical.com/"", waiting until ""domcontentloaded""
+"
+http://www.universalnursinginc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.universalnursinginc.com/
+Call log:
+  - navigating to ""http://www.universalnursinginc.com/"", waiting until ""domcontentloaded""
+"
+http://local.homehelpershomecare.com/south-tulsa/home,FAILED,HTTP 503
+https://wellnesshomeinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wellnesshomeinc.com/
+Call log:
+  - navigating to ""https://wellnesshomeinc.com/"", waiting until ""domcontentloaded""
+"
+https://rescare.csod.com/ux/ats/careersite/1/home?c=rescare,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rescare.csod.com/ux/ats/careersite/1/home?c=rescare
+Call log:
+  - navigating to ""https://rescare.csod.com/ux/ats/careersite/1/home?c=rescare"", waiting until ""domcontentloaded""
+"
+http://www.creatingwayshomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.creatingwayshomecare.com/
+Call log:
+  - navigating to ""http://www.creatingwayshomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.optionscorp.com/contact/independence-oh,FAILED,HTTP 404
+https://www.completehomehealthcare.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.completehomehealthcare.net/
+Call log:
+  - navigating to ""https://www.completehomehealthcare.net/"", waiting until ""domcontentloaded""
+"
+https://inthebeginningllc.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://inthebeginningllc.org/
+Call log:
+  - navigating to ""https://inthebeginningllc.org/"", waiting until ""domcontentloaded""
+"
+https://chosenhomecaresllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://chosenhomecaresllc.com/
+Call log:
+  - navigating to ""https://chosenhomecaresllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.texasqualityone.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.texasqualityone.com/
+Call log:
+  - navigating to ""https://www.texasqualityone.com/"", waiting until ""domcontentloaded""
+"
+http://www.motheringmommies.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.motheringmommies.com/
+Call log:
+  - navigating to ""http://www.motheringmommies.com/"", waiting until ""domcontentloaded""
+"
+http://www.bydesignhomecare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bydesignhomecare.com/
+Call log:
+  - navigating to ""http://www.bydesignhomecare.com/"", waiting until ""domcontentloaded""
+"
+http://www.bachshealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bachshealthcare.com/
+Call log:
+  - navigating to ""http://www.bachshealthcare.com/"", waiting until ""domcontentloaded""
+"
+https://www.sunflowerhomecarema.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sunflowerhomecarema.com/
+Call log:
+  - navigating to ""https://www.sunflowerhomecarema.com/"", waiting until ""domcontentloaded""
+"
+http://www.morgancares.com,BLOCKED,HTTP 403
+https://lhcgroup.com/locations/home-care-solutions-of-nashville,FAILED,HTTP 404
+http://www.merchantsourceinc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.merchantsourceinc.com/
+Call log:
+  - navigating to ""http://www.merchantsourceinc.com/"", waiting until ""domcontentloaded""
+"
+https://www.reliantfunding.com,BLOCKED,HTTP 403
+http://www.perchwealth.com,FAILED,HTTP 503
+http://www.syndeazhwa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.syndeazhwa.com/
+Call log:
+  - navigating to ""http://www.syndeazhwa.com/"", waiting until ""domcontentloaded""
+"
+https://www.synwm.com,FAILED,HTTP 404
+http://www.mywheaton.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.mywheaton.org/"", waiting until ""domcontentloaded""
+"
+http://www.lawcash.net,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.lawcash.net/"", waiting until ""domcontentloaded""
+"
+https://www.packardseniorservices.com,FAILED,HTTP 404
+http://www.theretirementresource.org,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.theretirementresource.org/
+Call log:
+  - navigating to ""http://www.theretirementresource.org/"", waiting until ""domcontentloaded""
+"
+https://www.theoptimumlife.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.theoptimumlife.com/
+Call log:
+  - navigating to ""https://www.theoptimumlife.com/"", waiting until ""domcontentloaded""
+"
+http://www.lakeadvisorygroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lakeadvisorygroup.com/
+Call log:
+  - navigating to ""http://www.lakeadvisorygroup.com/"", waiting until ""domcontentloaded""
+"
+https://connect.thrivent.com/north-central-florida-group,FAILED,HTTP 404
+https://bitcoin101pro.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bitcoin101pro.com/
+Call log:
+  - navigating to ""https://bitcoin101pro.com/"", waiting until ""domcontentloaded""
+"
+http://www.cashsolutionsinc.com,FAILED,HTTP 409
+https://joonago.com,BLOCKED,HTTP 403
+http://www.coyoteanalytics.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.coyoteanalytics.com/
+Call log:
+  - navigating to ""https://www.coyoteanalytics.com/"", waiting until ""domcontentloaded""
+"
+http://www.unitedfinance.com,BLOCKED,HTTP 403
+http://www.latonchairs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.latonchairs.com/
+Call log:
+  - navigating to ""http://www.latonchairs.com/"", waiting until ""domcontentloaded""
+"
+http://invuhairsalon.com,FAILED,HTTP 404
+http://www.hairincatlanta.com,FAILED,HTTP 423
+http://www.angelride.net/index.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.angelride.net/index.html
+Call log:
+  - navigating to ""http://www.angelride.net/index.html"", waiting until ""domcontentloaded""
+"
+http://www.homeinsteadreno.com,BLOCKED,HTTP 429
+http://foxinfusion.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://foxinfusion.com/
+Call log:
+  - navigating to ""http://foxinfusion.com/"", waiting until ""domcontentloaded""
+"
+https://inhomecareguardians.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://inhomecareguardians.com/
+Call log:
+  - navigating to ""https://inhomecareguardians.com/"", waiting until ""domcontentloaded""
+"
+http://endlessqualityhc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://endlessqualityhc.com/
+Call log:
+  - navigating to ""http://endlessqualityhc.com/"", waiting until ""domcontentloaded""
+"
+https://www.baptisthealth.com/bbaptisthealthkentucky//louisville,FAILED,HTTP 404
+https://bayharbourcarehome.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bayharbourcarehome.net/
+Call log:
+  - navigating to ""https://bayharbourcarehome.net/"", waiting until ""domcontentloaded""
+"
+https://www.excellpcs.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.excellpcs.com/
+Call log:
+  - navigating to ""https://www.excellpcs.com/"", waiting until ""domcontentloaded""
+"
+http://raleigh.caringseniorservice.com,FAILED,HTTP 409
+http://ifyshomehealthcare.com,BLOCKED,HTTP 403
+http://www.flowershomehealthllc.com,BLOCKED,HTTP 403
+https://www.blessinghhc.com,FAILED,HTTP 404
+https://www.blissful-days.com/contact,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.blissful-days.com/contact
+Call log:
+  - navigating to ""https://www.blissful-days.com/contact"", waiting until ""domcontentloaded""
+"
+https://www.avondaleofpa.pro,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.avondaleofpa.pro/
+Call log:
+  - navigating to ""https://www.avondaleofpa.pro/"", waiting until ""domcontentloaded""
+"
+http://www.pleethomecare.com,BLOCKED,HTTP 403
+http://theeldercarenetworkhouston.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://theeldercarenetworkhouston.com/
+Call log:
+  - navigating to ""http://theeldercarenetworkhouston.com/"", waiting until ""domcontentloaded""
+"
+https://www.familyfirsthomecareaz.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.familyfirsthomecareaz.com/
+Call log:
+  - navigating to ""https://www.familyfirsthomecareaz.com/"", waiting until ""domcontentloaded""
+"
+http://www.triedtrue.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.triedtrue.org/
+Call log:
+  - navigating to ""http://www.triedtrue.org/"", waiting until ""domcontentloaded""
+"
+http://www.americarefl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.americarefl.com/
+Call log:
+  - navigating to ""http://www.americarefl.com/"", waiting until ""domcontentloaded""
+"
+http://www.masterstouchhc.com,FAILED,HTTP 404
+http://wingatehealthcare.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://wingatehealthcare.com/
+Call log:
+  - navigating to ""http://wingatehealthcare.com/"", waiting until ""domcontentloaded""
+"
+http://fusioncare.net,FAILED,HTTP 404
+https://friendlycareinc.com,BLOCKED,HTTP 403
+https://www.allathomehealthcare.org,FAILED,HTTP 404
+http://www.lasvegaseldercaregivers.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lasvegaseldercaregivers.com/
+Call log:
+  - navigating to ""http://www.lasvegaseldercaregivers.com/"", waiting until ""domcontentloaded""
+"
+http://www.likefamilyhomecare.com,FAILED,HTTP 404
+http://www.gghomehealth.com,BLOCKED,HTTP 403
+https://mysafestone.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mysafestone.net/
+Call log:
+  - navigating to ""https://mysafestone.net/"", waiting until ""domcontentloaded""
+"
+http://www.argentfirm.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.argentfirm.com/
+Call log:
+  - navigating to ""http://www.argentfirm.com/"", waiting until ""domcontentloaded""
+"
+http://jewellwealthmanagement.com,FAILED,HTTP 404
+http://www.rickwangfinancial.com,BLOCKED,HTTP 403
+https://www.cynergy-financial.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cynergy-financial.com/
+Call log:
+  - navigating to ""https://www.cynergy-financial.com/"", waiting until ""domcontentloaded""
+"
+http://www.brickhousecapital.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.brickhousecapital.com/
+Call log:
+  - navigating to ""http://www.brickhousecapital.com/"", waiting until ""domcontentloaded""
+"
+https://wealthwisdomgroup.com,FAILED,HTTP 404
+http://texomacu.com,FAILED,HTTP 520
+https://venturevp.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://venturevp.com/
+Call log:
+  - navigating to ""https://venturevp.com/"", waiting until ""domcontentloaded""
+"
+https://www.carecaplus.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.carecaplus.com/
+Call log:
+  - navigating to ""https://www.carecaplus.com/"", waiting until ""domcontentloaded""
+"
+http://www.nuviewtrust.com,BLOCKED,HTTP 403
+http://www.trueopportunities.biz,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.trueopportunities.biz/
+Call log:
+  - navigating to ""http://www.trueopportunities.biz/"", waiting until ""domcontentloaded""
+"
+http://mklmonthlybudgetingservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://mklmonthlybudgetingservice.com/
+Call log:
+  - navigating to ""http://mklmonthlybudgetingservice.com/"", waiting until ""domcontentloaded""
+"
+http://www.summitfinancialcorp.com,FAILED,HTTP 405
+https://urmedicalbillingandcareersolution.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://urmedicalbillingandcareersolution.com/
+Call log:
+  - navigating to ""https://urmedicalbillingandcareersolution.com/"", waiting until ""domcontentloaded""
+"
+http://www.montgomeryassociatesins.com,BLOCKED,HTTP 403
+https://paysign.com,BLOCKED,HTTP 403
+http://http://www.jerroldgendlermd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://http//www.jerroldgendlermd.com
+Call log:
+  - navigating to ""http://http//www.jerroldgendlermd.com"", waiting until ""domcontentloaded""
+"
+http://visiblechanges.com/north-star-mall,FAILED,HTTP 404
+https://www.3milwil.com,FAILED,HTTP 404
+http://dabaafricanhairbraiding.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://dabaafricanhairbraiding.com/
+Call log:
+  - navigating to ""https://dabaafricanhairbraiding.com/"", waiting until ""domcontentloaded""
+"
+http://www.morehairsalon.net/http/morehairsalonnet,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.morehairsalon.net/http/morehairsalonnet
+Call log:
+  - navigating to ""http://www.morehairsalon.net/http/morehairsalonnet"", waiting until ""domcontentloaded""
+"
+http://www.malaysianremy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.malaysianremy.com/
+Call log:
+  - navigating to ""http://www.malaysianremy.com/"", waiting until ""domcontentloaded""
+"
+http://www.fnbmerchants.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.fnbmerchants.com/"", waiting until ""domcontentloaded""
+"
