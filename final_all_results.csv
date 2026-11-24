@@ -5174,7 +5174,7 @@ http://sbe.com,https://www.sbe.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,Fals
 http://cedarfair.com,https://www.sixflags.com/,SUCCESS,5,MODERN,IGNORE,0,0,3,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
 http://alisalliance.org,http://alisalliance.org,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://sheraton.com,https://www.marriott.com/brands/sheraton.mi,SUCCESS,11,MODERN,IGNORE,0,0,5,2,4,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (1996),Copyright year is 1996 (30 years old) | Excessive inline CSS,0.6,
-http://thirtyonegifts.com,http://thirtyonegifts.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://thirtyonegifts.com/
+http://thirtyonegifts.com,http://thirtyonegifts.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://thirtyonegifts.com/
 Call log:
   - navigating to ""https://thirtyonegifts.com/"", waiting until ""domcontentloaded""
 "
@@ -5269,10 +5269,7 @@ http://austin.certapro.com,https://certapro.com/austin/,SUCCESS,28,MODERN,IGNORE
 https://aicoat.com,https://www.aicoat.com/,SUCCESS,4,MODERN,IGNORE,0,2,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
 http://www.afcpros.com,https://www.afcpros.com/,SUCCESS,27,MODERN,IGNORE,9,4,2,4,2,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (7 image-only links) | Deprecated HTML tags (font/center/marquee) | Viewport tag present but not device-width based | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 https://hardcoreconcretellc.com,https://hardcoreconcretellc.com/,SUCCESS,16,MODERN,IGNORE,7,2,0,2,0,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Old web-agency/builder signature found | No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
-http://epoxyfloorhero.com,http://epoxyfloorhero.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://epoxyfloorhero.com/
-Call log:
-  - navigating to ""http://epoxyfloorhero.com/"", waiting until ""domcontentloaded""
-"
+http://epoxyfloorhero.com,http://epoxyfloorhero.com/.well-known/sgcaptcha/?r=%2F&y=ipr:18.233.87.154:1795507209.837,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 https://www.trutechconcretecoating.com,https://trutechconcretecoatings.com/,SUCCESS,11,MODERN,IGNORE,2,0,2,2,4,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://mdbflooringsystems.com,https://mdbflooringsystems.com/,SUCCESS,3,MODERN,IGNORE,0,0,0,0,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Large page (~183.4 MB),0.6,
 http://www.theebestbuiltinc.net,http://www.theebestbuiltinc.net,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
@@ -5297,7 +5294,7 @@ Call log:
   - navigating to ""http://gunzerelectric.com/index.htm"", waiting until ""domcontentloaded""
 "
 http://www.artaneconstruction.com,https://www.artaneconstruction.com/,SUCCESS,9,MODERN,IGNORE,0,0,5,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Copyright year is 2019 | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
-http://www.feienterprises.com,http://www.feienterprises.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 520
+http://www.feienterprises.com,http://www.feienterprises.com/.well-known/sgcaptcha/?r=%2F&y=ipr:18.233.87.154:1795507229.199,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.bergenelectric.com,http://www.bergenelectric.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://vincentigaragedoors.webs.com,http://vincentigaragedoors.webs.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://vincentigaragedoors.webs.com/
 Call log:
@@ -5596,7 +5593,7 @@ http://cornerstoneagency.com,https://www.cornerstoneagency.com/,SUCCESS,11,MODER
 http://rafanellievents.com,https://www.rafanellievents.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 http://accenture.com,https://www.accenture.com/en,SUCCESS,4,MODERN,IGNORE,0,0,1,0,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Large page (~10.4 MB),0.6,
 http://innovision.eu,https://dropcatch.ai/,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1762,92,79/79,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
-http://eventplanner.es,http://eventplanner.es,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://eventplanner.es,https://www.eventplanner.es/,SUCCESS,15,MODERN,IGNORE,5,0,5,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (12 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://supermarvin.com,https://www.marvin.com/,SUCCESS,12,MODERN,IGNORE,0,0,5,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~40.0 MB),0.6,
 http://newfront.com,https://www.newfront.com/,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://quecheeinn.com,https://www.quecheeinn.com/,SUCCESS,7,MODERN,IGNORE,2,0,4,0,0,1,0,0,False,True,~2014-2020 (estimated),1680,88,120/120,0,,No clear call-to-action / enquiry flow,0.6,
@@ -5701,7 +5698,7 @@ http://www.cannon-wendt.com,http://www.cannon-wendt.com/,SUCCESS,24,NEEDS IMPROV
 http://philadelphiafirealarmsystems.com,http://philadelphiafirealarmsystems.com/,SUCCESS,24,NEEDS IMPROVEMENT,LOW PRIORITY,11,0,5,0,0,6,2,8,True,True,~2014-2020 (estimated),1301,68,312/307,2,Boxed fixed-width layout | No HTTPS (Not secure),"Fixed-width centered box: content only 1301px wide (68% of a 1920px screen), ~312px empty on each side | No full-width sections (everything sits inside one box) | Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow",0.6,
 http://www.stselectric.com,https://stselectric.com/,SUCCESS,8,MODERN,IGNORE,0,0,2,2,4,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.robselectricalservices.com,http://www.robselectricalservices.com/,SUCCESS,12,MODERN,IGNORE,5,0,2,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | Excessive inline CSS,0.6,
-http://atomelectricllc.com,http://atomelectricllc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://atomelectricllc.com/
+http://atomelectricllc.com,http://atomelectricllc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://atomelectricllc.com/
 Call log:
   - navigating to ""https://atomelectricllc.com/"", waiting until ""domcontentloaded""
 "
@@ -5931,7 +5928,7 @@ Call log:
   - navigating to ""https://ironwoodcoatings.com/"", waiting until ""domcontentloaded""
 "
 http://www.floorshieldofmichigan.com,https://www.floorshieldofmichigan.com/,SUCCESS,5,MODERN,IGNORE,2,0,0,0,2,1,0,2,False,True,~2014-2020 (estimated),1200,62,360/360,0,,"Centered 1200px container, but page has 7 full-width sections (modern pattern) | Old web-agency/builder signature found",0.6,
-https://www.garageexperts.com/location/central-valley,https://www.garageexperts.com/location/central-valley,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+https://www.garageexperts.com/location/central-valley,https://www.garageexperts.com/location/central-valley,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://www.superiorhss.com,http://www.superiorhss.com/,SUCCESS,19,MODERN,IGNORE,7,2,5,0,0,4,1,4,False,True,~2014-2020 (estimated),907,47,502/510,1,No HTTPS (Not secure),"Fixed-width centered box: content only 907px wide (47% of a 1920px screen), ~502px empty on each side | Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
 http://www.tlhart.com,https://www.tlhart.com/,SUCCESS,14,MODERN,IGNORE,5,4,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1800,94,10/110,1,Image-based menu,Menu/links are images (3 image-only links) | Viewport tag present but not device-width based | Excessive inline CSS,0.6,
 http://www.rayzremodeling.com,http://www.rayzremodeling.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
@@ -5957,7 +5954,7 @@ http://fiu.edu,https://www.fiu.edu/,SUCCESS,15,MODERN,IGNORE,3,0,0,3,7,2,0,0,Fal
 http://miamibeachfl.gov,https://www.miamibeachfl.gov/,SUCCESS,22,MODERN,IGNORE,5,0,5,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~15.6 MB),0.6,
 http://celebritybrandingagency.com,http://celebritybrandingagency.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://salemmedia.com,https://salemmedia.com/,SUCCESS,15,MODERN,IGNORE,5,0,0,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (71 image-only links) | Excessive inline CSS | Large page (~26.6 MB),0.6,
-http://gamarketing.com,http://gamarketing.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_ADDRESS_UNREACHABLE at http://gamarketing.com/
+http://gamarketing.com,http://gamarketing.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
   - navigating to ""http://gamarketing.com/"", waiting until ""domcontentloaded""
 "
@@ -6291,7 +6288,7 @@ Call log:
 "
 http://usafootball.com,https://usafootball.com/,SUCCESS,14,MODERN,IGNORE,5,2,2,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (8 image-only links) | No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://swandolphin.com,https://swandolphin.com/,SUCCESS,21,MODERN,IGNORE,7,0,2,2,5,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (9 image-only links) | Old web-agency/builder signature found | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~166.5 MB),0.6,
-http://sparksonline.com,http://sparksonline.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://sparksonline.com/
+http://sparksonline.com,http://sparksonline.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://sparksonline.com/
 Call log:
   - navigating to ""https://sparksonline.com/"", waiting until ""domcontentloaded""
 "
@@ -6489,7 +6486,7 @@ http://www.ecoserviceswa.com,https://www.ecoserviceswa.com/,SUCCESS,10,MODERN,IG
 http://www.milwaukee-handyman.com,https://www.milwaukee-handyman.com/,SUCCESS,8,MODERN,IGNORE,0,2,2,2,2,0,0,2,False,True,~2020-2026 (estimated),1535,80,385/0,0,,"Centered 1535px container, but page has 10 full-width sections (modern pattern) | No @media queries in inline styles (partial signal) | Copyright year is 2020 | Excessive inline CSS",0.6,
 http://www.leecompany.com,https://www.leecompany.com/,SUCCESS,15,MODERN,IGNORE,3,0,2,5,3,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | Excessive unstructured text on homepage | Multiple layout tables | Excessive inline CSS | Large page (~18.7 MB),0.6,
 http://diversifiedelectricandcontrols.com,http://diversifiedelectricandcontrols.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
-https://beldyelectric.com,https://beldyelectric.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://beldyelectric.com/
+https://beldyelectric.com,https://beldyelectric.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://beldyelectric.com/
 Call log:
   - navigating to ""https://beldyelectric.com/"", waiting until ""domcontentloaded""
 "
@@ -6582,7 +6579,7 @@ https://www.magnapainting-stoneoak.com/about,https://www.magnapainting-stoneoak.
 Call log:
   - navigating to ""https://www.magnapainting-stoneoak.com/about"", waiting until ""domcontentloaded""
 "
-https://covenantpaintingllc.com,https://covenantpaintingllc.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://covenantpaintingllc.com/
+https://covenantpaintingllc.com,https://covenantpaintingllc.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://covenantpaintingllc.com/
 Call log:
   - navigating to ""https://covenantpaintingllc.com/"", waiting until ""domcontentloaded""
 "
@@ -6623,7 +6620,7 @@ http://www.fivecoatelectric.com,https://www.google.com/,SUCCESS,24,MODERN,IGNORE
 https://hotelelectric.biz,https://www.hotelelectric.biz/,SUCCESS,13,MODERN,IGNORE,3,0,3,5,0,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | No clear call-to-action / enquiry flow | Multiple layout tables | Excessive inline CSS,0.6,
 https://www.gueldnerelectric.com,https://www.gueldnerelectric.com/,SUCCESS,6,MODERN,IGNORE,0,4,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1890,98,20/10,0,,Viewport tag present but not device-width based | Excessive inline CSS,0.6,
 https://www.davilaelectric.com,https://www.davilaelectric.com/,SUCCESS,15,MODERN,IGNORE,4,4,0,4,0,2,1,0,False,True,~2014-2020 (estimated),1746,91,20/154,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Viewport tag present but not device-width based | Excessive inline CSS,0.6,
-http://www.zappelectric.com,http://www.zappelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.zappelectric.com/
+http://www.zappelectric.com,http://www.zappelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.zappelectric.com/
 Call log:
   - navigating to ""https://www.zappelectric.com/"", waiting until ""domcontentloaded""
 "
@@ -6678,7 +6675,7 @@ Call log:
 http://www.flashshoes.com,http://www.flashshoes.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://teespring.com,https://amazecommerce.com/spring-update,SUCCESS,2,MODERN,IGNORE,0,0,2,0,0,0,0,2,False,True,~2020-2026 (estimated),1200,62,360/360,0,,"Centered 1200px container, but page has 5 full-width sections (modern pattern) | Excessive unstructured text on homepage",0.6,
 https://cheapdealersupplies.com,https://cheapdealersupplies.com/,SUCCESS,21,MODERN,IGNORE,10,2,0,2,0,5,2,2,False,True,~2014-2020 (estimated),1175,61,375/370,2,Image-based menu | Tiny body text,"Centered 1175px container, but page has 3 full-width sections (modern pattern) | Very small body text (~13px) | Menu/links are images (26 image-only links) | No @media queries in inline styles (partial signal) | Excessive inline CSS",0.6,
-http://www.geeksinfotech.com,http://www.geeksinfotech.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.geeksinfotech.com/
+http://www.geeksinfotech.com,http://www.geeksinfotech.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.geeksinfotech.com/
 Call log:
   - navigating to ""https://www.geeksinfotech.com/"", waiting until ""domcontentloaded""
 "
@@ -6835,7 +6832,7 @@ http://firstrateelectric.com,https://firstrateelectric.com/,SUCCESS,2,MODERN,IGN
 http://authenticelectricalsolutions.com,http://authenticelectricalsolutions.com/,SUCCESS,21,MODERN,IGNORE,9,2,2,2,0,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,No HTTPS (Not secure) | Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Old web-agency/builder signature found | Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal),0.6,
 https://www.lykoselectricandac.com,https://www.lykoselectricandac.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 http://www.squareclover.com,https://www.squareclover.com/,SUCCESS,12,MODERN,IGNORE,5,2,0,2,0,2,1,2,False,True,~2014-2020 (estimated),1605,84,315/0,1,Image-based menu,"Centered 1605px container, but page has 8 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | No @media queries in inline styles (partial signal) | Excessive inline CSS",0.6,
-http://memphiselectric.net/index.html,http://memphiselectric.net/index.html,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://memphiselectric.net/index.html
+http://memphiselectric.net/index.html,http://memphiselectric.net/index.html,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://memphiselectric.net/index.html
 Call log:
   - navigating to ""https://memphiselectric.net/index.html"", waiting until ""domcontentloaded""
 "
@@ -7113,10 +7110,7 @@ http://clevelandsports.org,https://www.clevelandsports.org/,SUCCESS,9,MODERN,IGN
 http://northcoastmedia.net,https://northcoastmedia.net/,SUCCESS,14,MODERN,IGNORE,0,8,3,0,3,0,0,0,False,False,~2020-2026 (estimated),1920,100,0/0,0,,Viewport tag present but not device-width based | Horizontal overflow on mobile (1.3x screen width) | No clear call-to-action / enquiry flow | Large page (~23.9 MB),0.6,
 http://daytonainternationalspeedway.com,https://www.daytonainternationalspeedway.com/,SUCCESS,19,MODERN,IGNORE,5,0,2,2,7,2,1,0,False,True,~2014-2020 (estimated),1908,99,8/4,1,Image-based menu,Menu/links are images (3 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~21.2 MB),0.6,
 http://cincynature.org,https://www.cincynature.org/,SUCCESS,20,MODERN,IGNORE,5,8,0,2,2,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Page does not reflow on mobile (content 8.3x wider than screen) | Excessive inline CSS,0.6,
-http://taste-food.com,http://taste-food.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://taste-food.com/
-Call log:
-  - navigating to ""http://taste-food.com/"", waiting until ""domcontentloaded""
-"
+http://taste-food.com,http://taste-food.com/.well-known/sgcaptcha/?r=%2F&y=ipr:172.190.85.23:1795506925.026,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://bluejackets.com,https://www.nhl.com/bluejackets/,SUCCESS,21,MODERN,IGNORE,7,0,5,2,2,4,1,0,False,True,~2014-2020 (estimated),1906,99,1/12,1,Image-based menu,Menu/links are images (11 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://chillon.com.mx,http://chillon.com.mx/,SUCCESS,10,MODERN,IGNORE,3,0,5,0,0,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No clear call-to-action / enquiry flow,0.6,
 http://topgolf.com,http://topgolf.com/us/,SUCCESS,19,MODERN,IGNORE,8,0,4,0,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | No HTTPS (Not secure),Menu/links are images (5 image-only links) | Site opens on http:// (browser shows 'Not secure') | Excessive unstructured text on homepage,0.6,
@@ -7146,10 +7140,7 @@ http://simplystylist.com,http://simplystylist.com/cgi-sys/defaultwebpage.cgi,SUC
 http://aquariumofpacific.org,https://www.aquariumofpacific.org/,SUCCESS,7,MODERN,IGNORE,0,0,2,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~21.6 MB),0.6,
 http://prg.com,https://www.prg.com/en,SUCCESS,10,MODERN,IGNORE,0,0,3,2,5,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS | Large page (~24.0 MB),0.6,
 http://mirantis.com,https://www.mirantis.com/,SUCCESS,7,MODERN,IGNORE,0,0,5,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (2005),Copyright year is 2005 (21 years old) | Excessive inline CSS,0.6,
-http://eventmarketingpartners.com,http://eventmarketingpartners.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://eventmarketingpartners.com/
-Call log:
-  - navigating to ""http://eventmarketingpartners.com/"", waiting until ""domcontentloaded""
-"
+http://eventmarketingpartners.com,http://eventmarketingpartners.com/.well-known/sgcaptcha/?r=%2F&y=ipr:172.190.85.23:1795506927.793,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://osbournepurdie.com,https://opagency.com/,SUCCESS,17,MODERN,IGNORE,0,2,5,2,8,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Fax number displayed | No clear call-to-action / enquiry flow | Excessive inline CSS | Slow page load (9.5s) | Large page (~22.5 MB),0.6,
 http://offtop.com,https://home.offtop.com/,SUCCESS,10,MODERN,IGNORE,2,2,3,2,0,1,0,0,False,True,~2014-2020 (estimated),1842,96,40/38,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
 http://openstack.org,https://www.openstack.org/,SUCCESS,6,MODERN,IGNORE,0,2,4,0,0,0,0,0,False,True,~2020-2026 (estimated),1890,98,10/20,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
@@ -7184,10 +7175,7 @@ https://rivertableepoxy.com,https://rivertableepoxy.com,FAILED,,,,,,,,,,,,,,,,,,
 Call log:
   - navigating to ""https://rivertableepoxy.com/"", waiting until ""domcontentloaded""
 "
-http://calumetpainting.com,http://calumetpainting.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://calumetpainting.com/
-Call log:
-  - navigating to ""http://calumetpainting.com/"", waiting until ""domcontentloaded""
-"
+http://calumetpainting.com,http://calumetpainting.com/.well-known/sgcaptcha/?r=%2F&y=ipr:172.190.85.23:1795506936.430,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.freshcoatroundrock.com,http://www.freshcoatroundrock.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.freshcoatroundrock.com/
 Call log:
   - navigating to ""http://www.freshcoatroundrock.com/"", waiting until ""domcontentloaded""
@@ -7220,22 +7208,16 @@ https://www.cascadiaconcretecoatings.com,https://www.cascadiaconcretecoatings.co
 Call log:
   - navigating to ""https://www.cascadiaconcretecoatings.com/"", waiting until ""domcontentloaded""
 "
-http://www.paintingplusofboulder.com,http://www.paintingplusofboulder.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.paintingplusofboulder.com/
-Call log:
-  - navigating to ""http://www.paintingplusofboulder.com/"", waiting until ""domcontentloaded""
-"
+http://www.paintingplusofboulder.com,http://www.paintingplusofboulder.com/.well-known/sgcaptcha/?r=%2F&y=ipr:172.190.85.23:1795506950.620,SUCCESS,19,MODERN,IGNORE,5,6,5,0,0,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | Horizontal overflow on mobile (1.2x screen width) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.abi-son.com,http://www.abi-son.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://www.ninjacoatings.com,https://ninjacoatings.com/,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 https://sheltonsolutionsva.com,https://sheltonsolutionsva.com/,SUCCESS,12,MODERN,IGNORE,0,0,5,2,5,0,0,0,False,True,~2020-2026 (estimated),1745,91,85/90,0,,Copyright year is 2022 | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~16.9 MB),0.6,
 http://chattfcs.com,https://www.chattfcs.com/,SUCCESS,8,MODERN,IGNORE,0,4,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1902,99,0/18,0,,Viewport tag present but not device-width based | Excessive inline CSS,0.6,
 http://www.apexbuildingco.com,https://apex.biz/?redir_mode=301.,SUCCESS,11,MODERN,IGNORE,0,0,3,0,8,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Slow page load (10.3s) | Large page (~18.9 MB),0.6,
-http://www.littlejackmarketing.com,http://www.littlejackmarketing.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 520
+http://www.littlejackmarketing.com,https://www.littlejackmarketing.com/.well-known/sgcaptcha/?r=%2F&y=ipr:172.190.85.23:1795506954.221,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://barrerasearchmarketing.com,http://www.barrerasearchmarketing.com/,SUCCESS,12,MODERN,IGNORE,3,2,5,0,0,2,0,0,False,True,~2014-2020 (estimated),1763,92,79/79,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.sferainteractive.com,https://www.sferainteractive.com/,SUCCESS,15,MODERN,IGNORE,5,0,3,0,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow,0.6,
-http://standardelectriccorp.com,http://standardelectriccorp.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://standardelectriccorp.com/
-Call log:
-  - navigating to ""http://standardelectriccorp.com/"", waiting until ""domcontentloaded""
-"
+http://standardelectriccorp.com,http://standardelectriccorp.com/.well-known/sgcaptcha/?r=%2F&y=ipr:172.190.85.23:1795506954.324,SUCCESS,19,MODERN,IGNORE,5,6,5,0,0,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | Horizontal overflow on mobile (1.2x screen width) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.cccommunications.com,https://cccommunications.com/,SUCCESS,19,MODERN,IGNORE,7,0,0,2,5,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | Old web-agency/builder signature found | Excessive inline CSS | Large page (~8.3 MB),0.6,
 http://www.monstermail.com,https://forsale.godaddy.com/forsale/www.monstermail.com?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.lewinelectric.com,http://www.lewinelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lewinelectric.com/
@@ -7285,7 +7267,7 @@ Call log:
 "
 http://www.anchorelectric.biz,https://anchorelectric.biz/,SUCCESS,3,MODERN,IGNORE,0,0,1,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 https://www.electricbillsinc.com,https://www.electricbillsinc.com/,SUCCESS,5,MODERN,IGNORE,2,0,0,2,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
-http://www.24-7electricalservices.com,http://www.24-7electricalservices.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.24-7electricalservices.com/
+http://www.24-7electricalservices.com,http://www.24-7electricalservices.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.24-7electricalservices.com/
 Call log:
   - navigating to ""https://www.24-7electricalservices.com/"", waiting until ""domcontentloaded""
 "
@@ -7425,7 +7407,7 @@ Call log:
   - navigating to ""http://www.acsdecorativeconcrete.com/"", waiting until ""domcontentloaded""
 "
 http://www.azgaragefloors.com,https://azgaragefloors.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
-http://www.garageexperts.com/location/home/greater-austin,http://www.garageexperts.com/location/home/greater-austin,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.garageexperts.com/location/home/greater-austin,http://www.garageexperts.com/location/home/greater-austin,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 http://www.metrofloorcoating.com,https://www.metrofloorcoating.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,0,False,True,~2020-2026 (estimated),1856,97,32/32,0,,No significant outdated signals found,0.6,
 https://rhinoconcretecoatings.biz,https://rhinoconcretecoatings.biz/,SUCCESS,19,MODERN,IGNORE,10,0,0,2,0,5,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Tiny body text,Very small body text (~13px) | Menu/links are images (7 image-only links) | Excessive inline CSS,0.6,
 https://www.theepoxyresinstore.com,https://www.theepoxyresinstore.com/,SUCCESS,23,MODERN,IGNORE,8,0,3,0,7,4,1,8,True,True,~2014-2020 (estimated),1092,57,414/414,1,Boxed fixed-width layout,"Fixed-width centered box: content only 1092px wide (57% of a 1920px screen), ~414px empty on each side | No full-width sections (everything sits inside one box) | No clear call-to-action / enquiry flow | Large page (~8.2 MB)",0.6,
@@ -7551,10 +7533,7 @@ http://matchmg.com,https://www.publiclabelagency.com/,SUCCESS,1,MODERN,IGNORE,0,
 http://rotary.org,http://rotary.org,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 429
 http://columbusmuseum.org,https://www.columbusmuseum.org/,SUCCESS,22,MODERN,IGNORE,7,0,1,2,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (28 image-only links) | Old web-agency/builder signature found | Excessive inline CSS | Large page (~9.7 MB),0.6,
 http://aristalabs.com,http://aristalabs.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
-http://starlanespolaris.com,http://starlanespolaris.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://starlanespolaris.com/
-Call log:
-  - navigating to ""http://starlanespolaris.com/"", waiting until ""domcontentloaded""
-"
+http://starlanespolaris.com,http://starlanespolaris.com/.well-known/sgcaptcha/?r=%2F&y=ipr:100.62.139.158:1795507159.603,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://entertrainmentjunction.com,http://entertrainmentjunction.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 http://hollisterco.com,https://www.hollisterco.com/shop/us,SUCCESS,22,MODERN,IGNORE,10,2,3,0,0,5,2,8,True,True,~2014-2020 (estimated),455,24,732/732,1,Boxed fixed-width layout,"Fixed-width centered box: content only 455px wide (24% of a 1920px screen), ~732px empty on each side | No full-width sections (everything sits inside one box) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
 http://schwab.com,https://www.schwab.com/,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
@@ -7573,7 +7552,7 @@ http://behavox.com,https://behavox.com/,SUCCESS,2,MODERN,IGNORE,0,2,0,0,0,0,0,0,
 http://buildingbeats.org,https://buildingbeats.org/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS,0.6,
 http://invisiblenorth.com,https://invisiblenorth.com/,SUCCESS,16,MODERN,IGNORE,2,0,3,2,8,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Old web-agency/builder signature found | No clear call-to-action / enquiry flow | Excessive inline CSS | Slow page load (9.3s) | Large page (~351.2 MB),0.6,
 http://www.cleverly.co,https://www.cleverly.co/,SUCCESS,14,MODERN,IGNORE,0,0,5,2,7,0,0,0,False,True,~2020-2026 (estimated),1904,99,16/0,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (8.1s),0.6,
-http://eventconcept.co.uk,http://eventconcept.co.uk,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 520
+http://eventconcept.co.uk,http://eventconcept.co.uk,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://wilkins-media.com,https://www.wilkinsmedia.com/,SUCCESS,5,MODERN,IGNORE,0,0,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS | Large page (~11.6 MB),0.6,
 http://brownstoner.com,https://www.brownstoner.com/,SUCCESS,21,MODERN,IGNORE,5,0,4,2,7,2,1,0,False,True,~2014-2020 (estimated),1908,99,12/0,1,Image-based menu,Menu/links are images (34 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS | Slow page load (13.4s),0.6,
 http://lotusfoods.com,https://www.lotusfoods.com/,SUCCESS,20,MODERN,IGNORE,5,0,5,2,5,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (13 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~12.7 MB),0.6,
@@ -7653,20 +7632,11 @@ Call log:
 "
 http://www.otepoxyfloors.com,https://otepoxyfloors.com/,SUCCESS,38,NEEDS IMPROVEMENT,LOW PRIORITY,11,0,5,4,10,6,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Justified old-style text | Table/deprecated-tag markup,"Justified (stretched) body text, old-style typography | Deprecated HTML tags (font/center/marquee) | Table-based page layout | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS | Slow page load (13.8s) | Large page (~11.4 MB)",0.6,
 http://www.uniquecretedesigns.com,https://www.uniquecretedesigns.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1642,86,257/21,0,,Excessive inline CSS,0.6,
-https://craftsmancoatings.com,https://craftsmancoatings.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://craftsmancoatings.com/
-Call log:
-  - navigating to ""https://craftsmancoatings.com/"", waiting until ""domcontentloaded""
-"
+https://craftsmancoatings.com,chrome-error://chromewebdata/,SUCCESS,14,MODERN,IGNORE,0,9,3,2,0,0,0,0,False,False,~2020-2026 (estimated),,,,0,,No viewport meta tag (site not built for mobile) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.45,
 http://www.northerncoloradocoatings.com,https://nocoprotectivecoatings.com/,SUCCESS,18,MODERN,IGNORE,6,2,0,4,2,3,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Old web-agency/builder signature found | No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
-http://www.b2bleo.com,http://www.b2bleo.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.b2bleo.com/
-Call log:
-  - navigating to ""http://www.b2bleo.com/"", waiting until ""domcontentloaded""
-"
+http://www.b2bleo.com,http://www.b2bleo.com/.well-known/sgcaptcha/?r=%2F&y=ipr:100.62.139.158:1795507179.700,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.rocksolidwaterproofing.com,https://www.psg77ways.com/,SUCCESS,20,MODERN,IGNORE,5,8,0,2,2,2,1,2,False,False,~2014-2020 (estimated),1070,56,425/425,1,Image-based menu,"Centered 1070px container, but page has 3 full-width sections (modern pattern) | Menu/links are images (6 image-only links) | Page does not reflow on mobile (content 3.0x wider than screen) | Excessive inline CSS",0.6,
-https://www.experiacreative.com,https://www.experiacreative.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.experiacreative.com/
-Call log:
-  - navigating to ""https://www.experiacreative.com/"", waiting until ""domcontentloaded""
-"
+https://www.experiacreative.com,https://www.experiacreative.com/.well-known/sgcaptcha/?r=%2F&y=ipr:100.62.139.158:1795507182.399,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.kecny.com,https://www.kecny.com/,SUCCESS,16,MODERN,IGNORE,5,0,4,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
 http://giftcards.quickgifts.com,https://static.quickgifts.com/error/hosting.html,SUCCESS,60,OUTDATED,MEDIUM PRIORITY,8,10,3,0,0,4,1,8,True,False,~2014-2020 (estimated),848,44,536/536,2,Boxed fixed-width layout | Not mobile friendly,"[Boxed layout AND not mobile friendly] | Fixed-width centered box: content only 848px wide (44% of a 1920px screen), ~536px empty on each side | No full-width sections (everything sits inside one box) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
 http://www.forteadvertising.com,http://www.forteadvertising.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
@@ -7736,7 +7706,7 @@ Call log:
 http://www.lgeoo.com,https://www.elgeo.us/,SUCCESS,14,MODERN,IGNORE,4,0,3,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Justified old-style text,"Justified (stretched) body text, old-style typography | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
 https://www.sav.com,https://sav.com/,SUCCESS,6,MODERN,IGNORE,0,0,4,2,0,0,0,0,False,True,~2020-2026 (estimated),1896,99,24/0,0,,Copyright year is 2019 | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.allurez.com,https://www.allurez.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,13,0,2,2,4,6,2,0,False,True,~2010-2016 (estimated),1920,100,0/0,3,Image-based menu | Tiny body text | Table/deprecated-tag markup,[3 independent outdated signals agree] | Very small body text (~12px) | Menu/links are images (7 image-only links) | Table-based page layout | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
-https://touchedbymayat.com,https://touchedbymayat.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://touchedbymayat.com/
+https://touchedbymayat.com,https://touchedbymayat.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://touchedbymayat.com/
 Call log:
   - navigating to ""https://touchedbymayat.com/"", waiting until ""domcontentloaded""
 "
@@ -7745,9 +7715,9 @@ https://www.artistryglamllc.com,https://www.artistryglamllc.com,FAILED,,,,,,,,,,
 Call log:
   - navigating to ""https://www.artistryglamllc.com/"", waiting until ""domcontentloaded""
 "
-http://www.marathonmechanical.com,http://www.marathonmechanical.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.marathonmechanical.com,http://www.marathonmechanical.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.marathonmechanical.com/
 Call log:
-  - navigating to ""https://www.marathonmechanical.com/"", waiting until ""domcontentloaded""
+  - navigating to ""http://www.marathonmechanical.com/"", waiting until ""domcontentloaded""
 "
 https://www.mobilityplus.com/fid40/jacksonville-fl-32257,https://www.mobilityplus.com/fid40/jacksonville-fl-32257,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 https://wazshop.co,https://wazshop.co/,SUCCESS,23,MODERN,IGNORE,7,7,0,2,2,4,1,2,False,False,~2014-2020 (estimated),1590,83,0/330,1,Image-based menu,"Centered 1590px container, but page has 5 full-width sections (modern pattern) | Menu/links are images (14 image-only links) | No viewport meta tag (site not built for mobile) | Excessive inline CSS",0.6,
@@ -7757,10 +7727,7 @@ http://www.smartplug.com,https://smartplug.com/,SUCCESS,5,MODERN,IGNORE,2,0,0,0,
 http://www.buysafe.com,https://www.buysafe.com/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (34 image-only links) | Excessive inline CSS,0.6,
 http://www.appdirectmarketing.com,https://appdirectmarketing.com/,SUCCESS,21,MODERN,IGNORE,9,0,2,4,0,4,2,2,False,True,~2014-2020 (estimated),1170,61,375/375,2,Image-based menu | Table/deprecated-tag markup,"Centered 1170px container, but page has 18 full-width sections (modern pattern) | Menu/links are images (8 image-only links) | Deprecated HTML tags (font/center/marquee) | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
 https://3rdplanet.com,https://3rdplanet.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
-http://www.paymentwall.com,http://www.paymentwall.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.paymentwall.com/"", waiting until ""domcontentloaded""
-"
+http://www.paymentwall.com,https://www.paymentwall.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,2,False,True,~2020-2026 (estimated),1060,55,430/430,0,,"Centered 1060px container, but page has 5 full-width sections (modern pattern)",0.6,
 https://falmoda.com,https://falmoda.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://falmoda.com/
 Call log:
   - navigating to ""https://falmoda.com/"", waiting until ""domcontentloaded""
@@ -7901,10 +7868,7 @@ https://www.directbuy.com,https://www.directbuy.com/,SUCCESS,0,MODERN,IGNORE,0,0
 https://tradelinesupply.com,https://tradelinesupply.com/,SUCCESS,4,MODERN,IGNORE,0,2,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1897,99,10/13,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
 https://gcpconcretepolishing.com,https://gcpconcretepolishing.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 522
 https://auroratechlabs.com,https://auroratechlabs.com/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,2,False,True,~2014-2020 (estimated),1576,82,0/344,1,Image-based menu,"Centered 1576px container, but page has 11 full-width sections (modern pattern) | Menu/links are images (4 image-only links) | Excessive inline CSS",0.6,
-http://www.globalcollect.com,http://www.globalcollect.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.globalcollect.com/
-Call log:
-  - navigating to ""http://www.globalcollect.com/"", waiting until ""domcontentloaded""
-"
+http://www.globalcollect.com,http://www.globalcollect.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 406
 http://www.godaddy.com,http://www.godaddy.com/,SUCCESS,27,NEEDS IMPROVEMENT,LOW PRIORITY,3,15,5,2,0,2,0,0,False,False,~2014-2020 (estimated),1904,99,8/8,2,Not mobile friendly | No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.amazon.com,https://www.amazon.com/,SUCCESS,18,MODERN,IGNORE,5,2,8,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Old copyright (1996) | Tiny body text,Very small body text (~11px) | No @media queries in inline styles (partial signal) | Copyright year is 1996 (30 years old) | No clear call-to-action / enquiry flow,0.6,
 https://brightlikediamonds.com,https://brightlikediamonds.com/,SUCCESS,7,MODERN,IGNORE,0,2,3,0,2,0,0,2,False,True,~2020-2026 (estimated),768,40,576/576,0,,"Centered 768px container, but page has 2 full-width sections (modern pattern) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
@@ -8151,14 +8115,14 @@ https://garagemagic.com,https://garagemagic.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"
 Call log:
   - navigating to ""https://garagemagic.com/"", waiting until ""domcontentloaded""
 "
-http://www.briarwoodconstructionllc.com,http://www.briarwoodconstructionllc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.briarwoodconstructionllc.com/
+http://www.briarwoodconstructionllc.com,http://www.briarwoodconstructionllc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.briarwoodconstructionllc.com/
 Call log:
   - navigating to ""https://www.briarwoodconstructionllc.com/"", waiting until ""domcontentloaded""
 "
 http://www.rainselectric.com,https://www.rainselectric.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,2,False,True,~2020-2026 (estimated),1265,66,330/325,0,,"Centered 1265px container, but page has 6 full-width sections (modern pattern) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
 http://atlaspowercorp.com/home_page.html,http://atlaspowercorp.com/home_page.html,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 https://www.brantleysecuritysystems.com,https://brantleysecuritysystems.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,2,False,True,~2020-2026 (estimated),1560,81,360/0,0,,"Centered 1560px container, but page has 4 full-width sections (modern pattern)",0.6,
-http://www.superbelectric.com,http://www.superbelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.superbelectric.com/
+http://www.superbelectric.com,http://www.superbelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.superbelectric.com/
 Call log:
   - navigating to ""https://www.superbelectric.com/"", waiting until ""domcontentloaded""
 "
@@ -8188,7 +8152,7 @@ https://str8up-smoke-shop.business.site,https://str8up-smoke-shop.business.site,
 http://www.hokuspokusvapor.com,http://www.hokuspokusvapor.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 http://www.tmgbrandfuel.com,https://www.martingroup.co/,SUCCESS,8,MODERN,IGNORE,0,0,3,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~10.9 MB),0.6,
 http://www.epicmc2.com,https://www.epicmc2.com/,SUCCESS,16,MODERN,IGNORE,7,0,0,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Excessive inline CSS,0.6,
-https://www.mythirtyone.com/us/en,https://www.mythirtyone.com/us/en,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mythirtyone.com/us/en
+https://www.mythirtyone.com/us/en,https://www.mythirtyone.com/us/en,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
   - navigating to ""https://www.mythirtyone.com/us/en"", waiting until ""domcontentloaded""
 "
@@ -8209,7 +8173,7 @@ http://www.electriciandallastx.com,http://www.electriciandallastx.com,FAILED,,,,
 http://www.enm.com,http://www.enm.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 http://reliableductsac.com,https://reliableductsac.com/,SUCCESS,4,MODERN,IGNORE,0,2,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
 http://www.atlascos.com,https://www.atlascos.com/,SUCCESS,9,MODERN,IGNORE,5,0,1,0,0,2,1,2,False,True,~2014-2020 (estimated),1613,84,154/154,1,Image-based menu,"Centered 1613px container, but page has 9 full-width sections (modern pattern) | Menu/links are images (7 image-only links)",0.6,
-https://quoruminternational.com/index.asp,https://quoruminternational.com/index.asp,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 400
+https://quoruminternational.com/index.asp,https://quoruminternational.com/index.asp,SUCCESS,19,MODERN,IGNORE,5,0,2,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (21 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~83.6 MB),0.6,
 https://taylors-electrical-and-plumbing-and-heating-and-air.business.site,https://taylors-electrical-and-plumbing-and-heating-and-air.business.site,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 https://renuenergysolutions.com,https://renuenergysolutions.com/,SUCCESS,20,MODERN,IGNORE,7,0,2,2,4,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (20 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 https://www.rrtxelectrical.com,https://www.rrtxelectrical.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rrtxelectrical.com/
@@ -8231,7 +8195,7 @@ Call log:
 http://advanceelectricalcontractors.com,https://www.advanceelectricalcontractors.com/,SUCCESS,10,MODERN,IGNORE,0,0,5,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (2000),Copyright year is 2000 (26 years old) | Excessive inline CSS | Large page (~10.8 MB),0.6,
 http://www.seattleelectric.org,https://seattleelectric.org/,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.fsgi.com,http://www.fsgi.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
-http://www.mogulelectric.com,http://www.mogulelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.mogulelectric.com/
+http://www.mogulelectric.com,http://www.mogulelectric.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.mogulelectric.com/
 Call log:
   - navigating to ""https://www.mogulelectric.com/"", waiting until ""domcontentloaded""
 "
