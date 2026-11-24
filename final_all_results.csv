@@ -13000,7 +13000,7 @@ http://www.pamf.org,https://www.sutterhealth.org/,SUCCESS,4,MODERN,IGNORE,0,0,2,
 https://www.helpathome.com,https://www.helpathome.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 https://ride-health.com,https://ride-health.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://www.baywoodhomecare.com,https://baywoodhomecare.com/,SUCCESS,7,MODERN,IGNORE,0,0,3,2,2,0,0,2,False,True,~2020-2026 (estimated),1200,62,360/360,0,,"Centered 1200px container, but page has 26 full-width sections (modern pattern) | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
-https://www.caringspiritsaz.com,https://www.caringspiritsaz.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.caringspiritsaz.com/
+https://www.caringspiritsaz.com,https://www.caringspiritsaz.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.caringspiritsaz.com/
 Call log:
   - navigating to ""https://www.caringspiritsaz.com/"", waiting until ""domcontentloaded""
 "
@@ -13114,7 +13114,7 @@ Call log:
 "
 http://moonrockwm.com,https://www.moonrockwm.com/,SUCCESS,24,MODERN,IGNORE,9,0,0,7,2,4,2,2,False,True,~2014-2020 (estimated),1300,68,310/310,2,Image-based menu | Table/deprecated-tag markup,"Centered 1300px container, but page has 10 full-width sections (modern pattern) | Menu/links are images (11 image-only links) | Deprecated HTML tags (font/center/marquee) | Multiple layout tables | Excessive inline CSS",0.6,
 https://vipcapitalfunding.com,https://vipcapitalfunding.com/,SUCCESS,20,MODERN,IGNORE,7,0,2,2,4,4,1,0,False,True,~2014-2020 (estimated),1850,96,70/0,1,Image-based menu,Menu/links are images (5 image-only links) | Old web-agency/builder signature found | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
-https://www.dehollanderfinancial.com,https://www.dehollanderfinancial.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.dehollanderfinancial.com,https://greenville.apollonfinancial.com/,SUCCESS,12,MODERN,IGNORE,5,0,2,2,0,2,1,2,False,True,~2014-2020 (estimated),1170,61,375/375,1,Image-based menu,"Centered 1170px container, but page has 17 full-width sections (modern pattern) | Menu/links are images (4 image-only links) | Fax number displayed | Excessive inline CSS",0.6,
 https://americanira.com,https://americanira.com/,SUCCESS,11,MODERN,IGNORE,2,0,2,2,4,1,0,0,False,True,~2014-2020 (estimated),1824,95,96/0,0,,Old web-agency/builder signature found | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 https://servantadvisors.com,https://servantadvisors.com/,SUCCESS,7,MODERN,IGNORE,2,0,0,0,4,1,0,0,False,True,~2014-2020 (estimated),1884,98,18/18,0,,No significant outdated signals found,0.6,
 http://wpbcpa.net,https://www.wpb.cpa/,SUCCESS,15,MODERN,IGNORE,5,2,3,2,0,2,1,0,False,True,~2014-2020 (estimated),1815,94,105/0,1,Image-based menu,Menu/links are images (3 image-only links) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
@@ -13125,7 +13125,7 @@ Call log:
 "
 https://www.bankcfcu.org,https://www.resoundcu.org/,SUCCESS,2,MODERN,IGNORE,0,0,0,0,2,0,0,0,False,True,~2020-2026 (estimated),1890,98,0/30,0,,No significant outdated signals found,0.6,
 http://www.freedomfinancialmd.com,http://www.freedomfinancialmd.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
-http://www.aaroncirksena.com,http://www.aaroncirksena.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 429
+http://www.aaroncirksena.com,http://www.aaroncirksena.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 http://financetec.com,https://www.financetec.com/,SUCCESS,37,NEEDS IMPROVEMENT,LOW PRIORITY,14,7,0,7,0,7,2,2,False,False,~2010-2016 (estimated),1408,73,16/496,2,Image-based menu | Table/deprecated-tag markup,"Centered 1408px container, but page has 4 full-width sections (modern pattern) | Menu/links are images (10 image-only links) | Deprecated HTML tags (font/center/marquee) | Table-based page layout | No viewport meta tag (site not built for mobile) | Multiple layout tables | Excessive inline CSS",0.6,
 http://www.betasolutionscpa.com,https://www.betasolutionscpa.com/,SUCCESS,4,MODERN,IGNORE,0,2,0,0,2,0,0,0,False,True,~2020-2026 (estimated),1735,90,175/10,0,,No @media queries in inline styles (partial signal),0.6,
 https://southshoreretirementservices.com,https://southshoreretirementservices.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,2,False,True,~2020-2026 (estimated),1380,72,270/270,0,,"Centered 1380px container, but page has 4 full-width sections (modern pattern)",0.6,
@@ -13397,7 +13397,7 @@ https://cornerstonefundingofnc.com,https://cornerstonefundingofnc.com,FAILED,,,,
 Call log:
   - navigating to ""https://cornerstonefundingofnc.com/"", waiting until ""domcontentloaded""
 "
-http://www.almostfamily.com,http://www.almostfamily.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_REFUSED at http://www.almostfamily.com/
+http://www.almostfamily.com,http://www.almostfamily.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at http://www.almostfamily.com/
 Call log:
   - navigating to ""http://www.almostfamily.com/"", waiting until ""domcontentloaded""
 "
@@ -13471,7 +13471,7 @@ http://www.parkavehc.com,https://www.parkavehc.com/,SUCCESS,21,MODERN,IGNORE,9,0
 http://www.anhhs.com,https://www.anhhs.com/lander,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1888,98,16/16,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.homecareassistancephoenix.com,https://thekey.com/locations/greater-phoenix?utm_source=homecareassistance.com&utm_medium=Referral&utm_campaign=Redirect&via=Cloudflare,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.ensucasacaregivers.com,https://ensucasacaregivers.com/,SUCCESS,3,MODERN,IGNORE,0,0,1,0,2,0,0,2,False,True,~2020-2026 (estimated),1120,58,400/400,0,,"Centered 1120px container, but page has 12 full-width sections (modern pattern)",0.6,
-https://www.pediatrichomehealthcare.com,https://www.pediatrichomehealthcare.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.pediatrichomehealthcare.com/
+https://www.pediatrichomehealthcare.com,https://www.pediatrichomehealthcare.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.pediatrichomehealthcare.com/
 Call log:
   - navigating to ""https://www.pediatrichomehealthcare.com/"", waiting until ""domcontentloaded""
 "
@@ -13496,7 +13496,7 @@ Call log:
   - navigating to ""http://www.xavierhhs.com/"", waiting until ""domcontentloaded""
 "
 http://elderachievers.com,https://www.elderachievers.com/,SUCCESS,25,NEEDS IMPROVEMENT,LOW PRIORITY,5,15,0,2,0,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,2,Not mobile friendly | Image-based menu,Menu/links are images (13 image-only links) | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | Excessive inline CSS,0.6,
-https://www.suburbanhomehealthcare.com,https://www.suburbanhomehealthcare.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.suburbanhomehealthcare.com,https://www.suburbanhomehealthcare.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 520
 http://orianna.com,https://forsale.godaddy.com/forsale/orianna.com?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 https://www.humblehomecarellc.com,https://www.humblehomecarellc.com/,SUCCESS,8,MODERN,IGNORE,0,0,4,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Copyright year is 2021 | Fax number displayed | Excessive inline CSS,0.6,
 http://supremehealthcare.co,https://www.supremehealthcare.co/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,2,False,True,~2020-2026 (estimated),1155,60,390/375,0,,"Centered 1155px container, but page has 2 full-width sections (modern pattern) | No @media queries in inline styles (partial signal) | Copyright year is 2020",0.6,
@@ -13768,7 +13768,7 @@ http://robertstaxandretirement.com,http://robertstaxandretirement.com,FAILED,,,,
 Call log:
   - navigating to ""http://robertstaxandretirement.com/"", waiting until ""domcontentloaded""
 "
-http://www.landingscu.org,http://www.landingscu.org,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.landingscu.org,https://www.landingscu.org/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.emsmerchantservices.com,https://www.emsmerchantservices.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,10,10,3,3,0,5,2,0,False,False,~2014-2020 (estimated),1900,99,10/10,3,Not mobile friendly | Image-based menu | Table/deprecated-tag markup,[3 independent outdated signals agree] | Menu/links are images (15 image-only links) | Table-based page layout | Old web-agency/builder signature found | Page does not reflow on mobile (content 2.6x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Multiple layout tables,0.6,
 http://www.sbsofsa.com,https://www.sbsofsa.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,2,False,True,~2020-2026 (estimated),1152,60,384/384,0,,"Centered 1152px container, but page has 8 full-width sections (modern pattern) | No clear call-to-action / enquiry flow",0.6,
 https://www.financialhouse.com,https://www.financialhouse.com/,SUCCESS,7,MODERN,IGNORE,0,0,5,2,0,0,0,2,False,True,~2020-2026 (estimated),1472,77,340/108,0,,"Centered 1472px container, but page has 14 full-width sections (modern pattern) | Fax number displayed | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
@@ -14001,10 +14001,7 @@ http://moneyalignmentacademy.com,https://moneyalignmentacademy.com/,SUCCESS,9,MO
 http://www.equiant.com,http://www.equiant.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://www.ethicalcommunity.org/firstguarantyfinancial,https://www.ethicalcommunity.org/firstguarantyfinancial,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),,,,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.45,
 https://www.iqwealthmanagement.com,https://iqwealthmanagement.com/,SUCCESS,13,MODERN,IGNORE,2,2,8,0,0,1,0,0,False,True,~2014-2020 (estimated),1885,98,16/19,1,Old copyright (2014),No @media queries in inline styles (partial signal) | Copyright year is 2014 (12 years old) | No clear call-to-action / enquiry flow,0.6,
-https://ezhealthcare.org,https://ezhealthcare.org,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""https://ezhealthcare.org/"", waiting until ""domcontentloaded""
-"
+https://ezhealthcare.org,https://www.ezhealthcare.org/,SUCCESS,5,MODERN,IGNORE,0,0,5,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Copyright year is 2021 | Fax number displayed,0.6,
 http://www.paracap.com,https://paracap.com/,SUCCESS,3,MODERN,IGNORE,0,0,0,0,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Large page (~15.1 MB),0.6,
 http://www.ameripriseadvisors.com/louis.t.burnley,https://www.ameripriseadvisors.com/louis.t.burnley/,SUCCESS,12,NEEDS IMPROVEMENT,LOW PRIORITY,0,10,2,0,0,0,0,0,False,False,~2020-2026 (estimated),1904,99,8/8,1,Not mobile friendly,Page does not reflow on mobile (content 2.3x wider than screen) | No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage,0.6,
 http://www.advancial.org,https://www.advancial.org/,SUCCESS,13,MODERN,IGNORE,4,0,2,4,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
@@ -14109,7 +14106,7 @@ http://www.seniorhelpers.com/northernnevada,https://www.seniorhelpers.com/locati
 http://bestchoiceproducts.com,https://bestchoiceproducts.com/,SUCCESS,8,MODERN,IGNORE,0,0,2,2,4,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://anscares.com,http://anscares.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,8,15,2,2,0,4,1,2,False,False,~2014-2020 (estimated),960,50,480/480,3,Not mobile friendly | Image-based menu | No HTTPS (Not secure),"[3 independent outdated signals agree] | Centered 960px container, but page has 4 full-width sections (modern pattern) | Menu/links are images (7 image-only links) | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal)",0.6,
 http://chesterfieldhealth.com,https://chesterfieldhealth.com/,SUCCESS,10,MODERN,IGNORE,2,0,5,2,0,1,0,2,False,True,~2014-2020 (estimated),1575,82,345/0,0,,"Centered 1575px container, but page has 5 full-width sections (modern pattern) | Copyright year is 2020 | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
-http://www.wagnernurse.com,http://www.wagnernurse.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.wagnernurse.com/
+http://www.wagnernurse.com,http://www.wagnernurse.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.wagnernurse.com/
 Call log:
   - navigating to ""https://www.wagnernurse.com/"", waiting until ""domcontentloaded""
 "
@@ -14169,7 +14166,7 @@ http://www.mkjhomecare.com,http://www.mkjhomecare.com,FAILED,,,,,,,,,,,,,,,,,,,,
 Call log:
   - navigating to ""http://www.mkjhomecare.com/"", waiting until ""domcontentloaded""
 "
-http://www.accessiblehighlandpark.com,http://www.accessiblehighlandpark.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.accessiblehighlandpark.com/
+http://www.accessiblehighlandpark.com,http://www.accessiblehighlandpark.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.accessiblehighlandpark.com/
 Call log:
   - navigating to ""https://www.accessiblehighlandpark.com/"", waiting until ""domcontentloaded""
 "
@@ -14184,7 +14181,7 @@ Call log:
 "
 https://excelhealthservices.com,https://excelhealthservices.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,2,False,True,~2014-2020 (estimated),1280,67,320/320,1,Image-based menu,"Centered 1280px container, but page has 7 full-width sections (modern pattern) | Menu/links are images (3 image-only links)",0.6,
 https://www.asccare.com/community/community-nursing-rehabilitation,https://www.asccare.com/community/community-nursing-rehabilitation/,SUCCESS,16,MODERN,IGNORE,5,0,2,2,4,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
-https://mycohs.com,https://mycohs.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://mycohs.com/
+https://mycohs.com,https://mycohs.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://mycohs.com/
 Call log:
   - navigating to ""https://mycohs.com/"", waiting until ""domcontentloaded""
 "
@@ -14328,10 +14325,7 @@ http://www.archersalon.com,http://www.archersalon.com,FAILED,,,,,,,,,,,,,,,,,,,,
 Call log:
   - navigating to ""https://www.archersalon.com/"", waiting until ""domcontentloaded""
 "
-http://crestretirementplanning.com,http://crestretirementplanning.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://crestretirementplanning.com/"", waiting until ""domcontentloaded""
-"
+http://crestretirementplanning.com,https://www.crestretirementplanning.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,9,7,5,7,5,4,2,2,False,False,~2014-2020 (estimated),950,50,485/485,3,Old copyright (2018) | Image-based menu | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Centered 950px container, but page has 3 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | Deprecated HTML tags (font/center/marquee) | No viewport meta tag (site not built for mobile) | Copyright year is 2018 (8 years old) | Multiple layout tables | Excessive inline CSS",0.6,
 http://www.nappskinxbbs.com,https://nappskinxbbs.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,2,False,True,~2020-2026 (estimated),1120,58,400/400,0,,"Centered 1120px container, but page has 11 full-width sections (modern pattern) | No clear call-to-action / enquiry flow",0.6,
 http://www.orangeolivenoda.com,https://sonnetsprings.org/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,12,0,3,0,0,6,2,0,False,True,~2010-2016 (estimated),1920,100,0/0,3,Tiny body text | Justified old-style text | Table/deprecated-tag markup,"[3 independent outdated signals agree] | Very small body text (~13px) | Justified (stretched) body text, old-style typography | Table-based page layout | No clear call-to-action / enquiry flow",0.6,
 https://dothebangthingsalon.com,https://denvercolorhouse.com/,SUCCESS,5,MODERN,IGNORE,0,0,3,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
@@ -14397,10 +14391,7 @@ https://www.tindellcare.com,https://www.tindellcare.com/,SUCCESS,14,MODERN,IGNOR
 http://www.teamlifecares.com,https://teamlifecares.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1872,98,0/48,0,,Excessive inline CSS,0.6,
 http://www.samaritanservices.com,https://samaritanservices.com/,SUCCESS,7,MODERN,IGNORE,0,2,5,0,0,0,0,2,False,True,~2020-2026 (estimated),1120,58,400/400,0,,"Centered 1120px container, but page has 7 full-width sections (modern pattern) | No @media queries in inline styles (partial signal) | Fax number displayed | No clear call-to-action / enquiry flow",0.6,
 http://www.accessnursing.com,http://www.accessnursing.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
-http://www.weputfamilyfirst.com,http://www.weputfamilyfirst.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.weputfamilyfirst.com/
-Call log:
-  - navigating to ""http://www.weputfamilyfirst.com/"", waiting until ""domcontentloaded""
-"
+http://www.weputfamilyfirst.com,http://weputfamilyfirst.com/index.html,SUCCESS,75,STRONGLY OUTDATED,HOT LEAD,23,7,9,7,0,12,4,9,True,False,~2004-2012 (estimated),946,49,487/487,5,Boxed fixed-width layout | Old copyright (2017) | Image-based menu | No HTTPS (Not secure) | Table/deprecated-tag markup,"[5 independent outdated signals agree] | Fixed-width centered box: content only 946px wide (49% of a 1920px screen), ~487px empty on each side | No full-width sections (everything sits inside one box) | Menu/links are images (7 image-only links) | Deprecated HTML tags (font/center/marquee) | Table-based page layout | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile)",0.6,
 http://www.attentivehomehealth.com,http://www.attentivehomehealth.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 503
 https://villagecaregiving.com/pittsburgh-office,https://villagecaregiving.com/pittsburgh-office,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 http://www.elderluxe.com,https://www.elderluxe.com/,SUCCESS,21,MODERN,IGNORE,7,0,5,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (41 image-only links) | Old web-agency/builder signature found | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
@@ -14679,10 +14670,7 @@ http://www.caringseniorservices.com,http://www.caringseniorservices.com,FAILED,,
 Call log:
   - navigating to ""http://www.caringseniorservices.com/"", waiting until ""domcontentloaded""
 "
-http://www.homecaredenverco.com,http://www.homecaredenverco.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at http://www.homecaredenverco.com/
-Call log:
-  - navigating to ""http://www.homecaredenverco.com/"", waiting until ""domcontentloaded""
-"
+http://www.homecaredenverco.com,http://www.homecaredenverco.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 503
 https://anjelsnest.com,https://anjelsnest.com/,SUCCESS,3,MODERN,IGNORE,0,0,1,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 http://www.southwesthomehealth.org,http://www.southwesthomehealth.org,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.southwesthomehealth.org/
 Call log:
@@ -14744,7 +14732,7 @@ Call log:
   - navigating to ""http://www.fleetwaycapital.com/"", waiting until ""domcontentloaded""
 "
 https://www.peacefuldwellingsafh.com,https://www.peacefuldwellingsafh.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 522
-http://www.relianceretirement.com,http://www.relianceretirement.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at http://www.relianceretirement.com/
+http://www.relianceretirement.com,http://www.relianceretirement.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.relianceretirement.com/
 Call log:
   - navigating to ""http://www.relianceretirement.com/"", waiting until ""domcontentloaded""
 "
@@ -15087,7 +15075,7 @@ http://studio33salonandspa.com,https://studio33salonandspa.com/,SUCCESS,5,MODERN
 https://braidedroots.as.me/schedule.php,https://braidedroots.as.me/schedule/e87b39d0,SUCCESS,12,MODERN,IGNORE,4,0,3,0,2,2,1,5,False,True,~2014-2020 (estimated),1377,72,510/33,0,,Off-center fixed-width content (1377px wide) | No full-width sections (everything sits inside one box) | No clear call-to-action / enquiry flow,0.6,
 http://www.apderm.com,https://www.apderm.com/,SUCCESS,16,MODERN,IGNORE,5,0,6,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.pacefinance.com,https://www.pacefinance.com/,SUCCESS,66,OUTDATED,HIGH PRIORITY,12,15,0,5,0,6,2,2,False,False,~2010-2016 (estimated),1342,70,288/290,4,Not mobile friendly | Tiny body text | Justified old-style text | Table/deprecated-tag markup,"[4 independent outdated signals agree] | Centered 1342px container, but page has 3 full-width sections (modern pattern) | Very small body text (~13px) | Justified (stretched) body text, old-style typography | Table-based page layout | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal)",0.6,
-http://www.nustaspa.com,http://www.nustaspa.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.nustaspa.com/
+http://www.nustaspa.com,http://www.nustaspa.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.nustaspa.com/
 Call log:
   - navigating to ""https://www.nustaspa.com/"", waiting until ""domcontentloaded""
 "
@@ -15222,10 +15210,13 @@ http://billdoctor.org,https://billdoctor.org/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,
 http://www.assetrecoverysolutions.com,https://assetrecoverysolutions.com/,SUCCESS,17,MODERN,IGNORE,5,0,5,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Fax number displayed | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
 http://www.terrellandassociates.com,https://www.terrellandassociates.com/,SUCCESS,6,MODERN,IGNORE,0,0,2,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Fax number displayed | Excessive inline CSS,0.6,
 http://www.caringseniorservice.com,https://caringseniorservice.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1845,96,75/0,1,Image-based menu,Menu/links are images (6 image-only links),0.6,
-http://www.fmwcpas.com,http://www.fmwcpas.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.fmwcpas.com,http://www.fmwcpas.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.fmwcpas.com/
+Call log:
+  - navigating to ""http://www.fmwcpas.com/"", waiting until ""domcontentloaded""
+"
 http://www.securityandwealth.com,https://securityandwealth.com/,SUCCESS,15,MODERN,IGNORE,4,0,0,0,8,2,1,5,False,True,~2014-2020 (estimated),1575,82,115/230,0,,Off-center fixed-width content (1575px wide) | No full-width sections (everything sits inside one box) | Slow page load (8.4s) | Large page (~26.1 MB),0.6,
 http://www.dobbinswealth.com,https://www.dobbinsfinancial.com/,SUCCESS,19,MODERN,IGNORE,8,0,2,4,0,4,1,2,False,True,~2014-2020 (estimated),1438,75,375/108,1,Image-based menu,"Centered 1438px container, but page has 19 full-width sections (modern pattern) | Menu/links are images (9 image-only links) | Fax number displayed | Excessive inline CSS",0.6,
-http://www.oasismortgageaz.com,http://www.oasismortgageaz.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.oasismortgageaz.com,https://www.oasismtgaz.com/,SUCCESS,12,MODERN,IGNORE,7,0,0,0,0,4,1,2,False,True,~2014-2020 (estimated),1547,81,13/360,1,Image-based menu,"Centered 1547px container, but page has 3 full-width sections (modern pattern) | Menu/links are images (4 image-only links)",0.6,
 http://www.go2knight.com,https://go2knight.com/,SUCCESS,11,MODERN,IGNORE,5,0,3,0,0,2,1,2,False,True,~2014-2020 (estimated),1140,59,390/390,1,Image-based menu,"Centered 1140px container, but page has 2 full-width sections (modern pattern) | Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow",0.6,
 http://www.americansavingslife.com,https://www.americansavingslife.com/,SUCCESS,10,MODERN,IGNORE,5,0,0,2,0,2,1,2,False,True,~2014-2020 (estimated),1440,75,240/240,1,Image-based menu,"Centered 1440px container, but page has 5 full-width sections (modern pattern) | Menu/links are images (12 image-only links) | Excessive inline CSS",0.6,
 http://www.360wealthmanagement.com,https://www.360wealthmanagement.com/,SUCCESS,12,MODERN,IGNORE,5,2,0,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (3 image-only links) | No @media queries in inline styles (partial signal) | Excessive inline CSS,0.6,
@@ -15389,10 +15380,7 @@ Call log:
   - navigating to ""http://www.healingspringsmed-care.com/"", waiting until ""domcontentloaded""
 "
 http://www.lifecarecenters.com,http://www.lifecarecenters.com/,SUCCESS,27,NEEDS IMPROVEMENT,LOW PRIORITY,3,15,5,2,0,2,0,0,False,False,~2014-2020 (estimated),,,,2,Not mobile friendly | No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.45,
-http://shcofbuckhead.com,http://shcofbuckhead.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://shcofbuckhead.com/
-Call log:
-  - navigating to ""http://shcofbuckhead.com/"", waiting until ""domcontentloaded""
-"
+http://shcofbuckhead.com,https://shcofbuckhead.com/,SUCCESS,17,MODERN,IGNORE,7,2,3,0,0,4,1,5,False,True,~2014-2020 (estimated),1184,62,368/368,1,Table/deprecated-tag markup,"Fixed-width centered box: content only 1184px wide (62% of a 1920px screen), ~368px empty on each side | Table-based page layout | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
 http://www.alliancehomecare.com,https://www.alliancehomecare.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.lovingheartsandhands.org,https://www.lovingheartsandhands.org/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 http://wecarefromtheheartpgh.com,http://wecarefromtheheartpgh.com/,SUCCESS,56,OUTDATED,MEDIUM PRIORITY,7,15,5,4,0,4,1,0,False,False,~2014-2020 (estimated),,,,3,Not mobile friendly | No HTTPS (Not secure) | Table/deprecated-tag markup,[3 independent outdated signals agree] | Deprecated HTML tags (font/center/marquee) | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.45,
@@ -15469,7 +15457,7 @@ https://www.dlh-cpa.com,https://www.dlh-cpa.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2
 http://www.versantcm.com,https://versantcm.com/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1814,94,34/72,0,,No clear call-to-action / enquiry flow,0.6,
 http://www.ethicalcommunity.org/aguayofinancialsolutions,https://www.ethicalcommunity.org/aguayofinancialsolutions,SUCCESS,20,NEEDS IMPROVEMENT,LOW PRIORITY,0,15,3,2,0,0,0,0,False,False,~2020-2026 (estimated),,,,1,Not mobile friendly,No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.45,
 http://clickstartmortgage.com,https://clickstartmortgage.com/,SUCCESS,14,MODERN,IGNORE,4,0,3,4,0,2,1,0,False,True,~2014-2020 (estimated),1670,87,250/0,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
-http://www.originhs.com,http://www.originhs.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.originhs.com,http://www.originhs.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_ADDRESS_UNREACHABLE at http://www.originhs.com/
 Call log:
   - navigating to ""http://www.originhs.com/"", waiting until ""domcontentloaded""
 "
@@ -15560,7 +15548,7 @@ https://www.dfwbrazilianblowouts.com,https://www.dfwbrazilianblowouts.com,FAILED
 Call log:
   - navigating to ""https://www.dfwbrazilianblowouts.com/"", waiting until ""domcontentloaded""
 "
-http://shesastylist.com,http://shesastylist.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://shesastylist.com/
+http://shesastylist.com,http://shesastylist.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://shesastylist.com/
 Call log:
   - navigating to ""https://shesastylist.com/"", waiting until ""domcontentloaded""
 "
@@ -15815,10 +15803,7 @@ http://www.glomedmemphis.com,https://www.glomedmemphis.com/,SUCCESS,20,MODERN,IG
 http://www.lordsandladys.com,https://lordsandladys.com/,SUCCESS,26,MODERN,IGNORE,9,4,3,4,0,4,2,0,False,True,~2014-2020 (estimated),1920,100,0/0,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (3 image-only links) | Deprecated HTML tags (font/center/marquee) | Viewport tag present but not device-width based | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
 https://www.eveafricanbraiding.com,https://www.eveafricanbraiding.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 https://www.instagram.com/groomzmen,https://www.instagram.com/groomzmen,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 429
-http://www.glamdollsmakeup.com,http://www.glamdollsmakeup.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.glamdollsmakeup.com/"", waiting until ""domcontentloaded""
-"
+http://www.glamdollsmakeup.com,http://www.glamdollsmakeup.com/,SUCCESS,19,MODERN,IGNORE,3,2,7,0,5,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | Copyright year is 2021 | No clear call-to-action / enquiry flow | Slow page load (13.5s),0.6,
 http://globaltaxexpressinc.com,http://globaltaxexpressinc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
 Call log:
   - navigating to ""http://globaltaxexpressinc.com/"", waiting until ""domcontentloaded""
@@ -15959,7 +15944,7 @@ Call log:
   - navigating to ""https://gbcommercialloans.com/"", waiting until ""domcontentloaded""
 "
 http://www.trilogyfs.com,https://www.trilogyfs.com/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,0,False,True,~2014-2020 (estimated),1894,99,6/20,1,Image-based menu,Menu/links are images (5 image-only links) | Excessive inline CSS,0.6,
-http://www.riafinancial.com,http://www.riafinancial.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.riafinancial.com,https://www.riamoneytransfer.com/en/corporate/,SUCCESS,3,MODERN,IGNORE,0,0,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1688,88,170/63,0,,No clear call-to-action / enquiry flow,0.6,
 http://www.securintfinancial.com,https://securintfinancial.com/,SUCCESS,5,MODERN,IGNORE,0,2,3,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 https://www.investmentfinancepartners.com,https://www.investmentfinancepartners.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 https://www.fiducientadvisors.com,https://www.wealthspire.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
@@ -16250,7 +16235,7 @@ Call log:
   - navigating to ""http://smartmoneyforlife.com/"", waiting until ""domcontentloaded""
 "
 https://allworthfinancial.com,https://allworthfinancial.com/,SUCCESS,16,MODERN,IGNORE,7,0,2,2,0,4,1,0,False,True,~2014-2020 (estimated),1896,99,24/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
-http://www.reisingfinancial.com,http://www.reisingfinancial.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.reisingfinancial.com,https://www.reisingfinancial.com/,SUCCESS,21,MODERN,IGNORE,8,2,2,4,0,4,1,2,False,True,~2014-2020 (estimated),1438,75,375/108,1,Tiny body text,"Centered 1438px container, but page has 9 full-width sections (modern pattern) | Very small body text (~11px) | No @media queries in inline styles (partial signal) | Fax number displayed | Excessive inline CSS",0.6,
 https://indicatoradvisory.com,https://indicatoradvisory.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://indicatoradvisory.com/
 Call log:
   - navigating to ""https://indicatoradvisory.com/"", waiting until ""domcontentloaded""
@@ -16260,14 +16245,14 @@ http://www.lehnercapital.com,https://www.lcswealth.com/,SUCCESS,15,MODERN,IGNORE
 https://amecarenetwork.com,https://amecarenetwork.com/,SUCCESS,15,MODERN,IGNORE,3,0,5,5,0,2,0,2,False,True,~2014-2020 (estimated),1545,80,375/0,1,Table/deprecated-tag markup,"Centered 1545px container, but page has 24 full-width sections (modern pattern) | Table-based page layout | Copyright year is 2020 | No clear call-to-action / enquiry flow | Multiple layout tables | Excessive inline CSS",0.6,
 http://www.1floridalending.com,https://1floridalending.com/,SUCCESS,10,MODERN,IGNORE,0,0,10,0,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,1,Old copyright (2007),Copyright year is 2007 (19 years old) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage,0.6,
 http://www.springerinsurance.com,https://www.springerinsurance.com/,SUCCESS,11,MODERN,IGNORE,2,0,6,2,0,1,0,0,False,True,~2014-2020 (estimated),1854,97,34/32,0,,Fax number displayed | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
-http://www.tbwas.com,http://www.tbwas.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.tbwas.com,https://www.tbwas.com/,SUCCESS,29,MODERN,IGNORE,13,2,2,4,0,6,2,5,False,True,~2010-2016 (estimated),1400,73,490/30,2,Tiny body text | Table/deprecated-tag markup,Off-center fixed-width content (1400px wide) | No full-width sections (everything sits inside one box) | Very small body text (~13px) | Deprecated HTML tags (font/center/marquee) | No @media queries in inline styles (partial signal) | Fax number displayed | Excessive inline CSS,0.6,
 http://www.wesbanco.com,https://www.wesbanco.com/,SUCCESS,20,MODERN,IGNORE,7,2,2,2,2,4,1,2,False,True,~2014-2020 (estimated),1425,74,240/255,1,Image-based menu,"Centered 1425px container, but page has 10 full-width sections (modern pattern) | Menu/links are images (3 image-only links) | No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage | Excessive inline CSS",0.6,
 http://easytaxpro.com,https://www.easytaxpro.com/,SUCCESS,20,MODERN,IGNORE,9,0,3,2,0,4,2,4,False,True,~2014-2020 (estimated),604,32,660/656,1,Image-based menu,"Fixed-width centered box: content only 604px wide (32% of a 1920px screen), ~660px empty on each side | Menu/links are images (4 image-only links) | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
 http://www.bggracefinancialgroup.com,https://www.bggracefinancialgroup.com/,SUCCESS,27,MODERN,IGNORE,12,0,0,7,0,6,2,0,False,True,~2010-2016 (estimated),1890,98,10/20,2,Image-based menu | Table/deprecated-tag markup,Menu/links are images (5 image-only links) | Deprecated HTML tags (font/center/marquee) | Table-based page layout | Multiple layout tables | Excessive inline CSS,0.6,
 http://www.gottrust.org/cars_financial,http://www.gottrust.org/cars_financial,SUCCESS,22,MODERN,IGNORE,8,2,5,2,0,4,1,2,False,True,~2014-2020 (estimated),1170,61,375/375,1,No HTTPS (Not secure),"Centered 1170px container, but page has 2 full-width sections (modern pattern) | Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow",0.6,
 http://www.evansfs.com,https://www.evansfs.com/,SUCCESS,9,MODERN,IGNORE,2,4,0,2,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Viewport tag present but not device-width based | Excessive inline CSS,0.6,
 https://unityfisolutions.com,https://www.unityfisolutions.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Fax number displayed | Excessive inline CSS,0.6,
-https://www.advanzcu.org,https://www.advanzcu.org,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.advanzcu.org,https://www.advanzcu.org/,SUCCESS,16,MODERN,IGNORE,5,2,2,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.englending.com,https://www.boemortgage.com/,SUCCESS,11,MODERN,IGNORE,5,0,1,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Tiny body text,Very small body text (~13px) | Excessive inline CSS,0.6,
 http://www.davisprofessionalservices.com,https://davisprofessionalservices.com/,SUCCESS,3,MODERN,IGNORE,0,0,1,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 http://www.jbafinancialadvisors.com,https://www.jbafinancialadvisors.com/,SUCCESS,7,MODERN,IGNORE,3,2,0,0,0,2,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Table-based page layout | No @media queries in inline styles (partial signal),0.6,
@@ -16737,7 +16722,7 @@ http://www.nationsfirstfin.com,https://www.nationsfirstfin.com/,SUCCESS,7,MODERN
 https://cornerstoneazrr.com,https://cornerstoneazrr.com/,SUCCESS,13,MODERN,IGNORE,5,0,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1820,95,50/50,1,Tiny body text,Very small body text (~10px) | Copyright year is 2021 | No clear call-to-action / enquiry flow,0.6,
 https://www.federalfirstlending.com,https://federalfirstlending.com/,SUCCESS,4,MODERN,IGNORE,0,2,0,0,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal),0.6,
 http://www.chathamfinancial.com,https://cf.com/rates/us,SUCCESS,18,MODERN,IGNORE,8,0,0,3,2,4,1,0,False,True,~2014-2020 (estimated),1868,97,28/24,2,Tiny body text | Table/deprecated-tag markup,Very small body text (~12px) | Table-based page layout | Multiple layout tables,0.6,
-http://www.ovationlending.com,http://www.ovationlending.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+http://www.ovationlending.com,https://propertytaxloan.com/,SUCCESS,12,MODERN,IGNORE,5,0,0,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (6 image-only links) | Excessive inline CSS,0.6,
 https://www.ingeniouscommercialfinancing.com,https://www.ingeniouscommercialfinancing.com/,SUCCESS,13,MODERN,IGNORE,4,2,2,2,0,2,1,2,False,True,~2014-2020 (estimated),1110,58,405/405,1,Justified old-style text,"Centered 1110px container, but page has 2 full-width sections (modern pattern) | Justified (stretched) body text, old-style typography | No @media queries in inline styles (partial signal) | Fax number displayed | Excessive inline CSS",0.6,
 http://www.ntxwealth.com,https://www.ntxwealth.com/,SUCCESS,21,MODERN,IGNORE,7,2,2,2,3,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (26 image-only links) | No @media queries in inline styles (partial signal) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~33.0 MB),0.6,
 https://iemtx.com,https://iemtx.com/,SUCCESS,17,MODERN,IGNORE,5,0,2,2,5,2,1,0,False,True,~2014-2020 (estimated),1850,96,35/35,1,Image-based menu,Menu/links are images (3 image-only links) | Fax number displayed | Excessive inline CSS | Large page (~335.5 MB),0.6,
@@ -16917,7 +16902,10 @@ Call log:
   - navigating to ""http://www.nursesunlimited.com/"", waiting until ""domcontentloaded""
 "
 http://www.nationalnursingrehab.com,https://atexhealth.com/,SUCCESS,4,MODERN,IGNORE,0,2,2,0,0,0,0,2,False,True,~2020-2026 (estimated),1326,69,297/297,0,,"Centered 1326px container, but page has 12 full-width sections (modern pattern) | No @media queries in inline styles (partial signal) | Fax number displayed",0.6,
-http://www.athomeprc.com,http://www.athomeprc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
+http://www.athomeprc.com,http://www.athomeprc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.athomeprc.com/"", waiting until ""domcontentloaded""
+"
 https://www.salushomecare.com/san-diego,https://www.salushomecare.com/san-diego/,SUCCESS,10,MODERN,IGNORE,0,8,2,0,0,0,0,0,False,False,~2020-2026 (estimated),1920,100,0/0,0,,Page does not reflow on mobile (content 1.6x wider than screen) | Fax number displayed,0.6,
 https://seniorcareconnection.com,https://seniorcareconnection.com/,SUCCESS,16,MODERN,IGNORE,7,0,0,2,2,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Table-based page layout,0.6,
 http://www.assistinghands.com/50/arizona/phoenix,http://www.assistinghands.com/50/arizona/phoenix,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
@@ -17034,7 +17022,7 @@ http://www.silveroaksecurities.com,https://silveroaksecurities.com/,SUCCESS,5,MO
 http://www.plummerfinancial.com,http://www.plummerfinancial.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 404
 https://www.katzabosch.com,https://www.katzabosch.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
 http://www.breakoutfinance.com,https://www.breakoutfinance.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
-https://www.consumerfinancialservicesonline.com,https://www.consumerfinancialservicesonline.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.consumerfinancialservicesonline.com/
+https://www.consumerfinancialservicesonline.com,https://www.consumerfinancialservicesonline.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.consumerfinancialservicesonline.com/
 Call log:
   - navigating to ""https://www.consumerfinancialservicesonline.com/"", waiting until ""domcontentloaded""
 "
@@ -17278,13 +17266,13 @@ Call log:
 "
 https://www.edwardjones.com/us-en,https://www.edwardjones.com/us-en,SUCCESS,11,MODERN,IGNORE,0,0,5,2,4,0,0,0,False,True,~2020-2026 (estimated),1680,88,240/0,0,,No clear call-to-action / enquiry flow | Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.leedsrealty.com,https://www.leedsrealty.com/,SUCCESS,17,MODERN,IGNORE,2,2,9,0,3,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Old copyright (2018),No @media queries in inline styles (partial signal) | Copyright year is 2018 (8 years old) | Fax number displayed | Excessive unstructured text on homepage | Large page (~19.9 MB),0.6,
-http://www.joepalumbocpa.com,http://www.joepalumbocpa.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 429
+http://www.joepalumbocpa.com,https://www.rowhousefinancial.com/,SUCCESS,18,MODERN,IGNORE,5,0,5,2,3,2,1,0,False,True,~2014-2020 (estimated),1812,94,0/108,1,Image-based menu,Menu/links are images (14 image-only links) | Fax number displayed | No clear call-to-action / enquiry flow | Excessive inline CSS | Large page (~8.8 MB),0.6,
 http://www.empower-cu.org,http://www.empower-cu.org/,SUCCESS,27,NEEDS IMPROVEMENT,LOW PRIORITY,3,15,5,2,0,2,0,0,False,False,~2014-2020 (estimated),1904,99,8/8,2,Not mobile friendly | No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | Page does not reflow on mobile (content 2.5x wider than screen) | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.steffensinsurance.com,http://www.steffensinsurance.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.steffensinsurance.com/
 Call log:
   - navigating to ""http://www.steffensinsurance.com/"", waiting until ""domcontentloaded""
 "
-https://www.lexfinplan.com,https://www.lexfinplan.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.lexfinplan.com,https://www.lexfinplan.com/,SUCCESS,14,MODERN,IGNORE,7,0,2,0,0,4,1,0,False,True,~2014-2020 (estimated),1824,95,48/48,1,Image-based menu,Menu/links are images (3 image-only links) | Fax number displayed,0.6,
 http://www.millerdodson.com,https://millerdodson.com/,SUCCESS,19,MODERN,IGNORE,5,0,7,2,2,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Copyright year is 2022 | Fax number displayed | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
 http://www.lonestarelp.com,http://www.lonestarelp.com/,SUCCESS,40,NEEDS IMPROVEMENT,LOW PRIORITY,9,9,7,4,5,4,2,5,False,False,~2014-2020 (estimated),1008,52,412/499,2,Old copyright (2014) | No HTTPS (Not secure),Off-center fixed-width content (1008px wide) | No full-width sections (everything sits inside one box) | Site opens on http:// (browser shows 'Not secure') | No viewport meta tag (site not built for mobile) | No @media queries in inline styles (partial signal) | Copyright year is 2014 (12 years old) | Excessive inline CSS | Slow page load (11.8s),0.6,
 http://www.absoluteretirementsolutions.com,https://absoluteretirementsolutions.com/,SUCCESS,3,MODERN,IGNORE,2,0,0,0,0,1,0,2,False,True,~2014-2020 (estimated),1200,62,360/360,0,,"Centered 1200px container, but page has 5 full-width sections (modern pattern)",0.6,
@@ -17324,7 +17312,7 @@ http://www.foreveryoungmc.com,https://foreveryoungmc.com/,SUCCESS,12,MODERN,IGNO
 http://www.sierrahomehealthcare.com,https://sierrahomehealthcare.com/,SUCCESS,0,MODERN,IGNORE,0,0,0,0,0,0,0,2,False,True,~2020-2026 (estimated),1552,81,0/368,0,,"Centered 1552px container, but page has 11 full-width sections (modern pattern)",0.6,
 https://www.comforcare.com,https://www.comforcare.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1895,99,25/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
 http://www.providentcare.com,https://providentcare.com/,SUCCESS,2,MODERN,IGNORE,0,0,2,0,0,0,0,0,False,True,~2020-2026 (estimated),1900,99,20/0,0,,Excessive unstructured text on homepage,0.6,
-https://www.linkedin.com/in/rasheeda-jamison-38937b161,https://www.linkedin.com/in/rasheeda-jamison-38937b161,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 429
+https://www.linkedin.com/in/rasheeda-jamison-38937b161,https://www.linkedin.com/in/rasheeda-jamison-38937b161,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 999
 http://www.interimhealthcare.com/portlandor,https://www.interimhealthcare.com/location,SUCCESS,10,MODERN,IGNORE,3,0,3,2,0,2,0,2,False,True,~2014-2020 (estimated),1492,78,305/122,1,Table/deprecated-tag markup,"Centered 1492px container, but page has 4 full-width sections (modern pattern) | Table-based page layout | No clear call-to-action / enquiry flow | Excessive inline CSS",0.6,
 http://thecardiacconnection.com,https://www.thecardiacconnection.com/,SUCCESS,15,MODERN,IGNORE,5,0,5,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (7 image-only links) | Copyright year is 2019 | Fax number displayed | Excessive inline CSS,0.6,
 http://www.metropolitancircles.com,https://metropolitancircles.com/,SUCCESS,8,MODERN,IGNORE,5,0,0,0,0,2,1,0,False,True,~2014-2020 (estimated),1734,90,186/0,1,Image-based menu,Menu/links are images (3 image-only links),0.6,
@@ -17431,16 +17419,13 @@ http://www.forafinancial.com,https://www.forafinancial.com/,SUCCESS,8,MODERN,IGN
 http://www.loveshomehealthcare.com,https://loveshomehealthcare.com/,SUCCESS,12,MODERN,IGNORE,2,0,2,2,5,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,Fax number displayed | Excessive inline CSS | Slow page load (8.9s),0.6,
 http://www.grpfunding.com,https://www.grpfunding.com/,SUCCESS,4,MODERN,IGNORE,0,0,0,2,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 http://www.advancefundsnetwork.com,https://advancefundsnetwork.com/,SUCCESS,17,MODERN,IGNORE,5,0,0,2,7,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (5 image-only links) | Excessive inline CSS | Large page (~425.2 MB),0.6,
-http://www.merchantsourceinc.com,http://www.merchantsourceinc.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.merchantsourceinc.com/
-Call log:
-  - navigating to ""http://www.merchantsourceinc.com/"", waiting until ""domcontentloaded""
-"
+http://www.merchantsourceinc.com,http://www.merchantsourceinc.com/.well-known/sgcaptcha/?r=%2F&y=ipr:3.41.210.69:1795516200.412,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 https://andersonfinances.com,https://andersonfinances.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive inline CSS,0.6,
 http://www.soundtrustwealth.com,https://www.soundtrustwealth.com/,SUCCESS,12,MODERN,IGNORE,5,0,2,2,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Image-based menu,Menu/links are images (4 image-only links) | Fax number displayed | Excessive inline CSS,0.6,
 http://www.retirestrategically.com,https://www.retirestrategically.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,0,2,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No significant outdated signals found,0.6,
 https://dashfundingsource.com,https://dashfundingsource.com/,SUCCESS,8,MODERN,IGNORE,0,0,8,0,0,0,0,2,False,True,~2020-2026 (estimated),1530,80,390/0,1,Old copyright (2018),"Centered 1530px container, but page has 6 full-width sections (modern pattern) | Copyright year is 2018 (8 years old) | No clear call-to-action / enquiry flow",0.6,
 http://www.merchantcapitalsource.com,https://zinchfin.com/welcome-to-zinch/,SUCCESS,10,MODERN,IGNORE,3,0,2,3,0,2,0,0,False,True,~2014-2020 (estimated),1910,100,0/10,1,Table/deprecated-tag markup,Table-based page layout | Fax number displayed | Multiple layout tables,0.6,
-https://www.reliantfunding.com,https://www.reliantfunding.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 403
+https://www.reliantfunding.com,https://www.reliantfunding.com/home-page,SUCCESS,8,MODERN,IGNORE,2,2,3,0,0,1,0,0,False,True,~2014-2020 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://www.reefwealth.com,https://www.reefwealth.com/,SUCCESS,5,MODERN,IGNORE,0,0,5,0,0,0,0,2,False,True,~2020-2026 (estimated),1615,84,198/108,0,,"Centered 1615px container, but page has 9 full-width sections (modern pattern) | No clear call-to-action / enquiry flow | Excessive unstructured text on homepage",0.6,
 http://www.wilshirefp.com,https://www.wilshirefp.com/,SUCCESS,7,MODERN,IGNORE,0,2,0,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Excessive inline CSS | Large page (~19.3 MB),0.6,
 http://acceptancefin.com,https://acceptancefin.com/lander,SUCCESS,18,MODERN,IGNORE,5,2,8,0,0,2,1,0,False,True,~2014-2020 (estimated),1888,98,16/16,2,Old copyright (1999) | Tiny body text,Very small body text (~13px) | No @media queries in inline styles (partial signal) | Copyright year is 1999 (27 years old) | No clear call-to-action / enquiry flow,0.6,
@@ -17476,7 +17461,7 @@ http://www.assetconservation.com,https://www.assetconservation.com/,SUCCESS,9,MO
 http://www.swbc.com,https://www.swbc.com/,SUCCESS,27,MODERN,IGNORE,7,0,2,6,7,4,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,Table/deprecated-tag markup,Deprecated HTML tags (font/center/marquee) | Excessive unstructured text on homepage | Excessive inline CSS | Large page (~8.3 MB),0.6,
 http://www.worthplanninggroup.com,https://www.worthplanninggroup.com/,SUCCESS,9,MODERN,IGNORE,0,2,2,2,3,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,No @media queries in inline styles (partial signal) | Fax number displayed | Excessive inline CSS | Large page (~55.2 MB),0.6,
 https://vabenefitsonline.com,https://vabenefitsonline.com/,SUCCESS,4,MODERN,IGNORE,0,0,2,2,0,0,0,0,False,True,~2020-2026 (estimated),1920,100,0/0,0,,Excessive unstructured text on homepage | Excessive inline CSS,0.6,
-http://www.lawcash.net,http://www.lawcash.net,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
+http://www.lawcash.net,http://www.lawcash.net,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.lawcash.net/
 Call log:
   - navigating to ""http://www.lawcash.net/"", waiting until ""domcontentloaded""
 "
@@ -17486,10 +17471,7 @@ https://www.packardseniorservices.com,https://www.packardseniorservices.com,FAIL
 http://www.bentoforbusiness.com,https://www.usbank.com/business-banking/business-credit-cards/spend-management.html,SUCCESS,11,MODERN,IGNORE,3,0,3,3,0,2,0,2,False,True,~2014-2020 (estimated),1520,79,0/400,1,Table/deprecated-tag markup,"Centered 1520px container, but page has 10 full-width sections (modern pattern) | Table-based page layout | No clear call-to-action / enquiry flow | Multiple layout tables",0.6,
 http://www.manuelpintocpa.com,https://expireddomains.com/domain/manuelpintocpa.com?utm_source=redi,SUCCESS,6,MODERN,IGNORE,2,0,3,0,0,1,0,2,False,True,~2014-2020 (estimated),1120,58,400/400,0,,"Centered 1120px container, but page has 4 full-width sections (modern pattern) | No clear call-to-action / enquiry flow",0.6,
 https://affirm.com,https://www.affirm.com/,SUCCESS,10,MODERN,IGNORE,2,0,0,2,5,1,0,0,False,True,~2014-2020 (estimated),1896,99,12/12,0,,Excessive inline CSS | Large page (~15.4 MB),0.6,
-http://www.theretirementresource.org,http://www.theretirementresource.org,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.theretirementresource.org/
-Call log:
-  - navigating to ""http://www.theretirementresource.org/"", waiting until ""domcontentloaded""
-"
+http://www.theretirementresource.org,http://www.theretirementresource.org/.well-known/sgcaptcha/?r=%2F&y=ipr:3.41.210.69:1795516216.397,SUCCESS,15,MODERN,IGNORE,5,2,5,0,0,2,1,0,False,True,~2014-2020 (estimated),1920,100,0/0,1,No HTTPS (Not secure),Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow,0.6,
 http://riverparkfg.com,https://www.riverparkfg.com/,SUCCESS,2,MODERN,IGNORE,0,0,2,0,0,0,0,0,False,True,~2020-2026 (estimated),1804,94,48/68,0,,Fax number displayed,0.6,
 https://www.theoptimumlife.com,https://www.theoptimumlife.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.theoptimumlife.com/
 Call log:
@@ -17768,7 +17750,7 @@ https://www.jhancock.com,https://www.johnhancock.com/individual,SUCCESS,2,MODERN
 http://www.sandcastlefs.com,https://www.sandcastlefs.com/default.aspx,SUCCESS,5,MODERN,IGNORE,2,2,0,0,0,1,0,0,False,True,~2014-2020 (estimated),1890,98,15/15,0,,No @media queries in inline styles (partial signal),0.6,
 https://www.alektaxmore.com,https://alektaxmore.com/,SUCCESS,2,MODERN,IGNORE,0,0,0,0,2,0,0,0,False,True,~2020-2026 (estimated),1849,96,71/0,0,,No significant outdated signals found,0.6,
 http://www.atfservicesinc.com,https://atfservicesinc.com/,SUCCESS,14,MODERN,IGNORE,8,0,1,0,0,4,1,8,True,True,~2014-2020 (estimated),1170,61,375/375,1,Boxed fixed-width layout,"Fixed-width centered box: content only 1170px wide (61% of a 1920px screen), ~375px empty on each side | No full-width sections (everything sits inside one box)",0.6,
-http://www.summitfinancialcorp.com,http://www.summitfinancialcorp.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 405
+http://www.summitfinancialcorp.com,http://www.summitfinancialcorp.com,BLOCKED,,,,,,,,,,,,,,,,,,,,,0.0,HTTP 405
 https://discountsolo401k.com,https://www.discountsolo401k.com/,SUCCESS,10,MODERN,IGNORE,3,0,0,2,3,2,0,2,False,True,~2014-2020 (estimated),1440,75,260/220,1,Table/deprecated-tag markup,"Centered 1440px container, but page has 4 full-width sections (modern pattern) | Table-based page layout | Excessive inline CSS | Large page (~18.1 MB)",0.6,
 http://gorhamfinancial.com,https://gorhamfinancial.com/,SUCCESS,13,MODERN,IGNORE,8,0,0,0,0,4,1,9,True,True,~2014-2020 (estimated),1260,66,330/330,1,Boxed fixed-width layout,"Fixed-width centered box: content only 1260px wide (66% of a 1920px screen), ~330px empty on each side | No full-width sections (everything sits inside one box) | Thin border drawn around the main content box",0.6,
 http://www.denisemartz.com,https://www.denisemartz.com/,SUCCESS,21,MODERN,IGNORE,9,2,2,2,0,4,2,5,False,True,~2014-2020 (estimated),1400,73,490/30,1,Tiny body text,Off-center fixed-width content (1400px wide) | No full-width sections (everything sits inside one box) | Very small body text (~13px) | No @media queries in inline styles (partial signal) | Fax number displayed | Excessive inline CSS,0.6,
@@ -17806,7 +17788,4 @@ Call log:
   - navigating to ""http://www.malaysianremy.com/"", waiting until ""domcontentloaded""
 "
 http://www.beautybeesalon.com,https://www.beautybeesalon.com/,SUCCESS,19,MODERN,IGNORE,5,6,3,2,0,2,1,0,False,False,~2014-2020 (estimated),1920,100,0/0,1,Tiny body text,Very small body text (~12px) | Viewport tag present but not device-width based | No @media queries in inline styles (partial signal) | No clear call-to-action / enquiry flow | Excessive inline CSS,0.6,
-http://www.fnbmerchants.com,http://www.fnbmerchants.com,FAILED,,,,,,,,,,,,,,,,,,,,,0.0,"Timeout: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to ""http://www.fnbmerchants.com/"", waiting until ""domcontentloaded""
-"
+http://www.fnbmerchants.com,http://www.fnbmerchants.com/,SUCCESS,23,MODERN,IGNORE,6,2,9,2,0,3,1,2,False,True,~2014-2020 (estimated),1170,61,390/360,2,Old copyright (2017) | No HTTPS (Not secure),"Centered 1170px container, but page has 2 full-width sections (modern pattern) | Site opens on http:// (browser shows 'Not secure') | No @media queries in inline styles (partial signal) | Copyright year is 2017 (9 years old) | Fax number displayed",0.6,
